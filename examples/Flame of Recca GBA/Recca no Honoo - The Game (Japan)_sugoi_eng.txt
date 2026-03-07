@@ -5,7 +5,7 @@
 0x0004b480 Database.
 
 ; 0x0004b4a0 エンドレスで戦うモードです。
-0x0004b4a0 I'm in endless fighting mode.
+0x0004b4a0 Endless fighting mode.
 
 ; 0x0004b4c0 対戦を楽しむモードです。
 0x0004b4c0 Battle mode.

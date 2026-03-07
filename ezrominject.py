@@ -33,12 +33,97 @@ INJECT_ASCII_END_VALUE=0x00
 #TODO: keep ascii chars in the middle
 
 ABBREVIATE=False
-OVERFLOW=False
+OVERFLOW=True
 
 TBL_FILE=None
 
 UPPERCASE=False
 
+ASCII_BIOS_HACK=False
+
+
+def encode_to_custom_sjis(text):
+    letters = [chr(i) for i in range(ord('A'), ord('Z')+1)] + \
+              [chr(i) for i in range(ord('a'), ord('z')+1)] + \
+              [" "]
+    
+    BASE_LEAD = 0x88
+    
+    # 0x9F is physically 95 steps from 0x40.
+    # But because it skips the 0x7F gap, its logical index is 94.
+    START_TRAIL_OFFSET = 94 
+
+    encoded_bytes = bytearray()
+    i = 0
+    while i < len(text):
+        char1 = text[i]
+        
+        if char1 in letters:
+            # Pair with next character, or space if at end/unmappable
+            char2 = text[i+1] if (i + 1 < len(text) and text[i+1] in letters) else " "
+            
+            idx1 = letters.index(char1)
+            idx2 = letters.index(char2)
+            
+            linear_offset = (idx1 * len(letters)) + idx2
+            
+            # The absolute index in our 188-slot Shift-JIS grid
+            absolute_pos = START_TRAIL_OFFSET + linear_offset
+            
+            lead_inc = absolute_pos // 188
+            trail_idx = absolute_pos % 188
+            
+            final_lead = BASE_LEAD + lead_inc
+            
+            # The true Shift-JIS gap logic (0x40-0x7E and 0x80-0xFC)
+            if trail_idx < 63:
+                final_trail = 0x40 + trail_idx
+            else:
+                final_trail = 0x41 + trail_idx # Skips 0x7F
+                
+            encoded_bytes.append(final_lead)
+            encoded_bytes.append(final_trail)
+            
+            i += 2 if (i + 1 < len(text) and text[i+1] in letters) else 1
+
+        else:
+            # FALLBACK: Convert symbols to standard 2-byte Shift-JIS
+            try:
+                # This converts '!' to b'\x81\x49', etc.
+                sjis_symbol = char1.encode('shift_jis')
+                
+                # If it's a single-byte ASCII (0x21-0x7E), 
+                # we force it to full-width by adding the specific SJIS offset
+                # or just use the encoded result if you prefer mixed width.
+                if len(sjis_symbol) == 1:
+                #    # Logic to force "Full Width" version if desired:
+                #    # Most game engines prefer 0x81XX for symbols
+                #    full_width_map = {
+                #        "'": b'\x81\x66',  # Apostrophe
+                #        "[": b'\x81\x6D',  # Left bracket
+                #        "]": b'\x81\x6E',  # Right bracket
+                #        "(": b'\x81\x69',  # Left parenthesis
+                #        ")": b'\x81\x6A',  # Right parenthesis
+                #        ".": b'\x81\x44',  # Period
+                #        ",": b'\x81\x43',  # Comma
+                #        "!": b'\x81\x49',  # Exclamation
+                #        "?": b'\x81\x48',  # Question mark
+                #        "-": b'\x81\x5C'   # Hyphen/Dash
+                #    }
+                #    encoded_bytes.extend(full_width_map.get(char1, sjis_symbol))
+                    encoded_bytes.extend(to_fullwidth_char(sjis_symbol))
+                else:
+                    encoded_bytes.extend(sjis_symbol)
+            except:
+                # Fallback to standard SJIS Space (0x8140)
+                encoded_bytes.extend([0x81, 0x40])
+            i += 1
+        #end if
+    #end while
+    return encoded_bytes
+    
+    
+    
 
 def read_table(filename):
     table = {}
@@ -160,20 +245,21 @@ def abbreviate(text, target_len):
     
 	return remove_vowels_conditionally(text, 6)
 	
-	
+
+def to_fullwidth_char(char):
+    """Converts a single Halfwidth ASCII char to Fullwidth Unicode."""
+    code = ord(char)
+    if code == 0x20: 
+        return chr(0x3000) # Zenkaku Space
+    elif 0x21 <= code <= 0x7E:
+        return chr(code + 0xfee0) # Zenkaku range
+    return char
+    
     
 def to_fullwidth(text):
-    """Converts Halfwidth ASCII to Fullwidth Unicode equivalents."""
-    res = ""
-    for char in text:
-        code = ord(char)
-        if code == 0x20: # Space
-            res += chr(0x3000)
-        elif 0x21 <= code <= 0x7E:
-            res += chr(code + 0xfee0)
-        else:
-            res += char
-    return res
+    """Converts an entire string to Fullwidth using the helper function."""
+    # This uses a list comprehension for speed and readability
+    return "".join(to_fullwidth_char(c) for c in text)
 
 
 def get_length_with_kana_as_1_byte(text):
@@ -275,7 +361,7 @@ def run_injection(jap_path, eng_path, rom_path):
         
         if KANA_1_BYTE:
             jap_map[addr_int] = get_length_with_kana_as_1_byte(text)
-        if INJECT_ASCII:
+        if INJECT_ASCII or ASCII_BIOS_HACK:
             jap_map[addr_int] = 2* len(text) - math.ceil(count_one_byte_chars(text)/2)
             
     f_jap.close()
@@ -325,9 +411,9 @@ def run_injection(jap_path, eng_path, rom_path):
         eng_text = eng_text.replace("~", "〜")
         #eng_text = eng_text.replace(" ", "　")  # double-width space
         #eng_text = eng_text.replace(", ", ",")
-        
+                
         target_char_len = jap_map[addr_int]
-
+        
         # Adjust character length (Truncate)
         if len(eng_text) >= (target_char_len) and ABBREVIATE:
             eng_text = abbreviate(eng_text, target_char_len)
@@ -335,8 +421,14 @@ def run_injection(jap_path, eng_path, rom_path):
         
         if len(eng_text) >= (target_char_len) and OVERFLOW:
                 # check if there is space in the ROM
-                f_rom.seek(addr_int + target_char_len*2)
-                following_bytes = f_rom.read(len(eng_text)*2)
+                if INJECT_ASCII or ASCII_BIOS_HACK:
+                    f_rom.seek(addr_int + target_char_len)
+                else:
+                    f_rom.seek(addr_int + target_char_len*2)
+                if INJECT_ASCII or ASCII_BIOS_HACK:
+                    following_bytes = f_rom.read(len(eng_text))
+                else:
+                    following_bytes = f_rom.read(len(eng_text)*2)
                 available_extra = 0
                 for b in following_bytes:
                     if b == 0x00:
@@ -345,7 +437,10 @@ def run_injection(jap_path, eng_path, rom_path):
                         break
                 # endfor
                 if available_extra:
-                    target_char_len += ((available_extra - 1) // 2)
+                    if INJECT_ASCII or ASCII_BIOS_HACK:
+                        target_char_len += (available_extra - 1)
+                    else:
+                        target_char_len += ((available_extra - 1) // 2)
                     print("try overflowing bytes: " + str(available_extra))
                 
         if len(eng_text) >= (target_char_len):        
@@ -355,7 +450,9 @@ def run_injection(jap_path, eng_path, rom_path):
         # convert to uppercase if requsted
         if UPPERCASE:
             eng_text = eng_text.upper()
-            
+        
+        out_bytes = bytearray()
+        
         if INJECT_ASCII:
             # 1. Word Wrap / Line Splitting
             import textwrap
@@ -402,9 +499,19 @@ def run_injection(jap_path, eng_path, rom_path):
             #fw_text = fw_text.ljust(target_char_len, chr(0x3000))
             fw_text = fw_text.ljust(target_char_len, chr(0x20))
         else:
-            fw_text = fw_text.ljust(target_char_len, chr(0x3000))
+            fw_text = fw_text.ljust(target_char_len, chr(0x8140))
+            #fw_text = fw_text.ljust(target_char_len, chr(0x3000))
 
-        if not TBL_FILE:
+        if ASCII_BIOS_HACK:
+            out_bytes = encode_to_custom_sjis(eng_text)
+            if len(out_bytes) > (target_char_len):     
+                out_bytes = out_bytes[:target_char_len]
+                print("truncated2: " + str(eng_text))
+            while len(out_bytes) + 1 < target_char_len:
+                out_bytes.extend([0x81, 0x40])
+            if len(out_bytes) < target_char_len:
+                out_bytes.append(0x00)
+        elif not TBL_FILE:
             # Convert resulting string to Shift-JIS bytes
             # Fullwidth characters in S-JIS are 2 bytes each
             try:
@@ -439,7 +546,7 @@ if __name__ == "__main__":
     # Optional Flags
     
     parser.add_argument("--abbreviate", action="store_true", help="Enable replacement text abbreviation if it does not fit")
-    parser.add_argument("--overflow", action="store_true", help="Try overflowing if text does not fit")
+    parser.add_argument("--no-overflow", action="store_true", help="Disable overflowing if text does not fit")
     parser.add_argument("--tbl-file", help="Table file to use to generate the replacement bytes")
     parser.add_argument("--kana-1-byte", action="store_true", help="Count kanas as 1-byte for string truncation")
     parser.add_argument("--uppercase", action="store_true", help="Convert replacement text into uppecase")
@@ -448,6 +555,7 @@ if __name__ == "__main__":
     #parser.add_argument("--ascii-max-lines", type=int, default=3, help="Max lines for ASCII mode (default: 3)")
     parser.add_argument("--ascii-newline", type=lambda x: int(x, 0), default=0x0A, help="Hex value for newline (default: 0x0A)")
     #parser.add_argument("--ascii-end-val", type=int, default=0x00, help="Hex value for string end (default: 0x00)")
+    parser.add_argument("--ascii-bios-hack", action="store_true", help="Enable 2-byte ASCII injection mode")
 
     args = parser.parse_args()
     
@@ -459,11 +567,14 @@ if __name__ == "__main__":
         
     INJECT_ASCII_NEWLINE_VALUE=args.ascii_newline
     
+    if args.ascii_bios_hack:
+        ASCII_BIOS_HACK=True
+    
     if args.abbreviate:
         ABBREVIATE=True
         
-    if args.overflow:
-        OVERFLOW=True
+    if args.no_overflow:
+        OVERFLOW=False
         
     if args.uppercase:
         UPPERCASE=True

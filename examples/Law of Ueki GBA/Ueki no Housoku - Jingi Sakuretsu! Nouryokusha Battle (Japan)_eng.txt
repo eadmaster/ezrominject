@@ -2714,7 +2714,7 @@
 0x00616ee7 I feel like I know.
 
 ; 0x00617108 ＝　限定アクションボーナスＳＰ　＝
-0x00617108 Limited Action Bonus SP =
+0x00617108 = Limited Action Bonus SP =
 
 ; 0x00617138 　・超ジャンピングハンマー
 0x00617138 ・Superjumping Hammer

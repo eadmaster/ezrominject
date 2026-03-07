@@ -8,4 +8,6 @@ rominject.py *_jap.txt *_eng.txt "$OUTPUT_ROM"
 # TODO: fix 00, 0R escape codes
 #NOT SUPORTED: --ascii-mode
 
-#xdelta3 -S none -f -e -s "$INPUT_ROM" "$OUTPUT_ROM"  "$OUTPUT_ROM.xdelta"
+# TODO: replace main menu textures in HAGECHO.BIN (needs a tbl + 1BPP font patch?)
+
+xdelta3 -S none -f -e -s "$INPUT_ROM" "$OUTPUT_ROM"  "$OUTPUT_ROM.xdelta"

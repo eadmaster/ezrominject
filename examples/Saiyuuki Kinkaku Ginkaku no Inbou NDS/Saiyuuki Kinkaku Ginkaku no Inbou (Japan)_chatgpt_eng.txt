@@ -31,7 +31,7 @@
 0x000856d4 No data
 0x000856e8 New game
 0x00085730 No data
-0x00085748 Start game
+0x00085748 Game Mode
 0x0008575c Minigames
 0x00085770 View story
 
@@ -105,11 +105,11 @@
 0x00086168 Goku
 
 0x0008618c Rank
-0x00086198 Power
+0x00086198 Stats
 0x000861a4 Data
 0x000861b0 Give
 0x000861bc Rank
-0x000861c8 Power
+0x000861c8 Stats
 0x000861d4 Trade
 
 0x000862b4 Browse
@@ -136,205 +136,205 @@
 0x004c625a Power 100
 
 
-0x004c64e6 "Monkey, Pig,
+0x004c64e6 Monkey, Pig,
 0x004c64f8 and Kappa why?
 0x004c6513 I’m busy now,
-0x004c652a you know that?"
+0x004c652a you know that?
 
-0x004c65ba "Anything else
-0x004c65ca you want?"
+0x004c65ba Anything else
+0x004c65ca you want?
 
-0x004c668e "If nothing,
-0x004c669e go home."
+0x004c668e If nothing,
+0x004c669e go home.
 
-0x004c6762 "That thing I like,
+0x004c6762 That thing I like,
 0x004c6776 you know, that
 0x004c6785 dream of mine?
 0x004c679a Bring it here,
-0x004c67af I’ll train you."
+0x004c67af I’ll train you.
 
-0x004c6836 "That thing I like,
+0x004c6836 That thing I like,
 0x004c684a you know, that
 0x004c6859 dream of mine?
 0x004c686e Bring it here.
-0x004c6885 Then we talk."
+0x004c6885 Then we talk.
 
-0x004c690a "I’m off now
+0x004c690a I’m off now
 0x004c691a to Boob Fest!
 0x004c6933 Handle things
-0x004c6944 yourselves!"
+0x004c6944 yourselves!
 
-0x004c69de "Oh my~
+0x004c69de Oh my~
 0x004c69ea Failed, huh~
 0x004c69fd Bring that
-0x004c6a0a and come back."
+0x004c6a0a and come back.
 
-0x004c6ab2 "Not the size
+0x004c6ab2 Not the size
 0x004c6ac8 I want, hmm.
 0x004c6adf Bring that
-0x004c6aec and come back."
+0x004c6aec and come back.
 
-0x004c6b86 "Monkey, Pig,
+0x004c6b86 Monkey, Pig,
 0x004c6b98 and Kappa—why?
 0x004c6bb3 What, Sanzou
 0x004c6bc0 was taken?
 0x004c6bcf Don’t stall—go
 0x004c6be8 save him now!
 0x004c6bff Come back later.
-0x004c6c18 Bring “that”."
+0x004c6c18 Bring that.
 
-0x004c6c5a "Oh?
+0x004c6c5a Oh?
 0x004c6c68 You cleared it.
-0x004c6c83 For Goku"
+0x004c6c83 For Goku
 
-0x004c6d2e "Oh?
+0x004c6d2e Oh?
 0x004c6d3c You cleared it.
-0x004c6d57 For Gojou"
+0x004c6d57 For Gojou
 
-0x004c6e02 "Oh?
+0x004c6e02 Oh?
 0x004c6e10 You cleared it.
-0x004c6e2b For Hakkai"
+0x004c6e2b For Hakkai
 
-0x004c6ed6 "“Fireball”
-0x004c6ee0 I grant you."
+0x004c6ed6 Fireball
+0x004c6ee0 I grant you.
 
-0x004c6faa "“Staff Jump”
-0x004c6fba I grant you."
+0x004c6faa Staff Jump
+0x004c6fba I grant you.
 
-0x004c707e "“Boost”
-0x004c7088 I grant you."
+0x004c707e Boost
+0x004c7088 I grant you.
 
-0x004c7152 "“Endure!”
-0x004c7164 I grant you."
+0x004c7152 Endure!
+0x004c7164 I grant you.
 
-0x004c7226 "“Water Ball”
-0x004c7230 I grant you."
+0x004c7226 Water Ball
+0x004c7230 I grant you.
 
-0x004c72fa "“Treasure!”
-0x004c730c I grant you."
+0x004c72fa Treasure!
+0x004c730c I grant you.
 
-0x004c73ce "“Clone Shot”
-0x004c73da I grant you."
+0x004c73ce Clone Shot
+0x004c73da I grant you.
 
-0x004c74a2 "“Water Gun”
-0x004c74ae I grant you."
+0x004c74a2 Water Gun
+0x004c74ae I grant you.
 
-0x004c7576 "“Whirlpool!”
-0x004c7586 I grant you."
+0x004c7576 Whirlpool!
+0x004c7586 I grant you.
 
-0x004c764a "“Thunder”
-0x004c7654 I grant you."
+0x004c764a Thunder
+0x004c7654 I grant you.
 
-0x004c771e "“Power 100”
-0x004c772a I grant you."
+0x004c771e Power 100
+0x004c772a I grant you.
 
-0x004c77f2 "Hey, Goku?
-0x004c7806 What is it?"
-0x004c78c6 "Anything else
-0x004c78d4 you need?"
-0x004c799a "All done?
-0x004c79aa See ya~!"
-0x004c7a6e "With gems, I can
-0x004c7a84 trade you Kanyu."
-0x004c7b42 "Hey, Goku?
+0x004c77f2 Hey, Goku?
+0x004c7806 What is it?
+0x004c78c6 Anything else
+0x004c78d4 you need?
+0x004c799a All done?
+0x004c79aa See ya~!
+0x004c7a6e With gems, I can
+0x004c7a84 trade you Kanyu.
+0x004c7b42 Hey, Goku?
 0x004c7b56 What is it?
 0x004c7b61 Huh, Sanzou
 0x004c7b70 was taken!?
 0x004c7b81 That’s bad~.
 0x004c7b98 But I’m busy now,
-0x004c7baf come back later."
-0x004c7c16 "Here, a small
+0x004c7baf come back later.
+0x004c7c16 Here, a small
 0x004c7c26 Kanyu fruit.
 0x004c7c33 Anything else
-0x004c7c3c to trade?"
-0x004c7cea "Here, a normal
+0x004c7c3c to trade?
+0x004c7cea Here, a normal
 0x004c7d02 Kanyu fruit.
 0x004c7d0f Anything else
-0x004c7d18 to trade?"
-0x004c7dbe "Here, a big
+0x004c7d18 to trade?
+0x004c7dbe Here, a big
 0x004c7dcc Kanyu fruit.
 0x004c7dd9 Anything else
-0x004c7de2 to trade?"
-0x004c7e92 "Hey, you don’t
+0x004c7de2 to trade?
+0x004c7e92 You don’t
 0x004c7ea4 have enough gems.
 0x004c7ebd Anything else
-0x004c7ec6 to trade?"
-0x004c7f66 "Goku’s strength
-0x004c7f74 is about this."
-0x004c803a "Gojou’s strength
-0x004c804c is about this."
-0x004c810e "Hakkai’s strength
-0x004c8120 is about this."
-0x004c81e2 "Clear ranking is
-0x004c81f6 like this."
-0x004c82b6 "This size Kanyu
+0x004c7ec6 to trade?
+0x004c7f66 Goku’s stats
+0x004c7f74 are these
+0x004c803a Gojou’s stats
+0x004c804c are these
+0x004c810e Hakkai’s stats
+0x004c8120 are these
+0x004c81e2 Clear ranking is
+0x004c81f6 like this
+0x004c82b6 This size Kanyu
 0x004c82cc can’t carry more.
 0x004c82e5 Anything else
-0x004c82ee to trade?"
+0x004c82ee to trade?
 
 0x004c8530 1 Break rocks!
-0x004c8550 "Break falling rocks
+0x004c8550 Break falling rocks
 0x004c856a and reach goal.
 0x004c857e Time limit: 60s
 0x004c8591 Clear req: 20
-0x004c85c8 "Break falling rocks
+0x004c85c8 Break falling rocks
 0x004c85e2 and reach goal.
 0x004c85f6 Time limit: 60s
 0x004c8609 Clear req: 20
 0x004c8654 2 Dodge fire!
-0x004c8674 "Avoid fireballs,
+0x004c8674 Avoid fireballs,
 0x004c868a keep dodging,
 0x004c86a1 reach the goal.
 0x004c86b5 Clear: 45s+
-0x004c86ec "Avoid fireballs,
+0x004c86ec Avoid fireballs,
 0x004c8702 keep dodging,
 0x004c8719 reach the goal.
 0x004c872d Clear: 45s+
 0x004c8778 3 Beat foes!
-0x004c8798 "Defeat attackers,
+0x004c8798 Defeat attackers,
 0x004c87b2 reach the goal.
 0x004c87c6 Time limit: 60s
-0x004c87d9 Clear: 30 foes"
-0x004c8810 "Defeat attackers,
+0x004c87d9 Clear: 30 foes
+0x004c8810 Defeat attackers,
 0x004c882a reach the goal.
 0x004c883e Time limit: 60s
-0x004c8851 Clear: 30 foes"
+0x004c8851 Clear: 30 foes
 0x004c889c 4 Dodge shots!
-0x004c88bc "Avoid flying shots,
+0x004c88bc Avoid flying shots,
 0x004c88d0 keep dodging,
 0x004c88e7 reach the goal.
 0x004c88fb Clear: 45s+
-0x004c8934 "Avoid flying shots,
+0x004c8934 Avoid flying shots,
 0x004c8948 keep dodging,
 0x004c895f reach the goal.
 0x004c8973 Clear: 45s+
 0x004c89c0 5 Climb walls!
-0x004c89e0 "Climb the wall well,
+0x004c89e0 Climb the wall well,
 0x004c89f8 aim for the goal.
 0x004c8a0c Time limit: 60s
-0x004c8a58 "Climb the wall well,
+0x004c8a58 Climb the wall well,
 0x004c8a70 aim for the goal.
 0x004c8a84 Time limit: 60s
 0x004c8ae4 6 Clear traps!
-0x004c8b04 "Avoid traps well,
+0x004c8b04 Avoid traps well,
 0x004c8b1c aim for the goal.
 0x004c8b30 Time limit: 30s
-0x004c8b7c "Avoid traps well,
+0x004c8b7c Avoid traps well,
 0x004c8b94 aim for the goal.
 0x004c8ba8 Time limit: 30s
 0x004c8c08 7 Climb rocks!
-0x004c8c28 "Climb falling rocks
+0x004c8c28 Climb falling rocks
 0x004c8c3e and reach goal.
 0x004c8c5a Time limit: 30s
-0x004c8ca0 "Climb falling rocks
+0x004c8ca0 Climb falling rocks
 0x004c8cb6 and reach goal.
 0x004c8cd2 Time limit: 30s
 0x004c8d2c 8 Get treasure!
-0x004c8d4c "Grab gems nonstop
+0x004c8d4c Grab gems nonstop
 0x004c8d62 and reach goal.
 0x004c8d7c Time limit: 60s
 0x004c8d91 Clear: 200
-0x004c8dc4 "Grab gems nonstop
+0x004c8dc4 Grab gems nonstop
 0x004c8dda and reach goal.
 0x004c8df4 Time limit: 60s
 0x004c8e09 Clear: 200
@@ -342,71 +342,71 @@
 0x004cba0a Dummy
 0x004cba2a Dummy
 0x004cbafe Grassland
-0x004cbb1e "Going to Grassland.
+0x004cbb1e Going to Grassland.
 0x004cbb38 Enemies are weak,
 0x004cbb4d no special care
-0x004cbb64 needed."
+0x004cbb64 needed.
 0x004cbbf2 Cave
-0x004cbc12 "Past Grassland,
+0x004cbc12 Past Grassland,
 0x004cbc26 heading to Cave?
 0x004cbc3f Watch the timer
 0x004cbc54 at all times.
 0x004cbc6b Be careful when
-0x004cbc80 detouring."
+0x004cbc80 detouring.
 0x004cbce6 Palace
-0x004cbd06 "Going to Palace?
+0x004cbd06 Going to Palace?
 0x004cbd20 Don’t be fooled
 0x004cbd2f by charm of women.
 0x004cbd48 Don’t wander off
-0x004cbd5f the wrong way."
+0x004cbd5f the wrong way.
 0x004cbdda Cliff
-0x004cbdfa "Going to Cliff?
+0x004cbdfa Going to Cliff?
 0x004cbe14 Like Palace, there
 0x004cbe29 are other paths.
-0x004cbe3e Take what you like."
+0x004cbe3e Take what you like.
 0x004cbece Great River
-0x004cbeee "Going to River?
+0x004cbeee Going to River?
 0x004cbf08 Swim well!
 0x004cbf15 That’s all.
 0x004cbf26 Monkey paddle,
-0x004cbf3d pig paddle, do it."
+0x004cbf3d pig paddle, do it.
 0x004cbfc2 Volcano
-0x004cbfe2 "Going to Volcano?
+0x004cbfe2 Going to Volcano?
 0x004cbffc Goku may find
 0x004cc011 another route, but
 0x004cc028 Gojou, Hakkai
-0x004cc037 cannot go."
+0x004cc037 cannot go.
 0x004cc0b6 Desert
-0x004cc0d6 "Going to Desert?
+0x004cc0d6 Going to Desert?
 0x004cc0f0 Watch your step.
 0x004cc103 Stay on quicksand
 0x004cc116 and fall in hole,
-0x004cc123 that’s the end."
+0x004cc123 that’s the end.
 0x004cc1aa Demon Realm
-0x004cc1ca "Going to Demon?
+0x004cc1ca Going to Demon?
 0x004cc1e4 If you want stuff,
 0x004cc1f3 go to the valley.
 0x004cc20c Oh, and also,
 0x004cc21d to break Ox arts,
-0x004cc234 watch carefully."
+0x004cc234 watch carefully.
 0x004cc29e Final Battle
-0x004cc2be "Final fight ahead?
+0x004cc2be Final fight ahead?
 0x004cc2d8 Don’t swing weapons
 0x004cc2e7 around wildly.
-0x004cc300 Long ones too."
+0x004cc300 Long ones too.
 0x004cc392 Stage 10
-0x004cc3b2 "Going to Sky.
+0x004cc3b2 Going to Sky.
 0x004cc3ca Enemies are weak,
 0x004cc3df no special care
-0x004cc3f6 needed."
+0x004cc3f6 needed.
 0x004cc486 Stage 11
-0x004cc4a6 "Going to Water.
+0x004cc4a6 Going to Water.
 0x004cc4be Enemies are weak,
 0x004cc4d3 no special care
-0x004cc4ea needed."
+0x004cc4ea needed.
 0x004cc57a Stage 22
-0x004cc59a "Going to Test.
+0x004cc59a Going to Test.
 0x004cc5b4 Enemies are weak,
 0x004cc5c9 no special care
-0x004cc5e0 needed."
+0x004cc5e0 needed.
 

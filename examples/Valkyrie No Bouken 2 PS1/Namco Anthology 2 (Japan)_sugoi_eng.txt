@@ -614,7 +614,7 @@
 0x0c6e4a9d Take it easy.
 
 ; 0x0c6e4acc ＜ライフが回復した！＞
-0x0c6e4acc <Life's back!>
+0x0c6e4acc <Life restored>
 
 ; 0x0c6e4b98 おねえちゃん、またね。
 0x0c6e4b98 See you, Sis.
