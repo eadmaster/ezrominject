@@ -1,14 +1,14 @@
 ; 0x00066cb4 なんいど：
-0x00066cb4 What is it:
+0x00066cb4 Difficulty:
 
 ; 0x00066cc0 シスレベ：
-0x00066cc0 Sislebe:
+0x00066cc0 COM Level:
 
 ; 0x00066ccc ゲーレベ：
-0x00066ccc Gerebe:
+0x00066ccc Game Level:
 
 ; 0x00066cd8 コンティ：
-0x00066cd8 Conti:
+0x00066cd8 Continues:
 
 ; 0x00066ce4 ライフ　：
 0x00066ce4 Life:
@@ -29,16 +29,16 @@
 0x0008ebf8 Team A
 
 ; 0x0008ec04 ほうだいザコ
-0x0008ec04 Hodaizako
+0x0008ec04 Cannon Zako
 
 ; 0x0008ec14 エクスカリバ
-0x0008ec14 Excaliba
+0x0008ec14 Excalibur
 
 ; 0x0008ec24 ハヤテ
 0x0008ec24 Hayate
 
 ; 0x0008ec2c ゴッドハンド
-0x0008ec2c Godhand
+0x0008ec2c God Hand
 
 ; 0x0008ec3c ダディ
 0x0008ec3c Daddy
@@ -53,25 +53,25 @@
 0x0008ec68 Esper
 
 ; 0x0008ec78 ジョンＭｋ−２
-0x0008ec78 Jon Mk-2
+0x0008ec78 John Mk-2
 
 ; 0x0008ec88 ウルトラジョニー
-0x0008ec88 Ultrajohny
+0x0008ec88 Ultra Johnny
 
 ; 0x0008ec9c ジョンカリバ
-0x0008ec9c John Kaliva
+0x0008ec9c John Calibur
 
 ; 0x0008ecb4 つぼはち
 0x0008ecb4 Tsubohachi
 
 ; 0x0008ecc0 ピータン
-0x0008ecc0 Petan
+0x0008ecc0 Pitan
 
 ; 0x0008eccc ササミ
 0x0008eccc Sasami
 
 ; 0x0008ecd4 ユキヲ
-0x0008ecd4 Yukio
+0x0008ecd4 Yukiwo
 
 ; 0x001a5d08 ステージセレクト
 0x001a5d08 Stage Select
@@ -80,7 +80,7 @@
 0x001a5d1c Level Select
 
 ; 0x001a5d2c けってい
-0x001a5d2c Kitei
+0x001a5d2c Confirm
 
 ; 0x001a5d38 レベル／
 0x001a5d38 Level/
@@ -97,17 +97,14 @@
 ; 0x001a5d70 スーパー
 0x001a5d70 Super
 
-; 0x001a8e79 祿‾戦
-0x001a8e79 Lü
-
 ; 0x001b25b4 ユキヲ
-0x001b25b4 Yukio
+0x001b25b4 Yukiwo
 
 ; 0x001b25d2 ピータン
-0x001b25d2 Petan
+0x001b25d2 Pitan
 
 ; 0x001b25f0 エスパー
-0x001b25f0 ESP
+0x001b25f0 ESPer
 
 ; 0x001b260e ハヤテ
 0x001b260e Hayate
@@ -118,17 +115,26 @@
 ; 0x001b264a チョー
 0x001b264a Cho
 
+; 0x001B2655 スケ
+0x001B2655 Suke
+
 ; 0x001b2668 エクス
-0x001b2668 Ex
+0x001b2668 Ex-
 
 ; 0x001b2673 カリバ
-0x001b2673 Kariba
+0x001b2673 Calibur
 
 ; 0x001b2686 ササミ
 0x001b2686 Sasami
 
 ; 0x001b26a4 つぼはち
 0x001b26a4 Tsubohachi
+
+; 0x001B26C2 リロ
+0x001B26C2 Lilo
+
+; 0x001B26E0 マム
+0x001B26E0 Mamu
 
 ; 0x001b26fe ダディ
 0x001b26fe Daddy
@@ -143,10 +149,13 @@
 0x001b273a John
 
 ; 0x001b2745 カリバ
-0x001b2745 Kariba
+0x001b2745 Calibur
 
 ; 0x001b2758 ほうだい
-0x001b2758 I don't care
+0x001b2758 Cannon
+
+; 0x001B2763 ザコ
+0x001B2763 Zako
 
 ; 0x001b2776 ジョン
 0x001b2776 John
@@ -154,8 +163,11 @@
 ; 0x001b2781 Ｍｋー２
 0x001b2781 Mk-2
 
+; 0x001B2794 ザコ
+0x001B2794 Zako
+
 ; 0x001b27b2 ゴット
-0x001b27b2 Got
+0x001b27b2 God
 
 ; 0x001b27bd ハンド
 0x001b27bd Hand
@@ -170,28 +182,28 @@
 0x001b2d80 Item Select
 
 ; 0x001b2e3c ブラックホール
-0x001b2e3c Black hole
+0x001b2e3c Black Holes
 
 ; 0x001b2eac グレネード
 0x001b2eac Grenade
 
 ; 0x001b2ee4 ジライ
-0x001b2ee4 Jirai
+0x001b2ee4 Land Mines
 
 ; 0x001b2f1c ホーミングミサイル
-0x001b2f1c Homing missile
+0x001b2f1c Homing Missile
 
 ; 0x001b2f54 スマイリーボール
 0x001b2f54 Smiley Ball
 
 ; 0x001b2f8c はいちアイテム
-0x001b2f8c Hachi Item
+0x001b2f8c Item Rationing
 
 ; 0x001b32fc タイジンなげ
-0x001b32fc Taijin throw
+0x001b32fc Throw at enemy
 
 ; 0x001b343c タイブツなげ
-0x001b343c Throwing things
+0x001b343c Throw at object
 
 ; 0x001b344c ジャンプ
 0x001b344c Jump
@@ -200,16 +212,16 @@
 0x001b3458 Special Moves
 
 ; 0x001b3468 ひだりかいてん
-0x001b3468 Left-hand side
+0x001b3468 Rotate Left
 
 ; 0x001b3478 みぎかいてん
-0x001b3478 Right-hand gate
+0x001b3478 Rotate Right
 
 ; 0x001b3488 みしよう１
-0x001b3488 Let's see. 1
+0x001b3488 Unused 1
 
 ; 0x001b3494 みしよう２
-0x001b3494 Let's see 2
+0x001b3494 Unused 2
 
 ; 0x001115dc つづける
 0x001115dc Continue
@@ -227,7 +239,7 @@
 0x00111624 I'm going to save it.
 
 ; 0x0011163c うわがきセーブちゅうです。
-0x0011163c Ugh, save.
+0x0011163c Save and overwrite.
 
 ; 0x00111658 セーブしゅうりょうしました。
 0x00111658 Saved.
@@ -236,22 +248,22 @@
 0x00111678 Save failed.
 
 ; 0x00111694 データがこわれています。
-0x00111694 It's broken.
+0x00111694 The data is corrupted.
 
 ; 0x001116b0 うわがきしますか？
-0x001116b0 Do you get excited?
+0x001116b0 Shall I erase?
 
 ; 0x001116dc メモリーカードがしょきか
-0x001116dc A memory card?
+0x001116dc Memory card initialized
 
 ; 0x001116f8 されていません。しょきかしますか？
 0x001116f8 It's not. Shall we do it?
 
 ; 0x0011171c しょきかちゅうです。
-0x0011171c I'm in the early stages.
+0x0011171c Initialization in progress.
 
 ; 0x00111734 しょきかがおわりました。
-0x00111734 Init complete.
+0x00111734 Initialization complete.
 
 ; 0x00111750 ファイルがありません。
 0x00111750 No file.
@@ -278,7 +290,7 @@
 0x001117f4 Loading.
 
 ; 0x00111804 メモリーカードがしょきか
-0x00111804 A memory card?
+0x00111804 Memory card initialized
 
 ; 0x00111820 されていません。
 0x00111820 Not done.
@@ -314,13 +326,13 @@
 0x00111944 Memory card replaced.
 
 ; 0x00111964 した。セーブしますか？
-0x00111964 Yes. Save?
+0x00111964 Done. Save?
 
 ; 0x0011197c メモリーカードが
 0x0011197c Memory Card
 
 ; 0x00111990 ささっていません。
-0x00111990 I'm not touching.
+0x00111990 is not inserted.
 
 ; 0x001119a4 しょきかにしっぱいしました。
 0x001119a4 Init failed
@@ -329,7 +341,7 @@
 0x001119c4 Loading failed.
 
 ; 0x001119e0 ここではセーブができませんが
-0x001119e0 We can't save here
+0x001119e0 Cannot save here
 
 ; 0x00111a00 よろしいですか？
 0x00111a00 May I?
@@ -365,7 +377,7 @@
 0x001134dc Use it!
 
 ; 0x001134f0 たくさんのテキと
-0x001134f0 And a lot of teki
+0x001134f0 Lots of enemies
 
 ; 0x00113504 たたかおう！
 0x00113504 Let's go!
@@ -377,10 +389,10 @@
 0x0011386c I won't forget you...
 
 ; 0x0011388c はホシになった
-0x0011388c He's a hoshi
+0x0011388c He became a star
 
 ; 0x0011389c シしてシカバネひろうものなし
-0x0011389c No shikabane
+0x0011389c No one picks up the corpses after they've died.
 
 ; 0x001138bc オマエはよわかった
 0x001138bc You've got it
@@ -389,7 +401,7 @@
 0x001138d0 Goodbye forever
 
 ; 0x00113a18 だいおうじょう
-0x00113a18 Daiojo
+0x00113a18 Peaceful death
 
 ; 0x00113a28 なんだそのザマは？
 0x00113a28 What's up with that?
@@ -401,10 +413,10 @@
 0x00113a5c It's your fault.
 
 ; 0x00113a78 きみにナミダはにあわない
-0x00113a78 Namida doesn't fit you.
+0x00113a78 Tears don't suit you.
 
 ; 0x00113a94 アンタ、まぶしかったぜ
-0x00113a94 You were bright.
+0x00113a94 You were dazzling
 
 ; 0x00113aac おやおや、どうしたんだい？
 0x00113aac Oh my, what's wrong?
@@ -422,28 +434,29 @@
 0x00113b10 It's like you.
 
 ; 0x00113b20 いいわけは　いらない
-0x00113b20 I don't need a reason.
+0x00113b20 I don't need a reason
 
 ; 0x00113b38 わるあがきは　よせ
 0x00113b38 Don't fight.
 
 ; 0x00113b4c みぐるしいぜ
-0x00113b4c It's not fair.
+0x00113b4c It's not fair
 
 ; 0x00113b5c みごとな　しにざまだ
-0x00113b5c Impressive shinizama
+0x00113b5c Impressive death
 
 ; 0x00113b74 ゴー　トゥー　ヘブン
-0x00113b74 Go To Heaven
+0x00113b74 Go to Heaven
 
 ; 0x00113b8c やすらかにねむれ
-0x00113b8c Sleep gently.
+0x00113b8c Rest in peace
 
 ; 0x00113ba0 だれもキミを　せめたりしない
-0x00113ba0 No one's gonna pester you.
+0x00113ba0 Nobody will blame you
 
+; SAVEGAME TITLE
 ; 0x0011442c ラクガキショータイム
-0x0011442c Lakki Showtime
+;0x0011442c Rakugaki Showtime
 
 ; 0x00362b78 レベルノーマル　クリアー！
 0x00362b78 Level Normal Clear!
@@ -455,13 +468,13 @@
 0x00362bb0 Level Super Clear
 
 ; 0x00362bcc 　ゲット！！
-0x00362bcc Get!!
+0x00362bcc Got it!!
 
 ; 0x00362bdc もっとがんばると
-0x00362bdc I'll try harder
+0x00362bdc Try hard mode
 
 ; 0x00362bf0 ほかのキャラもゲットできるよ！！
-0x00362bf0 You'll get other characters!!
+0x00362bf0 to unlock other characters!!
 
 ; 0x00362c14 オールコンプリート
 0x00362c14 All Complete
@@ -470,10 +483,10 @@
 0x00362c28 Congrats!
 
 ; 0x00362c38 ユキヲ
-0x00362c38 Yukio
+0x00362c38 Yukiwo
 
 ; 0x00362c40 ピータン
-0x00362c40 Petan
+0x00362c40 Pitan
 
 ; 0x00362c4c エスパーけん
 0x00362c4c Esper
@@ -488,7 +501,7 @@
 0x00362c6c Chosuke
 
 ; 0x00362c78 エクスカリバ
-0x00362c78 Excaliba
+0x00362c78 Excalibur
 
 ; 0x00362c88 ササミ
 0x00362c88 Sasami
@@ -496,23 +509,34 @@
 ; 0x00362c90 つぼはち
 0x00362c90 Tsubohachi
 
+; 0x00362C9C リロ
+0x00362C9C Lilo
+
+; 0x00362CA4  マム
+0x00362CA4 Mamu
+
 ; 0x00362cac ダディ
 0x00362cac Daddy
 
 ; 0x00362cb4 ウルトラジョニー
-0x00362cb4 Ultrajohny
+0x00362cb4 Ultra Johnny
 
 ; 0x00362cc8 ジョンカリバ
-0x00362cc8 John Kaliva
+0x00362cc8 John Calibur
 
 ; 0x00362cd8 ほうだいザコ
-0x00362cd8 Hodaizako
+0x00362cd8 Cannon Zako
 
 ; 0x00362ce8 ジョンＭｋー２
 0x00362ce8 John Mk-2
 
+; 0x00362CF8 ザコ
+0x00362CF8 Zako
+
+; DEMONSTRATION
+
 ; 0x0036c654 もくひょうを0Pほうこうキー00でしてい
-0x0036c654 Keep the Mokuhyo at 0P Hoko Key 00.
+0x0036c654 Move using the d-pad
 
 ; 0x0036c67e ボタンで0Rたいじんなげ
 0x0036c67e Press the button to hit 0R Taijinage
@@ -521,7 +545,7 @@
 0x0036c69a Press the button to connect 0R.
 
 ; 0x0036c6b4 もくひょうのほうこうに
-0x0036c6b4 Mokuhyō no Hoko
+0x0036c6b4 Towards the target
 
 ; 0x0036c6cc ほうこうキーを0Pいれっぱなし00にして
 ;0x0036c6cc Turn the hoko key to 0P into 00
@@ -530,7 +554,7 @@
 ;0x0036c6f6 Press the button to hit 0R. Hang up the drive.
 
 ; 0x0036c714 もくひょうのほうこうと
-0x0036c714 Mokuhyō no Hoko
+0x0036c714 Direction of goal
 
 ; 0x0036c72c ほうこうキーを0Pぎゃくにいれたまま00で
 ;0x0036c72c 00 with the Hoko key still in the 0P gyaku
@@ -624,7 +648,7 @@
 0x003953fc You're really amazing.
 
 ; 0x00395410 ザコマスターっす
-0x00395410 I'm Zako-Master.
+0x00395410 I'm Zako.
 
 ; 0x00395424 イェ〜イ！
 0x00395424 Yay!
@@ -645,22 +669,22 @@
 0x00395480 That's weird, you.
 
 ; 0x00395494 なげなどいらぬ！
-0x00395494 I don't need a haircut!
+0x00395494 No need to throw!
 
 ; 0x003954a8 カビラじゃねーぞ
 0x003954a8 It's not a Kabira.
 
 ; 0x003954bc シュヤクはおれだ
-0x003954bc I'm Shuyaku.
+0x003954bc I'm the leader.
 
 ; 0x003954d0 まだまだいけるゼ
 0x003954d0 I can still do it!
 
 ; 0x003954e4 オレ、キＯガイ？
-0x003954e4 I'm a kid?
+0x003954e4 Am I crazy?
 
 ; 0x003954f8 コノ※〒♯ヤロウ
-0x003954f8 Kono*#Yarou
+0x003954f8 This bastard!
 
 ; 0x0039550c オゥイェァワォ！
 0x0039550c Wow, wow!
@@ -672,34 +696,34 @@
 0x00395530 It should be stronger.
 
 ; 0x00395544 よわいよチミィ〜
-0x00395544 You're so soft, Chimmy!
+0x00395544 You're so weak!
 
 ; 0x00395558 とーぜんよゲヘヘ
-0x00395558 Not at all, gehehe.
+0x00395558 Of course, hehehe
 
 ; 0x0039556c たりないわァン
-0x0039556c It's not enough!
+0x0039556c Not enough
 
 ; 0x0039557c んふ、ダメねぇ〜
 0x0039557c Eheh, that's no good.
 
 ; 0x00395590 あたしのトリコね
-0x00395590 My trico.
+0x00395590 You're my captive
 
 ; 0x003955a4 みたわね〜？！
 0x003955a4 Did you see it?!
 
 ; 0x003955b4 あ〜んダメダメェ
-0x003955b4 Ah, no, no, no.
+0x003955b4 Oh no, no, no!
 
 ; 0x003955c8 みんなあげちゃう
-0x003955c8 I'll give you guys.
+0x003955c8 Give them all away
 
 ; 0x003955dc 　　いいねぇ〜
-0x003955dc It's so nice!
+0x003955dc So nice!
 
 ; 0x003955ec ブレイコー！おぇ
-0x003955ec Blaiko! Oh
+0x003955ec Break!
 
 ; 0x00395600 　もぅサイコー！
 0x00395600 You're the best!
@@ -717,13 +741,13 @@
 0x00395650 They're all scum.
 
 ; 0x00395664 これっぽっちかよ
-0x00395664 It's tiny?
+0x00395664 Is this all there is?
 
 ; 0x00395678 むぅ！オトコだ！
 0x00395678 He's a man!
 
 ; 0x0039568c どこがカラテだ？
-0x0039568c Where's the latte?
+0x0039568c Where's the karate in that?
 
 ; 0x003956a0 あつかいずらいネ
 0x003956a0 That's not fair.
@@ -735,10 +759,10 @@
 0x003956c8 Go, tiger.
 
 ; 0x003956dc スガやんごめんね
-0x003956dc Sugayan, I'm sorry
+0x003956dc Sorry, Suga
 
 ; 0x003956f0 ニンともカンとも
-0x003956f0 Nin, kan.
+0x003956f0 Nin, kan
 
 ; 0x00395704 なかなかでゴザル
 0x00395704 Not bad, gozaru.
@@ -747,61 +771,61 @@
 0x00395718 It might actually be hard.
 
 ; 0x0039572c ギンガはワガモノ
-0x0039572c Ginger is wagamono.
+0x0039572c Ginger is mine.
 
 ; 0x00395740 チキュウをシハイ
-0x00395740 Chikyuu shihai
+0x00395740 To control the Earth
 
 ; 0x00395754 バウォッホホホゥ
 0x00395754 Bwahohohoho
 
 ; 0x00395768 みなおしたでぇ〜
-0x00395768 Minao-dee!
+0x00395768 Changed my mind!
 
 ; 0x0039577c 　もうちょいや！
 0x0039577c No more!
 
 ; 0x00395790 キャラがちやなっ
-0x00395790 She's a bit of a character.
+0x00395790 Characters are so cool
 
 ; 0x003957a4 　やるじゃん！！
 0x003957a4 Not bad!!
 
 ; 0x003957b8 　　イイカンジ？
-0x003957b8 Ikanji?
+0x003957b8 Looking good?
 
 ; 0x003957cc 　　まだまだだな
 0x003957cc Not yet.
 
 ; 0x003957e0 よくぞきわめた！
-0x003957e0 I'm impressed!
+0x003957e0 Well done!
 
 ; 0x003957f4 もはやムテキなり
-0x003957f4 He's a muteki.
+0x003957f4 Invincible.
 
 ; 0x00395808 つかれたね
 0x00395808 I'm tired.
 
 ; 0x00395814 さんくず／がんぞー
-0x00395814 Sankuzu
+;0x00395814 Sankuzu
 
 ; 0x00395828 しゃちょー／まえがわ　まさと
-0x00395828 Masato
+;0x00395828 Masato
 
 ; 0x00395848 おかねのかかりよ／はるこ
-0x00395848 Okane no Kakeyo/Haruko
+;0x00395848 Okane no Kakeyo/Haruko
 
 ; 0x00395864 テストプレイヤー／なみ　＆　ひさし
-0x00395864 Nami & Hisashi
+;0x00395864 Nami & Hisashi
 
 ; 0x003959b8 こうかおん／むらた
-0x003959b8 Kokaon/Murata
+;0x003959b8 Kokaon/Murata
 
 ; 0x003959cc おんがく／のん　＆　やまなか　としや
-0x003959cc Ongaku & Yamanaka Toshiya
+;0x003959cc Ongaku & Yamanaka Toshiya
 
 ; 0x003959f4 グラフィッカ〜／やすだ　かずお
-0x003959f4 Graphicca
+0x003959f4 Graphics
 
 ; 0x00395a14 テクスチャーデザイン／かながえ
 0x00395a14 Texture Design
@@ -822,62 +846,62 @@
 0x00395aa0 Kodogu & Cameraman/Fukuryu
 
 ; 0x00395ac4 かえりがおそくてごめんねプログラマー／まつ
-0x00395ac4 I'm sorry I'm late. I'm a programmer.
+0x00395ac4 Sorry I'm late. Programmer/Matsu
 
 ; 0x00395af0 キャラクタープログラム／うきょ
 0x00395af0 Character Program/Ukyo
 
 ; 0x00395b10 １＆４だいめあばれんぼうリーダー／きくち　てつひこ
-0x00395b10 1 & 4 Daime Abarenbo Leader/Kikuchi Tetsuhiko
+;0x00395b10 1 & 4 Daime Abarenbo Leader/Kikuchi Tetsuhiko
 
 ; 0x00395b44 ジョンカリバ／くさお　たけし
-0x00395b44 John Kaliva
+;0x00395b44 John Calibur
 
 ; 0x00395b64 エクスカリバ／なかやま　まなみ
-0x00395b64 Excaliba/Nakayama Manami
+;0x00395b64 Excalibur/Nakayama Manami
 
 ; 0x00395b84 チョースケ／きしの　ゆきまさ
-0x00395b84 Chosuke/Kishino Yukimasa
+;0x00395b84 Chosuke/Kishino Yukimasa
 
 ; 0x00395ba4 ハヤテ／おきあゆ　りょうたろう
-0x00395ba4 Ryotaro Okia
+;0x00395ba4 Ryotaro Okia
 
 ; 0x00395bc4 リロ／すみとも　ゆうこ
-0x00395bc4 Lyro
+;0x00395bc4 Lilo / Yuko Sumitomo
 
 ; 0x00395bdc マム／かみむら　のりこ
-0x00395bdc Mam/Kamura Noriko
+;0x00395bdc Mam/Kamura Noriko
 
 ; 0x00395bf4 ダディ　＆　ジョニー　＆　エスパーけん／ケン・サンダース
-0x00395bf4 Daddy & Johnny & Esper Ken Saunders
+;0x00395bf4 Daddy & Johnny & Esper Ken Saunders
 
 ; 0x00395c30 ツボハチ　＆　ザコ／たつた　なおき
-0x00395c30 Urn Bee & Zako/Tatsuta Naoki
+;0x00395c30 Urn Bee & Zako/Tatsuta Naoki
 
 ; 0x00395c54 ピータン　＆　ゴッドハンド／のだ　じゅんこ
-0x00395c54 Petan & Godhand
+;0x00395c54 Pitan & God Hand
 
 ; 0x00395c80 ササミ／すずき　まりこ
-0x00395c80 Scissor/Suzuki Mariko
+;0x00395c80 Scissor/Suzuki Mariko
 
 ; 0x00395c98 ユキヲ／みどりかわ　ひかる
-0x00395c98 Yukio/Midorikawa Hikaru
+;0x00395c98 Yukiwo/Midorikawa Hikaru
 
 ; 0x00395cb4 あにめーしょんせいさく／こみやま　ともはる
-0x00395cb4 Animeshonseisaku/Komiyama Tomoharu
+;0x00395cb4 Animeshonseisaku/Komiyama Tomoharu
 
 ; 0x00395ce0 はいけいれいあうと／いわさ　ただし
-0x00395ce0 Yes, yes, yes, yes, yes.
+;0x00395ce0 Background layout / Tadashi Iwasa
 
 ; 0x00395d04 はいけいすたっふ／たばた　みか,ほり　そうたろう,きはら　ゆうじ
-0x00395d04 Yuuji Kihara.
+;0x00395d04 Yuuji Kihara
 
 ; 0x00395d44 びじゅつかんとく／かりや　ひろみ
-0x00395d44 Bijukantoku/Kariya Hiromi
+;0x00395d44 Bijukantoku/Kariya Hiromi
 
 ; 0x00395d68 せいさくしんこう／タカハシ　ダイスケ
-0x00395d68 Seisaku Shinko/Takashi Daisuke
+;0x00395d68 Seisaku Shinko/Takashi Daisuke
 
 ; 0x00395d90 せいさくデスク／ひらた　ひろあき
-0x00395d90 Hiroaki Hirata
+;0x00395d90 Hiroaki Hirata
 

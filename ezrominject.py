@@ -359,11 +359,13 @@ def run_injection(jap_path, eng_path, rom_path):
         
         jap_map[addr_int] = len(text) - math.ceil(count_one_byte_chars(text)/2)
         
-        if KANA_1_BYTE:
-            jap_map[addr_int] = get_length_with_kana_as_1_byte(text)
         if INJECT_ASCII or ASCII_BIOS_HACK:
             jap_map[addr_int] = 2* len(text) - math.ceil(count_one_byte_chars(text)/2)
-            
+        if KANA_1_BYTE:
+            jap_map[addr_int] = get_length_with_kana_as_1_byte(text)
+            if ASCII_BIOS_HACK:
+                jap_map[addr_int] = 2*jap_map[addr_int]
+                
     f_jap.close()
 
     # 2. Open Files for processing
@@ -519,6 +521,7 @@ def run_injection(jap_path, eng_path, rom_path):
                 out_bytes = fw_text.encode('cp932')  # ascii-compatible
             except UnicodeEncodeError:
                 print(f"Error: Could not encode text at {addr_str} to S-JIS")
+                out_bytes = fw_text.encode('cp932', errors='ignore')
         else:
             out_bytes = encode_with_tbl(eng_text, TBL_FILE)
             # TODO: fill with spaces
