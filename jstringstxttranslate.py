@@ -2,6 +2,8 @@
 '''exec' "$HOME/.local/share/pipx/venvs/ctranslate2/bin/python" "$0" "$@"
 '''
 
+# prereq.: pipx install ctranslate2
+
 import sys
 import os
 
@@ -137,6 +139,8 @@ def translate_with_sugoi_bulk_shortest(raw_list):
         # 2. Pick the candidate with the minimum length (total characters)
         shortest = min(candidates, key=len)
         final_translations.append(shortest)
+	
+	# TODO: remove "⁇"
     
     return final_translations
     
@@ -152,6 +156,7 @@ def has_no_kanas(text):
         if 0x3040 <= cp <= 0x30FF or cp == 0x3000:
             return False  # Found a kana or space
     return True
+    
     
 def is_sjis_single_byte(char):
     """
@@ -206,25 +211,30 @@ def output_translated_file(input_file_str, output_file):
 		#		text = text[1:]
 		#	#address = hex(addr_int)  # Convert back to hex string
 		#	address = f"0x{addr_int:08x}"
-        # end if
+		# end if
 		
-		# strip 1-byte chars from the beginning
-		while len(text) > 0 and is_sjis_single_byte(text[0]):  # or ord(text[0])==0x88a1) # skip special 2-byte control code decoded as kanji
-			addr_int += 1
-			address = f"0x{addr_int:08x}"
-			text = text[1:]
-
-		# strip 1-byte chars from the end
-		while len(text) > 0 and is_sjis_single_byte(text[-1]):
-			text = text[:-1]
+		# split in chunks separated by ASCII formatting tags
+		current_addr = addr_int
+		temp_chunks = []
+		current_chunk = ""
+		chunk_start_addr = addr_int
+		
+		for char in text:
+			is_single = is_sjis_single_byte(char)
+			if is_single:
+				if current_chunk:  # not-emtpy
+					# Save completed double-byte chunk
+					temp_chunks.append((f"0x{chunk_start_addr:08x}", current_chunk))
+					current_chunk = ""
+				current_addr += 1 # Move address pointer 1 byte
+			else:
+				if not current_chunk:
+					chunk_start_addr = current_addr # Mark start of new double-byte chunk
+				current_chunk += char
+				current_addr += 2 # Move address pointer 2 bytes
 			
-		if len(text)==0:
-			continue
-				
-		if len(text)>=5 and has_no_kanas(text):
-			# prolly not text
-			print("skipped control line: " + text)
-			continue
+		if current_chunk:
+		    temp_chunks.append((f"0x{chunk_start_addr:08x}", current_chunk))
 
 		if (len(curr_lines_list) < BULK_SIZE) and (i != len(lines) - 2):  # bulk list is full or last line
 			curr_lines_list.append(text)

@@ -411,6 +411,8 @@ def run_injection(jap_path, eng_path, rom_path):
         eng_text = eng_text.replace("?", "？")
         eng_text = eng_text.replace("!", "！")
         eng_text = eng_text.replace("~", "〜")
+        eng_text = eng_text.replace(".", "。")
+        eng_text = eng_text.replace("\'", "’")
         #eng_text = eng_text.replace(" ", "　")  # double-width space
         #eng_text = eng_text.replace(", ", ",")
                 
@@ -529,10 +531,10 @@ def run_injection(jap_path, eng_path, rom_path):
         # Write to ROM
         f_rom.seek(addr_int)
         f_rom.write(out_bytes)
+        
+        print(f"replaced: {hex(addr_int)} | Chars: {target_char_len} | {eng_text}")
     #end for
     
-    print(f"replaced: {hex(addr_int)} | Chars: {target_char_len} | {eng_text}")
-
     f_eng.close()
     f_rom.close()
 

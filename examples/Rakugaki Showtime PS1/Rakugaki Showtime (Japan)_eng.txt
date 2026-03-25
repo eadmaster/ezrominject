@@ -536,104 +536,106 @@
 ; DEMONSTRATION
 
 ; 0x0036c654 もくひょうを0Pほうこうキー00でしてい
-0x0036c654 Move using the d-pad
+0x0036c654 Use d-pad to move,
 
 ; 0x0036c67e ボタンで0Rたいじんなげ
-0x0036c67e Press the button to hit 0R Taijinage
+0x0036c67e throw at enemy
 
 ; 0x0036c69a ボタンで0Rたいぶつなげ
-0x0036c69a Press the button to connect 0R.
+0x0036c69a throw at object
 
 ; 0x0036c6b4 もくひょうのほうこうに
-0x0036c6b4 Towards the target
+0x0036c6b4 Forward Drive:
 
 ; 0x0036c6cc ほうこうキーを0Pいれっぱなし00にして
-;0x0036c6cc Turn the hoko key to 0P into 00
+0x0036c6cc press d-pad and.........
 
 ; 0x0036c6f6 ボタンで0Rまえドライブなげ
-;0x0036c6f6 Press the button to hit 0R. Hang up the drive.
+0x0036c6f6 strong throw...
 
 ; 0x0036c714 もくひょうのほうこうと
-0x0036c714 Direction of goal
+0x0036c714 Back Drive:
 
 ; 0x0036c72c ほうこうキーを0Pぎゃくにいれたまま00で
-;0x0036c72c 00 with the Hoko key still in the 0P gyaku
+0x0036c72c Hold d-pad opposite +
 
 ; 0x0036c756 ボタンで0Rうしろドライブなげ
-;0x0036c756 Press the button to hit 0R behind the wheel.
+0x0036c756 stronger throw
 
 ; 0x0036c77a ボタンで0Rジャンプ
-;0x0036c77a 0R jump with a button.
+0x0036c77a to jump......
 
 ; 0x0036c790 ほうこうキーと1Xボタンを
-0x0036c790 Use the d-pad and 1X button
+0x0036c790 2x d-pad + X
 
 ; 0x0036c7ae すばやく２かい00で
-;0x0036c7ae Quickly, at 2 or 0
+0x0036c7ae Quickly to
 
 ; 0x0036c7c6 ホーミングいどう
-0x0036c7c6 Homing
+0x0036c7c6 homing jump
 
 ; 0x0036c7dc ホーミングいどうちゅう
-0x0036c7dc Homingidouchu
+0x0036c7dc Homing move
 
 ; 0x0036c7f4 ２かいめの1X0Pボタンおしっぱなし00で
-;0x0036c7f4 The second 1x0P button: Boob 00
+0x0036c7f4 2nd time, hold down the button
 
 ; 0x0036c81e れんぞくホーミングいどう
-0x0036c81e Renzoku homing
+0x0036c81e Continuous homing
 
 ; 0x0036c83c もういちど1Xボタンで
-0x0036c83c I pressed the 1X button again
+0x0036c83c Press the button again
 
 ; 0x0036c856 ホーミングキャンセル
 0x0036c856 Homing cancel
 
 ; 0x0036c872 ほうこうキーをいれずに001Oボタンで
-;0x0036c872 Unable to insert the hoko key, he pressed the 001O button
+0x0036c872 O and release dpad
 
 ; 0x0036c89a カウンター
 0x0036c89a Counter
 
 ; 0x0036c8aa ギリギリまでひきつけて001Oボタンで
-0x0036c8aa I pulled him in until the very last second and pressed 001O
+0x0036c8aa If pulled last second
 
 ; 0x0036c8d2 どんぴしゃカウンター
-0x0036c8d2 Perfect counter
+0x0036c8d2 Perfect Counter
 
 ; 0x0036c8ec ほうこうキーと1Oボタンで
-0x0036c8ec With the d-pad and the 1O button
+0x0036c8ec O and d-pad
+
+; 0x0036c908 0Rキャラごとのアクション
+0x0036c908 Special move
 
 ; 0x0036c924 スマイリーボールが
-0x0036c924 Smiley ball
+0x0036c924 Smiley Ball
 
 ; 0x0036c93a ひかったときになげる
-0x0036c93a Throw when it lights up
+0x0036c93a When lights up
 
 ; 0x0036c956 スーパースマイリーアタック
-0x0036c956 Super Smile Attack
+0x0036c956 Super Attack!
 
 ; 0x0036c974 ひかったときに
-0x0036c974 When I hit it.
+0x0036c974 Or,,,,,
 
 ; 0x0036c986 まえドライブでなげる
-0x0036c986 Throw with front drive
+0x0036c986 Use Forward Drive
 
 ; 0x0036c9a2 まえドライブスーパースマイリー
-0x0036c9a2 Drive Super Smiley
+0x0036c9a2 Front Drive Super Smiley
 
 ; 0x0036c9c6 うしろドライブでなげる
-0x0036c9c6 Throw it in the back drive
+0x0036c9c6 Use Back Drive
 
 ; 0x0036c9e6 うしろドライブスーパースマイリー
-0x0036c9e6 Behind me, drive super smiley.
+0x0036c9e6 Back Drive Super Smiley.
 
 ; 0x0036ca0a ホーミングいどう00は
-0x0036ca0a Homing m
+0x0036ca0a Homing Move
 
-; 0x0036ca22 スマイリーボール
-00にたいしてもかのう
-0x0036ca22 Smiley Ball
+; 0x0036ca22 スマイリーボール00にたいしてもかのう
+0x0036ca22 With Smiley Ball......
 
 ; 0x003953d8 　ハード
 0x003953d8 Hard

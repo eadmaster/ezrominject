@@ -1,0 +1,16 @@
+
+; save files
+;0x00213c4b アーザルの町　レイジアの村　ヴァルアの町　空中城テラス　結界樹の下　　牢屋１階　　　牢屋４階　　　いけにえの祭壇ヴァルアの祝宴
+0x00213c4b Arzal　 Reigia　Valuah　Terrace　Tree　　Jail　　　Jail　　　Altar  Valuah
+
+0x0021335e −Teleport to ？−
+0x002133aa 　Arzal
+0x002133b9 　Reigia
+0x002133d6 　Reigia
+0x002133f3 　Valuah
+0x00213402 　Terrace
+0x00213413 　Terrace Tree
+0x0021342e 　Terrace Tree
+0x00213449 　Jail
+0x00213454 　Terrace Tree
+0x0021346f 　Jail　　　Jail
