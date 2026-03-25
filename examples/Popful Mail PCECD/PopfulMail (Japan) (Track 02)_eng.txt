@@ -224,7 +224,7 @@
 0x00308b0f Mail
 
 ; 0x00308b1b タット
-0x00308b1b Tatt
+0x00308b1b Tatto
 
 ; 0x00308b27 ガウ
 0x00308b27 Gaw
@@ -363,7 +363,7 @@
 0x00364949 Mail
 
 ; 0x00364955 タット
-0x00364955 Tatt
+0x00364955 Tatto
 
 ; 0x003661ce ショートソード 軽量で扱いやすい剣。しかし、殺傷能力は低い。
 0x003661ce Short Sword: Light sword. Easy use. Low power.
@@ -522,7 +522,10 @@
 ;0x00392800 Tenuja
 
 ; 0x00398d80 ブラッキィ
-0x00398d80 Slick
+0x00398d80 Blacky
+
+; 0x00398d90 女
+0x00398d90 Woman
 
 ; 0x00398d98 兵士
 0x00398d98 Soldier
@@ -531,7 +534,7 @@
 0x00398da2 Namo
 
 ; 0x00398dac 赤マントの男
-0x00398dac Red Cape Man
+0x00398dac Boy in red cloak
 
 ; 0x00398DC9 頼むよ。
 0x00398DC9 Please.
@@ -552,7 +555,7 @@
 0x00398e4f I came to this jungle
 
 ; 0x00398e68 賞金首になっているマテリアルを探しているからなの。
-0x00398e68 looking for Muttonhead bounty.
+0x00398e68 looking for Material bounty.
 
 ; 0x00398e9c あんたがその賞金よりも、
 0x00398e9c If you pay more,
@@ -615,7 +618,7 @@
 0x003991f8 You can’t.
 
 ; 0x00399208 ｪまた、ブラッキィさんが、いなくなったのよ。
-0x00399208 Slick's gone again.
+0x00399208 Blacky's gone again.
 
 ; 0x00399234 一体、どれだけ私たちに心配を
 0x00399234 How much worry for us?
@@ -637,7 +640,7 @@
 ;0x003992e4 You went missing.
 
 ; 0x003992fd ブラッキィさんを見つけて
-0x003992fd Find Slick.
+0x003992fd Find Blacky.
 
 ; 0x00399316 くれたんですって？
 0x00399316 You gave it to me?
@@ -650,16 +653,18 @@
 
 ; 0x00399377 お金にしか興味のない、
 0x00399377 Only interested in money.
+
 ; 0x0039938e 冷たい人間なのね。
 0x0039938e You're cold.
+
 ; 0x003993a1 ブラッキィさん、どうしている
-0x003993a1 What are you doing, Slick?
+0x003993a1 What is Blacky doing,
 
 ; 0x003993be かしら…。
 0x003993be I wonder...
 
 ; 0x003993c9 まったく、ブラッキィさんたら、何やってるのかしら…。
-0x003993c9 What Slick is doing...
+0x003993c9 What Blacky is doing...
 
 ; 0x003993fe みんなに、心配かけて…。
 0x003993fe He made everyone worry...
@@ -668,7 +673,7 @@
 0x00399427 A bomb?
 
 ; 0x0039942e そういえばブラッキィさん、
-0x0039942e Come to think, Slick...
+0x0039942e Come to think, Blacky...
 
 ; 0x00399449 作るのが得意だったわねぇ。
 0x00399449 was good at making them, huh?
@@ -797,7 +802,7 @@
 0x003998b1 I didn’t think you’d fall.
 
 ; 0x00399a0f えっ、ブラッキィが抜け出し
-0x00399a0f Slick ran away.
+0x00399a0f Blacky ran away.
 
 ; 0x00399a2a たって！？
 0x00399a2a What?!
@@ -836,7 +841,7 @@
 0x00399b23 By the way, where
 
 ; 0x00399b3c 今どこにいるんだい？
-0x00399b3c is Slick?
+0x00399b3c is Blacky?
 
 ; 0x00399b52 このジャングルを、左に行った
 0x00399b52 Go left through this jungle,
@@ -854,7 +859,7 @@
 0x00399bd8 Hurry up.
 
 ; 0x00399bef ｰやぁブラッキィを、助けて
-0x00399bef Hey, help me, Slick.
+0x00399bef Hey, help me, Blacky.
 
 ; 0x00399c09 来たよ。
 0x00399c09 I’m here.
@@ -899,7 +904,7 @@
 0x00399d21 I came this far looking for
 
 ; 0x00399d3e ここまで来たの。
-0x00399d3e Muttonhead's bounty.
+0x00399d3e Material's bounty.
 
 ; 0x00399d54 賞金稼ぎかい？
 0x00399d54 A bounty hunter?
@@ -908,7 +913,7 @@
 0x00399d65 Have you heard about the
 
 ; 0x00399d80 というのを知らないかい？
-0x00399d80  Gingerbread Grifter Gang?
+0x00399d80  Marionette Gang?
 
 ; 0x00399d9b 最近、そいつらがこの辺りに
 0x00399d9b They’ve been around here lately,
@@ -923,7 +928,7 @@
 0x00399dfe them.
 
 ; 0x00399e0a マリオネット強盗団…
-0x00399e0a Gingerbread Grifter Gang...
+0x00399e0a Marionette Gang...
 
 ; 0x00399e1f ですって！？
 0x00399e1f What?!
@@ -980,7 +985,7 @@
 0x00399fa6 Good luck, Mail,
 
 ; 0x00399fbc マテリアルのヤツを捕まえて
-0x00399fbc catching Muttonhead.
+0x00399fbc catching Material.
 
 ; 0x00399fd7 くれよ。
 0x00399fd7 Give it to me.
@@ -1103,10 +1108,10 @@
 0x0039a51e Your name?
 
 ; 0x0039a530 ﾞ･$_ブラッキィ、
-0x0039a530 Slick,
+0x0039a530 Blacky,
 
 ; 0x0039a541 ブラッキィってんだ。
-0x0039a541 My name's Slick.
+0x0039a541 My name's Blacky.
 
 ; 0x0039a556 はやく、助けてくれよー！！
 0x0039a556 Hurry, help me!!
@@ -1121,7 +1126,7 @@
 0x0039a5b9 Hey, what are you doing here?
 
 ; 0x0039a5e7 あたしはこの国の賞金首になっているマテリアルって魔導師を
-0x0039a5e7 I'm a sorcerer named Muttonhead
+0x0039a5e7 I'm a sorcerer named Material
 
 ; 0x0039a620 捕まえにきたの。
 0x0039a620 I’m here to catch you.
@@ -1220,7 +1225,7 @@
 0x0039a8d4 Oh, it’s Mail.
 
 ; 0x0039a8e2 僕は、魔法使いのタットって
-0x0039a8e2 I’m Tatt, the Wizard.
+0x0039a8e2 I’m Tatto, the Wizard.
 
 ; 0x0039a8fd いうんだ。
 0x0039a8fd Say it.
@@ -1446,7 +1451,7 @@
 0x003f4c0b Bounty hunter.
 
 ; 0x003f4c18 賞金首のマテリアルを
-0x003f4c18 I’m tracking down Muttonhead
+0x003f4c18 I’m tracking down Material
 
 ; 0x003f4c2d 追っているの。
 0x003f4c2d for his bounty.
@@ -1458,7 +1463,7 @@
 0x003f4c47 I live in the village above here.
 
 ; 0x003f4c64 最近、マリオネット強盗団が、
-0x003f4c64 Recently, the Gingerbread Grifter Gang
+0x003f4c64 Recently, the Marionette Gang
 
 ; 0x003f4c81 この辺りに現れて、村の人たちが被害にあっているんだ。
 0x003f4c81 appeared around here, and the people of the village have been hurt.
@@ -1683,7 +1688,7 @@
 0x003f54f9 Mythia
 
 ; 0x003f5505 舒私も、マリオネット強盗団に
-0x003f5505 The Gingerbread Grifter Gang 
+0x003f5505 The Marionette Gang 
 
 ; 0x003f5522 大事な指輪を盗まれたの。
 0x003f5522 stole my precious ring.
@@ -1755,7 +1760,7 @@
 0x003f586b Will you cooperate with us?
 
 ; 0x003f5888 マリオネット強盗団を我々の
-0x003f5888 the Gingerbread Grifter Gang 
+0x003f5888 the Marionette Gang 
 
 ; 0x003f58a3 同志が倒しにいったまま
 0x003f58a3 His comrades had gone to defeat him.
@@ -1785,7 +1790,7 @@
 0x3f5976 Even so,
 
 ; 0x003f5985 マリオネット強盗団め、
-0x003f5985 Gingerbread Grifter Gang,
+0x003f5985 Marionette Gang,
 
 ; 0x003f599c やっぱり俺一人の力では、
 0x003f599c As I thought, I can’t do it alone...
@@ -1843,7 +1848,7 @@
 0x3f5b97 Be careful.
 
 ; 0x003f5bac ｦ絶対、マテリアルを捕まえて
-0x003f5bac I’ll definitely catch Muttonhead.
+0x003f5bac I’ll definitely catch Material.
 
 ; 0x003f5bc8 くれよ。
 0x003f5bc8 Give it to me.
@@ -1915,10 +1920,10 @@
 0x0041e116 Leather Mail: Several layers of horse leather. Its defense is low.
 
 ; 0x0041e158 チェーンメイル　鎖で編まれていて丈夫にできている役にたつだろう。
-0x0041e158 Chain mail. It’s made of chains, and it’s made to be durable.
+0x0041e158 Chain Mail. It’s made of chains, and it’s made to be durable.
 
 ; 0x0041e19a プレートメイル　鋼鉄でできてるので重いが多少の攻撃なら充分戦える
-0x0041e19a Plate mail. It’s heavy because it’s made of steel, but it can fight well enough with a few attacks.
+0x0041e19a Plate Mail. It’s heavy because it’s made of steel, but it can fight well enough with a few attacks.
 
 ; 0x0041e1dc ミスリルアーマー数多くの敵と闘うにはこれくらいの鎧は必要である。
 0x0041e1dc Silver Mail required this much armor to fight many enemies.
@@ -1927,7 +1932,7 @@
 0x0041e21e Gold Mail is the strongest armor in modern technology.
 
 ; 0x0041e258 レッドローブ　　魔法使いのマント
-0x0041e258 Red robe, wizard’s cape.
+0x0041e258 Red Robe, wizard’s cape.
 
 ; 0x0041e27a ブルーローブ　　魔法使いのマント
 0x0041e27a Blue Robe: The Wizard’s Cloak
@@ -2087,6 +2092,33 @@
 
 ; 0x00439632 お大事に‥‥。
 0x00439632 Take care...
+
+; 0x003c0749 メイル
+0x003c0749 Mail
+
+; 0x003c0755 タット
+0x003c0755 Tatto
+
+; 0x003c0761 ガウ
+0x003c0761 Gaw
+
+; 0x003c1f10 買う
+0x003c1f10 Buy
+
+; 0x003c1f16 売る
+0x003c1f16 Sell
+
+; 0x003c1f1c 治療
+0x003c1f1c Heal
+
+; 0x003c1f22 説明
+0x003c1f22 Describe
+
+; 0x003c1f28 　　　　　　　　　　　　ゴールド
+0x003c1f28 Gold
+
+; 0x003c1f4a 　所持：　　個
+0x003c1f4a Owned:
 
 ; 0x003c1fce ショートソード　軽量で扱いやすい剣。しかし、殺傷能力は低い。
 0x003c1fce Short Sword A lightweight, easy-to-manage sword. However, its lethality is low.
@@ -2316,7 +2348,7 @@
 0x003f4c0b Bounty hunter.
 
 ; 0x003f4c18 賞金首のマテリアルを
-0x003f4c18 The bounty on Muttonhead
+0x003f4c18 The bounty on Material
 
 ; 0x003f4c2d 追っているの。
 0x003f4c2d I’m tracking down.
@@ -2328,7 +2360,7 @@
 0x003f4c47 I live in the village above here.
 
 ; 0x003f4c64 最近、マリオネット強盗団が、
-0x003f4c64 Recently, the Gingerbread Grifter Gang
+0x003f4c64 Recently, the Marionette Gang
 
 ; 0x003f4c81 この辺りに現れて、村の人たちが被害にあっているんだ。
 0x003f4c81 appeared around here, and the people of the village have been hurt.
@@ -2595,7 +2627,7 @@
 0x003f586b Will you cooperate with us?
 
 ; 0x003f5888 マリオネット強盗団を我々の
-0x003f5888 The Gingerbread Grifter Gang 
+0x003f5888 The Marionette Gang 
 
 ; 0x003f58a3 同志が倒しにいったまま
 0x003f58a3 His comrades had gone to defeat him.
@@ -2622,7 +2654,7 @@
 0x3f5976 Even so,
 
 ; 0x003f5985 マリオネット強盗団め、
-0x003f5985 the Gingerbread Grifter Gang,
+0x003f5985 the Marionette Gang,
 
 ; 0x003f599c やっぱり俺一人の力では、
 0x003f599c As I thought, I can’t do it alone...
@@ -2917,7 +2949,7 @@
 0x00439632 Take care...
 
 ; 0x0045067f マテリアル
-0x0045067f Muttonhead
+0x0045067f Material
 
 ; 0x00450693 　バカな！！
 0x00450693 Impossible!!
@@ -2945,7 +2977,7 @@
 0x00450727 Hm? Could it be...
 
 ; 0x00450746 おまえが賞金首の魔導師だな！！
-0x00450746 You’re the Sorcerer with the bounty on your head!!
+0x00450746 You’re the sorcerer with the bounty on your head!!
 
 ; 0x00450767 魔導師
 0x00450767 Sorcerers
@@ -2954,13 +2986,13 @@
 0x450772 Indeed. I am the Sorcerer among Sorcerers who can fill this country with fear and rule the dark world.
 
 ; 0x4507c9 マテリアル様じゃ！！
-0x4507c9 Muttonhead!!
+0x4507c9 Material!!
 
 ; 0x4507e1 なるほど、
 0x4507e1 I see,
 
 ; 0x004507ec お前がタットの師匠ね。
-0x004507ec You’re Tatt’s teacher, aren’t you?
+0x004507ec You’re Tatto’s teacher, aren’t you?
 
 ; 0x00450825 やつめ、弟子のくせにわしに
 0x00450825 That bastard, he’s my apprentice.
@@ -3023,7 +3055,7 @@
 0x004509ef Like this?
 
 ; 0x4509fd タット、実は…
-0x4509fd Tatt, actually...
+0x4509fd Tatto, actually...
 
 ; 0x450a0f そうか…。
 0x450a0f I see...
@@ -3041,7 +3073,7 @@
 0x00450a61 Alright, let’s go together!! 2
 
 ; 0x0045067f マテリアル
-0x0045067f Muttonhead
+0x0045067f Material
 
 ; 0x00450693 　バカな！！
 0x00450693 Impossible!!
@@ -3077,13 +3109,13 @@
 0x450772 Indeed. I am the Sorcerer among Sorcerers who can fill this country with fear and rule the dark world.
 
 ; 0x4507c9 マテリアル様じゃ！！
-0x4507c9 Muttonhead!!
+0x4507c9 Material!!
 
 ; 0x4507e1 なるほど、
 0x4507e1 I see,
 
 ; 0x004507ec お前がタットの師匠ね。
-0x004507ec You’re Tatt’s teacher, aren’t you?
+0x004507ec You’re Tatto’s teacher, aren’t you?
 
 ; 0x00450825 やつめ、弟子のくせにわしに
 0x00450825 That bastard, he’s my apprentice.
@@ -3146,7 +3178,7 @@
 0x004509ef Like this?
 
 ; 0x4509fd タット、実は…
-0x4509fd Tatt, actually...
+0x4509fd Tatto, actually...
 
 ; 0x450a0f そうか…。
 0x450a0f I see...
@@ -3377,10 +3409,10 @@
 0x005037f8 Be careful...
 
 ; 0x0051abfb マテリアル
-0x0051abfb Muttonhead
+0x0051abfb Material
 
 ; 0x0051ac0b ブラッキィ
-0x0051ac0b Slick
+0x0051ac0b Blacky
 
 ; 0x0051ac27 やはり追ってきおったか。
 0x0051ac27 So they really did come after us.
@@ -3398,7 +3430,7 @@
 0x0051ac89 She’ll give it to me.
 
 ; 0x0051ac94 タット…、さっきのお嬢ちゃんに助けてもらったのか。お前なんぞが、何を言っても無駄じゃぞ。
-0x0051ac94 Tatt... Did the young lady just save you? No matter what you say, it’s pointless.
+0x0051ac94 Tatto... Did the young lady just save you? No matter what you say, it’s pointless.
 
 ; 0x0051acef あのまま牢屋で、
 0x0051acef In that cell,
@@ -3410,7 +3442,7 @@
 0x0051ad13 I’m so glad!
 
 ; 0x0051ad2b マテリアル。
-0x0051ad2b Muttonhead.
+0x0051ad2b Material.
 
 ; 0x0051ad3d 先ほどの醜態。
 0x0051ad3d That disgraceful display.
@@ -3443,7 +3475,7 @@
 0x0051af22 Wizard
 
 ; 0x0051af2f マテリアル様が、
-0x0051af2f Muttonhead...
+0x0051af2f Material...
 
 ; 0x0051af40 さらわれてしまった！！
 0x0051af40 he’s been kidnapped!!
@@ -3470,7 +3502,7 @@
 0x0051afdc Oh,
 
 ; 0x0051afe5 あんたブラッキィじゃない。
-0x0051afe5 You’re not Slick.
+0x0051afe5 You’re not Blacky.
 
 ; 0x0051b000 こんな所で何してんのよ？
 0x0051b000 What are you doing here?
@@ -3557,7 +3589,7 @@
 0x0051b2a8 Who the hell are you?
 
 ; 0x0051b2b8 僕の名は、タット。
-0x0051b2b8 My name is Tatt.
+0x0051b2b8 My name is Tatto.
 
 ; 0x0051b2cb お師匠様を探しに、この洞窟に
 0x0051b2cb I went to this cave to look for Master.
@@ -3656,7 +3688,7 @@
 0x0051b63b Watch out!
 
 ; 0x0051b644 ブラッキィさん、
-0x0051b644 Slick,
+0x0051b644 Blacky,
 
 ; 0x0051b655 早く逃げましょう！！
 0x0051b655 Let’s get out of here!!
@@ -3668,7 +3700,7 @@
 0x0051b685 If you don’t run away soon, it’ll be dangerous!
 
 ; 0x51b6a6 ブラッキィさん。
-0x51b6a6 Slick.
+0x51b6a6 Blacky.
 
 ; 0x0051b6b7 早く逃げないと！
 0x0051b6b7 We have to get out of here!
@@ -3689,7 +3721,7 @@
 0x0051b876 This is what happens when you don’t run away quickly.
 
 ; 0x51b8a5 ブラッキィさん。
-0x51b8a5 Slick.
+0x51b8a5 Blacky.
 
 ; 0x0051b8b6 大丈夫ですか！？
 0x0051b8b6 Are you all right?!
@@ -3809,7 +3841,7 @@
 0x0051bd4c It’s around the entrance on the other side.
 
 ; 0x51bd71 さっきブラッキィさんが、
-0x51bd71 Just now, Slick...
+0x51bd71 Just now, Blacky...
 
 ; 0x0051bd8a 言っていた、反対側の出口
 0x0051bd8a The exit on the other side, like she said.
@@ -3893,13 +3925,13 @@
 0x51c209 Ahhhhh!
 
 ; 0x0051c21c ブラッキィ！
-0x0051c21c Slick!
+0x0051c21c Blacky!
 
 ; 0x0051c229 危なーい！！
 0x0051c229 Watch out!!
 
 ; 0x51c23c ブラッキィさん！
-0x51c23c Slick!
+0x51c23c Blacky!
 
 ; 0x0051c24d 危なーい！！
 0x0051c24d Watch out!!
@@ -4776,7 +4808,7 @@
 0x005bb3f8 Be careful...
 
 ; 0x005d2530 ねぇ、あんたマテリアルっていう魔導師のこと知らない？
-0x005d2530 Hey, do you know a Sorcerer named Muttonhead?
+0x005d2530 Hey, do you know a Sorcerer named Material?
 
 ; 0x005d2565 さっき見つけたんだけどいきなり消えてしまって…。
 0x005d2565 I found it earlier, but it suddenly disappeared...
@@ -5118,19 +5150,19 @@
 0x006171f8 Be careful...
 
 ; 0x0062e55e マテリアル
-0x0062e55e Muttonhead
+0x0062e55e Material
 
 ; 0x0062e56e 怪獣
 0x0062e56e Monster
 
 ; 0x0062e578 ブラッキィ
-0x0062e578 Slick
+0x0062e578 Blacky
 
 ; 0x0062e588 サンダードラゴン
 0x0062e588 Thunder Dragon
 
 ; 0x0062e5a6 マテリアル！
-0x0062e5a6 Muttonhead!
+0x0062e5a6 Material!
 
 ; 0x0062e5b3 あんた何こんな所で、捕まってんのよ！！
 0x0062e5b3 What are you doing in a place like this?!
@@ -5184,7 +5216,7 @@
 0x0062e8d9 Well, that’s fine.
 
 ; 0x0062e8e8 タット、わしの話を聞くが良い。
-0x0062e8e8 Listen to me, Tatt.
+0x0062e8e8 Listen to me, Tatto.
 
 ; 0x0062e908 はい。
 0x0062e908 Yes.
@@ -5238,7 +5270,7 @@
 0x0062eaa3 Ahhh, I’m so jealous!
 
 ; 0x0062eab4 マテリアル！
-0x0062eab4 Muttonhead!
+0x0062eab4 Material!
 
 ; 0x0062eac1 あんたは、あたしが捕まえるん
 0x0062eac1 I’m going to catch you.
@@ -5265,7 +5297,7 @@
 0x0062eb98 I’ve been punished.
 
 ; 0x0062ebb5 タット、見ているがよい。
-0x0062ebb5 Tatt, watch.
+0x0062ebb5 Tatto, watch.
 
 ; 0x0062ebce わしは、長年この洞窟に住む
 0x0062ebce I’ve lived in this cave for many years.
@@ -5397,7 +5429,7 @@
 0x62f0ce Ah H. Harm.
 
 ; 0x0062f200 んた、魔導師のマテリアルを、捕まえたそうね。
-0x0062f200 I heard you caught the Sorcerer’s Muttonhead.
+0x0062f200 I heard you caught the Sorcerer’s Material.
 
 ; 0x62f22f あいつを、どこにやったのか
 0x62f22f I don’t know where I put him.
@@ -5613,7 +5645,7 @@
 0x0062fc4c Don’t show your face!
 
 ; 0x0062fc5c ブラッキィさん。
-0x0062fc5c Slick.
+0x0062fc5c Blacky.
 
 ; 0x0062fc6d こんなことばかりだと
 0x0062fc6d This is the only thing I can do.
@@ -5913,7 +5945,7 @@
 0x00774391 Thunder Dragon
 
 ; 0x007743a7 ブラッキィ
-0x007743a7 Slick
+0x007743a7 Blacky
 
 ; 0x7743b7 ｡ゴルアデスは、完全復活の為に
 0x7743b7 Goradus, for the sake of a complete resurrection.
@@ -5952,7 +5984,7 @@
 0x007744da Wait a minute!
 
 ; 0x007744eb ブラッキィ！
-0x007744eb Slick!
+0x007744eb Blacky!
 
 ; 0x007744f8 あんた、あたしからかっぱらっていった、ツルハシがあった
 0x007744f8 You had the pickaxe that I took from you.
@@ -5964,13 +5996,13 @@
 0x0077453a Huh? Give it back.
 
 ; 0x00774550 その前にちょっと、ブラッキィ
-0x00774550 Before that, a little bit about Slick.
+0x00774550 Before that, a little bit about Blacky.
 
 ; 0x0077456d さんに用があるんです。
 0x0077456d I have business with you, sir.
 
 ; 0x00774584 ブラッキィさん。
-0x00774584 Slick.
+0x00774584 Blacky.
 
 ; 0x00774595 前にあなたを助けたときに使ったツルハシを持ってますよね？
 0x00774595 You have the pickaxe I used to help you before, right?
@@ -6027,7 +6059,7 @@
 0x0078e549 Mail
 
 ; 0x0078e555 タット
-0x0078e555 Tatt
+0x0078e555 Tatto
 
 ; 0x0078e561 ガウ
 0x0078e561 Gaw
@@ -6264,7 +6296,7 @@
 0x007c2e69 Glug.
 
 ; 0x007c2e75 ブラッキィ
-0x007c2e75 Slick
+0x007c2e75 Blacky
 
 ; 0x007c2e85 エリク
 0x007c2e85 Venuncio
@@ -6873,7 +6905,7 @@
 0x007c462f Guess I have no choice.
 
 ; 0x007c463e ブラッキィの知り合いだしね。
-0x007c463e I know Slick, after all.
+0x007c463e I know Blacky, after all.
 
 ; 0x007c465d じゃあ、ちょうど今
 0x007c465d Well, just now.
@@ -7104,7 +7136,7 @@
 0x007c4f13 I have business to attend to.
 
 ; 0x7c4f2e オレのボスは、メイルとタットだガウ。
-0x7c4f2e My bosses are Mail and Tatt, Gaw.
+0x7c4f2e My bosses are Mail and Tatto, Gaw.
 
 ; 0x007c4f6c では、お宝…もいらない、と？
 0x007c4f6c So you don’t want any more treasure?
@@ -7275,7 +7307,7 @@
 0x007c55bc I heard it’s you guys.
 
 ; 0x7c55d1 閉じ込められていた、マテリアルとかいう魔導師が救援に来た
-0x7c55d1 A trapped Sorcerer called Muttonhead came to rescue us.
+0x7c55d1 A trapped Sorcerer called Material came to rescue us.
 
 ; 0x007c560a 騎士団にそう言っていたそうだ。
 0x007c560a That’s what he said to the knights.
@@ -7456,7 +7488,7 @@
 0x007c5d14 Hm? Who’s behind you, Gaw?
 
 ; 0x007c5d49 ブラッキィ君でーす！！
-0x007c5d49 It’s Slick!!
+0x007c5d49 It’s Blacky!!
 
 ; 0x007c5d6a あ…、あ、そう。
 0x007c5d6a Ah... Ah, I see.
@@ -7492,7 +7524,7 @@
 0x007c5ef9 I recommend it to people like that.
 
 ; 0x007c5f14 ブラッキィ特製のお楽しみ福袋
-0x007c5f14 Slick’s Special lucky bag
+0x007c5f14 Blacky’s Special lucky bag
 
 ; 0x007c5f31 なんかどうかな？
 0x007c5f31 I don’t know what it is.
@@ -7514,13 +7546,13 @@
 0x007c5fa1 You don’t look well.
 
 ; 0x007c5fb6 タット君。
-0x007c5fb6 Tatt.
+0x007c5fb6 Tatto.
 
 ; 0x007c5ff6 じゃあ、そんなタット君には
-0x007c5ff6 Well then, that’s not for you, Tatt.
+0x007c5ff6 Well then, that’s not for you, Tatto.
 
 ; 0x007c6011 ブラッキィ特製のお楽しみ福袋
-0x007c6011 Slick’s Special lucky bag
+0x007c6011 Blacky’s Special lucky bag
 
 ; 0x007c602e なんかどうかな？
 0x007c602e I don’t know what it is.
@@ -7584,7 +7616,7 @@
 0x007c623c That’s...!!
 
 ; 0x007c624d ｢ますよ、ブラッキィさん！
-0x007c624d Yes, Slick!
+0x007c624d Yes, Blacky!
 
 ; 0x007c6278 村が焼き討ちされたんです！
 0x007c6278 The village was burned down!
@@ -7620,7 +7652,7 @@
 0x007c64bf Sacred silver, you mean silver?
 
 ; 0x007c64e8 ブラッキィ、
-0x007c64e8 Slick,
+0x007c64e8 Blacky,
 
 ; 0x007c64f5 何よ、そのミスリルって？
 0x007c64f5 What’s that silver?
@@ -7740,7 +7772,7 @@
 0x007ea349 Mail
 
 ; 0x007ea355 タット
-0x007ea355 Tatt
+0x007ea355 Tatto
 
 ; 0x007ea361 ガウ
 0x007ea361 Gaw
@@ -7761,7 +7793,7 @@
 0x007ebb28 Gold
 
 ; 0x007ebb4a 　所持：　　個
-0x007ebb4a Possession: Individual
+0x007ebb4a Owned:
 
 ; 0x007ebbce ショートソード　軽量で扱いやすい剣。しかし、殺傷能力は低い。
 0x007ebbce Short Sword A lightweight, easy-to-manage sword. However, its lethality is low.
@@ -7987,7 +8019,7 @@
 0x0081edaf Fort Fryght
 
 ; 0x0081edbf ブラッキィ
-0x0081edbf Slick
+0x0081edbf Blacky
 
 ; 0x0081edcf 長老
 0x0081edcf Elder
@@ -8074,13 +8106,13 @@
 0x0081f0b1 You can’t do anything, can you?
 
 ; 0x0081f0d4 タット、だめだなー君は。
-0x0081f0d4 Tatt, you’re no good.
+0x0081f0d4 Tatto, you’re no good.
 
 ; 0x81f0ef あ？
 0x81f0ef Huh?
 
 ; 0x0081f0f4 なんだタット君か。
-0x0081f0f4 Oh, it’s you, Tatt.
+0x0081f0f4 Oh, it’s you, Tatto.
 
 ; 0x0081f115 ガウ、だめだなー君は。
 0x0081f115 Gaw, you’re no good.
@@ -8095,7 +8127,7 @@
 0x0081f142 L-Let’s run away.
 
 ; 0x81f15b ブラッキィ！
-0x81f15b Slick!
+0x81f15b Blacky!
 
 ; 0x0081f168 まだ生きてたの？
 0x0081f168 You’re still alive?
@@ -8131,7 +8163,7 @@
 0x0081f297 That’s right.
 
 ; 0x81f2a2 ははぁ、ブラッキィさん。
-0x81f2a2 Haha, Slick.
+0x81f2a2 Haha, Blacky.
 
 ; 0x0081f2bb さてはメイルに、
 0x0081f2bb Now, to Mail,
@@ -8182,7 +8214,7 @@
 0x0081f538 I hope it breaks.
 
 ; 0x81f54d ブラッキィさん。
-0x81f54d Slick.
+0x81f54d Blacky.
 
 ; 0x0081f55e 何動揺してるんです？
 0x0081f55e What are you so upset about?
@@ -8227,10 +8259,10 @@
 0x0081f6cc What the hell is this?!
 
 ; 0x0081f6de ブラッキィさん。
-0x0081f6de Slick.
+0x0081f6de Blacky.
 
 ; 0x0081f6ef ちょっと、ブラッキィさん！
-0x0081f6ef Hey, Slick!
+0x0081f6ef Hey, Blacky!
 
 ; 0x0081f70a しょうがないなぁ…。
 0x0081f70a Guess I have no choice...
@@ -8251,7 +8283,7 @@
 0x0081f769 What the hell is this?!
 
 ; 0x0081f77b ブラッキィ。
-0x0081f77b Slick.
+0x0081f77b Blacky.
 
 ; 0x0081f788 まだ、通れないガウか？
 0x0081f788 You still can’t get through, Gaw?
@@ -8465,7 +8497,7 @@
 0x0081ff8a They’re different from the bandits.
 
 ; 0x0081ffaf ブラッキィ…。
-0x0081ffaf Slick...
+0x0081ffaf Blacky...
 
 ; 0x0081ffbe わかる気がするけど…、
 0x0081ffbe I think I understand, but...
@@ -8474,10 +8506,10 @@
 0x0081ffd5 What are you doing?
 
 ; 0x0081ffe6 ブラッキィさん…。
-0x0081ffe6 Slick...
+0x0081ffe6 Blacky...
 
 ; 0x0081fffd ブラッキィ。
-0x0081fffd Slick.
+0x0081fffd Blacky.
 
 ; 0x0082000a 何やってるガウ。
 0x0082000a What are you doing, Gaw?
@@ -8495,7 +8527,7 @@
 0x0082007f I don’t want to see him again.
 
 ; 0x008200a5 ブラッキィさん。　さようなら。
-0x008200a5 Slick. Goodbye.
+0x008200a5 Blacky. Goodbye.
 
 ; 0x008200c4 神様、２度とあの人と
 0x008200c4 God, with that person again.
@@ -8504,7 +8536,7 @@
 0x008200d9 Please don’t see him.
 
 ; 0x008200ed ブラッキィ。
-0x008200ed Slick.
+0x008200ed Blacky.
 
 ; 0x008200fa さよならガウ。
 0x008200fa Goodbye, Gaw.
@@ -9032,7 +9064,7 @@
 0x0082173f Save me, Gaw!!
 
 ; 0x00821764 困った時のブラッキィ君だー！
-0x00821764 It’s Slick when you’re in trouble!
+0x00821764 It’s Blacky when you’re in trouble!
 
 ; 0x00821789 あー！
 0x00821789 Ahhh!
@@ -9041,13 +9073,13 @@
 ;0x00821851 Sakai~
 
 ; 0x8218c1 ブラッキィ！
-0x8218c1 Slick!
+0x8218c1 Blacky!
 
 ; 0x008218ce 助けてー！
 0x008218ce Help me!
 
 ; 0x008218dd あー！　ブラッキィさん！
-0x008218dd Ah! Slick!
+0x008218dd Ah! Blacky!
 
 ; 0x008218f6 助けてくださーい！
 0x008218f6 Help meee!
@@ -9071,7 +9103,7 @@
 0x0082197b I recommend it to people like that!
 
 ; 0x00821994 ブラッキィ印のジャンプ力アップの薬！
-0x00821994 Slick Mark’s jumping power-up potion!
+0x00821994 Blacky Mark’s jumping power-up potion!
 
 ; 0x008219b9 名付けて！　『トベルタカーイ』今なら有り金全部と交換中！
 0x008219b9 Introducing! ’I want to fly’ is trading all the money we have right now!
@@ -9101,7 +9133,7 @@
 0x00821abc That’s dangerous!
 
 ; 0x00821ad5 ブラッキィさん！
-0x00821ad5 Slick!
+0x00821ad5 Blacky!
 
 ; 0x00821ae6 まったくどこ投げてるんですか！
 0x00821ae6 Seriously, where are you throwing it?!
@@ -9122,16 +9154,16 @@
 0x00821b90 Thank you!
 
 ; 0x00821b9d ブラッキィ！！
-0x00821b9d Slick!!
+0x00821b9d Blacky!!
 
 ; 0x00821bad ありがとうございます。
 0x00821bad Thank you very much.
 
 ; 0x00821bc4 ブラッキィさん！！
-0x00821bc4 Slick!!
+0x00821bc4 Blacky!!
 
 ; 0x00821bd8 ブラッキィ！
-0x00821bd8 Slick!
+0x00821bd8 Blacky!
 
 ; 0x00821be5 サンキューガウ！！
 0x00821be5 Thank you, Gaw!!
@@ -9535,7 +9567,7 @@
 0x009d5a7c Mail
 
 ; 0x009d5a88 タット
-0x009d5a88 Tatt
+0x009d5a88 Tatto
 
 ; 0x009d5a94 ガウ
 0x009d5a94 Gaw
@@ -9933,7 +9965,7 @@
 0x00a20e51 What’s with this weirdo?
 
 ; 0x00a20e65 タット、大丈夫だったガウか？
-0x00a20e65 Tatt, are you okay, Gaw?
+0x00a20e65 Tatto, are you okay, Gaw?
 
 ; 0x00a20e83 さぁ、知らないよこんな
 0x00a20e83 I don’t know, I don’t know.
@@ -9948,7 +9980,7 @@
 0x00a20ec6 Iceberg? What’s that?
 
 ; 0x00a20eda タットも一緒に行って、
-0x00a20eda Tatt, you go with him.
+0x00a20eda Tatto, you go with him.
 
 ; 0x00a20ef1 クリスタルを探そうガウ
 0x00a20ef1 Let’s find the crystal, Gaw.
@@ -9984,7 +10016,7 @@
 0x00a20fe5 Didn’t you give it to me, Gaw?
 
 ; 0x00a20ffc それに、メイルもタットもガウと一緒に氷山に行こうとしてたじゃないガウか。
-0x00a20ffc Besides, Mail and Tatt were trying to go to the iceberg with Gaw, weren’t they?
+0x00a20ffc Besides, Mail and Tatto were trying to go to the iceberg with Gaw, weren’t they?
 
 ; 0x00a21046 ちょっと、待ちなよ。
 0x00a21046 Wait a minute.
@@ -9999,7 +10031,7 @@
 0x00a2108b But...
 
 ; 0x00a21093 タット、何言ってるガウ。
-0x00a21093 Tatt, what are you saying, Gaw?
+0x00a21093 Tatto, what are you saying, Gaw?
 
 ; 0x00a210ac オレは、ガウだガウ。
 0x00a210ac I’m Gaw. Gaw.
@@ -10017,7 +10049,7 @@
 0x00a210ed It’s a Gaw?!
 
 ; 0x00a210ff タット…、
-0x00a210ff Tatt...
+0x00a210ff Tatto...
 
 ; 0x00a2110a ガウのこと忘れちゃったガウか？
 0x00a2110a Did you forget about Gaw?
@@ -10032,7 +10064,7 @@
 0x00a21155 Ah, w-wait, Gaw!
 
 ; 0x00a2116a メイルー！！　タットー！！
-0x00a2116a Mail!! Tatto!!
+0x00a2116a Mail!! Tattoo!!
 
 ; 0x00a212d1 なかったガウか？
 0x00a212d1 Wasn’t there a Gaw?
@@ -10418,7 +10450,7 @@
 0x00a65977 There’s nothing more we can sell.
 
 ; 0x00a7cd2c ブラッキィ
-0x00a7cd2c Slick
+0x00a7cd2c Blacky
 
 ; 0x00a7cd3c ガルドラ
 0x00a7cd3c Gardola
@@ -10427,7 +10459,7 @@
 0x00a7cd4a Dordon
 
 ; 0x00a7cd5b おぅ！　ブラッキィ！
-0x00a7cd5b Oh! Slick!
+0x00a7cd5b Oh! Blacky!
 
 ; 0x00a7cd70 オマエどうしたんだガウ？
 0x00a7cd70 What’s wrong with you, Gaw?
@@ -10463,7 +10495,7 @@
 0x00a7cee8 I wanna go home, Gaw!
 
 ; 0x00a7cef9 メイルやタットにも、
-0x00a7cef9 Even Mail and Tatt...
+0x00a7cef9 Even Mail and Tatto...
 
 ; 0x00a7cf0e 会いたいし…、
 0x00a7cf0e I want to see her...
@@ -10658,16 +10690,16 @@
 0x00a7d664 That’s right, Gaw.
 
 ; 0x00a7d66f メイルとタットとブラッキィ、
-0x00a7d66f Mail, Tatt, and Slick,
+0x00a7d66f Mail, Tatto, and Blacky,
 
 ; 0x00a7d68c 知らないガウか？
 0x00a7d68c You don’t know, Gaw?
 
 ; 0x00a7d6ba メイルとタットは、ガウの仲間
-0x00a7d6ba Mail and Tatt are Gaw’s friends.
+0x00a7d6ba Mail and Tatto are Gaw’s friends.
 
 ; 0x00a7d6d7 ガウけど、ブラッキィは、一応、知合いガウ。
-0x00a7d6d7 It’s Gaw, but Slick is, technically, acquaintance Gaw.
+0x00a7d6d7 It’s Gaw, but Blacky is, technically, acquaintance Gaw.
 
 ; 0x00a7d740 思うよ。
 0x00a7d740 I think so.
@@ -10793,7 +10825,7 @@
 0x00ab6d49 Mail
 
 ; 0x00ab6d55 タット
-0x00ab6d55 Tatt
+0x00ab6d55 Tatto
 
 ; 0x00a7dd31 闘士の装備を手にいれました。
 0x00a7dd31 You’ve obtained your fighter’s equipment.
@@ -11004,7 +11036,7 @@
 0x00ad3d77 There’s nothing more we can sell.
 
 ; 0x00aeb0fa ブラッキィ
-0x00aeb0fa Slick
+0x00aeb0fa Blacky
 
 ; 0x00aeb10a バルフィス
 0x00aeb10a Barfis
@@ -11052,7 +11084,7 @@
 0x00aeb237 There was something wrong with me.
 
 ; 0x00aeb251 メイル、タット、ブラッキィ…。ウー、オマエたち偽者ガウな。
-0x00aeb251 Mail, Tatt, Slick... Ugh, you impostors.
+0x00aeb251 Mail, Tatto, Blacky... Ugh, you impostors.
 
 ; 0x00aeb28c もう、だまされないガウ。
 0x00aeb28c I can’t let myself be fooled anymore.
@@ -11064,10 +11096,10 @@
 0x00aeb2b9 Gaw, I’m Mail.
 
 ; 0x00aeb2d3 僕だよ。　タットだよ。
-0x00aeb2d3 It’s me. It’s Tatt.
+0x00aeb2d3 It’s me. It’s Tatto.
 
 ; 0x00aeb300 ブラッキィくんでーす。
-0x00aeb300 It’s Slick.
+0x00aeb300 It’s Blacky.
 
 ; 0xaeb31a 信用できないガウ。
 0xaeb31a I can’t trust you, Gaw.
@@ -11076,13 +11108,13 @@
 0xaeb32f Mail, do you know what crystals are, Gaw?
 
 ; 0xaeb358 ブラッキィ、ミスリル欲しい
-0xaeb358 Slick, I want silver.
+0xaeb358 Blacky, I want silver.
 
 ; 0x00aeb373 ガウか？
 0x00aeb373 Gaw?
 
 ; 0xaeb37e タット、お師匠様は誰ガウ？
-0xaeb37e Tatt, who’s Master Gaw?
+0xaeb37e Tatto, who’s Master Gaw?
 
 ; 0x00aeb4d0 ない！
 0x00aeb4d0 I don’t!
@@ -11115,7 +11147,7 @@
 0x00aeb625 This time, I’ll get rid of him!!
 
 ; 0x00b54b7a ブラッキィ
-0x00b54b7a Slick
+0x00b54b7a Blacky
 
 ; 0x00b54b8a バルフィス
 0x00b54b8a Barfis
@@ -11163,7 +11195,7 @@
 0x00b54cb7 There was something wrong with me.
 
 ; 0x00b54cd1 メイル、タット、ブラッキィ…。ウー、オマエたち偽者ガウな。
-0x00b54cd1 Mail, Tatt, Slick... Ugh, you impostors.
+0x00b54cd1 Mail, Tatto, Blacky... Ugh, you impostors.
 
 ; 0x00b54d0c もう、だまされないガウ。
 0x00b54d0c I can’t let myself be fooled anymore.
@@ -11175,10 +11207,10 @@
 0x00b54d39 Gaw, I’m Mail.
 
 ; 0x00b54d53 僕だよ。　タットだよ。
-0x00b54d53 It’s me. It’s Tatt.
+0x00b54d53 It’s me. It’s Tatto.
 
 ; 0x00b54d80 ブラッキィくんでーす。
-0x00b54d80 It’s Slick.
+0x00b54d80 It’s Blacky.
 
 ; 0xb54d9a 信用できないガウ。
 0xb54d9a I can’t trust you, Gaw.
@@ -11187,13 +11219,13 @@
 0xb54daf Mail, do you know what crystals are, Gaw?
 
 ; 0xb54dd8 ブラッキィ、ミスリル欲しい
-0xb54dd8 Slick, I want silver.
+0xb54dd8 Blacky, I want silver.
 
 ; 0x00b54df3 ガウか？
 0x00b54df3 Gaw?
 
 ; 0xb54dfe タット、お師匠様は誰ガウ？
-0xb54dfe Tatt, who’s Master Gaw?
+0xb54dfe Tatto, who’s Master Gaw?
 
 ; 0x00b54f50 ない！
 0x00b54f50 I don’t!
@@ -11548,7 +11580,7 @@
 0x00bb59ef We’re being invaded.
 
 ; 0x00bb5a08 そこで相談だが、タット、
-0x00bb5a08 I’d like to discuss this with you, Tatt.
+0x00bb5a08 I’d like to discuss this with you, Tatto.
 
 ; 0x00bb5a21 我々と一緒にフィルラーサを
 0x00bb5a21 Let’s get phillasa with us.
@@ -11560,7 +11592,7 @@
 0x00bb5a51 I’ll help as much as I can.
 
 ; 0x00bb5a66 どうだろう？　タット。
-0x00bb5a66 What do you think, Tatt?
+0x00bb5a66 What do you think, Tatto?
 
 ; 0x00bb5a80 次空の扉ですか。
 0x00bb5a80 The next door in the sky?
@@ -11578,7 +11610,7 @@
 0x00bb5ad3 I see. Thank you.
 
 ; 0xbb5aea タット、これを使ってくれ、
-0xbb5aea Tatt, use this,
+0xbb5aea Tatto, use this,
 
 ; 0x00bb5b07 これは魔法戦士の装備といって、いにしえより、この地に伝わる
 0x00bb5b07 This is called the magic warrior’s equipment. It’s been passed down in this land since ancient times.
@@ -11668,7 +11700,7 @@
 0x00bb5de5 See ya!
 
 ; 0x00bb5e2e タットは、一刻も早く海底宮殿に到達出来るように、
-0x00bb5e2e Tatt wanted to reach the Underwater Palace as soon as possible
+0x00bb5e2e Tatto wanted to reach the Underwater Palace as soon as possible
 
 ; 0x00bb5e5f がんばってくれ！
 0x00bb5e5f Good luck!
@@ -12020,7 +12052,7 @@
 0x00c11280 It’s been stolen!!
 
 ; 0x00c1129c タット、仲間の隊員が、
-0x00c1129c Tatt, one of our men...
+0x00c1129c Tatto, one of our men...
 
 ; 0x00c112b3 この先でおかしな部屋を
 0x00c112b3 We’re going to find a strange room up ahead.
@@ -12035,7 +12067,7 @@
 0x00c112fd Looks like it.
 
 ; 0x00c1130a タット、ロッドは宮殿の中に
-0x00c1130a Tatt, Rod’s in the palace.
+0x00c1130a Tatto, Rod’s in the palace.
 
 ; 0x00c11325 あるらしい。
 0x00c11325 Looks like there is.
@@ -12056,19 +12088,19 @@
 0x00c114e6 It would be a problem if the enemy were to be used as well,
 
 ; 0x00c114ff タットから奪いとったのだろう。我々も、装備の捜索を
-0x00c114ff They must have taken it from Tatt. We must search for their equipment as well.
+0x00c114ff They must have taken it from Tatto. We must search for their equipment as well.
 
 ; 0x00c11532 開始するよ。
 0x00c11532 Let’s get started.
 
 ; 0x00c1153f 何かわかったら、すぐタットに
-0x00c1153f As soon as I find anything, I’ll call Tatt.
+0x00c1153f As soon as I find anything, I’ll call Tatto.
 
 ; 0x00c1155c 知らせるからな。
 0x00c1155c I’ll let you know.
 
 ; 0x00c1156d タットも、何としてでも装備を
-0x00c1156d Tatt will do whatever it takes to equip it, too.
+0x00c1156d Tatto will do whatever it takes to equip it, too.
 
 ; 0x00c1158a 取り戻してくれ。
 0x00c1158a Take it back.
@@ -12086,7 +12118,7 @@
 0x00c115ed Did you find it?
 
 ; 0x00c115fa タット、ミラーが見つかったん
-0x00c115fa Tatt, I found a mirror.
+0x00c115fa Tatto, I found a mirror.
 
 ; 0x00c11617 ですって。
 0x00c11617 That’s what she said.
@@ -12158,7 +12190,7 @@
 0x00c38b49 Mail
 
 ; 0x00c38b55 タット
-0x00c38b55 Tatt
+0x00c38b55 Tatto
 
 ; 0x00c3a3c0 ショートソード　軽量で扱いやすい剣。しかし、殺傷能力は低い。
 0x00c3a3c0 Short Sword A lightweight, easy-to-manage sword. However, its lethality is low.
@@ -12395,7 +12427,7 @@
 0x00c6d103 There’s gotta be!
 
 ; 0x00c6d110 タット、仲間が元の世界で、
-0x00c6d110 Tatt, my friends are back in the real world,
+0x00c6d110 Tatto, my friends are back in the real world,
 
 ; 0x00c6d12b お前のことを待ってるぞ！
 0x00c6d12b I’ll be waiting for you!
@@ -12431,7 +12463,7 @@
 0x00c6d335 I don’t have the key.
 
 ; 0x00c6d358 ちょっと待ってくれ、タット
-0x00c6d358 Wait a minute, Tattt.
+0x00c6d358 Wait a minute, Tattot.
 
 ; 0x00c6d374 あ、隊長
 0x00c6d374 Oh, Captain.
@@ -12440,7 +12472,7 @@
 0x00d15349 Mail
 
 ; 0x00d15355 タット
-0x00d15355 Tatt
+0x00d15355 Tatto
 
 ; 0x00d16bc0 ショートソード　軽量で扱いやすい剣。しかし、殺傷能力は低い。
 0x00d16bc0 Short Sword A lightweight, easy-to-manage sword. However, its lethality is low.
@@ -12858,7 +12890,7 @@
 0x00d4a1d5 Cha.
 
 ; 0x00d4a1dc タットとガウは、無事かしら…。
-0x00d4a1dc I wonder if Tatt and Gaw are safe...
+0x00d4a1dc I wonder if Tatto and Gaw are safe...
 
 ; 0x00d4a1fc わぁ！
 0x00d4a1fc Wow!
@@ -13060,7 +13092,7 @@
 0x00d71149 Mail
 
 ; 0x00d71155 タット
-0x00d71155 Tatt
+0x00d71155 Tatto
 
 ; 0x00d729c0 ショートソード　軽量で扱いやすい剣。しかし、殺傷能力は低い。
 0x00d729c0 Short Sword A lightweight, easy-to-manage sword. However, its lethality is low.
@@ -13294,7 +13326,7 @@
 0x00dccf49 Mail
 
 ; 0x00dccf55 タット
-0x00dccf55 Tatt
+0x00dccf55 Tatto
 
 ; 0x00dce7c0 ショートソード　軽量で扱いやすい剣。しかし、殺傷能力は低い。
 0x00dce7c0 Short Sword A lightweight, easy-to-manage sword. However, its lethality is low.
@@ -13567,7 +13599,7 @@
 0x00f17b49 Mail
 
 ; 0x00f17b55 タット
-0x00f17b55 Tatt
+0x00f17b55 Tatto
 
 ; 0x00f193ce ショートソード　軽量で扱いやすい剣。しかし、殺傷能力は低い。
 0x00f193ce Short Sword A lightweight, easy-to-manage sword. However, its lethality is low.
@@ -13765,7 +13797,7 @@
 0x00f4bf90 Soldiers
 
 ; 0x00f4bf9a ブラッキィ
-0x00f4bf9a Slick
+0x00f4bf9a Blacky
 
 ; 0x00f4bfaa 皇帝
 0x00f4bfaa Emperor
@@ -14071,7 +14103,7 @@
 0x00f4cc57 Aaah!
 
 ; 0x00f4cc65 あれ、タット君も、この国に
-0x00f4cc65 Huh? Tatt’s in this country, too.
+0x00f4cc65 Huh? Tatto’s in this country, too.
 
 ; 0x00f4cc80 来たのかい？
 0x00f4cc80 You’re here?
@@ -14146,7 +14178,7 @@
 0x00f4cf6f Dressed like that.
 
 ; 0x00f4cf7e タット君はいいなぁ。
-0x00f4cf7e You’re so nice, Tatt.
+0x00f4cf7e You’re so nice, Tatto.
 
 ; 0x00f4cf93 あったかそうなマント着てて。
 0x00f4cf93 Wearing a warm-looking cape.
@@ -14459,7 +14491,7 @@
 0x00f73949 Mail
 
 ; 0x00f73955 タット
-0x00f73955 Tatt
+0x00f73955 Tatto
 
 ; 0x00f73961 ガウ
 0x00f73961 Gaw
@@ -14642,13 +14674,13 @@
 0x00f909f8 Take care...
 
 ; 0x00fa7d43 ブラッキィ
-0x00fa7d43 Slick
+0x00fa7d43 Blacky
 
 ; 0x00fa7d53 ペンギン
 0x00fa7d53 Penguin
 
 ; 0x00fa7d61 マテリアル
-0x00fa7d61 Muttonhead
+0x00fa7d61 Material
 
 ; 0x00fa7d71 ナッツ･クラッカー
 0x00fa7d71 Nuts Cracker
@@ -14684,7 +14716,7 @@
 0x00fa7ef9 Huh?
 
 ; 0x00fa7f00 これはブラッキィさんじゃない
-0x00fa7f00 This isn’t Slick.
+0x00fa7f00 This isn’t Blacky.
 
 ; 0x00fa7f1d ですか。
 0x00fa7f1d Is that so?
@@ -14714,7 +14746,7 @@
 0x00fa812e Gaw? This guy,
 
 ; 0x00fa813f ブラッキィってやつガウ。
-0x00fa813f That’s a Slick.
+0x00fa813f That’s a Blacky.
 
 ; 0x00fa8158 じゃまだガウ。
 0x00fa8158 Then it’s still Gaw.
@@ -14744,7 +14776,7 @@
 0x00fa834b We didn’t have enough hot water!
 
 ; 0x00fa8395 ブラッキィさん。
-0x00fa8395 Slick.
+0x00fa8395 Blacky.
 
 ; 0x00fa83c5 ようです。
 0x00fa83c5 Looks like it.
@@ -14834,7 +14866,7 @@
 0x00fa8b86 Did you find any hot water?
 
 ; 0x00fa8b9d さっき、ブラッキィとかいう
-0x00fa8b9d Just now, there was a guy named Slick.
+0x00fa8b9d Just now, there was a guy named Blacky.
 
 ; 0x00fa8bb8 エルフが来てさ、
 0x00fa8bb8 The elves came,
@@ -14879,7 +14911,7 @@
 0x00fa8e09 What the hell is that doll?!
 
 ; 0x00fa8e35 マテリアルガウ！　さっきは
-0x00fa8e35 Muttonhead! That was...
+0x00fa8e35 Material! That was...
 
 ; 0x00fa8e50 よくもだましてくれたガウな。
 0x00fa8e50 How dare you deceive me, Gaw.
@@ -14903,7 +14935,7 @@
 0x00fa9026 I’ll make you like an elf.
 
 ; 0x00fa9049 あたしは、ブラッキィのようにはいかないわよ！
-0x00fa9049 I’m not going to be like you, Slick!
+0x00fa9049 I’m not going to be like you, Blacky!
 
 ; 0x00fa908d やられはしませんよ。
 0x00fa908d I won’t let you get me.
@@ -15029,7 +15061,7 @@
 0x00fcf749 Mail
 
 ; 0x00fcf755 タット
-0x00fcf755 Tatt
+0x00fcf755 Tatto
 
 ; 0x00fd0fce ショートソード　軽量で扱いやすい剣。しかし、殺傷能力は低い。
 0x00fd0fce Short Sword A lightweight, easy-to-manage sword. However, its lethality is low.
@@ -15187,7 +15219,7 @@
 0x00fec7f8 Take care...
 
 ; 0x01003928 ブラッキィ
-0x01003928 Slick
+0x01003928 Blacky
 
 ; 0x01003938 ラップ･ファジル
 0x01003938 Lap Fajill
@@ -15208,7 +15240,7 @@
 0x010039ff I’m causing trouble.
 
 ; 0x01003a1f ブラッキィさん、
-0x01003a1f Slick,
+0x01003a1f Blacky,
 
 ; 0x01003a30 よその国の言葉に、
 0x01003a30 At the words of another country,
@@ -15367,7 +15399,7 @@
 0x0102b549 Mail
 
 ; 0x0102b555 タット
-0x0102b555 Tatt
+0x0102b555 Tatto
 
 ; 0x0102cdce ショートソード　軽量で扱いやすい剣。しかし、殺傷能力は低い。
 0x0102cdce Short Sword A lightweight, easy-to-manage sword. However, its lethality is low.
@@ -15565,19 +15597,19 @@
 0x0105f79b Otherwise, your life will be forfeit!
 
 ; 0x0105f7ec それとあんた、ブラッキィ閉じ
-0x0105f7ec And you, Slick, close up.
+0x0105f7ec And you, Blacky, close up.
 
 ; 0x0105f822 いうのよ！！
 0x0105f822 Say it!!
 
 ; 0x0105f87e ブラッキィさんを、
-0x0105f87e I’ll take care of Slick,
+0x0105f87e I’ll take care of Blacky,
 
 ; 0x0105f891 どうするつもりです？
 0x0105f891 What are you going to do?
 
 ; 0x0105f8bf そんなことより、ブラッキィを
-0x0105f8bf More importantly, let’s get Slick.
+0x0105f8bf More importantly, let’s get Blacky.
 
 ; 0x0105f8dc どうするつもりガウ。
 0x0105f8dc What are you going to do, Gaw?
@@ -15643,7 +15675,7 @@
 0x0105fd43 Really? Sorry about that.
 
 ; 0x0105fd93 ブラッキィっていうエルフを
-0x0105fd93 An elf named Slick.
+0x0105fd93 An elf named Blacky.
 
 ; 0x0105fddf あたしの知り合いなのよ。
 0x0105fddf He’s an acquaintance of mine.
@@ -15691,7 +15723,7 @@
 0x010a75ad Mail
 
 ; 0x010a75b9 タット
-0x010a75b9 Tatt
+0x010a75b9 Tatto
 
 ; 0x010a7df4 Ａ０１２３４５６７８９　迚	
 0x010a7df4 A0123456789
@@ -15823,7 +15855,7 @@
 0x010aaca7 Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x010db792 ブラッキィ
-0x010db792 Slick
+0x010db792 Blacky
 
 ; 0x010db7a2 ラップ･ファジル
 0x010db7a2 Lap Fajill
@@ -15841,7 +15873,7 @@
 0x010db869 I’m causing trouble.
 
 ; 0x010db889 ブラッキィさん、
-0x010db889 Slick,
+0x010db889 Blacky,
 
 ; 0x010db89a よその国の言葉に、
 0x010db89a At the words of another country,
@@ -15997,7 +16029,7 @@
 0x010f5749 Mail
 
 ; 0x010f5755 タット
-0x010f5755 Tatt
+0x010f5755 Tatto
 
 ; 0x010f6fce ショートソード　軽量で扱いやすい剣。しかし、殺傷能力は低い。
 0x010f6fce Short Sword A lightweight, easy-to-manage sword. However, its lethality is low.
@@ -16162,7 +16194,7 @@
 0x01151549 Mail
 
 ; 0x01151555 タット
-0x01151555 Tatt
+0x01151555 Tatto
 
 ; 0x01152dce ショートソード　軽量で扱いやすい剣。しかし、殺傷能力は低い。
 0x01152dce Short Sword A lightweight, easy-to-manage sword. However, its lethality is low.
@@ -16330,7 +16362,7 @@
 0x011ad349 Mail
 
 ; 0x011ad355 タット
-0x011ad355 Tatt
+0x011ad355 Tatto
 
 ; 0x011aebce ショートソード　軽量で扱いやすい剣。しかし、殺傷能力は低い。
 0x011aebce Short Sword A lightweight, easy-to-manage sword. However, its lethality is low.
@@ -16498,13 +16530,13 @@
 0x011e1b40 Glug
 
 ; 0x011e1b4c ブラッキィ
-0x011e1b4c Slick
+0x011e1b4c Blacky
 
 ; 0x011e1b5c マテリアル
-0x011e1b5c Muttonhead
+0x011e1b5c Material
 
 ; 0x011e1b72 あら、ブラッキィとヤコブ
-0x011e1b72 Oh, Slick and Glug
+0x011e1b72 Oh, Blacky and Glug
 
 ; 0x011e1b8b じゃない。
 0x011e1b8b It’s not.
@@ -16519,7 +16551,7 @@
 0x011e1bdb Just the two of us here.
 
 ; 0x011e1bf6 あっ、ブラッキィとヤコブだ
-0x011e1bf6 Oh, it’s Slick and Glug
+0x011e1bf6 Oh, it’s Blacky and Glug
 
 ; 0x011e1c11 ガウ。
 0x011e1c11 Gaw.
@@ -16567,13 +16599,13 @@
 0x011e1eaa I’m here.
 
 ; 0x011e1eb7 ミスリルを人民解放軍から、
-0x011e1eb7 Muttonhead gave silver
+0x011e1eb7 Material gave silver
 
 ; 0x011e1efd マテリアルって人は。
 0x011e1efd to the Rebel Army.
 
 ; 0x011e1f1a えっ！　マテリアル！？
-0x011e1f1a Huh?! Muttonhead?!
+0x011e1f1a Huh?! Material?!
 
 ; 0x011e1f33 そいつが、魔神の封印を解いた
 0x011e1f33 That’s the one who broke the god’s seal.
@@ -16594,7 +16626,7 @@
 0x011e1fd7 I’m sure you’ll use that body of yours on the Archdemon.
 
 ; 0x011e2001 マテリアルガウか？
-0x011e2001 Muttonhead Gaw?
+0x011e2001 Material Gaw?
 
 ; 0x011e2016 そいつ、フーイン解いたやつ
 0x011e2016 That’s the one who solved Huin.
@@ -16636,7 +16668,7 @@
 0x011e21f4 I put it away.
 
 ; 0x011e21ff ブラッキィ！
-0x011e21ff Slick!
+0x011e21ff Blacky!
 
 ; 0x011e220d 　逃げよう！
 0x011e220d Let’s run!
@@ -16651,7 +16683,7 @@
 0x01209149 Mail
 
 ; 0x01209155 タット
-0x01209155 Tatt
+0x01209155 Tatto
 
 ; 0x0120a9ce ショートソード　軽量で扱いやすい剣。しかし、殺傷能力は低い。
 0x0120a9ce Short Sword A lightweight, easy-to-manage sword. However, its lethality is low.
@@ -16816,7 +16848,7 @@
 0x01226232 Take care...
 
 ; 0x0123d679 マテリアル
-0x0123d679 Muttonhead
+0x0123d679 Material
 
 ; 0x0123d689 ナッツ･クラッカー
 0x0123d689 Nuts Cracker
@@ -16825,7 +16857,7 @@
 0x0123d6a1 Glug.
 
 ; 0x0123d6ad ブラッキィ
-0x0123d6ad Slick
+0x0123d6ad Blacky
 
 ; 0x0123d6c2 おのれ！！
 0x0123d6c2 Curse you!!
@@ -16846,7 +16878,7 @@
 0x0123d722 Leave it to me.
 
 ; 0x0123d731 マテリアル様。
-0x0123d731 Sir Muttonhead.
+0x0123d731 Sir Material.
 
 ; 0x0123d741 遖さぁ、いくぞ！！.
 0x0123d741 Come on, let’s go!!
@@ -16879,7 +16911,7 @@
 0x0123d90d Please wake up!!
 
 ; 0x0123d922 あっ！コイツ、マテリアルガウ。どうしたんだガウ？
-0x0123d922 Ah! This is Muttonhead Gaw. What’s wrong, Gaw?
+0x0123d922 Ah! This is Material Gaw. What’s wrong, Gaw?
 
 ; 0x0123d953 起きるガウ。
 0x0123d953 Gaw wakes up.
@@ -16918,13 +16950,13 @@
 0x0123da43 Heh heh heh heh.
 
 ; 0x0123da64 あれっ、ヤコブとブラッキィ！
-0x0123da64 Hey, Glug and Slick!
+0x0123da64 Hey, Glug and Blacky!
 
 ; 0x0123da81 あんたたち、怖くて逃げたんじゃなかったの？
 0x0123da81 Didn’t you guys run away because you were scared?
 
 ; 0x0123dab0 あれっ、ヤコブさんとブラッキィさん。
-0x0123dab0 Oh, Glug and Slick.
+0x0123dab0 Oh, Glug and Blacky.
 
 ; 0x0123dad5 鉱山に戻ったんじゃなかったん
 0x0123dad5 I thought you went back to the mine.
@@ -16951,7 +16983,7 @@
 0x0123db88 You can’t use that as a bad thing,
 
 ; 0x0123dba5 考えてたら、だんだん腹が立ってきちゃってさ、せめてマテリアルだけでも、こらしめてやろうと、こうしてブラッキィと一緒に
-0x0123dba5 As I thought about it, I got more and more angry, so I decided to at least give him some materials, so I went with Slick like this.
+0x0123dba5 As I thought about it, I got more and more angry, so I decided to at least give him some materials, so I went with Blacky like this.
 
 ; 0x0123dc1a 来たってわけさ。
 0x0123dc1a I’m here.
@@ -17053,7 +17085,7 @@
 0x01264f49 Mail
 
 ; 0x01264f55 タット
-0x01264f55 Tatt
+0x01264f55 Tatto
 
 ; 0x01264f61 ガウ
 0x01264f61 Gaw
@@ -17278,7 +17310,7 @@
 0x0129906a Mail,
 
 ; 0x1299074 タット、
-0x1299074 Tatt,
+0x1299074 Tatto,
 
 ; 0x0129907f 幻影世界のみんな･･･。
 0x0129907f Everyone in the phantom world...
@@ -17320,7 +17352,7 @@
 0x012991b2 It’s become...
 
 ; 0x012991cb タットとガウは大丈夫かしら。
-0x012991cb I wonder if Tatt and Gaw will be okay.
+0x012991cb I wonder if Tatto and Gaw will be okay.
 
 ; 0x012991e8 でも、人の心配より自分の事よ。お宝の為にも行かなきゃ！
 0x012991e8 But I don’t care about others. I care about myself. I have to go for the treasure!
@@ -17329,7 +17361,7 @@
 0x012e593c Mail
 
 ; 0x012e5948 タット
-0x012e5948 Tatt
+0x012e5948 Tatto
 
 ; 0x012e5954 ガウ
 0x012e5954 Gaw
@@ -17579,7 +17611,7 @@
 0x01319974 Mail,
 
 ; 0x131997e タット、
-0x131997e Tatt,
+0x131997e Tatto,
 
 ; 0x01319989 幻影世界のみんな･･･。
 0x01319989 Everyone in the phantom world...
@@ -17621,7 +17653,7 @@
 0x01319abc It’s become...
 
 ; 0x01319ad5 タットとガウは大丈夫かしら。
-0x01319ad5 I wonder if Tatt and Gaw will be okay.
+0x01319ad5 I wonder if Tatto and Gaw will be okay.
 
 ; 0x01319af2 でも、人の心配より自分の事よ。お宝の為にも行かなきゃ
 0x01319af2 But I’m more concerned about myself than other people. I have to go for the treasure.
@@ -17698,7 +17730,7 @@
 0x013bd7a3 Mail
 
 ; 0x013bd7af タット
-0x013bd7af Tatt
+0x013bd7af Tatto
 
 ; 0x013bd7bb ガウ
 0x013bd7bb Gaw
@@ -17887,7 +17919,7 @@
 0x013f17f4 Mail,
 
 ; 0x13f17fe タット、
-0x13f17fe Tatt,
+0x13f17fe Tatto,
 
 ; 0x013f1809 幻影世界のみんな･･･。
 0x013f1809 Everyone in the phantom world...
@@ -17920,4 +17952,4 @@
 0x013f193c It’s become...
 
 ; 0x013f1955 タットとガウは大丈夫かしら。
-0x013f1955 I wonder if Tatt and Gaw will be okay.
+0x013f1955 I wonder if Tatto and Gaw will be okay.
