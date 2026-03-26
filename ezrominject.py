@@ -90,12 +90,17 @@ def encode_to_custom_sjis(text):
             # FALLBACK: Convert symbols to standard 2-byte Shift-JIS
             try:
                 # This converts '!' to b'\x81\x49', etc.
+                #sjis_symbol = char1.encode('shift_jis')
                 sjis_symbol = char1.encode('shift_jis')
                 
                 # If it's a single-byte ASCII (0x21-0x7E), 
                 # we force it to full-width by adding the specific SJIS offset
                 # or just use the encoded result if you prefer mixed width.
-                if len(sjis_symbol) == 1:
+                if len(sjis_symbol) == 2:
+                    encoded_bytes.extend(sjis_symbol)
+                else:
+                    encoded_bytes.extend(to_fullwidth_char(char1).encode('shift_jis'))
+                    
                 #    # Logic to force "Full Width" version if desired:
                 #    # Most game engines prefer 0x81XX for symbols
                 #    full_width_map = {
@@ -111,11 +116,12 @@ def encode_to_custom_sjis(text):
                 #        "-": b'\x81\x5C'   # Hyphen/Dash
                 #    }
                 #    encoded_bytes.extend(full_width_map.get(char1, sjis_symbol))
-                    encoded_bytes.extend(to_fullwidth_char(sjis_symbol))
-                else:
-                    encoded_bytes.extend(sjis_symbol)
+                    
             except:
                 # Fallback to standard SJIS Space (0x8140)
+                #import logging
+                #logging.exception("")
+                #print("cannot encode: " + str(char1))
                 encoded_bytes.extend([0x81, 0x40])
             i += 1
         #end if
@@ -415,6 +421,13 @@ def run_injection(jap_path, eng_path, rom_path):
         eng_text = eng_text.replace("\'", "’")
         #eng_text = eng_text.replace(" ", "　")  # double-width space
         #eng_text = eng_text.replace(", ", ",")
+        
+        if ASCII_BIOS_HACK:
+            # save space with current font without symbols
+            eng_text = eng_text.replace(". ", "。")
+            eng_text = eng_text.replace(", ", ",")
+            eng_text = eng_text.replace(": ", ":")
+            eng_text = eng_text.replace("; ", ";")
                 
         target_char_len = jap_map[addr_int]
         
