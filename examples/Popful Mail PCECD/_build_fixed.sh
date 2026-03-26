@@ -9,7 +9,7 @@ repeat_block() {
     ORIG_BLOCK_HEX=$(sfk hexdump -raw -offlen $ORIG_BLOCK_OFFSET $LEN "$INPUT_FILE")
     REPL_BLOCK_HEX=$(sfk hexdump -raw -offlen $REPL_BLOCK_OFFSET $LEN "$INPUT_FILE")
 		
-	# binary search-replace 
+	# binary search-replace   https://stahlworks.com/sfk-rep
 	sfk replace "$INPUT_FILE" -binary /$ORIG_BLOCK_HEX/$REPL_BLOCK_HEX/  -yes 
 }
 
@@ -29,6 +29,7 @@ patch_repeated_blocks() {
     repeat_block 0x8352a0 0x235274 2380  "$OUTPUT_ROM"  # shop items (alt. smaller) -> TODO: test
 }
 
+
 # jap dub ver
 
 INPUT_ROM="PopfulMail (Japan) (Track 02).bin"
@@ -43,15 +44,14 @@ rominject.py *_jap.txt *_eng.txt "$OUTPUT_ROM.tmp"  --ascii-bios-hack
 bchunk-bin2iso -t 00:03:00 "$OUTPUT_ROM.tmp" "$OUTPUT_ROM"
 rm "$OUTPUT_ROM.tmp"
 
-
 # patch repeated blocks
 #ITEMS_JAP_STR=$(sfk hexdump -raw -offlen 0xf3e6a3 1128 "$OUTPUT_ROM")
 #ITEMS_ENG_STR=$(sfk hexdump -raw -offlen 0x22e782 1128 "$OUTPUT_ROM")
 #sfk replace "$OUTPUT_ROM" -binary /$ITEMS_JAP_STR/$ITEMS_ENG_STR/  -yes 
 patch_repeated_blocks
 
-
 xdelta3 -S none -f -e -s "$INPUT_ROM" "$OUTPUT_ROM"  "$OUTPUT_ROM.xdelta"
+
 
 ## eng dub
 
@@ -71,4 +71,4 @@ rm "$OUTPUT_ROM.tmp"
 #sfk replace "$OUTPUT_ROM" -binary /$ITEMS_JAP_STR/$ITEMS_ENG_STR/  -yes 
 patch_repeated_blocks
 
-xdelta3 -S none -f -e -s "$INPUT_ROM" "$OUTPUT_ROM"  "$OUTPUT_ROM.xdelta"
+xdelta3 -S none -f -e -s "02 Magical Fantasy Adventure - Popful Mail (J).iso" "$OUTPUT_ROM"  "$OUTPUT_ROM.xdelta"
