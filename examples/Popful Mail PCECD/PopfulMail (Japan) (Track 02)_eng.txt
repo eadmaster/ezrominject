@@ -460,7 +460,7 @@
 0x00398e09 I'll pay you well.
 
 ; 0x00398e29 ふうん。
-0x00398e29 Hmm.
+0x00398e29 Hmm...
 
 ; 0x00398e32 実はあたし、賞金稼ぎなのよ。
 0x00398e32 I’m a bounty hunter.
@@ -469,43 +469,46 @@
 0x00398e4f I came to this jungle
 
 ; 0x00398e68 賞金首になっているマテリアルを探しているからなの。
-0x00398e68 looking for Material bounty.
+0x00398e68 looking for a bounty on someone named Material.
 
 ; 0x00398e9c あんたがその賞金よりも、
-0x00398e9c If you pay more,
+0x00398e9c If you'll pay me more
 
 ; 0x00398eb5 もし、多く金を出してくれるっていうのなら、考えてもいいわ。
-0x00398eb5 I’ll consider it.
+0x00398eb5 than the reward I’ll consider it.
+
+; 0x00398ef3 じょ、
+0x00398ef3 Are u
 
 ; 0x00398efb 冗談じゃない！
-0x00398efb No way!
+0x00398efb kidding me!?
 
 ; 0x00398f0a そんなに、持ってるわけない
-0x00398f0a I can’t.
+0x00398f0a I don't have that money.
 
 ; 0x00398f25 だろ！！
-0x00398f25 Right?!
+0x00398f25 No!
 
 ; 0x00398f38 仕方がない。
-0x00398f38 Fine.
+0x00398f38 It's no use.
 
 ; 0x00398f45 町にいくのはあきらめるよ。
-0x00398f45 I’ll give up.
+0x00398f45 I give up on the city.
 
 ; 0x00398f62 そのかわり早く助けを呼んできてくれないか。
-0x00398f62 But get help quickly.
+0x00398f62 Instead, could you go get me some help?
 
 ; 0x00398f8d いつまでも、こんな
-0x00398f8d I can’t stay like this
+0x00398f8d I don't wanna be stuck here
 
 ; 0x003990da ないからね。
-0x003990da forever.
+0x003990da anymore.
 
 ; 0x003990f0 おかしいわねぇ。
 0x003990f0 That’s odd.
 
 ; 0x00399101 あんたの仲間に、知らせておいたのに…。
-0x00399101 I let your friends know...
+0x00399101 I'll let your friends know...
 
 ; 0x0039912a 何やってんのかしら…。
 0x0039912a I wonder what they'll do...
@@ -536,49 +539,54 @@
 
 ; 0x00399234 一体、どれだけ私たちに心配を
 0x00399234 How much worry for us?
+
 ; 0x00399251 かければ、気がすむのかしら。
 0x00399251 I wonder if I'll feel better.
+
 ; 0x0039926e あなた、魔法使いね。
 0x0039926e You’re a wizard.
 
 ; 0x00399283 男ならやっぱり、たくましい
 0x00399283 If man, be strong.
+
 ; 0x0039929e 戦士じゃなくちゃ。
 0x0039929e Must be a warrior.
+
 ; 0x003992b1 あなた、怪獣ね。
 0x003992b1 You're a monster.
+
 ; 0x003992c2 私、怪獣は好きじゃないの。
 0x003992c2 I don’t like monsters.
 
-; 0x003992e4 あなた、行方不明になった
-;0x003992e4 You went missing.
+; 0x003992e3 5あなた、行方不明になった
+0x003992e3 I heard you found Blacky
 
 ; 0x003992fd ブラッキィさんを見つけて
-0x003992fd Find Blacky.
+0x003992fd who went missing,
 
 ; 0x00399316 くれたんですって？
-0x00399316 You gave it to me?
+0x00399316 If so, then...
 
 ; 0x00399329 だったら、何で一緒に連れてきてくれなかったのよ！
-0x00399329 Why not bring me with you?!
+0x00399329 why didn't you bring him here?
 
 ; 0x0039935c あなた賞金稼ぎらしいけど、
-0x0039935c I heard you’re a bounty hunter.
+0x0039935c Let me guess, you’re a bounty hunter,
 
 ; 0x00399377 お金にしか興味のない、
-0x00399377 Only interested in money.
+0x00399377 a cold person who only
 
 ; 0x0039938e 冷たい人間なのね。
-0x0039938e You're cold.
+0x0039938e cares about money.
 
 ; 0x003993a1 ブラッキィさん、どうしている
-0x003993a1 What is Blacky doing,
+0x003993a1 I wonder how Blacky is
 
 ; 0x003993be かしら…。
-0x003993be I wonder...
+0x003993be doing...
 
 ; 0x003993c9 まったく、ブラッキィさんたら、何やってるのかしら…。
-0x003993c9 What Blacky is doing...
+0x003993c9 Honestly, what on earth is Blacky up to...?
 
 ; 0x003993fe みんなに、心配かけて…。
 0x003993fe He made everyone worry...
@@ -623,34 +631,34 @@
 0x0039957a stranger here.
 
 ; 0x00399593 そういえば、何日か前にも赤い
-0x00399593 Come to think of it, a boy
+0x00399593 Come to think of it, a man
 
 ; 0x003995b0 マントをはおった男の人が、
-0x003995b0 wearing a red cape came a
+0x003995b0 wearing a red cloak came a
 
 ; 0x003995cb 来たっけ。
-0x003995cb few days ago too.
+0x003995cb few days ago.
 
 ; 0x003995d8 なんでも、自分のお師匠様を
-0x003995d8 He said he was looking for
+0x003995d8 Apparently he was looking for
 
 ; 0x003995f3 探しているとかいって、奥に
-0x003995f3 his master, and went 
+0x003995f3 his master, so he went on
 
 ; 0x0039960e 進んでいったわ。
-0x0039960e further inside.
+0x0039960e further ahead.
 
 ; 0x00399621 でも、このジャングルの奥には、そのへんにいる魔物とは、
-0x00399621 But deep in this jungle, there are monsters
+0x00399621 However deep in this jungle, there are monsters far
 
 ; 0x00399658 比べものにならないくらい
-0x00399658 far more terrifying
+0x00399658 more fearsome than anything
 
 ; 0x00399671 恐ろしい魔物がいるのよ。
-0x00399671 than before.
+0x00399671 you'll see in town.
 
 ; 0x0039968c 大丈夫かしらね…。
-0x0039968c I wonder if he’ll be okay...
+0x0039968c Be safe...
 
 ; 0x003996ad こんな所に珍しいわね。
 0x003996ad It’s rare to see you in a place like this.
@@ -695,16 +703,16 @@
 0x003997d5 If you go through that hole, you can go up.
 
 ; 0x00399807 気をつけていきなよ。
-0x00399807 Be careful.
+0x00399807 But be careful!
 
 ; 0x0039981e ･この村は、大きな木の下にある
-0x0039981e This village is under a large tree.
+0x0039981e This village is under a big
 
 ; 0x0039983c からたまに、魔物が落ちて
-0x0039983c From time to time, monsters fell.
+0x0039983c tree. Sometimes monsters
 
 ; 0x00399855 くるんだ。
-0x00399855 Come on.
+0x00399855 fall down.
 
 ; 0x00399860 その魔物を退治するのが、俺達の役目さ。
 0x00399860 It’s our duty to kill those monsters.
@@ -716,46 +724,46 @@
 0x003998b1 I didn’t think you’d fall.
 
 ; 0x00399a0f えっ、ブラッキィが抜け出し
-0x00399a0f Blacky ran away.
+0x00399a0f Huh? Blacky ran away.
 
 ; 0x00399a2a たって！？
 0x00399a2a What?!
 
 ; 0x00399a35 いつか、この村を出て行って
-0x00399a35 Someday, I’ll leave this village
+0x00399a35 He said he'd leave this
 
 ; 0x00399a50 やると言っていたが、ついに
-0x00399a50 He’d said he’d do it, but at last
+0x00399a50 village someday, and he
 
 ; 0x00399a6b 出て行ったか…。
-0x00399a6b So he left...
+0x00399a6b finally did.
 
 ; 0x00399a7d でも彼、何も武器を持ってない
-0x00399a7d But he doesn’t have a weapon.
+0x00399a7d But he doesn’t have any
 
 ; 0x00399a9a から、そのうち魔物にやられて
-0x00399a9a So, the monsters
+0x00399a9a weapons so the monsters will
 
 ; 0x00399ab7 しまうわ。
-0x00399ab7  got him.
+0x00399ab7  get him.
 
 ; 0x00399ac2 だから、あなた達が助けてあげてくれないかしら。
-0x00399ac2 That’s why I’d like you to help him.
+0x00399ac2 So I hope you guys can help him out.
 
 ; 0x00399af3 ･わかったよ。
-0x00399af3 Okay.
+0x00399af3 Alright,
 
 ; 0x00399b01 早速、仲間と一緒に助けに
-0x00399b01 We're going right
+0x00399b01 we're going right
 
 ; 0x00399b1a 行くよ。
 0x00399b1a now.
 
 ; 0x00399b23 ところで、ブラッキィは、
-0x00399b23 By the way, where
+0x00399b23 Where exactly is Blacky
 
 ; 0x00399b3c 今どこにいるんだい？
-0x00399b3c is Blacky?
+0x00399b3c now?
 
 ; 0x00399b52 このジャングルを、左に行った
 0x00399b52 Go left through this jungle,
@@ -785,13 +793,13 @@
 0x00399c2b That’s right.
 
 ; 0x00399c3e ･やぁ、こんなジャングル奥地の
-0x00399c3e Hey, deep in this jungle
+0x00399c3e It's rare to have visitors
 
 ; 0x00399c5c 村にお客さんが、来るなんて
-0x00399c5c visitors are 
+0x00399c5c in a village this deep in
 
 ; 0x00399c77 珍しいな。
-0x00399c77 rare.
+0x00399c77 the jungle.
 
 ; 0x00399c82 僕は、この下にある村に、魔物が落ちないように見張りをして
 0x00399c82 I’m watching over the village to make sure no monsters
@@ -800,115 +808,115 @@
 0x00399cbb fall in.
 
 ; 0x00399cc9 ﾖ･おや、君は誰だい？
-0x00399cc9 Oh, who are you?
+0x00399cc9 Who are you?
 
 ; 0x00399cde こんな所で、何をしているん
-0x00399cde and what are you doing
+0x00399cde What are you doing
 
 ; 0x00399cf9 だい？
 0x00399cf9 here?
 
 ; 0x00399d01 あたしは、メイル。
-0x00399d01 I’m Mail.
+0x00399d01 I'm Mail, bounty
 
 ; 0x00399d14 賞金稼ぎよ。
-0x00399d14 Bounty hunter.
+0x00399d14 hunter.
 
 ; 0x00399d21 賞金首のマテリアルを、探しに
-0x00399d21 I came this far looking for
+0x00399d21 I'm looking for Material,
 
 ; 0x00399d3e ここまで来たの。
-0x00399d3e Material's bounty.
+0x00399d3e there's bounty on him.
 
 ; 0x00399d54 賞金稼ぎかい？
-0x00399d54 A bounty hunter?
+0x00399d54 Ah, a bounty hunter...
 
 ; 0x00399d65 じゃあ、マリオネット強盗団
 0x00399d65 Have you heard about the
 
 ; 0x00399d80 というのを知らないかい？
-0x00399d80  Marionette Gang?
+0x00399d80 Marionette Gang?
 
 ; 0x00399d9b 最近、そいつらがこの辺りに
-0x00399d9b They’ve been around here lately,
+0x00399d9b Lately they’ve been
 
 ; 0x00399db6 現れて、村の人達が被害にあっているんだ。
-0x00399db6 and the villagers are suffering.
+0x00399db6 causing trouble for the villagers.
 
 ; 0x399de1 それで俺は、そいつらを追って
-0x399de1 That’s why I’m chasing 
+0x399de1 So I'm trying to chase them
 
 ; 0x00399dfe いるんだ。
-0x00399dfe them.
+0x00399dfe down.
 
 ; 0x00399e0a マリオネット強盗団…
-0x00399e0a Marionette Gang...
+0x00399e0a The Marionette Gang...
 
 ; 0x00399e1f ですって！？
 0x00399e1f What?!
 
 ; 0x00399e2c あたしも、この村へ来る途中に
-0x00399e2c I was on my way to this village, too
+0x00399e2c I almost caught up with them
 
 ; 0x00399e49 あと一歩という所まで追いつめ
-0x00399e49 We’re just one step away from him.
+0x00399e49 on my way to this village,
 
 ; 0x00399e66 たんだけど、逃げられちゃった
-0x00399e66 I tried, but he ran away.
+0x00399e66 but they got away.
 
 ; 0x00399e83 のよ。
-0x00399e83 That’s right.
+0x00399e83 -
 
 ; 0x00399e8b ﾖ･そうか…。
-;0x00399e8b I see...
+0x00399e8b I see...
 
 ; 0x00399e98 実は、俺の村も被害にあってね。やつらには、困りはてて
-0x00399e98 My village was damaged too. They were troubled.
+0x00399e98 Our village was hit and I can't keep up with
 
 ; 0x00399ecd いるんだ。
-0x00399ecd She’s here.
+0x00399ecd them.
 
 ; 0x00399eda 俺の名は、ナモ。
-0x00399eda I'm Namo.
+0x00399eda My name is Namo.
 
 ; 0x00399eeb もしやつらの足取りでも
-0x00399eeb If you find their tracks
+0x00399eeb If you ever find anything
 
 ; 0x00399f02 つかめたら教えてくれ。
-0x00399f02 let me know.
+0x00399f02 about them, let me know.
 
 ; 0x00399f1c あんたにそんなこと教えて
-0x00399f1c Why tell you?
+0x00399f1c What do I gain from
 
 ; 0x00399f35 あたしになんか得でもあんの？
-0x00399f35 What’s in it for me?
+0x00399f35 giving you information?
 
 ; 0x00399f57 俺は大樹木の塔の村一番の
-0x00399f57 I’m the best in Tower of Trees village.
+0x00399f57 I’m the most powerful
 
 ; 0x00399f70 力自慢さ。
-0x00399f70 I’m proud of my power.
+0x00399f70 person in the village of Big Tree Town.
 
 ; 0x00399f7b 何か、役に立てることもきっと
-0x00399f7b I’m sure I can help you.
+0x00399f7b I’m sure I can be helpful
 
 ; 0x00399f98 あるさ。
-0x00399f98 Yeah.
+0x00399f98 some way.
 
 ; 0x00399fa6 ｦがんばってメイルも、
-0x00399fa6 Good luck, Mail,
+0x00399fa6 Good luck, Mail.
 
 ; 0x00399fbc マテリアルのヤツを捕まえて
-0x00399fbc catching Material.
+0x00399fbc Catch that Material
 
 ; 0x00399fd7 くれよ。
-0x00399fd7 Give it to me.
+0x00399fd7 guy.
 
 ; 0x00399fe0 あんなやつらを、野放しに
-0x00399fe0 Can't let them run free.
+0x00399fe0 we cannot let people
 
 ; 0x00399ff9 しては、絶対にいけない。
-0x00399ff9 Absolutely not.
+0x00399ff9 like him run wild.
 
 ; 0x0039a017 ｦ俺も、もう少ししたら村に
 0x0039a017 I’ll be in the village in a little while.
