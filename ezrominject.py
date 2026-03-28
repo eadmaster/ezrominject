@@ -406,6 +406,13 @@ def run_injection(jap_path, eng_path, rom_path):
             print(f"Skip: Address {addr_str} not found in {jap_path} logic")
             continue
         
+        if ASCII_BIOS_HACK:
+            # save space with current font without symbols
+            eng_text = eng_text.replace(". ", ".")
+            eng_text = eng_text.replace(", ", ",")
+            eng_text = eng_text.replace(": ", ":")
+            eng_text = eng_text.replace("; ", ";")
+            
         # replace some chars to save space
         eng_text = eng_text.replace("...", "…")
         eng_text = eng_text.replace("..", "…")
@@ -422,13 +429,6 @@ def run_injection(jap_path, eng_path, rom_path):
         #eng_text = eng_text.replace(" ", "　")  # double-width space
         #eng_text = eng_text.replace(", ", ",")
         
-        if ASCII_BIOS_HACK:
-            # save space with current font without symbols
-            eng_text = eng_text.replace(". ", "。")
-            eng_text = eng_text.replace(", ", ",")
-            eng_text = eng_text.replace(": ", ":")
-            eng_text = eng_text.replace("; ", ";")
-                
         target_char_len = jap_map[addr_int]
         
         # Adjust character length (Truncate)
