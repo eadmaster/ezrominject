@@ -9,7 +9,7 @@
 
 ## Preview  👀
 
-![shot](demo1.png)
+![shot](demo1.png)  ![shot](demo2.png)  ![shot](demo3.png)
 
 
 ## Patch instructions  🩹

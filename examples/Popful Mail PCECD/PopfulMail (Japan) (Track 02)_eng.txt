@@ -8,7 +8,7 @@
 ; 0x00302802 　　　　　　　　ショートソード　ロングソード　　ファルシオン　　フレイムソード　ライトセイバー　ファイア　　　　ファイアＤＸ　
 ; 0x003029b0 　サンダー　　　　ホーミング　　　フォース　　　　ファイアボール　テイルアタック　アックス　　　　アイアンクロー　ファイアブレス　レザーアーマー　チェーンメイル　プレートメイル　ミスリルアーマーゴールドアーマーレッドローブ　　ブルーローブ　　イエローローブ　シルバーローブ　ゴールドローブ　レザーアーマー　チェーンメイル　プレートメイル　ミスリルアーマーゴールドアーマーウッドシールド　スモールシールドラージシールド　ミスリルシールドゴールドシールドブロンズミラー　メタルミラー　　プラチナミラー　ミスリルミラー　ゴールドミラー　ウッドシールド　スモールシールドラージシールド　ミスリルシールドゴールドシールド無敵　　　９９個ヘルメット９９個スパイクブーツ　石靴　　　　　　つるはし　　　　ダガー　　　　　ブーメラン　　　オレンジ　　９個チェリー　　９個リンゴ　　　９個　　　　　　　　金塊　　　　９個エリクサー　９個魔法瓶　　　　　爆弾　　　　　　はしご　　　　　カギ　　　　　　牢屋の鍵　　　　細工物　　　　　クリスタル　　　クリスタル　　　クリスタル　　　クリスタル　　　宝玉　　　　　　　　ＤＸ
 0x00302802                 Short Sword     Long Sword      Falchion        Flame Sword     Light Saber     Fire            Fire DX         
-0x003029b0   Thunder         Homing          Force           Fireball        Tail Attack     Axe             Iron Claw       Fire Breath     Leather Mail    Chain Mail      Plate Mail      Silver Mail     Gold Mail       Red Robe        Blue Robe       Yellow Robe     Silver Robe     Gold Robe       Leather Mail    Chain Mail      Plate Mail      Silver Mail     Gold Mail       Wood Shield     Small Shield    Large Shield    Silver Shield   Gold Shield     Bronze Mirror   Metal Mirror    Platinum Mirror Mithril Mirror  Gold Mirror     Wood Shield     Small Shield    Large Shield    Silver Shield   Gold Shield     Invincible      99 Helmets      99 Spike Boots  Stone Shoes     Pickaxe         Dagger          Boomerang       Orange      9 Cherry      9 Apple       9              Gold Bar     9 Elixyr      9 Magic Bottle   Bomb            Ladder          Key             Jail Key        Ornament        Crystal         Crystal         Crystal         Crystal         Jewel           DX
+0x003029b0   Thunder         Homing          Force           Fireball        Tail Attack     Axe             Iron Claw       Fire Breath     Leather Mail    Chain Mail      Plate Mail      Silver Mail     Gold Mail       Red Robe        Blue Robe       Yellow Robe     Silver Robe     Gold Robe       Leather Mail    Chain Mail      Plate Mail      Silver Mail     Gold Mail       Wood Shield     Small Shield    Large Shield    Silver Shield   Gold Shield     Bronze Mirror   Metal Mirror    Platinum Mirror Silver Mirror   Gold Mirror     Wood Shield     Small Shield    Large Shield    Silver Shield   Gold Shield     Invincible      99 Helmets      99 Spike Boots  Stone Shoes     Pickaxe         Dagger          Boomerang       Orange      9 Cherry      9 Apple       9              Gold Bar     9 Elixyr      9 Magic Bottle   Bomb            Ladder          Key             Jail Key        Ornament        Crystal         Crystal         Crystal         Crystal         Jewel           DX
 
 ;shop menu1  (only 1st occurrence, will be duplicated in _build.sh)
 ; iso offset=0x2351c6  len=72
@@ -120,7 +120,7 @@
 ; 0x0030ad94 リンゴ   体力が完全回復する。
 0x0030ad94 Apple: Fully restores stamina.
 ; 0x0030adba 金塊  
-0x0030adba Gold
+0x0030adba Gold Bar
 ; 0x0030adcc エリクサー　　　復活剤。
 0x0030adcc Elixyr. Resurrection.
 ; 0x0030ade6 ブーメラン DX ブーメランのパワーアップ型。
@@ -139,7 +139,7 @@
 ;shop menu2  (only 1st occurrence, will be duplicated in _build.sh)
 ;   iso offset=0x24d019  len=520
 ; 0x00325a39 いらっしゃいませご用件は？　　
-0x00325a39 Welcome.How can I help?
+0x00325a39 Welcome. How   can I help you today?
 ; 0x00325a5a 　買う
 0x00325a5a Buy
 ; 0x00325a61 　　売る　
@@ -149,7 +149,7 @@
 ; 0x00325a73 　　説明
 0x00325a73 Info
 ; 0x00325a7d 他にも何かご用がございますか？　
-0x00325a7d Need anything else?
+0x00325a7d Need anything   else?
 ; 0x00325a9e 　買う
 0x00325a9e Buy
 ; 0x00325aa5 　　売る　
@@ -161,7 +161,7 @@
 ; 0x00325ac3 どれをお求めに なりますか？
 0x00325ac3 Which one would you like?
 ; 0x00325ae1 でよろしい   ですか？
-0x00325ae1 Is that all right?
+0x00325ae1 Is that okay?
 ; 0x00325b14 あなたはそのアイテムをこれ以上持てません。
 0x00325b14 Cannot carry more items.
 ; 0x00325b40 お金が足りません

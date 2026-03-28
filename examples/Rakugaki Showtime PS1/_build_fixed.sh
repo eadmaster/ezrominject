@@ -7,6 +7,7 @@ cp "$INPUT_ROM" "$OUTPUT_ROM"
 rominject.py *_jap.txt *_eng.txt "$OUTPUT_ROM"
 # TODO: fix 00, 0R escape codes
 #NOT SUPORTED: --ascii-mode
+#NOT SUPORTED: --ascii-bios-hack 
 
 # TODO: replace main menu textures in HAGECHO.BIN (needs a tbl + 1BPP font patch?)
 

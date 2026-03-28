@@ -75,17 +75,21 @@
 
 ;; SHOP MENUS
 ; 0x0015de5f やめる
-0x0015de5f Stop
+0x0015de5f Leave
 ; 0x0015de66 アイテム
 0x0015de66 Item
-; 0x0015de74 ロッド
-0x0015de74 Rod
 ; 0x0015de6f 魔法
 0x0015de6f Magic
+; 0x0015de74 ロッド
+0x0015de74 Rod
 ; 0x0015de7b を買う
 0x0015de7b Buy
 ; 0x0015de82 を売る
 0x0015de82 Sell
+; 0x0015deb3 盾
+0x0015deb3 Shield
+; 0x0015deb9 盾
+0x0015deb9 Shield
 ; 0x0015debf 店をでる
 0x0015debf Quit
 ; 0x0015ded1 買う
@@ -107,7 +111,7 @@
 ; 0x0015dfc3 −セーブ−
 0x0015dfc3 Save
 ; 0x0015e028 巻物に念じる
-0x0015e028 To the scroll
+0x0015e028 Focus on scroll
 
 
 
@@ -121,19 +125,19 @@
 ; 0x001141a6 フレイムドラゴン
 0x001141a6 Fire Dragon Magic
 ; 0x001141b7 ビッグウェイブ
-0x001141b7 Bigwave
+0x001141b7 Big Wave Magic.
 ; 0x001141c6 シューティングスター
-0x001141c6 Shooting Star
+0x001141c6 Shooting Star Magic
 ; 0x001141db フレイムバード
-0x001141db Flame Bird Magic!
+0x001141db Flame Bird Magic
 ; 0x001141ea スモール
 0x001141ea Small
 ; 0x001141f6 ラウンド
 0x001141f6 Round
 ; 0x00114202 ナイツ
-0x00114202 Naiz
+0x00114202 Knight
 ; 0x0011420c テレポートの魔法
-0x0011420c Teleport magic
+0x0011420c Teleport Magic
 ; 0x0011421d 封印のカギ
 0x0011421d Seal Key
 ; 0x00114228 サーフボード
@@ -164,7 +168,6 @@
 0x001142b7 Rod LV
 ; 0x001142c2 ドラゴン
 0x001142c2 Dragon
-
 
 
 ; 0x0011a331 ［ミリー］
@@ -264,7 +267,7 @@
 0x0011a64d And I, Bow Sargil,
 
 ; 0x0011a65e 衛隊、シルバーの称号を頂く
-0x0011a65e holder of the Silver title
+0x0011a65e holder of the Silver title.
 
 ; 0x0011a67b ボウ・サーギルが！
 0x0011a67b Prepare!
@@ -537,7 +540,7 @@
 0x0011aed5 P-please, not that!
 
 ; 0x0011af04 町が、町が・・・
-0x0011af04 The town...
+0x0011af04 The town would...
 
 ; 0x0011af1b ［フレイ］
 0x0011af1b [Fray]
@@ -630,7 +633,7 @@
 0x0011b1e8 I know already!
 
 ; 0x0011b1fd この門からレイジアの村へ行けるんでしょ。
-0x0011b1fd This goes to Reigia, right?
+0x0011b1fd This gate leads to Reigia, right?
 
 ; 0x0011b22c ［門番］
 0x0011b22c [Gatekeeper]
@@ -657,7 +660,7 @@
 0x0011b2b8 you ask?
 
 ; 0x0011b2c3 南にある、何も看板が出ていない
-0x0011b2c3 It’s south, the building
+0x0011b2c3 It’s to the south, the building
 
 ; 0x0011b2e2 建物がそうですよ。
 0x0011b2e2 with no sign.
@@ -666,7 +669,7 @@
 0x0011b2fb [Gatekeeper]
 
 ; 0x0011b308 町長から話は聞いており
-0x0011b308 I’ve heard from the mayor.
+0x0011b308 The mayor told me.
 
 ; 0x0011b31f ます。どうぞ、お気をつけて。
 0x0011b31f Please take care.
@@ -1323,7 +1326,7 @@
 0x0011c815 [Mayor]
 
 ; 0x0011c824 ラトク・カート・・・
-0x0011c824 Latok Kart.
+0x0011c824 Latok Kart...
 
 ; 0x0011c83d はぁ、たしかにそんな名前の人が
 0x0011c83d *sigh* It's true that someone with that name
@@ -5187,7 +5190,7 @@
 0x0012a3dc [wigs]
 
 ; 0x0012a3ed すぺしゃるさんくす　ＴＯ　Ｈ社の藤井さん
-0x0012a3ed Mr. Fujii of TOH
+0x0012a3ed Mt. Fujii of TOH
 
 ; 0x0012a41c 　　　［ＳＵＥＮＡＧＡ］
 0x0012a41c [SUNAGA]
@@ -5970,13 +5973,13 @@
 0x0015c84e But this one is pretty powerful.
 
 ; 0x0015c873 の魔法ですね。竜さんがとってもカッコいいの。お友達とか呼んだときに見せてあげたいわね。
-0x0015c873 magic. The dragon looks really cool! You’ll want to show it to your friends.
+0x0015c873 Magic. The dragon looks really cool! You’ll want to show it to your friends.
 
 ; 0x0015c8e0 ね。
 0x0015c8e0 .
 
 ; 0x0015c8e5 魔法の矢が３本も出るの。
-0x0015c8e5 Fires three magic arrows.
+0x0015c8e5 Fires 3 magic arrows.
 
 ; 0x0015c8fe ３本よ、３本！
 0x0015c8fe Three, three!
@@ -5988,7 +5991,7 @@
 0x0015c918 .
 
 ; 0x0015c91d カミナリが上下左右４方向に飛ぶのよ。この突きさすような感覚がたまんないわぁ。
-0x0015c91d Lightning shoots in four directions. That piercing feeling is just irresistible!
+0x0015c91d Lightning shoots in 4 directions. That piercing feeling is just irresistible!
 
 ; 0x0015c96c ね。
 0x0015c96c .
@@ -6009,31 +6012,31 @@
 0x0015ca19 Magic.
 
 ; 0x0015ca24 水竜を召喚する魔法よ。
-0x0015ca24 Magic that summons water dragons.
+0x0015ca24 Summons a Water Dragon.
 
 ; 0x0015ca3b けっこうハデだから、１コくらい持っててもいいかしらね。
-0x0015ca3b It's pretty big, so maybe I can hold one.
+0x0015ca3b Pretty flashy, maybe worth carrying one,
 
 ; 0x0015ca74 の魔法ね。
 0x0015ca74 Magic.
 
 ; 0x0015ca7f これは火炎竜を呼び出す魔法よ。情熱的に燃え上がる炎がたくましいわぁ。
-0x0015ca7f This is the magic that summons fire dragons. The flames burning with passion are strong.
+0x0015ca7f Summons a Fire Dragon. Its blazing flames burn passionately.
 
 ; 0x0015cac6 の魔法ね。
 0x0015cac6 Magic.
 
 ; 0x0015cad1 大津波をひき起こすのよ。人家や自然には影響ないから、思いきり使っていいわよ。
-0x0015cad1 It'll cause a tsunami. It won't affect human homes or nature, so you can use it as much as you want.
+0x0015cad1 Unleashes a massive tsunami. Don’t worry, it won’t harm homes or nature.
 
 ; 0x0015cb20 の魔法ね。いっぱいのお星サマをふらせて攻撃するのよ。けっこうシュールだと思わない？
-0x0015cb20 It's magic. It attacks with lots of stars. Don't you think it's quite surreal?
+0x0015cb20 Magic. It rains down a shower of stars to attack. Kind of surreal, don’t you think?
 
 ; 0x0015cb83 じゃな。
 0x0015cb83 .
 
 ; 0x0015cb8c ちょっと心もとないが、ないよりはマシといったところかの。
-0x0015cb8c I don't have a heart, but it's better than nothing.
+0x0015cb8c Not too reliable, but better than nothing, I suppose.
 
 ; 0x0015cbc5 買っていきなさるか？
 0x0015cbc5 Buy it?
@@ -6042,43 +6045,43 @@
 0x0015cbdc .
 
 ; 0x0015cbe5 危険な旅の心強い味方となってくれるじゃろう。
-0x0015cbe5 He'll be a reassuring ally on this dangerous journey.
+0x0015cbe5 A reliable ally on dangerous journeys.
 
 ; 0x0015cc14 じゃな。
 0x0015cc14 .
 
 ; 0x0015cc1d 食えば元気が出てくるぞ。どうじゃな。
-0x0015cc1d You'll cheer up if you eat it. How about it?
+0x0015cc1d Eat it and you’ll feel lively.
 
 ; 0x0015cc44 じゃな。
 0x0015cc44 .
 
 ; 0x0015cc4d 「そなえあれば、うれいなし」と言うしな。　つねにこれぐらいは持っておいた方がいいじゃろ。
-0x0015cc4d  ⁇ 'd say, ⁇ If that's the case, then I'm happy ⁇  It's better to always have this.
+0x0015cc4d  As they say, “Better safe than sorry.” Best to always have some on hand.
 
 ; 0x0015cca8 じゃな。
 0x0015cca8 .
 
 ; 0x0015ccb1 高価なだけに効果はあるぞ
-0x0015ccb1 It's expensive, so it works.
+0x0015ccb1 Costly, but it surely works.
 
 ; 0x0015ccca なんちてな。
-0x0015ccca Just kidding.
+0x0015ccca Get it?
 
 ; 0x0015ccd7 おや？お気にめさなんだかの。
-0x0015ccd7 Oh? What's wrong with you?
+0x0015ccd7 Oh? Not amused?
 
 ; 0x0015ccf4 でっか
-0x0015ccf4 Huge.
+0x0015ccf4 .
 
 ; 0x0015ccfb いやぁ、お目が高い！
-0x0015ccfb Man, you've got good eyes!
+0x0015ccfb Ah, you have a keen eye!
 
 ; 0x0015cd10 勉強させてもらいますよって、
-0x0015cd10 I'll be studying,
+0x0015cd10I’ll learn from you,
 
 ; 0x0015cd2d どんどん買うてってや。
-0x0015cd2d Buy more and more.
+0x0015cd2d so buy more and more.
 
 ; 0x0015cd44 買いますか？
 0x0015cd44 Buy it?
@@ -6090,13 +6093,13 @@
 0x0015cd78 Not enough money
 
 ; 0x0015cd8a バックアップメモリが足りません
-0x0015cd8a I don't have enough backup memory.
+0x0015cd8a Not enough backup memory
 
 ; 0x0015cdaf を買いました
-0x0015cdaf Bought
+0x0015cdaf bought
 
 ; 0x0015cdbd を売りました
-0x0015cdbd Sold
+0x0015cdbd sold
 
 ; 0x0015cdec 売るものがありません
 0x0015cdec Nothing to sell.
@@ -6193,13 +6196,14 @@
 0x0015d0f7 Latok
 
 ; 0x0015d0fe 勇者
-0x0015d0fe Hero
+;0x0015d0fe Hero
+0x0015d0fe Mr.
 
 ; 0x0015d109 ・カート
 0x0015d109 Kart
 
 ; 0x0015d112 モンスター
-0x0015d112 Monster
+0x0015d112 monsters
 
 
 ; 0x0015d137 ただいま。
@@ -6250,71 +6254,110 @@
 ; 0x0015d57a すぐ近くだから寄ってみたら？
 0x0015d57a Why don't you stop by? It's close by.
 
+
+; Major dialogue
+
+; 0x0015d5d9 はいはい。
+0x0015d5d9 Oh?
+
 ; 0x0015d5e8 おや？　見かけない方ですな。
-0x0015d5e8 Oh? I haven't seen him before.
+0x0015d5e8 I've never seen you before.
 
 ; 0x0015d606 私は、このアーザルの町の長をつとめるデムスと申します。
-0x0015d606 My name is Demus, and I am the town chief of Azar.
+0x0015d606 I am Demus, mayor of this town of Arzal.
 
 ; 0x0015d63f なにかご用ですかな？
 0x0015d63f What do you need?
 
+; 0x0015d656 ﾈｸあの〜、町の北にある門をあけてほしいんですけど。
+0x0015d656 Um, could you open the north gate?
+
+; 0x0015d68b ﾙｸ門を！？　それはおやめなさったほうがいい。
+0x0015d68b The gate!? You’d best not do that.
+
+; 0x0015d6ba ﾈｸそんなに危険なんですか？　町の外って。
+0x0015d6ba Is it that dangerous outside?
+
+; 0x0015d6e5 ﾙｸええ、そりゃあもう。
+0x0015d6e5 Yes, very much so.
+
 ; 0x0015d6fd ３年前、
-0x0015d6fd 3 years ago,
+0x0015d6fd 3 yrs ago,
 
 ; 0x0015d708 様の活躍で平和になったと思ったんですが。
-0x0015d708 I thought it was thanks to your efforts that things were peaceful.
+0x0015d708 brought us peace.
 
 ; 0x0015d732 そしたらまた、
-0x0015d732 Then, again,
+0x0015d732 But now 
+
+;0x0015d75c ﾈｸどうです？
+;0x0015d76b 祈、兵、
 
 ; 0x0015d743 がウロつき始めまして。
-0x0015d743 But I started wandering around.
+0x0015d743 are roaming again.
 
 ; 0x0015d76b 私がその
-0x0015d76b I, uh,
+0x0015d76b Uh,
 
 ; 0x0015d776 たちを退治するのとひきかえに門を
-0x0015d776 Exterminating us and the gate in exchange.
+0x0015d776 ? I’ll take care of them if you’ll open the gate...
 
 ; 0x0015d7ad はっはっはっ、話にもなりませんな。
-0x0015d7ad Hahaha, this isn't worth talking about.
+0x0015d7ad Hahaha, don’t be ridiculous.
+
+; 0x0015d7d2 ﾈｸ失礼ね！
+0x0015d7d2 How rude!
 
 ; 0x0015d7df 私はその
-0x0015d7df I, uh
+0x0015d7df With
 
 ; 0x0015d7ea と、行動を共にしたコトだってあるのよ！
-0x0015d7ea I-I've even been with him!
+0x0015d7ea , I once fought at his side!
 
 ; 0x0015d826 それは本当ですか？
-0x0015d826 Is it true?
+0x0015d826 Is that true!?
 
 ; 0x0015d841 森でケガしてたトコを助けられて
-0x0015d841 I was saved from an injury in the forest
+0x0015d841 He saved me when I was hurt in the forest...
 
 ; 0x0015d864 それから町の病院までオンブしてもらったワケだから
-0x0015d864 After that, I had him ombu to a hospital in town.
+0x0015d864 Then carried me all the way to the town hospital.
 
 ; 0x0015d899 うん、少なくとも、ウソはついてないわよね
-0x0015d899 Yeah, at least you’re not lying
+0x0015d899 So no, I’m not lying!
+
+; 0x0015d8c6 ﾈｸも、もちろんよ！
+0x0015d8c6 Of course it!
+
+; 0x0015d8db ﾙｸそれは頼もしい。
+0x0015d8db Remarkable.
 
 ; 0x0015d8ee ぜひ、おねがいします。
-0x0015d8ee Please do.
+0x0015d8ee Then please help us.
 
 ; 0x0015d906 おそらく
-0x0015d906 Probably.
+0x0015d906 The
 
 ; 0x0015d911 どもは、北のアルセイデスの神殿から
-0x0015d911 They’re coming from the temple of Arsides to the north
+0x0015d911 are coming from the north temple of Arsides
 
 ; 0x0015d944 いーからいーから。
-0x0015d944 It's fine, it's fine.
+0x0015d944 Ok, ok.
 
 ; 0x0015d958 とりあえず、門のことはヨロシクおねがいします。
-0x0015d958 Please take care of the gate.
+0x0015d958 Just make sure the gate gets opened.
+
+; 0x0015d989 ﾙｸあっ、ちょっと。これを持って行ってください。
+0x0015d989 Ah, wait. Please, take this with you.
+
+; 0x0015d9be ﾈｸこれは？
+0x0015d9be This?
+
+; 0x0015d9cb ﾙｸこれはテレポートの魔法といいまして。
+0x0015d9cb It’s called Teleport Magic.
 
 ; 0x0015d9f3 あなたが行ったことのある町へ、一瞬でもどれる魔法なんです。
-0x0015d9f3 It's a spell that can take you to any town you've been to.
+0x0015d9f3 It lets you instantly return to any town you’ve already visited.
 
 ; 0x0015da31 あ、それとももうお持ちでしたかな？
 0x0015da31 Oh, or do you already have it?
@@ -6323,7 +6366,19 @@
 0x0015da5e I'll take it, since I'm here.
 
 ; 0x0015da80 じゃあね、あはは。
-0x0015da80 Bye, ahaha.
+0x0015da80 Thanks, ahaha.
+
+; 0x0015da96 ﾙｸおや？　まだなにか？
+0x0015da96 Oh? Anything else?
+
+; 0x0015daaf ﾈｸい、いえ、べつに。
+0x0015daaf  N-no, nothing.
+
+; 0x0015dac7 ﾙｸあのアルセイデスをたおしたですと！？
+0x0015dac7 You defeated Arsides!?
+
+
+;; other mayor dialogue
 
 ; 0x0015daee 　いやはや、さすが私が見こんだだけのことはありますな。
 0x0015daee Well, well. I should have expected as much.

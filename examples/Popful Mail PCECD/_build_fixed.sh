@@ -29,6 +29,15 @@ patch_repeated_blocks() {
     repeat_block 0x8352a0 0x235274 2380  "$OUTPUT_ROM"  # shop items (alt. smaller) -> TODO: test
 }
 
+patch_gfx() {
+    echo "patch_gfx:"
+    # extract
+    #sfk partcopy "$OUTPUT_ROM" -fromto 0x1060860 0x10616c0 gfx/locations_jap.bin -yes
+    #TODO: sfk partcopy "$OUTPUT_ROM" -fromto ... gfx/menu_jap.bin -yes
+    # replace
+    #repeat_block ...
+}
+
 
 # jap dub build
 
@@ -44,11 +53,9 @@ rominject.py *_jap.txt *_eng.txt "$OUTPUT_ROM.tmp"  --ascii-bios-hack
 bchunk-bin2iso -t 00:03:00 "$OUTPUT_ROM.tmp" "$OUTPUT_ROM"
 rm "$OUTPUT_ROM.tmp"
 
-# patch repeated blocks
-#ITEMS_JAP_STR=$(sfk hexdump -raw -offlen 0xf3e6a3 1128 "$OUTPUT_ROM")
-#ITEMS_ENG_STR=$(sfk hexdump -raw -offlen 0x22e782 1128 "$OUTPUT_ROM")
-#sfk replace "$OUTPUT_ROM" -binary /$ITEMS_JAP_STR/$ITEMS_ENG_STR/  -yes 
 patch_repeated_blocks
+
+patch_gfx
 
 xdelta3 -S none -f -e -s "$INPUT_ROM" "$OUTPUT_ROM"  "$INPUT_ROM.xdelta"
 
@@ -67,8 +74,8 @@ rominject.py *_jap.txt *_eng.txt "$OUTPUT_ROM.tmp"  --ascii-bios-hack
 bchunk-bin2iso -t 00:03:00 "$OUTPUT_ROM.tmp" "$OUTPUT_ROM"
 rm "$OUTPUT_ROM.tmp"
 
-# patch items in menu (mutiple matches)
-#sfk replace "$OUTPUT_ROM" -binary /$ITEMS_JAP_STR/$ITEMS_ENG_STR/  -yes 
 patch_repeated_blocks
+
+patch_gfx
 
 xdelta3 -S none -f -e -s "02 Magical Fantasy Adventure - Popful Mail (J).iso" "$OUTPUT_ROM"  "$INPUT_ROM.xdelta"
