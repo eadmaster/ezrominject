@@ -4,34 +4,35 @@
 
 
 ;; TELEPORT menu
+; TODO: increase by 2 to include space?
 ; 0x0015e8de −どこへテレポートしますか？−
 0x0015e8de −Teleport to ？−
 ; 0x0015e92a 　アーザルの町
-0x0015e92a Arzal Town
+0x0015e92a   Arzal Town
 ; 0x0015e939 　アーザルの町　レイジアの村
-0x0015e939 Reigia Village
+0x0015e939   Arzal Town    Reigia Village
 ; 0x0015e956 　アーザルの町　レイジアの村
-0x0015e956 Reigia Village
+0x0015e956   Arzal Town    Reigia Village
 ; 0x0015e973 　ヴァルアの町
-0x0015e973 Town of Valuah
+0x0015e973   Valuah Town
 ; 0x0015e982 　空中城のテラス
-0x0015e982 Castle Terrace
+0x0015e982   Castle Terrace
 ; 0x0015e993 　空中城テラス　結界樹の下
-0x0015e993 Castle Terrace Under Barrier Tree
+0x0015e993   Castle Terrace Under Barrier Tree
 ; 0x0015e9ae 　空中城テラス　結界樹の下
-0x0015e9ae Castle Terrace Under Barrier Tree
+0x0015e9ae   Castle Terrace Under Barrier Tree
 ; 0x0015e9c9 　牢屋１階
-0x0015e9c9 Prison 1F
+0x0015e9c9   Prison 1F
 ; 0x0015e9d4 　空中城テラス　結界樹の下
-0x0015e9d4 Castle Terrace Under Barrier Tree
+0x0015e9d4   Castle Terrace Under Barrier Tree
 ; 0x0015e9ef 　牢屋１階　　　牢屋４階
-0x0015e9ef Prison 1F    Prison 4F
+0x0015e9ef   Prison 1F    Prison 4F
 
 ;; HEALTH in status menu
 ; 0x0015e87d もうダメ〜
 0x0015e87d I'm done...
 ; 0x0015e88c つらいよ〜　　
-0x0015e88c It hurts..
+0x0015e88c It hurts...
 ; 0x0015e89b う〜ん　　　　
 0x0015e89b Hmm
 ; 0x0015e8aa へっちゃらぽん
@@ -42,18 +43,18 @@
 
 ;; MAIN MENU
 ; 0x0015efc5 　　　　ロード
-0x0015efc5 Load
+0x0015efc5         Load
 ; 0x0015efd4 　　　　最初から
-0x0015efd4 From the start
+0x0015efd4         Start
 ; 0x0015f00d 　　ステージの最初から
-0x0015f00d Retry
+0x0015f00d      Retry
 ; 0x0015f024 　　セーブした場所から
-0x0015f024 Load save
+0x0015f024      Load Game
 ; 0x0015f04e −記録した場所−
-0x0015f04e − Saves −
+0x0015f04e − Load Game −
 
 
-;; LOCATIONS
+;; LOCATIONS (used for saves)
 ; 0x0015f09b アーザルの町　レイジアの村　ヴァルアの町　空中城テラス　結界樹の下　　牢屋１階　　　牢屋４階　　　いけにえの祭壇ヴァルアの祝宴
 0x0015f09b Arzal Town    Reigia VillageValuah Town   Sky Castle Terrace   Beneath the Barrier Tree   Prison 1F      Prison 4F      Sacrificial Altar Valuah Banquet     
 
@@ -83,9 +84,9 @@
 ; 0x0015de74 ロッド
 0x0015de74 Rod
 ; 0x0015de7b を買う
-0x0015de7b Buy
+0x0015de7b ...
 ; 0x0015de82 を売る
-0x0015de82 Sell
+0x0015de82 ...
 ; 0x0015deb3 盾
 0x0015deb3 Shield
 ; 0x0015deb9 盾
@@ -6184,10 +6185,10 @@
 0x0015cfcc [Elma]
 
 ; 0x0015cfd8 近頃、町の中に物騒な噂が流れてるみたいね。
-0x0015cfd8 Lately, disturbing rumors are spreading in town.
+0x0015cfd8 Lately, disturbing  rumors are spreading
 
 ; 0x0015d005 気がかりだわ。
-0x0015d005 It worries me.
+0x0015d005 in town.
 
 ; 0x0015d01b お〜お、これは可愛らしいお嬢ちゃんじゃのう。
 0x0015d01b Oh, what a    lovely young lady.
@@ -6223,7 +6224,7 @@
 0x0015d0f7 Latok
 
 ; 0x0015d0fe 勇者
-0x0015d0fe Hero
+0x0015d0fe hero
 ;0x0015d0fe Mr.
 
 ; 0x0015d109 ・カート

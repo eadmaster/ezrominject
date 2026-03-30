@@ -2,10 +2,9 @@
 
 ## Current status  🏗️
 
- - Translated most of the text (**needs a revision to fit the available space**)
- - Translated most of the menus
- - Gfx text/buttons are NOT translated
- - **Only partially tested, there may be crashes!**
+ - Translated most of the text (**revision still incomplete**).
+ - Most menus translated, a few gfx still left.
+ - Only partially tested, there may be crashes!
 
 
 ## Preview  👀

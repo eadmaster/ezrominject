@@ -430,7 +430,6 @@
 ; 0x00364955 タット
 0x00364955 Tatto
 
-
 ; 0x00392800 テヌャ
 ;0x00392800 Tenuja
 
@@ -441,7 +440,7 @@
 0x00398d90 Woman
 
 ; 0x00398d98 兵士
-0x00398d98 Soldier
+0x00398d98 Guard
 
 ; 0x00398da2 ナモ
 0x00398da2 Namo
@@ -4156,13 +4155,13 @@
 
 
 ; 0x007c2e55 鉱夫
-0x007c2e55 Miners
+0x007c2e55 Miner
 
 ; 0x007c2e5f 兵士
-0x007c2e5f Soldiers
+0x007c2e5f Guard
 
 ; 0x007c2e69 ヤコブ
-0x007c2e69 Glug.
+0x007c2e69 Glug
 
 ; 0x007c2e75 ブラッキィ
 0x007c2e75 Blacky
@@ -5658,10 +5657,10 @@
 0x0081edcf Elder
 
 ; 0x0081edd9 ヤコブ
-0x0081edd9 Glug.
+0x0081edd9 Glug
 
 ; 0x0081ede5 人民解放軍兵士
-0x0081ede5 Rebel Army soldiers
+0x0081ede5 Rebel Army Guard
 
 ; 0x0081ee11 ゴーレムが倒れると供に、
 0x0081ee11 When the golem fell, I accompanied it
@@ -6550,7 +6549,7 @@
 0x008212ae Use it on the demons of hell.
 
 ; 0x008212d5 兵士
-0x008212d5 Soldiers
+0x008212d5 Guard
 
 ; 0x008212dc うわー！！
 0x008212dc Wow!!
@@ -9174,7 +9173,7 @@
 
 
 ; 0x00f4bf90 兵士
-0x00f4bf90 Soldiers
+0x00f4bf90 Guard
 
 ; 0x00f4bf9a ブラッキィ
 0x00f4bf9a Blacky
@@ -9345,7 +9344,7 @@
 0x00f4c65f Stand back.
 
 ; 0x00f4c670 兵士
-0x00f4c670 Soldiers
+0x00f4c670 Guard
 
 ; 0x00f4c677 わかりました、皇帝陛下。
 0x00f4c677 Understood, Your Majesty.
@@ -9721,7 +9720,7 @@
 0x00f4d723 What’s wrong, Gaw?
 
 ; 0x00f4d73b 兵士
-0x00f4d73b Soldiers
+0x00f4d73b Guard
 
 ; 0x00f4d742 君達か…。
 0x00f4d742 It’s you guys...
@@ -9787,7 +9786,7 @@
 0x00f4d918 You can’t think of anyone but yourself, Gaw!!
 
 ; 0x00f4d94c 兵士
-0x00f4d94c Soldiers
+0x00f4d94c Guard
 
 ; 0x00f4d953 お前も、
 0x00f4d953 You too,
@@ -10962,7 +10961,6 @@
 ; 0x01209155 タット
 0x01209155 Tatto
 
-
 ; 0x0123d679 マテリアル
 0x0123d679 Material
 
@@ -10970,7 +10968,7 @@
 0x0123d689 Nuts Cracker
 
 ; 0x0123d6a1 ヤコブ
-0x0123d6a1 Glug.
+0x0123d6a1 Glug
 
 ; 0x0123d6ad ブラッキィ
 0x0123d6ad Blacky
