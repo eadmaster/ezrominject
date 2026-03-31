@@ -14,20 +14,9 @@ repeat_block() {
 }
 
 patch_repeated_blocks() {
-    repeat_block 0xf3e6a3 0x22e782 1128  "$OUTPUT_ROM"  # items in submenu 
-    
-    repeat_block 0x2851f0 0x2351b6   72  "$OUTPUT_ROM"  # shop menu1
-    repeat_block 0x2852ae 0x235274 2382  "$OUTPUT_ROM"  # shop items
-    repeat_block 0x29d019 0x24d019  520  "$OUTPUT_ROM"  # shop menu2
-    repeat_block 0x43d019 0x3ed019  463  "$OUTPUT_ROM"  # shop menu3 -> TODO: test
-    
-    # variations: 
-    repeat_block 0x8351e2 0x2351b6   72  "$OUTPUT_ROM"  # shop menu1 (alt) -> TODO: test
-    repeat_block 0x63d019 0x24d019  520  "$OUTPUT_ROM"  # shop menu2 (alt) -> TODO: test
-    repeat_block 0x6dd019 0x24d019  520  "$OUTPUT_ROM"  # shop menu2 (alt) -> TODO: test
-    repeat_block 0x821098 0x235274 2380  "$OUTPUT_ROM"  # shop items (alt. smaller) -> TODO: test
-    repeat_block 0x8352a0 0x235274 2380  "$OUTPUT_ROM"  # shop items (alt. smaller) -> TODO: test
+    repeat_block 0x22e782  0xf3e6a3  1128  "$1"  # items in submenu 
 }
+    
 
 extract_gfx() {
     mkdir gfx
@@ -46,17 +35,14 @@ patch_gfx() {
 INPUT_ROM="PopfulMail (Japan) (Track 02).bin"
 OUTPUT_ROM="PopfulMail (Japan) (Track 02) (patched).bin"
 
-cp "$INPUT_ROM" "$OUTPUT_ROM.tmp"
+# strip ecc data
+bchunk-bin2iso -t 00:03:00  "$INPUT_ROM" "$OUTPUT_ROM"
 
 # patch text
-rominject.py *_jap.txt *_eng.txt "$OUTPUT_ROM.tmp"  --ascii-bios-hack 
+rominject.py *_jap.txt *_eng.txt "$OUTPUT_ROM"  --ascii-bios-hack 
 #NOT COMPATIBLE: --ascii-mode
 
-# strip ecc data
-bchunk-bin2iso -t 00:03:00 "$OUTPUT_ROM.tmp" "$OUTPUT_ROM"
-rm "$OUTPUT_ROM.tmp"
-
-patch_repeated_blocks
+patch_repeated_blocks "$OUTPUT_ROM"
 
 [ ! -d "gfx" ] && extract_gfx
 
@@ -67,20 +53,16 @@ xdelta3 -S none -f -e -s "$INPUT_ROM" "$OUTPUT_ROM"  "$INPUT_ROM.xdelta"
 
 ## eng dub build
 
-INPUT_ROM="02 Magical Fantasy Adventure - Popful Mail (J).bin"
+INPUT_ROM="02 Magical Fantasy Adventure - Popful Mail (J).iso"
 OUTPUT_ROM="02 Magical Fantasy Adventure - Popful Mail (J) (patched).bin"
 
-cp "$INPUT_ROM" "$OUTPUT_ROM.tmp"
+cp "$INPUT_ROM" "$OUTPUT_ROM"
 
-rominject.py *_jap.txt *_eng.txt "$OUTPUT_ROM.tmp"  --ascii-bios-hack 
+rominject.py *_jap.txt *_eng.txt "$OUTPUT_ROM"  --ascii-bios-hack 
 #NOT COMPATIBLE: --ascii-mode
 
-# strip ecc data
-bchunk-bin2iso -t 00:03:00 "$OUTPUT_ROM.tmp" "$OUTPUT_ROM"
-rm "$OUTPUT_ROM.tmp"
-
-patch_repeated_blocks
+patch_repeated_blocks "$OUTPUT_ROM"
 
 patch_gfx
 
-xdelta3 -S none -f -e -s "02 Magical Fantasy Adventure - Popful Mail (J).iso" "$OUTPUT_ROM"  "$INPUT_ROM.xdelta"
+xdelta3 -S none -f -e -s "$INPUT_ROM" "$OUTPUT_ROM"  "$INPUT_ROM.xdelta"

@@ -24,7 +24,7 @@
    - `02 Magical Fantasy Adventure - Popful Mail (J).iso` (Eng dub, crc32=`244c18ed`)
 5. Download and select the corresponding `.xdelta` as Patch file:
    - `PopfulMail (Japan) (Track 02).bin.xdelta` (Jap dub)
-   - `02 Magical Fantasy Adventure - Popful Mail (J).bin.xdelta` (Eng dub)
+   - `02 Magical Fantasy Adventure - Popful Mail (J).iso.xdelta` (Eng dub)
 6. Click "Apply patch" and save in the same folder without changing the filename (same as the input file with `" (patched)"` appended).
 7. Download and use the corresponding cue sheet in this folder to play the game:
    - `PopfulMail (English).cue` (Jap dub)
