@@ -4,7 +4,6 @@
 
 
 ;; TELEPORT menu
-; TODO: increase by 2 to include space?
 ; 0x0015e8de −どこへテレポートしますか？−
 0x0015e8de −Teleport to ？−
 ; 0x0015e92a 　アーザルの町
@@ -62,7 +61,7 @@
 ; 0x00158cf5 はい
 0x00158cf5 Yes
 ; 0x00158d03 いいえ
-0x00158d03 No
+0x00158d03  No
 ; 0x0015bfe1 値段は
 0x0015bfe1 Price
 ; 0x00159439 ゴールド
@@ -84,8 +83,10 @@
 ; 0x0015de74 ロッド
 0x0015de74 Rod
 ; 0x0015de7b を買う
+; 0x0015de7b Buy
 0x0015de7b ...
 ; 0x0015de82 を売る
+; 0x0015de82 Sell
 0x0015de82 ...
 ; 0x0015deb3 盾
 0x0015deb3 Shield
@@ -108,11 +109,12 @@
 ; 0x0015df74 売る
 0x0015df74 Sell
 ; 0x0015df79 記録する
-0x0015df79 Record
+; 0x0015df79 Record
+0x0015df79 Save
 ; 0x0015dfc3 −セーブ−
-0x0015dfc3 Save
+0x0015dfc3 -Save-
 ; 0x0015e028 巻物に念じる
-0x0015e028 Focus on scroll
+0x0015e028 Focus on Scroll
 
 
 
@@ -120,7 +122,7 @@
 ; 0x0011417f ファイアー
 0x0011417f Fire
 ; 0x0011418a サンダー
-0x0011418a Thunder
+0x0011418a Thunder Magic
 ; 0x00114193 ウォータードラゴン
 0x00114193 Water Dragon Magic
 ; 0x001141a6 フレイムドラゴン
@@ -671,6 +673,7 @@
 0x0011b2fb [Gatekeeper]
 
 ; 0x0011b308 町長から話は聞いており
+; 0x0011b308 I've heard from the mayor.
 0x0011b308 The mayor told me.
 
 ; 0x0011b31f ます。どうぞ、お気をつけて。
@@ -788,7 +791,7 @@
 0x0011b6d3 breathing.
 
 ; 0x0011b6ea ［アヤシイ男］
-0x0011b6ea [Suspicious man]
+0x0011b6ea [Suspicious]
 
 ; 0x0011b6fd ・・・ふむふむ。
 0x0011b6fd Hmm, hmm.
@@ -992,7 +995,7 @@
 0x0011bd0c [Isac]
 
 ; 0x0011bd1f やや、少し呪文を間違えとったようじゃな。
-0x0011bd1f Ah, seems the spell was a bit off.
+0x0011bd1f Ah, seems the   spell was a bit off.
 
 ; 0x0011bd4e ［フレイ］
 0x0011bd4e [Fray]
@@ -1043,7 +1046,7 @@
 0x0011bec9 Follow this path to Valuah,
 
 ; 0x0011bee8 行くのだ！　薬を頼んだぞ。
-0x0011bee8 and go take the medicine.
+0x0011bee8 and go take the potion.
 
 ; 0x0011bf09 ［フレイ］
 0x0011bf09 [Fray]
@@ -1055,7 +1058,7 @@
 0x0011bf25 [Isac]
 
 ; 0x0011bf38 どうした、早く行かんか。
-0x0011bf38 Well? Hurry up.
+0x0011bf38 Well? Hurry  up.
 
 ; 0x0011bf57 ［フレイ］
 0x0011bf57 [Fray]
@@ -1070,7 +1073,7 @@
 0x0011bf99 [Fray]
 
 ; 0x0011bfa8 ここ、危ないから気をつけないと。
-0x0011bfa8 This place is dangerous, be careful.
+0x0011bfa8 This place is dangerous.
 
 ; 0x0011bfcd 　　（ずるっ☆）
 0x0011bfcd (Slip☆)
@@ -1155,7 +1158,7 @@
 0x0011c275 [Fray]
 
 ; 0x0011c284 あ〜〜〜〜〜、死ぬかと思った。
-0x0011c284 Ah! I thought I was gonna die.
+0x0011c284 Ah, I thought I was gonna die!
 
 ; 0x0011c2a5 ミルの病気がうつっちゃったのかしら？
 0x0011c2a5 Did I catch Mill's bad habits?
@@ -1182,10 +1185,10 @@
 0x0011c367 [Fray]
 
 ; 0x0011c376 あぁ〜ら、アイザック
-0x0011c376 Oh my, it’s Sorcerer 
+0x0011c376 Oh my, isn't that
 
 ; 0x0011c38b 先生じゃありませんこと？
-0x0011c38b Isac, isn't it?
+0x0011c38b Sorcerer Isac?
 
 ; 0x0011c3a6 いったい、なにを見てらしたんですかぁ？
 0x0011c3a6 What exactly did you saw?
@@ -1197,10 +1200,10 @@
 0x0011c3e6 I have the power
 
 ; 0x0011c3f7 ことが見える力があっての。
-0x0011c3f7 to see a little ahead.
+0x0011c3f7 to see into the future.
 
 ; 0x0011c414 なにか面白そうなものが見えそう
-0x0011c414 I came because I saw 
+0x0011c414 I came here because I saw 
 
 ; 0x0011c433 なんで来てみたら・・・
 0x0011c433 something interesting...
@@ -1215,7 +1218,7 @@
 0x0011c490 [Isac]
 
 ; 0x0011c4a3 ま、いいがの。
-0x0011c4a3 Well, whatever.
+0x0011c4a3 Fine, I suppose.
 
 ; 0x0011c4b4 おまえさんを見ていると、昔のア
 0x0011c4b4 Seeing you reminds me of 
@@ -1227,13 +1230,13 @@
 0x0011c4f6 [Fray]
 
 ; 0x0011c507 アイツって・・・？
-0x0011c507 He's...?
+0x0011c507 Someone...?
 
 ; 0x0011c520 ［アイザック］
 0x0011c520 [Isac]
 
 ; 0x0011c533 それは別にいいとして、じゃ。
-0x0011c533 That doesn’t   matter now.
+0x0011c533 Never mind that now.
 
 ; 0x0011c552 おまえさん、そのカッコウではカ
 0x0011c552 You’ll catch a cold dressed 
@@ -1242,7 +1245,8 @@
 0x0011c571 like that.
 
 ; 0x0011c588 どれ、わしが・・・
-0x0011c588 Let me handle this...
+;0x0011c588 Let me handle this...
+0x0011c588 Here, let me...
 
 ; 0x0011c5a1 ［フレイ］
 0x0011c5a1 [Fray]
@@ -1254,9 +1258,8 @@
 0x0011c5e1 [Isac]
 
 ; 0x0011c5f4 これ！　なにをカンちがいしておる！
-;0x0011c5f4 Hey! What do you think you’re doing!?
-;0x0011c5f4 What are you    thinking?!
-0x0011c5f4 What are you    misunderstanding?!
+;0x0011c5f4 What are you    misunderstanding?!
+0x0011c5f4 What are you    thinking?!
 
 ; 0x0011c619 こうするんじゃよ。
 0x0011c619 There...
@@ -1289,10 +1292,13 @@
 0x0011c6d2 [Fray]
 
 ; 0x0011c6e1 実は、かくかくしかじか・・・
-0x0011c6e1 Well, here’s what happened…
+0x0011c6e1 Well, you see... (story)
 
 ; 0x0011c700 というワケで、なんとか湖をわた
-0x0011c700 So I need to cross the lake…
+0x0011c700 So I need to somehow cross
+
+; 0x0011c71f りたいのですが・・・。
+0x0011c71f the lake…
 
 ; 0x0011c73c ［村長］
 0x0011c73c [Mayor]
@@ -1301,16 +1307,16 @@
 0x0011c749 I see.
 
 ; 0x0011c756 ですが、橋はごらんになったとお
-0x0011c756 But I think you've seen the bridge.
+0x0011c756 But you've seen the bridge.
 
 ; 0x0011c775 りですし・・・
-0x0011c775 And...
+0x0011c775 and…
 
 ; 0x0011c786 モンスターが現れてからは、
-0x0011c786 After the monsters appeared,
+0x0011c786 since the monsters appeared,
 
 ; 0x0011c7a3 レイティア湖をわたる船もありません。
-0x0011c7a3 There are no boats crossing Reitia Lake.
+0x0011c7a3 there are no boats to cross the lake.
 
 ; 0x0011c7ce ［フレイ］
 0x0011c7ce [Fray]
@@ -1400,7 +1406,7 @@
 0x0011ca5d [Mayor]
 
 ; 0x0011ca6a ああ、あれは病気でねている私の息子です。
-0x0011ca6a Oh, that's my sick son.
+0x0011ca6a Oh, that's my sick   son.
 
 ; 0x0011ca95 そうだ、どうぞこちらへいらしてください。
 0x0011ca95 Please, come over here.
@@ -1436,10 +1442,10 @@
 0x0011cb8f [Mayor]
 
 ; 0x0011cb9c 先生、実はかくかくしか
-0x0011cb9c The truth is… It’s 
+0x0011cb9c The truth is… a bit
 
 ; 0x0011cbb3 じかなのですが・・・。
-0x0011cbb3 a bit complicated…
+0x0011cbb3 complicated… (story)
 
 ; 0x0011cbd0 ［フレイ］
 0x0011cbd0 [Fray]
@@ -1477,7 +1483,7 @@
 0x0011ccb3 Potion”.
 
 ; 0x0011ccc6 この子の治療にどうしても必要なんでな。
-0x0011ccc6 It’s essential for his treatment.
+0x0011ccc6 It’s essential to cure him.
 
 ; 0x0011ccf3 ［フレイ］
 0x0011ccf3 [Fray]
@@ -1495,16 +1501,16 @@
 0x0011cd3b [Fray]
 
 ; 0x0011cd4a あのー、ふと思ったん
-0x0011cd4a Um, I just
+0x0011cd4a Um, wait a
 
 ; 0x0011cd5f ですけどもー・・・
-0x0011cd5f wondered...
+0x0011cd5f second...
 
 ; 0x0011cd78 ［フレイ］
 0x0011cd78 [Fray]
 
 ; 0x0011cd87 どうしてあなたが直接いかないんです？
-0x0011cd87 Why don’t you go yourself?
+0x0011cd87 Why don’t you go  yourself?
 
 ; 0x0011cdb2 ［アイザック］
 0x0011cdb2 [Isac]
@@ -1531,7 +1537,7 @@
 0x0011ce71 [Isac]
 
 ; 0x0011ce84 え〜い、ゴチャゴチャとうるさい娘じゃのう。
-0x0011ce84 Aww, what a noisy girl.
+0x0011ce84 Aww, what a    noisy girl.
 
 ; 0x0011ceb1 湖がわたれんでもいいのか？
 ; 0x0011ceb1 Do you want to cross the lake or not?
@@ -1569,7 +1575,7 @@
 0x0011cfc6 [Isac]
 
 ; 0x0011cfd9 うむ。ごくろうごくろう。
-0x0011cfd9 Good work.
+0x0011cfd9 Yes. Well done.
 
 ; 0x0011cff8 ［フレイ］
 0x0011cff8 [Fray]
@@ -1581,7 +1587,7 @@
 0x0011d022 [Mayor]
 
 ; 0x0011d02f フレイさん、ありがとう
-0x0011d02f Thank you,
+0x0011d02f Thank you so much,
 
 ; 0x0011d046 ございました。
 0x0011d046 Fray.
@@ -1617,7 +1623,7 @@
 0x0011d11c [Fray]
 
 ; 0x0011d12b じゃあ、私はこれで。
-0x0011d12b Then I’ll be going.
+0x0011d12b I’ll be going now.
 
 ; 0x0011d146 ［村長］
 0x0011d146 [Mayor]
@@ -1629,13 +1635,13 @@
 0x0011d16a [Mayor]
 
 ; 0x0011d177 本当にありがとうござい
-0x0011d177 Thank you so
+0x0011d177 Thank you again so
 
 ; 0x0011d18e ました。
 0x0011d18e much.
 
 ; 0x0011d199 すこしですが、どうぞお受け取りください。
-0x0011d199 Please accept this small    token.
+0x0011d199 Please accept this small token.
 
 ; 0x0011d1c8 ［フレイ］
 0x0011d1c8 [Fray]
@@ -1647,7 +1653,7 @@
 0x0011d1ec Th-Thank you.
 
 ; 0x0011d209 それじゃあ。
-0x0011d209 Well then.
+0x0011d209 Well then...
 
 ; 0x0011d21c ［フレイ］
 0x0011d21c [Fray]
@@ -1659,7 +1665,7 @@
 0x0011d23e [Fray]
 
 ; 0x0011d24d あのぉ〜、アイザック
-0x0011d24d Um, Isaac...
+0x0011d24d Um, Isac...
 
 ; 0x0011d263 ・・・先生？
 0x0011d263 Sir?
@@ -1674,7 +1680,7 @@
 0x0011d2ae [Fray]
 
 ; 0x0011d2bd 実は、かくかくしかじかというワケで・・・。
-0x0011d2bd Well, here’s what  happened…
+0x0011d2bd Well, you see... (story)
 
 ; 0x0011d2ee ［アイザック］
 0x0011d2ee [Isac]
@@ -2560,10 +2566,10 @@
 0x0011eeec [Mill]
 
 ; 0x0011eef9 おや？　フレイさん、　今おかえりですか？
-0x0011eef9 Oh? Fray, you’re  back now?
+0x0011eef9 Oh? Fray, are you   back already?
 
 ; 0x0011ef24 そちらの方は・・・
-0x0011ef24 That's...
+0x0011ef24 And this person...
 
 ; 0x0011ef39 先生！　アイザック先生ではありませんか！？
 0x0011ef39 Isac! Isn’t that Professor  Isac!?
@@ -2572,6 +2578,7 @@
 0x0011ef6a [Fray]
 
 ; 0x0011ef79 ミル、知ってんの？
+; 0x0011ef79 Mill, you know him?
 0x0011ef79 Do you know him?
 
 ; 0x0011ef92 ［ミル］
@@ -2581,11 +2588,11 @@
 0x0011ef9f He was my teacher at  the Magic School.
 
 ; 0x0011efd2 “大魔導士アイザック”、その人ですよ。
-0x0011efd2 He is the "Great Sorcerer Isaac".
+0x0011efd2 He is the "Great Sorcerer Isac".
 
 ; 0x0011effd ・・・ヘンですね、魔導講義中に
 ;0x0011effd …Strange, I'm sure we talked about
-0x0011effd …Strange, I've talked about
+0x0011effd …Strange, we talked about
 
 ; 0x0011f01c お話ししたハズですが？
 0x0011f01c him during a lesson.
@@ -2597,10 +2604,10 @@
 0x0011f04a Now that
 
 ; 0x0011f054 そう言えば、
-0x0011f054 you mention it,
+0x0011f054  you mention
 
 ; 0x0011f061 そうだったわね。あはははは。
-0x0011f061 that's right. Ahahaha.
+0x0011f061 it, that's right. Ahahaha.
 
 ; 0x0011f084 ［アイザック］
 0x0011f084 [Isac]
@@ -2613,7 +2620,7 @@
 
 ; 0x0011f0cd そ、それよりもミル。あのね、えーと・・・
 ; 0x0011f0cd A-Anyway, Mill.   You know, uh...
-0x0011f0cd More importantly,   Mill… 
+0x0011f0cd A-Anyway, Mill… 
 
 ; 0x0011f0fc ［アイザック］
 0x0011f0fc [Isac]
@@ -2676,7 +2683,7 @@
 0x0011f2ad Deep inside, the “Wings of
 
 ; 0x0011f2cc 眠っておるハズじゃ。
-0x0011f2cc the Gods” rest.
+0x0011f2cc the Gods” rests.
 
 ; 0x0011f2e7 ［ミル］
 0x0011f2e7 [Mill]
@@ -2857,7 +2864,7 @@
 0x0011f899 [Fray]
 
 ; 0x0011f8a8 ・・・だれもいない。
-0x0011f8a8 ...no one.
+0x0011f8a8 ...no one’s here.
 
 ; 0x0011f8c3 ［フレイ］
 0x0011f8c3 [Fray]
@@ -2869,10 +2876,11 @@
 0x0011f8f3 [Mill]
 
 ; 0x0011f900 ミリーさんにケタはずれ
-0x0011f900 It’s certain that Miry has
+; 0x0011f900 It’s certain that Miry has
+0x0011f900 Miry certainly possesses
 
 ; 0x0011f917 の魔力があるのは確実です。
-0x0011f917 extraordinary magical powers.
+;0x0011f917 extraordinary magical power.
 
 ; 0x0011f934 おそらく、そこに目をつけられた
 0x0011f934 It seems that’s what drew 
@@ -2905,10 +2913,10 @@
 0x0011fa31 [Mill]
 
 ; 0x0011fa3e ありがとうございます、フレイさん。
-0x0011fa3e Thank you very much, Fray.
+0x0011fa3e Thank you, Fray.
 
 ; 0x0011fa63 では、私たちは町の西にあるガケ
-0x0011fa63 We’ll be ready just past the 
+0x0011fa63 We’ll be ready by the 
 
 ; 0x0011fa82 の先で準備していますので。
 0x0011fa82 cliff west of town.
@@ -2923,7 +2931,7 @@
 0x0011fad5 [Fray]
 
 ; 0x0011fae4 わかったわ、ミル。
-0x0011fae4 Okay, Mil.
+0x0011fae4 Okay, Mill.
 
 ; 0x0011fafd ［アイザック］
 0x0011fafd [Isac]
@@ -2938,13 +2946,13 @@
 0x0011fb33 Please go easy on me,
 
 ; 0x0011fb48 いしますね、アイザック先生。
-0x0011fb48 Isac.
+0x0011fb48 Professor Isac.
 
 ; 0x0011fb6b ［アイザック］
 0x0011fb6b [Isac]
 
 ; 0x0011fb7e わかっておる。
-0x0011fb7e I understand.
+0x0011fb7e I know.
 
 ; 0x0011fb93 ［フレイ］
 0x0011fb93 [Fray]
@@ -2968,10 +2976,11 @@
 0x0011fc26 [Fray]
 
 ; 0x0011fc35 はい。ぐずぐずしていられません。
-0x0011fc35 Yes. I can't afford to dawdle.
+; 0x0011fc35 Yes. We can’t afford to dawdle.
+0x0011fc35 Yes. No time to    waste.
 
 ; 0x0011fc58 おねがいします。
-0x0011fc58 Please.
+0x0011fc58 Let's go.
 
 ; 0x0011fc6f ［フレイ］
 0x0011fc6f [Fray]
@@ -2989,13 +2998,14 @@
 0x0011fcd5 [Fray]
 
 ; 0x0011fce4 すご〜い、空に浮いてるわ！
-0x0011fce4 Wow, i'm flying in the sky!
+; 0x0011fce4 Amazing! I'm flying in the sky!
+0x0011fce4 Wow, I'm flying!
 
 ; 0x0011fd05 ［ミル］
 0x0011fd05 [Mill]
 
 ; 0x0011fd12 フレイさん。私たちもできるかぎり手助けします。
-0x0011fd12 Fray, we'll help as much as we can.
+0x0011fd12 Fray, we'll help as  much as we can.
 
 ; 0x0011fd43 これから支援アイテムの転送準備
 0x0011fd43 We'll send you some support
@@ -3004,16 +3014,16 @@
 0x0011fd62 items.
 
 ; 0x0011fd73 うまく敵の攻撃のスキをついて、受けとってください。
-0x0011fd73 Collect them while avoiding the enemies.
+0x0011fd73 Collect them while avoiding   the enemies.
 
 ; 0x0011fdac ［アイザック］
 0x0011fdac [Isac]
 
 ; 0x0011fdbf 城のまわりのモン
-0x0011fdbf Watch out for monsters
+0x0011fdbf Watch out for 
 
 ; 0x0011fdd0 スターに気をつけるのじゃぞ。
-0x0011fdd0 around the castle.
+0x0011fdd0 monsters around the castle.
 
 ; 0x0011fdf3 ［フレイ］
 0x0011fdf3 [Fray]
@@ -3274,7 +3284,7 @@
 0x00126477 Wow!
 
 ; 0x00126480 アイザック先生！？
-0x00126480 Isaac?!
+0x00126480 Isac?!
 
 ; 0x00126499 ［フレイ］
 0x00126499 [Fray]
@@ -3841,7 +3851,7 @@
 0x00127827 Oh, you're here too?
 
 ; 0x00127846 ［商人］
-0x00127846 [merchant]
+0x00127846 [Merchant]
 
 ; 0x00127853 へぇ、そのセツはお世話さんで。
 0x00127853 Wow, that's a nice guy.
@@ -3853,7 +3863,7 @@
 0x00127887 Likewise. You've helped us a lot in the castle.
 
 ; 0x001278be ［商人］
-0x001278be [merchant]
+0x001278be [Merchant]
 
 ; 0x001278cb これで明日からまた、　マトモな商売ができます。
 0x001278cb Starting tomorrow, I'll be able to do some more serious business.
@@ -3862,7 +3872,7 @@
 0x001278fc That's right. If you don't say it tomorrow, I'll start now.
 
 ; 0x00127939 ［商人］
-0x00127939 [merchant]
+0x00127939 [Merchant]
 
 ; 0x00127946 旅の記念にどうでっか？
 0x00127946 Why don't we celebrate our trip?
@@ -3951,116 +3961,126 @@
 ; 0x00127c33 　　　　−　次の日　−
 0x00127c33 The next day.
 
+
+;; Flying Castle, Terrace, Merchant 1st meeting
+
 ; 0x00127c4e ［フレイ］
 0x00127c4e [Fray]
 
 ; 0x00127c5d いたたたた・・・。
-0x00127c5d Owowowow...
+0x00127c5d Ouch, ouch, ouch…
 
 ; 0x00127c72 もうっ、どうして急にツバサが
-0x00127c72 Geez, why is Tsubasa suddenly...
+0x00127c72 Geez, why did my wings suddenly 
 
 ; 0x00127c90 消えちゃうのよっ！
-0x00127c90 It'll disappear!
+0x00127c90 disappear?!
 
 ; 0x00127ca9 ［アヤシイ男］
-0x00127ca9 [shady man]
+0x00127ca9 [Suspicious]
 
 ; 0x00127cbc な、なんでっか、
-0x00127cbc Wh-Why,
+0x00127cbc Wh-what the heck
 
 ; 0x00127ccd あんさんは！？
-0x00127ccd What about you!?
+0x00127ccd are you?!
 
 ; 0x00127cde いきなり空からわいてきよってからに。
-0x00127cde After suddenly coming from the sky.
+; 0x00127cde Popping out of the sky all of a sudden.
+0x00127cde Suddenly popping out of the sky.
 
 ; 0x00127d09 ［フレイ］
 0x00127d09 [Fray]
 
 ; 0x00127d18 そ、そーゆーあなたこそ何よっ！？
-0x00127d18 Th-That's right! What about you!?
+0x00127d18 W-what about you, then?!
 
 ; 0x00127d3b もしかして、あなたが闇の大魔導士アマドゥク！？
-0x00127d3b Are you the Great Sorcerer of Darkness, Amadok?!
+0x00127d3b Are you the Dark Sorcerer Amadok?!
 
 ; 0x00127d70 ［アヤシイ男］
-0x00127d70 [shady man]
+0x00127d70 [Suspicious]
 
 ; 0x00127d83 なんでっかいな、それは？
-0x00127d83 What's the big deal?
+; 0x00127d83 What’re you going on about?
+0x00127d83 Who's that?
 
 ; 0x00127d9e わてはタダのあきんどだす。
-0x00127d9e I'm free akindo.
+0x00127d9e I'm just a merchant.
 
 ; 0x00127dbf ［フレイ］
 0x00127dbf [Fray]
 
 ; 0x00127dce アキンド？
-0x00127dce Akind?
+;0x00127dce A merchant?
+0x00127dce Merchant?
 
 ; 0x00127ddf ［商人］
-0x00127ddf [merchant]
+0x00127ddf [Merchant]
 
 ; 0x00127dec へえ。ワニナの町で商売
-0x00127dec Huh. Business in Wanina Town.
+0x00127dec Yup. I was doing my 
 
 ; 0x00127e03 やっとりましたんや。
-0x00127e03 I did it.
+0x00127e03 business in Crocburg.
 
 ; 0x00127e1a それが何やら知らん間に、こんな
-0x00127e1a I didn't even know what it was.
+0x00127e1a Then somehow I ended up being
 
 ; 0x00127e39 トコ連れてこられてもうて。
-0x00127e39 I was brought here.
+0x00127e39 brought to this place.
 
 ; 0x00127e5a ［フレイ］
 0x00127e5a [Fray]
 
 ; 0x00127e69 よくわからないけど、
-0x00127e69 I don't really get it,
+; I don’t really get it, but you don’t seem like a bad person.
+0x00127e69 You don’t seem a 
 
 ; 0x00127e7e 悪い人じゃあなさそうね。
-0x00127e7e He doesn't seem like a bad guy.
+0x00127e7e bad person.
+
+; 0x00127e9d ［商人］
+0x00127e9d [Merchant]
 
 ; 0x00127eaa あたりまえでんがな。
-0x00127eaa Of course it is.
+0x00127eaa Of course not!
 
 ; 0x00127ec1 それよりあんさん、なんか買うて
-0x00127ec1 Anyway, can you buy something?
+0x00127ec1 Anyway, how about buying
 
 ; 0x00127ee0 くれまへんか？
-0x00127ee0 Can I have it?
+0x00127ee0 something?
 
 ; 0x00127ef5 ［フレイ］
 0x00127ef5 [Fray]
 
 ; 0x00127f04 はい？
-0x00127f04 Yes?
+0x00127f04 Huh?
 
 ; 0x00127f11 ［商人］
-0x00127f11 [merchant]
+0x00127f11 [Merchant]
 
 ; 0x00127f1e あんさん、わての話、
-0x00127f1e An-san, my story,
+0x00127f1e Hey, are you even
 
 ; 0x00127f34 聞いとりまへんのか？
-0x00127f34 Aren't you gonna listen?
+0x00127f34 listening to me?
 
 ; 0x00127f4b ここへ来てから客がおらんで、
-0x00127f4b I haven't had any customers since I came here.
+0x00127f4b Since I got here I haven’t had
 
 ; 0x00127f69 商売あがったりなんや。
-0x00127f69 Business is booming.
+0x00127f69 a single customer!
 
 ; 0x00127f82 何にしまひょ？
-0x00127f82 What is it?
+0x00127f82 What’ll it be?
 
 ; 0x00127f97 ［商人］
-0x00127f97 [merchant]
+0x00127f97 [Merchant]
 
 ; 0x00127fa4 まいど、おおきに。
-0x00127fa4 Thank you very much.
+0x00127fa4 Thanks a bunch!
 
 ; 0x00127fbd ［フレイ］
 0x00127fbd [Fray]
@@ -4069,43 +4089,46 @@
 0x00127fcc Anyway, you,
 
 ; 0x00127fdf ほかにも連れて来られた人たちが
+; 0x00127fdf There should be other people who were brought here. 
 0x00127fdf There were other people brought here
 
 ; 0x00127ffe いるハズだけど、知らない？
-0x00127ffe He should be here. Don't you know?
+0x00127ffe Do you know anything?
 
 ; 0x0012801f ［商人］
-0x0012801f [merchant]
+0x0012801f [Merchant]
 
 ; 0x0012802c ああ、それでしたら奥に
-0x0012802c Oh, in that case, in the back.
+0x0012802c Oh, if that’s what you mean, 
 
 ; 0x00128043 ぎょうさん、いてはります。
-0x00128043 Gyou-san's here.
+0x00128043 there are plenty in the back.
 
 ; 0x00128060 せやけど、みんな眠ったまんまで
-0x00128060 But we're all asleep.
+0x00128060 But they're all asleep and
 
 ; 0x0012807f 起きてくれはりまへんのや。
-0x0012807f Don't wake up.
+0x0012807f won’t wake up.
 
 ; 0x001280a0 ［フレイ］
 0x001280a0 [Fray]
 
 ; 0x001280b1 ・・・それもアイツの
-0x001280b1 It's his...
+0x001280b1 …So that must be his 
 
 ; 0x001280c8 しわざってことかしら？
-0x001280c8 Does that mean it's a secret?
+0x001280c8 doing too, huh?
 
 ; 0x001280e3 ありがとう、また寄らせてもらうわ。
 0x001280e3 Thanks. I'll stop by again.
 
 ; 0x0012810c ［商人］
-0x0012810c [merchant]
+0x0012810c [Merchant]
 
 ; 0x00128119 奥へ行かはるんでっか？気をつけてな。
-0x00128119 Are you going deeper? Be careful.
+0x00128119 Heading deeper in? Be careful.
+
+
 
 ; 0x00128144 ［フレイ］
 0x00128144 [Fray]
@@ -4168,7 +4191,7 @@
 0x0012831e ...?!
 
 ; 0x00128335 ［商人］
-0x00128335 [merchant]
+0x00128335 [Merchant]
 
 ; 0x00128342 ゆぅえ〜〜〜〜〜い！！
 0x00128342 Yuuuuuuuuu!!
@@ -4183,7 +4206,7 @@
 0x0012838b Ugh...
 
 ; 0x001283a4 ［商人］
-0x001283a4 [merchant]
+0x001283a4 [Merchant]
 
 ; 0x001283b1 さてさて、今日は何にしまひょ？
 0x001283b1 Now then, what should we do today?
@@ -4201,7 +4224,7 @@
 0x0012841c I was in there!
 
 ; 0x00128433 ［商人］
-0x00128433 [merchant]
+0x00128433 [Merchant]
 
 ; 0x00128440 ただ、モノ売るだけやったら、だれでもできます。
 0x00128440 Anyone can do it if they just sell stuff.
@@ -4234,7 +4257,7 @@
 0x00128545 You...!
 
 ; 0x00128560 ［商人］
-0x00128560 [merchant]
+0x00128560 [Merchant]
 
 ; 0x0012856d ワニ皮やおまへんで。
 0x0012856d Crocodile skins and balls.
@@ -4255,7 +4278,7 @@
 0x001285d8 You're saying you can?
 
 ; 0x001285f1 ［商人］
-0x001285f1 [merchant]
+0x001285f1 [Merchant]
 
 ; 0x001285fe もちろんでおま。
 0x001285fe Of course, you.
@@ -4264,7 +4287,7 @@
 0x0012860f ...I'll get this.
 
 ; 0x00128625 ［商人］
-0x00128625 [merchant]
+0x00128625 [Merchant]
 
 ; 0x00128632 この『さーふぼーど』
 0x00128632 This “Saafuboudo”
@@ -4279,7 +4302,7 @@
 0x0012867a Give me one!
 
 ; 0x00128695 ［商人］
-0x00128695 [merchant]
+0x00128695 [Merchant]
 
 ; 0x001286a2 ちょうだい、でっか？
 0x001286a2 Give it to me. Big?
@@ -4297,7 +4320,7 @@
 0x00128719 I'll give you special service.
 
 ; 0x00128742 ［商人］
-0x00128742 [merchant]
+0x00128742 [Merchant]
 
 ; 0x0012874f ほな、お気をつけて。今度はまたなんか買うてってや。
 0x0012874f Hey, be careful. Buy something again next time.
@@ -4348,7 +4371,7 @@
 0x001288f0 [Fray]
 
 ; 0x001288ff ミル、だいじょうぶ？
-0x001288ff Mil, are you okay?
+0x001288ff Mill, are you okay?
 
 ; 0x0012891a ［ミル］
 0x0012891a [Mill]
@@ -4357,7 +4380,7 @@
 0x00128927 Yes, somehow.
 
 ; 0x0012893c それより、はやくヤツの・・・
-0x0012893c More importantly, let's hurry.
+0x0012893c Anyway, let's hurry.
 
 ; 0x0012895b アマドゥクの儀式を止めなければ・・・。
 0x0012895b We have to stop Amadok's ritual.
@@ -4414,7 +4437,7 @@
 0x00128af1 If that happens...
 
 ; 0x00128b10 ミル、あなたはルトクを連れて、
-0x00128b10 Mil, you take Latok with you,
+0x00128b10 Mill, you take Latok with you,
 
 ; 0x00128b2f 先に地上へもどって。
 0x00128b2f Go back to the surface.
@@ -4477,7 +4500,7 @@
 0x00128d06 [Fray]
 
 ; 0x00128d17 ミル・・・・・
-0x00128d17 Mil...
+0x00128d17 Mill...
 
 ; 0x00128d26 ルトクをおねがいね。
 0x00128d26 Please, Latok.
@@ -4702,7 +4725,7 @@
 0x00129338 Why are you here?!
 
 ; 0x00129365 ［商人］
-0x00129365 [merchant]
+0x00129365 [Merchant]
 
 ; 0x00129372 まあまあ、細かいコト気
 0x00129372 Now, now, let’s go over the details.
@@ -4714,7 +4737,7 @@
 0x001293a4 Anyway, buy something again.
 
 ; 0x001293cd ［商人］
-0x001293cd [merchant]
+0x001293cd [Merchant]
 
 ; 0x001293da この先の方に行ったら、
 0x001293da When I go up ahead,
@@ -5053,7 +5076,7 @@
 0x00129eca You're doing business here?
 
 ; 0x00129ee3 ［商人］
-0x00129ee3 [merchant]
+0x00129ee3 [Merchant]
 
 ; 0x00129ef0 せやなぁ、ここいら辺で
 0x00129ef0 That's right, around here
@@ -5080,7 +5103,7 @@
 0x00129f9f Stay where you are.
 
 ; 0x00129fb6 ［商人］
-0x00129fb6 [merchant]
+0x00129fb6 [Merchant]
 
 ; 0x00129fc3 そうでもあらしまへん。
 0x00129fc3 That's not true.
@@ -5098,19 +5121,19 @@
 0x0012a048 Buy something again.
 
 ; 0x0012a069 ［商人］
-0x0012a069 [merchant]
+0x0012a069 [Merchant]
 
 ; 0x0012a076 売りモンに手ェ出してもろたら困ります。
 0x0012a076 I don't want you to lay a hand on the sale.
 
 ; 0x0012a0a3 ［商人］
-0x0012a0a3 [merchant]
+0x0012a0a3 [Merchant]
 
 ; 0x0012a0b0 それは売りモンだす。
 0x0012a0b0 It's for sale.
 
 ; 0x0012a0cb ［商人］
-0x0012a0cb [merchant]
+0x0012a0cb [Merchant]
 
 ; 0x0012a0d8 いかがでっか、新開発の宝箱でっせ。
 0x0012a0d8 How about it? It's a new treasure chest.
@@ -5122,7 +5145,7 @@
 0x0012a110 What's new?
 
 ; 0x0012a123 ［商人］
-0x0012a123 [merchant]
+0x0012a123 [Merchant]
 
 ; 0x0012a130 だれにも開けられへん宝箱だす。
 0x0012a130 A treasure chest that no one can open.
@@ -5134,7 +5157,7 @@
 0x0012a164 That's useless!
 
 ; 0x0012a18d ［商人］
-0x0012a18d [merchant]
+0x0012a18d [Merchant]
 
 ; 0x0012a19a 心配おまへん。
 0x0012a19a Don't worry.
@@ -5146,7 +5169,7 @@
 0x0012a1c9 It's locked.
 
 ; 0x0012a1ea ［商人］
-0x0012a1ea [merchant]
+0x0012a1ea [Merchant]
 
 ; 0x0012a1f7 さわらんといてぇな。　
 0x0012a1f7 Don't touch it.
@@ -5584,7 +5607,7 @@
 0x0012b02d You're waking me up.
 
 ; 0x0012b042 というわけでミル。ルトクを安全
-0x0012b042 That's why, Mil, you're safe.
+0x0012b042 That's why, Mill, you're safe.
 
 ; 0x0012b061 なトコまで運んであげて。
 0x0012b061 Carry him to where he is.
@@ -6010,7 +6033,7 @@
 0x0015c8e5 Fires 3 magic arrows.
 
 ; 0x0015c8fe ３本よ、３本！
-0x0015c8fe Three, three!
+0x0015c8fe Yes, three!
 
 ; 0x0015c90f どお？
 0x0015c90f .
@@ -6025,7 +6048,7 @@
 0x0015c96c .
 
 ; 0x0015c971 ３方向に飛ぶのはいいけど、なんだか物足りないわ。
-0x0015c971 Shoot in 3 directions, but it's a little lacking.
+0x0015c971 Shoot in 3 directions, but a little lacking.
 
 ; 0x0015c9a2 コレクションにどう？
 0x0015c9a2 For your collection?
@@ -6103,13 +6126,14 @@
 0x0015ccf4 .
 
 ; 0x0015ccfb いやぁ、お目が高い！
-0x0015ccfb Ah, you have a keen eye!
+;0x0015ccfb You have a keen eye!
+0x0015ccfb Good choice!
 
 ; 0x0015cd10 勉強させてもらいますよって、
-0x0015cd10I’ll learn from you,
+0x0015cd10 I'll make ya a deal,
 
 ; 0x0015cd2d どんどん買うてってや。
-0x0015cd2d so buy more and more.
+0x0015cd2d so keep on buying!
 
 ; 0x0015cd44 買いますか？
 0x0015cd44 Buy it?
@@ -6167,10 +6191,11 @@
 0x0015cf4d Looking for rods?
 
 ; 0x0015cf67 ご一緒に
-0x0015cf67 Come in...
+;0x0015cf67 How about
+0x0015cf67 Try a
 
 ; 0x0015cf71 の魔法などいかがですかぁ？
-0x0015cf71 How about some Magic?
+0x0015cf71 .
 
 ; 0x0015cf91 おつかれでしょう。
 0x0015cf91 You must be tired.
@@ -6808,37 +6833,40 @@
 0x002d8e6e Please,
 
 ; 0x002d8e77 『神々のツバサ』がほしいの！
-0x002d8e77 I want the Gods' spit!
+0x002d8e77 I need the “Wings of the Gods”!
 
 ; 0x002d8e96 できぬ相談だな。
-0x002d8e96 I can't give you any advice.
+0x002d8e96 Impossible.
 
 ; 0x002d8ea7 あれは、人間ごときが持つべき力ではない。
-0x002d8ea7 That wasn't a power a mere human should possess.
+;0x002d8ea7 That is not a power mortals should ever possess.
+0x002d8ea7 Mere humans shall not have that power.
 
 ; 0x002d8ed2 多くの人たちを助けるために、どうしても必要なの。
-0x002d8ed2 I need to help a lot of people.
+0x002d8ed2 It’s necessary to help so many people.
 
 ; 0x002d8f05 ダメだって言うなら、力ずくでももらっていくからねっ！
+; 0x002d8f05 If you won’t give it, then I’ll take it by force!
 0x002d8f05 If you say no, I'll take it by force!
 
 ; 0x002d8f3c 小娘ごときが大きな口をたたきおって・・・。
-0x002d8f3c The likes of a little girl...
+0x002d8f3c Such arrogance from a mere little girl…
 
 ; 0x002d8f68 おもしろい、やってみるがよい。
-0x002d8f68 Interesting. Try it.
+;0x002d8f68 Very well then, let’s see what you can do.
+0x002d8f68 Very well then, try it.
 
 ; 0x002d8f89 また来おったか、小娘！
-0x002d8f89 Welcome back, lass!
+0x002d8f89 Back again, little girl!
 
 ; 0x002d8fa2 『神々のツバサ』は私がもらっていくんだからねっ！
-0x002d8fa2 I'll take the Divine Tsubasa!
+0x002d8fa2 The “Wings of the Gods” are mine this time!
 
 ; 0x002d8fd5 どう？
 0x002d8fd5 Well?
 
 ; 0x002d8fdd 人間の小娘の実力がわかっていただけたかしら？
-0x002d8fdd Do you understand what a human girl can do?
+0x002d8fdd Do you see now the strength of a human girl?
 
 ; 0x002d900c なるほどな。
 0x002d900c I see.
@@ -6847,7 +6875,7 @@
 0x002d901a That's how humans repeat their foolish mistakes.
 
 ; 0x002d9053 あやまち？
-0x002d9053 A mistake?
+0x002d9053 Mistakes?
 
 ; 0x002d905f ちがうわ、私は・・・
 0x002d905f No, I...
@@ -6859,247 +6887,267 @@
 0x002d9086 But remember this:
 
 ; 0x002d90a2 過ぎた力は滅びをもたらす。
-0x002d90a2 Too much power brings destruction.
+;0x002d90a2 Power unchecked will only bring destruction.
+0x002d90a2 Too much power brings ruin.
 
 ; 0x002d90be 人間は、おのれの器を知らなさすぎる。
-0x002d90be Humans don't know your capacity.
+; 0x002d90be Humans never seem to know their own limits.
+0x002d90be Humans never know their limits.
 
 ; 0x002d90e5 でも、人間だって進歩してるのよ。
-0x002d90e5 But humans are making progress.
+0x002d90e5 But humans are improving too.
 
 ; 0x002d9107 あなたが思ってるほど、人間はバカじゃないわ
-0x002d9107 Humans aren't as dumb as you think.
+0x002d9107 We’re not as foolish as you think!
 
 ; 0x002d9134 それはどうかな。
-0x002d9134 I don't know.
+0x002d9134 We shall see.
 
 ; 0x002d9145 そら、持って行くがよい。
-0x002d9145 Here, take it.
+0x002d9145 Go on, take it.
 
 ; 0x002d9160 あのー・・・
 0x002d9160 Um...
 
 ; 0x002d916f わが命、ついえたワケではない。
-0x002d916f It's not my life.
+0x002d916f My life is not  yet over.
 
 ; 0x002d918f わが宿命のくさり、
-0x002d918f The smell of my fate,
+0x002d918f The chains of destiny…
 
 ; 0x002d91a3 解かれることは、ない・・・
-0x002d91a3 It won't be solved.
+0x002d91a3 …can never be broken.
+
+
+;; MINES
+
+; 0x001d65cf ［トロッコをご利用の方へ］
+0x001d65cf ［Riding Carts］
+
+; 0x001d65ec 乗ると走り出します。
+0x001d65ec Board to start moving.
+
+; 0x001d6602 分岐点に来たら左右に操作してください。
+0x001d6602 Steer left or right at forks.
 
 ; 0x002d91c2 ［石像］
-0x002d91c2 [statue]
+0x002d91c2 [Statue]
 
 ; 0x002d91cc 「封印のカギ」を確認。
-0x002d91cc Check Seal Key.
+0x002d91cc Seal Key Confirmed.
 
 ; 0x002d91e3 どうぞ、お通りください。
-0x002d91e3 Please, pass by.
+0x002d91e3 You may pass.
 
 ; 0x00307a57 ［フレイ］
 0x00307a57 [Fray]
 
 ; 0x00307a6a ［フェイザード］
-0x00307a6a [fight]
+0x00307a6a [Feizard]
 
 ; 0x00307a83 ［ミルの声］
-0x00307a83 [mil's voice]
+0x00307a83 [Mill]
 
 ; 0x00307a96 ［アイザックの声］
-0x00307a96 [isaac voice]
+0x00307a96 [Isac]
 
 ; 0x00307aaf ［老木］
-0x00307aaf [ogi]
+0x00307aaf [Tree]
 
 ; 0x00307ac0 フレイさん！　フレイさん！　聞こえますか？
-0x00307ac0 Fray! Fray! You hear me?
+0x00307ac0 Fray! Fray! Can you hear me?
 
 ; 0x00307aed ミル！？　ど、どこにいるのよ？
-0x00307aed Mil?! Wh-Where are you?
+0x00307aed Mill?! Wh-Where are you?
 
 ; 0x00307b12 よかった、聞こえてるようですね。
-0x00307b12 I'm glad you can hear me.
+0x00307b12 Good, you can hear me.
 
 ; 0x00307b34 アイザック先生、成功したようです。
-0x00307b34 Isac seems to have succeeded.
+0x00307b34 It seems Isac succeeded.
 
 ; 0x00307b59 ええっ、ちょっとそれ、どーゆーコトよ！？
-0x00307b59 Huh? Wait, what's that supposed to mean?!
+;0x00307b59 Wait, what  does that mean?!
+0x00307b59 Wait, what's going on?!
 
 ; 0x00307b86 あいかわらず落ち着きのない娘じゃのう。
-0x00307b86 She's as restless as ever.
+0x00307b86 As clueless as ever, aren’t you?
 
 ; 0x00307bae わしらは今、城の結界のカベをこえて話しておるのじゃ。
-0x00307bae Right now, we're talking across the castle barrier.
+0x00307bae Right now, we're speaking across the barrier.
 
 ; 0x00307be9 フレイさん、よく聞いてください。
-0x00307be9 Fray, listen up.
+0x00307be9 Fray, listen      closely.
 
 ; 0x00307c0b 私ひとりだけでも、そちらへ行くことができそうなんです。
-0x00307c0b I think I can go there alone.
+;0x00307c0b I can probably get there on my own if things go right.
+0x00307c0b I might be able to reach you.
 
 ; 0x00307c44 ホント！？
 0x00307c44 Really?!
 
 ; 0x00307c55 ただ、そのためにはまだ結界のカベが厚すぎます。
-0x00307c55 But the barrier walls are still too thick for that.
+0x00307c55 But the barrier is still too strong for that.
 
 ; 0x00307c85 そこでお願いがあるのですが、
 0x00307c85 So I have a request.
 
 ; 0x00307ca3 あなたにその結界の中心部を破壊していただきたいのです。
-0x00307ca3 I want you to destroy the center of the barrier.
+0x00307ca3 I need you to destroy the core of that barrier.
 
 ; 0x00307cdc そう言われても、どれが結界の中心なんだか・・・
-0x00307cdc I don't know what's at the center of the barrier.
+0x00307cdc How am I supposed to find the core?
 
 ; 0x00307d0f 何かあるじゃろう、ホレ。
-0x00307d0f There's gotta be something, right?
+0x00307d0f There must be something... Look around.
 
 ; 0x00307d29 テカテカ光る大きな石とか、若葉をおいしげらせた大木とか。
-0x00307d29 Like a big, shiny stone, or a big tree that made young leaves taste good.
+0x00307d29 A big shiny stone, or a great tree with lush leaves.
 
 ; 0x00307d66 ・・・大木・・・
-0x00307d66 Ooki...
+0x00307d66 …A great tree…
 
 ; 0x00307d77 ・・・木・・・
-0x00307d77 Trees.
+0x00307d77 …a tree…
 
 ; 0x00307d87 言われてみれば、たしかにそんな木があるわね。
-0x00307d87 Now that you mention it, there are trees like that.
+0x00307d87 Now that you mention it, there is a tree like that.
 
 ; 0x00307dba そっ、それに違いありません！　早くそれを・・・
-0x00307dba I-I'm sure of it! Hurry up and...
+0x00307dba Yes, that must be it! Hurry up and...
 
 ; 0x00307deb きゅ、急にそう言われたってねぇ・・・
-0x00307deb Y-You said that all of a sudden...
+0x00307deb Wh-what, out of the blue…
 
 ; 0x00307e12 い、いたたたたた・・
 0x00307e12 O-Owowowow...
 
 ; 0x00307e2d フレイさん、どうしました！？　フレイさ・・・
-0x00307e2d Fray, what's wrong? Fray...
+0x00307e2d Fray, what's     wrong? Fray...
 
 ; 0x00307e5e え・・・ちょっと、
-0x00307e5e Huh? Hey,
+0x00307e5e Eh… wait, Mill?!
 
 ; 0x00307e72 　ミル！？　ミル！！
-0x00307e72 Mil?! Mill!
+0x00307e72   Mill!
 
 ; 0x00307e8a ・・・きれちゃった・・・
-0x00307e8a I'm done.
+0x00307e8a …It’s cut off…
 
 ; 0x00307ea5 オマエか、ワシの結界に干渉してくるのは。
-0x00307ea5 You're the one interfering with my barrier.
+0x00307ea5 So you're the one interfering with my barrier.
 
 ; 0x00307ecf どういうつもりだ。
-0x00307ecf What are you trying to do?
+0x00307ecf What do you think you’re doing?
 
 ; 0x00307ee4 つもりも何も・・・。
-0x00307ee4 I don't think so.
+0x00307ee4 I had no intention...
 
 ; 0x00307ef9 あなたたちのせいで、こっちはいい迷惑よ。
-0x00307ef9 It's because of you that I'm being a bother.
+0x00307ef9 But It's causing a lot of    trouble.
 
 ; 0x00307f23 痛い目にあわされるのがヤなら、さっさと結界をといてよね。
-0x00307f23 If you don't want to get hurt, hurry up and remove the barrier.
+0x00307f23 If you don't want to get   hurt, take down the barrier quickly.
 
 ; 0x00307f5e べぇぇぇ〜つぅぅぅにぃぃぃ〜〜〜。
-0x00307f5e Beeeeehhhhhhhhhhhhh.
+0x00307f5e Pshh, no big deal!
 
 ; 0x00307f82 だって、ウチの近くにも似たのがいるモン！
-0x00307f82 I mean, there's a similar one near us!
+0x00307f82 There’s one just like you near my house!
 
 ; 0x00307fad ・・・・・っ！
 0x00307fad ...!
 
 ; 0x00307fbc そ、そやつがなにモノかは知らんがな・・・
-0x00307fbc I-I don't know what it is, but...
+0x00307fbc I-I don't know what it  is, but...
 
 ; 0x00307fe6 このワシとそこらヘンの木を、
-0x00307fe6 This eagle and the weird trees...
+0x00307fe6 Don't you dare compare me to 
 
 ; 0x00308003 いっしょにするでないっ！
-0x00308003 Don't do it with me!
+0x00308003 some random tree!
 
 ; 0x0030801d ・・・よかろう。
-0x0030801d Very well.
+0x0030801d ...Very well.
 
 ; 0x0030802f そこまで言うなら、ワシの力を見せてくれようぞ！
-0x0030802f If you insist, I'll show you my power!
+0x0030802f If you insist, I'll show   you my power!
 
 ; 0x00308060 また来たか。
-0x00308060 She's here again.
+0x00308060 Again...
 
 ; 0x0030806e 人間の分際で、このワシに勝てると思っておるのか！
-0x0030806e Do you really think you can beat me, human?!
+0x0030806e You think a mere human can    defeat me?!
 
 ; 0x003080a1 さっきは手をぬいてあげてたのよっ！
-0x003080a1 I was pulling my hand out earlier!
+0x003080a1 I was going easy on you earlier!
 
 ; 0x003080c5 こんどはホンキでいくからねっ！
-0x003080c5 I'll be serious next time!
+;0x003080c5 This time I’m giving it my all!
+0x003080c5 This time I'm going all out!
 
 ; 0x003080e6 よもや、
-0x003080e6 Surely,
+0x003080e6 I never 
 
 ; 0x003080ef このワシが
-0x003080ef It's me.
+0x003080ef thought
 
 ; 0x003080fb 人間の娘にたおされようとは。
-0x003080fb I can't believe I'm being swayed by a human girl.
+0x003080fb to be defeated by a human girl!
 
 ; 0x00308119 ・・・主よ、盟約を果たせなんだワシを許してくれ・・・
-0x00308119 Lord, fulfill the pact. Forgive me.
+0x00308119 Master, forgive me for failing you...
 
 ; 0x00308154 ・・・レイさん！　フレイさん！
-0x00308154 Ray! Fray!
+0x00308154 ...ray! Fray!
 
 ; 0x00308175 ミル！　さっきはどうしたのよ！？
-0x00308175 Mill! What happened earlier?!
+0x00308175 Mill! What happened just now!?
 
 ; 0x0030819c わかりません。
-0x0030819c I don't know.
+0x0030819c I don't understand.
 
 ; 0x003081ac なぜか急に結界が強くなったみたいです。
-0x003081ac The barrier seems to have suddenly gotten stronger for some reason.
+0x003081ac Somehow, the barrier suddenly seems stronger.
+
+; 0x003081d5 とりあえず結界の中心らしきモノは倒したわ。
+0x003081d5 But I've defeated the core of the barrier...
 
 ; 0x00308201 すぐこっちへ来れるんでしょ。
-0x00308201 You'll be able to come here soon.
+0x00308201 You can reach me soon, right?
 
 ; 0x00308222 そうカンタンにいくもんではないわい。
 0x00308222 It's not that easy.
 
 ; 0x00308248 こやつをそっちへ送るには、もう少し時間が必要じゃな。
-0x00308248 I'll need a little more time to send him there.
+0x00308248 It seems we need more time to send him
 
 ; 0x00308283 ということだそうです。
-0x00308283 Or so it seems.
+0x00308283 over there. You have
 
 ; 0x0030829b もうしばらく待ってください。
-0x0030829b Please wait a bit longer.
+0x0030829b to wait a little longer.
 
 ; 0x003082ba そんなコト言ってたらミリーが・・・。
-0x003082ba If you say that, Miry will...
+0x003082ba If we wait, Miry will...|
 
 ; 0x003082e0 私はどんどん先に
-0x003082e0 I'm going to go further.
+0x003082e0 I must move ahead...
 
 ; 0x003082f5 進む・・・わ・・・。
-0x003082f5 I'm going...
+0x003082f5 I'm moving...
 
 ; 0x00308312 フレイさん、どうしたんですか？
 0x00308312 Fray, what's wrong?
 
 ; 0x00308333 あ、あらたなキョーフ・・・・・。
-0x00308333 A-Aratana Kyouf.
+0x00308333 Ah, not again…
 
 ; 0x00308356 あ・・・あのね、さっきはああするしかなかったのよ。
-0x00308356 You know, I had no choice but to do that earlier.
+0x00308356 You see, I had no choice earlier.
 
 ; 0x00308389 だ、だから・・・
-0x00308389 So, that's why...
+0x00308389 So...
 
 ; 0x0030839e 　　　　（ずるっ☆）
-0x0030839e (Sneaky☆)
+0x0030839e (SLIP☆)
