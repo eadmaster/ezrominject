@@ -6,6 +6,9 @@
  - Most menus translated, a few gfx still left.
  - Only partially tested, there may be crashes!
 
+> [!NOTE]
+> Some lines were shortened to fit in the available space. Check [the original translation here](https://github.com/eadmaster/RetroSubs/wiki/Examples#fray-cd-xak-gaiden-pcecd).
+
 
 ## Preview  👀
 
@@ -22,3 +25,5 @@
 6. Select `.xdelta` as Patch file
 7. Click "Apply patch" and save in the same folder without changing the filename: `"In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 02) (patched).bin`
 8. Download and use the cue sheet in this folder to play the game
+
+

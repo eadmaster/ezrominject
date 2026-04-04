@@ -46,6 +46,7 @@ def encode_to_custom_sjis(text):
     letters = [chr(i) for i in range(ord('A'), ord('Z')+1)] + \
               [chr(i) for i in range(ord('a'), ord('z')+1)] + \
               [" "]
+              #TODO: list(" !'.?")
     
     BASE_LEAD = 0x88
     
@@ -370,7 +371,7 @@ def run_injection(jap_path, eng_path, rom_path):
         if KANA_1_BYTE:
             jap_map[addr_int] = get_length_with_kana_as_1_byte(text)
             if ASCII_BIOS_HACK:
-                jap_map[addr_int] = 2*jap_map[addr_int]
+                jap_map[addr_int] = 2* jap_map[addr_int] #-3
                 
     f_jap.close()
 
@@ -403,7 +404,7 @@ def run_injection(jap_path, eng_path, rom_path):
         if not addr_int in jap_map:
             addr_int += 1
         if not addr_int in jap_map:
-            print(f"Skip: Address {addr_str} not found in {jap_path} logic")
+            print(f"skipped: Address {addr_str} not found in {jap_path}")
             continue
         
         if ASCII_BIOS_HACK:
@@ -513,7 +514,7 @@ def run_injection(jap_path, eng_path, rom_path):
             fw_text = to_fullwidth(eng_text)
         
         # Pad with Spaces
-        if INJECT_ASCII:
+        if INJECT_ASCII or KANA_1_BYTE:
             #fw_text = fw_text.ljust(target_char_len, chr(0x3000))
             fw_text = fw_text.ljust(target_char_len, chr(0x20))
         else:
@@ -524,7 +525,7 @@ def run_injection(jap_path, eng_path, rom_path):
             out_bytes = encode_to_custom_sjis(eng_text)
             if len(out_bytes) > (target_char_len):     
                 out_bytes = out_bytes[:target_char_len]
-                print("truncated2: " + str(eng_text))
+                #print("truncated2: " + str(eng_text))
             while len(out_bytes) + 1 < target_char_len:
                 out_bytes.extend([0x81, 0x40])
             if len(out_bytes) < target_char_len:
@@ -541,12 +542,12 @@ def run_injection(jap_path, eng_path, rom_path):
         else:
             out_bytes = encode_with_tbl(eng_text, TBL_FILE)
             # TODO: fill with spaces
-
+            
         # Write to ROM
         f_rom.seek(addr_int)
         f_rom.write(out_bytes)
         
-        print(f"replaced: {hex(addr_int)} | Chars: {target_char_len} | {eng_text}")
+        #print(f"replaced: {hex(addr_int)} | Chars: {target_char_len} | {eng_text}")
     #end for
     
     f_eng.close()
