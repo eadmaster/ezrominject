@@ -244,7 +244,7 @@
 ; 0x000dd3ac １ボタンを押すとコマンド選択
 0x000dd3ac Press 1 to select a command,
 ; 0x000dd3c9 ２ボタンを押すとタイトルに戻ります。
-0x000dd3c9 Press 2 to return to the title.
+0x000dd3c9 Press 2 to return to title.
 ; 0x000dd3f0 コマンドを選んで下さい。
 0x000dd3f0 Select a command.
 ; 0x000dd40b ファイルを選んで下さい。
@@ -252,7 +252,7 @@
 ; 0x000dd424 セレクトボタンで次のページにする事が出来ます。
 0x000dd424 Press Select for next page.
 ; 0x000dd456 現在セーブ出来るファイル数は
-0x000dd456 Number of available save slots
+0x000dd456 Number of available saves:
 ; 0x000dd478 個です。（セーブは内蔵のバックアップラムに行われます。）
 0x000dd478  (in internal backup RAM)
 ; 0x000dd4de ユ中｡
@@ -270,7 +270,7 @@
 0x000dd53e Ancient Cave
 
 ; 0x000dd54f 「鉱山　
-0x000dd54f Mine
+0x000dd54f Mines
 
 ; 0x000dd55a 「幻影世界　
 0x000dd55a Phantom World
@@ -306,7 +306,7 @@
 0x000dd5fe Spring Cave
 
 ; 0x000dd60d 怪獣の巣
-0x000dd60d Deviant Den
+0x000dd60d Monster’s Lair
 
 ; 0x000dd61c ゴルアデス
 0x000dd61c Golaides
@@ -371,10 +371,10 @@
 ; 0x000dd74c 封玉宮
 0x000dd74c Sealed Palace
 
+;; end of locations
+
 ; 0x000dd759 ガイストレイス
 0x000dd759 Ulgar
-
-
 
 ; 0x00233d7f メイル
 0x00233d7f Mail

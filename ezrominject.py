@@ -359,7 +359,7 @@ def run_injection(jap_path, eng_path, rom_path):
             try:
                 addr_int += len(text[:last_idx + 1].encode('cp932'))
             except:
-                print("error with (skipped): " + str(text[:last_idx + 1]))
+                print("skipped: encoding error (fix the offset?): " + str(text[:last_idx + 1]))
                 continue
             text = text[last_idx + 1:]
             #print("stripped: " + str(text))

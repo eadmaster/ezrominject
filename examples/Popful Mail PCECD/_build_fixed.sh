@@ -31,13 +31,80 @@ patch_repeated_blocks() {
 
 extract_gfx() {
     mkdir gfx
-    #sfk partcopy "$OUTPUT_ROM" -fromto 0x1060860 0x10616c0 gfx/_locations_jap.bin -yes
+    
+    # locations
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x10608D1 0x1060951 gfx/location_elf_forest_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1060951 0x10609D1 gfx/location_tree_tower_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x10609D1 0x1060A51 gfx/location_golem_tower_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1060A51 0x1060AD1 gfx/location_wind_cave_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1060AD1 0x1060B51 gfx/location_fossil_cave_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1060B51 0x1060BD1 gfx/location_spring_cave_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1060BD1 0x1060C51 gfx/location_monster_lair_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1060C51 0x1060CD1 gfx/location_golaides_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1060CD1 0x1060D51 gfx/location_mines_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1060D51 0x1060DD1 gfx/location_ancient_temple_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1060DD1 0x1060E51 gfx/location_zeimar_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1060E51 0x1060ED1 gfx/location_false_wilderness_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1060ED1 0x1060F51 gfx/location_tower_deception_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1060F51 0x1060FD1 gfx/location_castle_illusion_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1060FD1 0x1061051 gfx/location_ship_graveyard_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1061051 0x10610D1 gfx/location_underwater_temple_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x10610D1 0x1061151 gfx/location_undersea_palace_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1061151 0x10611D1 gfx/location_otherworld_city_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x10611D1 0x1061251 gfx/location_assembly_plant_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1061251 0x10612D1 gfx/location_dimensional_fortress_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x10612D1 0x1061351 gfx/location_iceberg_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1061351 0x10613D1 gfx/location_mt_rip_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x10613D1 0x1061451 gfx/location_rap_ship_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1061451 0x10614D1 gfx/location_crystal_temple_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x10614D1 0x1061551 gfx/location_front_gate_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1061551 0x10615D1 gfx/location_treasury_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x10615D1 0x1061651 gfx/location_underground_maze_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1061651 0x10616D1 gfx/location_sealed_palace_jap.bin -yes
+    
+    #TODO:
     #sfk partcopy "$OUTPUT_ROM" -fromto 0x251D50 0x2571f0 gfx/_pause_menu_jap.bin -yes
+    #sfk partcopy "$OUTPUT_ROM" -fromto 0x1680400 0x gfx/_sound_test_menu_jap.bin -yes
+}
+
+replace_gfx() {
+    FILEBASENAME=gfx/$1
+    [ ! -f ${FILEBASENAME}_eng.bin ] && return  # replacement file missing
+    ORIG_BLOCK_HEX=$(sfk hexdump -raw ${FILEBASENAME}_jap.bin)
+    REPL_BLOCK_HEX=$(sfk hexdump -raw ${FILEBASENAME}_eng.bin)
+    # binary search-replace   https://stahlworks.com/sfk-rep
+    sfk replace "$OUTPUT_ROM" -binary /$ORIG_BLOCK_HEX/$REPL_BLOCK_HEX/  -yes
 }
 
 patch_gfx() {
-    echo "patch_gfx:"
-    #repeat_block ...
+    replace_gfx location_elf_forest
+    replace_gfx location_tree_tower
+    replace_gfx location_golem_tower
+    replace_gfx location_wind_cave
+    replace_gfx location_fossil_cave
+    replace_gfx location_spring_cave
+    replace_gfx location_monster_lair
+    replace_gfx location_golaides
+    replace_gfx location_mines
+    replace_gfx location_ancient_temple
+    replace_gfx location_zeimar
+    replace_gfx location_false_wilderness
+    replace_gfx location_tower_deception
+    replace_gfx location_castle_illusion
+    replace_gfx location_ship_graveyard
+    replace_gfx location_underwater_temple
+    replace_gfx location_undersea_palace
+    replace_gfx location_otherworld_city
+    replace_gfx location_assembly_plant
+    replace_gfx location_dimensional_fortress
+    replace_gfx location_iceberg
+    replace_gfx location_mt_rip
+    replace_gfx location_rap_ship
+    replace_gfx location_crystal_temple
+    replace_gfx location_front_gate
+    replace_gfx location_treasury
+    replace_gfx location_underground_maze
+    replace_gfx location_sealed_palace
 }
 
 
