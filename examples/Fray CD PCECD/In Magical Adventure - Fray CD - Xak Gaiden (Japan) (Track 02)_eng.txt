@@ -5,7 +5,7 @@
 
 ;; TELEPORT menu
 ; 0x0015e8de −どこへテレポートしますか？−
-0x0015e8de −Teleport to ？−
+0x0015e8de   − Where to teleport?−
 ; 0x0015e92a 　アーザルの町
 0x0015e92a   Arzal Town
 ; 0x0015e939 　アーザルの町　レイジアの村
@@ -15,18 +15,17 @@
 ; 0x0015e973 　ヴァルアの町
 0x0015e973   Valuah Town
 ; 0x0015e982 　空中城のテラス
-0x0015e982   Castle Terrace
+0x0015e982   Terrace
 ; 0x0015e993 　空中城テラス　結界樹の下
-0x0015e993   Castle Terrace Under the Tree
-; TODO: check if overflowing
+0x0015e993   Terrace       Under Tree
 ; 0x0015e9ae 　空中城テラス　結界樹の下
-0x0015e9ae   Castle Terrace Under the Tree
+0x0015e9ae   Terrace       Under Tree
 ; 0x0015e9c9 　牢屋１階
 0x0015e9c9   Prison 1F
 ; 0x0015e9d4 　空中城テラス　結界樹の下
-0x0015e9d4   Castle Terrace Under the Tree
+0x0015e9d4   Terrace       Under Tree
 ; 0x0015e9ef 　牢屋１階　　　牢屋４階
-0x0015e9ef   Prison 1F    Prison 4F
+0x0015e9ef   Prison 1F   Prison4F
 
 ;; HEALTH in status menu
 ; 0x0015e87d もうダメ〜
@@ -45,13 +44,15 @@
 ; 0x0015efc5 　　　　ロード
 0x0015efc5         Load
 ; 0x0015efd4 　　　　最初から
-0x0015efd4         Start
+0x0015efd4         New Game
 ; 0x0015f00d 　　ステージの最初から
 0x0015f00d      Retry
 ; 0x0015f024 　　セーブした場所から
 0x0015f024      Load Game
 ; 0x0015f04e −記録した場所−
-0x0015f04e − Load Game −
+;0x0015f04e − Load Game −
+;0x0015f050 記録した場所
+0x0015f050     LOAD    
 
 
 ;; LOCATIONS (used for saves)
@@ -73,9 +74,6 @@
 0x00159451 received! 
 ; 0x0015c09e 所持金
 0x0015c09e Gold
-
-; 0x00233304 持物がいっぱいで持てません
-0x00233304 Cannot carry more items
 
 ;; SHOP MENUS
 ; 0x0015de5f やめる
@@ -116,7 +114,8 @@
 ; 0x0015df79 Record
 0x0015df79 Save
 ; 0x0015dfc3 −セーブ−
-0x0015dfc3 -Save-
+;0x0015dfc3 -Save-
+0x0015dfc5  SAVE 
 ; 0x0015e028 巻物に念じる
 0x0015e028 Scroll
 
@@ -169,7 +168,7 @@
 ; 0x00114290 サンダー
 0x00114290 Thunder
 ; 0x0011429c ３ＷＡＹ
-0x0011429c 3way
+0x0011429c 3-Way
 ; 0x001142ae シールド
 0x001142ae Shield
 ; 0x001142b7 ロッドＬＶ
@@ -403,6 +402,10 @@
 
 ; 0x0011aa16 この町じゃないけど
 0x0011aa16 Not this town...
+
+; 0x0011aa2b となりのレイジアの村にいたアレじゃない？
+; 0x0011aa2b Wasn’t it that one in the neighboring village, Reigia?
+0x0011aa2b Wasn’t it that one in Reigia?
 
 ; 0x0011aa5a ［サムス］
 0x0011aa5a [Samus]
@@ -738,7 +741,7 @@
 0x0011b503 [Fray]
 
 ; 0x0011b512 ラトクさんが『この橋
-0x0011b512 You’re saying Latok
+0x0011b512 You are saying Latok
 
 ; 0x0011b527 を壊した』ですってぇ！？
 0x0011b527 destroyed this bridge!?
@@ -780,16 +783,16 @@
 0x0011b640 ...Hah!!
 
 ; 0x0011b653 ねぇっ、おにいさん！
-0x0011b653 Hey, mister!
+0x0011b653 Hey, mister! Are
 
 ; 0x0011b669 だいじょうぶ！？
-0x0011b669 Are you alright!?
+0x0011b669 you alright!?
 
 ; 0x0011b680 ［フレイ］
 0x0011b680 [Fray]
 
 ; 0x0011b68f あらら〜、完全にノビちゃってるわ。
-0x0011b68f Oh dear, he’s completely out.
+0x0011b68f Oh dear, he’s     completely out.
 
 ; 0x0011b6b4 ま、とりあえず息はしてるようだ
 0x0011b6b4 But at least he’s still
@@ -1969,7 +1972,8 @@
 0x0011db0b Hi, Miry.
 
 ; 0x0011db28 よかったら、後でまた子守りをおねがいね。
-0x0011db28 If you want, you can babysit her later too.
+;0x0011db28 If you want, you can babysit her later too.
+0x0011db28 If you like, babysit her again later.
 
 ; 0x0011db57 ［おばさん］
 0x0011db57 [Woman]
@@ -2565,7 +2569,7 @@
 0x0011ee65 [Fray]
 
 ; 0x0011ee74 どうやら、ここには誰も住んでないみたいね。
-0x0011ee74 Looks like no one lives here.
+0x0011ee74 Looks like no one   lives here.
 
 ; 0x0011eea5 ［フレイ］
 0x0011eea5 [Fray]
@@ -2742,19 +2746,19 @@
 0x0011f3fa Oh, you mean Miry?
 
 ; 0x0011f415 おじいさんを助けて、元気にふる
-0x0011f415 She helps the old man and puts on
+0x0011f415 She helps the old man and stays
 
 ; 0x0011f434 まってるのがケナゲだねえ。
-0x0011f434 a brave face. Such a good girl…
+0x0011f434 strong. Such a good girl…
 
 ; 0x0011f455 ［おばさん］
 0x0011f455 [Woman]
 
 ; 0x0011f466 あちこちで若い子が
-0x0011f466 Young people are going
+0x0011f466 Young people are 
 
 ; 0x0011f479 行方不明になってるそうだね。
-0x0011f479 missing all over the place. 
+0x0011f479 going missing all over. 
 
 ; 0x0011f498 おじょうちゃんも気をつけた方がいいよ。
 0x0011f498 You should be careful too, little girl.
@@ -2778,10 +2782,10 @@
 0x0011f54a [Fray]
 
 ; 0x0011f559 あの、ラトク・カート
-0x0011f559 Um, Latok Kart.
+0x0011f559 Do you know someone
 
 ; 0x0011f56e っていう人をごぞんじですか？
-0x0011f56e Do you know someone like that?
+0x0011f56e by the name Latok Kart?
 
 ; 0x0011f591 ［おじいさん］
 0x0011f591 [Old man]
@@ -3091,13 +3095,13 @@
 0x0011ff76 [Fray]
 
 ; 0x0011ff85 空き家みたいだけど、だれも入居しないのかしら？
-0x0011ff85 Looks like a vacant house. I wonder if anyone's moving in?
+0x0011ff85 Looks like a vacant house. Is anyone moving 
 
 ; 0x00120000 いのかしら？
-0x00120000 I wonder if he's here?
+0x00120000 in?
 
 ; 0x00120805 う、ういてるわ！
-0x00120805 I-I'm here!
+0x00120805 I'm flying!
 
 ; 0x0012081c ［ミル］
 0x0012081c [Mill]
@@ -3147,14 +3151,17 @@
 ; 0x001209c1 ［おばさん］
 0x001209c1 [Woman]
 
+; 0x001209d2 人さらいだなんて、
+0x001209d2 Kidnapping...
+
 ; 0x001209e5 イヤな世のなかだねぇ。
-0x001209e5 I hate this world.
+0x001209e5 what a scary world.
 
 ; 0x001209fe おじょうちゃんも、暗くならない
-0x001209fe Please go home before it gets
+0x001209fe You should go home before it  
 
 ; 0x00120a1d うちにおかえり。
-0x00120a1d too dark, little girl.
+0x00120a1d gets dark, girl.
 
 ; 0x00120a34 ［フレイ］
 0x00120a34 [Fray]
@@ -3172,7 +3179,7 @@
 0x00120aae [Fray]
 
 ; 0x00120abd わ〜〜〜っ！　も、もういいですからっ！
-0x00120abd Wah~~~! I-I'm done!
+0x00120abd Ahhhh! Enough already!
 
 ; 0x00120aea ［フレイ］
 0x00120aea [Fray]
@@ -3395,7 +3402,8 @@
 0x00126708 [Fray]
 
 ; 0x00126717 元気ねぇ。ルトク、傷はもういいの？
-0x00126717 You’re lively as  ever, Latok. Are your wounds okay?
+;0x00126717 You’re lively as  ever, Latok. Are your wounds okay?
+0x00126717 You’re lively as  ever, Latok.
 
 ; 0x00126740 ［ルトク］
 0x00126740 [Latok]
@@ -3587,7 +3595,7 @@
 0x00126deb Ugh!
 
 ; 0x00126df8 ・・ぢょっど飲びずぎだがな？
-0x00126df8 ...I've drunk a little too much.
+0x00126df8 I've drunk a little too much.
 
 ; 0x00126e1b ［おばさん］
 0x00126e1b [Woman]
@@ -3659,7 +3667,7 @@
 0x00127061 [Old man]
 
 ; 0x00127074 バアさんも来ればよかったのにのぉ。
-0x00127074 I wish Grandma  could have come too.
+0x00127074 I wish Grandma could have come too.
 
 ; 0x0012709d ［おじいさん］
 0x0012709d [Old man]
@@ -3719,7 +3727,7 @@
 0x00127290 [Band Member]
 
 ; 0x001272aa ぴーひゃら、ぴーひゃらら〜
-0x001272aa TOOT-TOOT, TOOT-TOOT-TOOO...
+0x001272aa TOOT-TOOT, TOOT-TOOO...
 
 ; 0x001272cb ［楽隊のおにいさん］
 0x001272cb [Band Member]
@@ -3737,7 +3745,7 @@
 0x00127337 [Band Member]
 
 ; 0x00127351 ぴるるるるる〜
-0x00127351 TRILL-TRILL TRILLLLL...
+0x00127351 TRILL-TRILLLLL...
 
 ; 0x00127366 ［楽隊のおにいさん］
 0x00127366 [Band Member]
@@ -3812,7 +3820,7 @@
 0x001275e3 Of course, Menea.
 
 ; 0x001275f8 キミのためなら、『たとえ火の中水の中』さ。
-0x001275f8  For you, I’d dive into fire or water.
+0x001275f8  For you, I’d dive into fire and water.
 
 ; 0x00127629 ［メネア］
 0x00127629 [Menea]
@@ -3918,10 +3926,10 @@
 0x00127972 I'm closed for the day.
 
 ; 0x0012798d けっ、これが飲まずにやってられ
-0x0012798d Tch, like I can get through this
+0x0012798d Tch, like I can get by this
 
 ; 0x001279ac るかってんだ。うぃっく。
-0x001279ac without drinking. *hic*
+0x001279ac without drinking... HIC
 
 ; 0x001279cb ［町長］
 0x001279cb [Mayor]
@@ -3936,7 +3944,7 @@
 0x00127a2e [Razel]
 
 ; 0x00127a3d ・・・さて、ミリーが
-0x00127a3d ...now, I wonder what 
+0x00127a3d ...I wonder what 
 
 ; 0x00127a52 なんと言うかのう。
 0x00127a52 Miry has to say.
@@ -3952,7 +3960,7 @@
 
 ; 0x00127aad やっと一段落ついたわね。
 ;0x00127aad Finally things are settling down a bit.
-0x00127aad At last, some    peace!
+0x00127aad Finally, some    peace!
 
 ; 0x00127acc ［おばさん］
 0x00127acc [Woman]
@@ -3961,13 +3969,13 @@
 0x00127add But those men...
 
 ; 0x00127af0 酒が足りんだの、ツマミが切れただのと。
-0x00127af0 Honestly! Only want food and drinks!
+0x00127af0 I swear, always whining about 
 
 ; 0x00127b1d ［おばさん］
 0x00127b1d [Woman]
 
 ; 0x00127b2e よくまぁ、あれだけすき勝手が言えたもんだね。
-0x00127b2e All they do is    complain!
+0x00127b2e drinks and snacks.
 
 ; 0x00127b61 ［おばさん］
 0x00127b61 [Woman]
@@ -5034,7 +5042,7 @@
 0x00129a0f Don’t mess with me!!
 
 ; 0x00129a2e 思ってる！　びしびしっ！
-0x00129a2e I'm the husband here! Bam!
+0x00129a2e I'm the husband here!
 
 ; 0x00129a49 ・・・むにゃむにゃ。
 0x00129a49 ...mumble mumble.
@@ -6098,7 +6106,7 @@
 0x0015c5ca .
 
 ; 0x0015c5d1 ちょっとこわれやすいが、心強い味方になると思うぜ。どうだい？
-0x0015c5d1 A bit fragile, but still a reliable ally. Well?
+0x0015c5d1 A bit fragile, but still a   reliable ally. Well?
 
 ; 0x0015c610 だな。
 0x0015c610 .
@@ -6116,7 +6124,7 @@
 0x0015c696 .
 
 ; 0x0015c69d そうとう値ははるが、効果は保証するぜ。　金があるときにでも買ってってくれ。
-0x0015c69d Pricey, but I guarantee the effect. Pick one up when you’ve got the gold.
+0x0015c69d Pricey, but I guarantee the   effect. Pick one up when you  can.
 
 ; 0x0015c6fa ですね。
 0x0015c6fa .
@@ -6275,6 +6283,45 @@
 ; 0x0015cd51 売りますか？
 0x0015cd51 Sell it?
 
+; 0x0015cd5e もう持つことはできません
+0x0015cd5e Cannot carry any more
+
+; 0x0015fc26 持物がいっぱいで持てません
+0x0015fc26 Cannot carry more items
+
+; 0x00177386 持物がいっぱいで持てません
+0x00177386 Cannot carry more items
+
+; 0x0018eac8 持物がいっぱいで持てません
+0x0018eac8 Cannot carry more items
+
+; 0x001a62dc 持物がいっぱいで持てません
+0x001a62dc Cannot carry more items
+
+; 0x001bda64 持物がいっぱいで持てません
+0x001bda64 Cannot carry more items
+
+; 0x001d53a4 持物がいっぱいで持てません
+0x001d53a4 Cannot carry more items
+
+; 0x002042dc 持物がいっぱいで持てません
+0x002042dc Cannot carry more items
+
+; 0x0021bb68 持物がいっぱいで持てません
+0x0021bb68 持物がいっぱいで持てません
+
+; 0x00233304 持物がいっぱいで持てません
+0x00233304 Cannot carry more items
+
+; 0x0024ab2c 持物がいっぱいで持てません
+0x0024ab2c Cannot carry more items
+
+; 0x00262304 持物がいっぱいで持てません
+0x00262304 Cannot carry more items
+
+; 0x00279988 持物がいっぱいで持てません
+0x00279988 Cannot carry more items
+
 ; 0x0015cd78 お金が足りません
 0x0015cd78 Not enough money
 
@@ -6310,13 +6357,13 @@
 0x0015cea0 [Sheela]
 
 ; 0x0015ceac お金は大切にするんだぜ、おじょうちゃん。
-0x0015ceac Take good care of your money, young miss.
+0x0015ceac Take good care of   your money, girl.
 
 ; 0x0015ceda あら、今度は女の子のお客様ね。
 0x0015ceda Oh, this time it’s a girl!
 
 ; 0x0015cefa 　この間はカッコいいカレだったから期待してたんだけどなー。ちぇ。
-0x0015cefa Last time it was an handsome guy, so I was hoping he’d be back…  hmph!
+0x0015cefa Last time it was an handsome guy, so I was hoping he’d be back...  hmph!
 
 ; 0x0015cf3f ［エルノア］
 0x0015cf3f [Endra]
@@ -6380,14 +6427,14 @@
 0x0015d0ea [Mill]
 
 ; 0x0015d0f7 ラトク
-0x0015d0f7 Latok
+0x0015d0f7  Latok
 
 ; 0x0015d0fe 勇者
 0x0015d0fe hero
 ;0x0015d0fe Mr.
 
 ; 0x0015d109 ・カート
-0x0015d109 Kart
+0x0015d109  Kart
 
 ; 0x0015d112 モンスター
 0x0015d112 monsters
@@ -6466,7 +6513,7 @@
 0x0015d38a is quite the  lonely girl. If you 
 
 ; 0x0015d3b0 　よかったら話し相手になってやってくれんかの。
-0x0015d3b0  don’t mind, could you keep her company?
+0x0015d3b0  don’t   mind, could you keep her company?
 
 ; TODO: change "Miry" fixed position
 
@@ -6560,7 +6607,7 @@
 ; TODO: remove "HeroLatok" in fixed position here
 
 ; 0x0015d708 様の活躍で平和になったと思ったんですが。
-0x0015d708 brought us peace 3 years ago.
+0x0015d708  brought us peace 3 years ago.
 
 ; 0x0015d732 そしたらまた、
 0x0015d732 But now 
@@ -6577,7 +6624,7 @@
 ; TODO: remove "monsters" in fixed position here
 
 ; 0x0015d776 たちを退治するのとひきかえに門を
-0x0015d776 ? I’ll take care of them
+0x0015d776 ? I’ll    take care of them
 
 ; 0x0015d79c ﾙｸあなたが！？
 0x0015d79c You!?
@@ -6592,7 +6639,7 @@
 0x0015d7df With
 
 ; 0x0015d7ea と、行動を共にしたコトだってあるのよ！
-0x0015d7ea , I once fought at his side!
+0x0015d7ea , I once    fought at his side!
 
 ; 0x0015d813 ﾙｸな、なんとっ！
 0x0015d813 Wh-what!?
@@ -6630,10 +6677,10 @@
 0x0015d939 Ahhh...
 
 ; 0x0015d944 いーからいーから。
-0x0015d944 Ok, ok.
+0x0015d944 Fine, fine.
 
 ; 0x0015d958 とりあえず、門のことはヨロシクおねがいします。
-0x0015d958 Just make sure the gate gets  opened.
+0x0015d958 Just make sure the gate gets  opened, ok?
 
 ; 0x0015d989 ﾙｸあっ、ちょっと。これを持って行ってください。
 0x0015d989 Oh, wait. Please, take this with you.
@@ -6651,7 +6698,7 @@
 0x0015da31 Oh, or do you already have it?
 
 ; 0x0015da56 ﾈｸせ、
-0x0015da56 S-
+0x0015da56 ...
 
 ; 0x0015da5e せっかくだから、もらっておくわ。
 0x0015da5e Since it's free I’ll take it.
@@ -6683,7 +6730,7 @@
 ; TODO: fix "Latok Kart" fixed position
 
 ; 0x0015db68 っていう人を知りませんか？
-0x0015db68 ... do you know him?
+0x0015db68 ... Do you know him?
 
 ; 0x0015db8a というと
 0x0015db8a ?
@@ -6695,7 +6742,7 @@
 0x0015dbb4 ?
 
 ; 0x0015dbbb ﾈｸええ、そうです、そうです。
-0x0015dbbb Yes, that’s right.
+0x0015dbbb Yes, that's him.
 
 ; 0x0015dbda ﾙｸ残念ながら、私はお会いしたことがありませんな。
 0x0015dbda Unfortunately, I’ve never met him. 

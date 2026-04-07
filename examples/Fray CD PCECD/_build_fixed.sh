@@ -40,6 +40,8 @@ replace_gfx menu_shield_part
 replace_gfx menu_rod
 replace_gfx menu_heal
 replace_gfx menu_teleport
-    
+
+# 1HitKil cheat  https://gamehacking.org/game/84576
+#sfk setbytes "$OUTPUT_ROM" 0x11389B 0xA900 -yes
 
 xdelta3 -S none -f -e -s "$INPUT_ROM" "$OUTPUT_ROM"  "$INPUT_ROM.xdelta"
