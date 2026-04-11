@@ -2,7 +2,7 @@
 
 ## Current status  🏗️
 
- - Still a lot of placeholder dialogue text (**needs a rewrite/revision to match the dub and to fit the available space**)
+ - Only the dialogues of the 1st area were revised, still a lot of placeholder text.
  - Menus partially translated
  - **Only partially tested, there may be crashes!**
 
@@ -36,5 +36,5 @@
 In chronological order:
 
  - [Forrealsyall](https://github.com/Forrealsyall): original script translation
- - [eadmaster](https://github.com/eadmaster): text injection and other patching tools, script revisions
+ - [eadmaster](https://github.com/eadmaster): text injection and other patching tools, script revision
  - [Mentil](https://github.com/mentill): gfx hacking and compression reverse engineering
