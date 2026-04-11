@@ -781,43 +781,43 @@
 0x002b1aee doing...
 
 ; 0x002b1af9 まったく、ブラッキィさんたら、何やってるのかしら…。
-0x002b1af9 Honestly, what on earth is Blacky up to...?
+0x002b1af9 Oh Blacky, what are you doing? You’ve got  
 
 ; 0x002b1b2e みんなに、心配かけて…。
-0x002b1b2e He made everyone worry...
+0x002b1b2e us all worried...
 
 ; 0x002b1b55 爆弾？
-;TODO: 0x002b1b57 A bomb?
+0x002b1b57 Bombs?
 
 ; 0x002b1b5e そういえばブラッキィさん、
-0x002b1b5e Come to think, Blacky...
+0x002b1b5e Oh yeah, Blacky is
 
 ; 0x002b1b79 作るのが得意だったわねぇ。
-0x002b1b79 was good at making them, huh?
+0x002b1b79 good at making bombs.
 
 ; 0x002b1b94 でも、たくさん作ったら、
-0x002b1b94 But if I make a lot,
+0x002b1b94 He said he made a lot of them,
 
 ; 0x002b1bad 巨大な魔物に盗まれたとか
-0x002b1bad Stolen by giant monster.
+0x002b1bad but then some lunatic in 
 
 ; 0x002b1bc6 言ってたわ。
-0x002b1bc6 You said it.
+0x002b1bc6 a mech stole them.
 
 ; 0x002b1be4 巨大な魔物ってもしかして
-0x002b1be4 Huge monsters?
+0x002b1be4 He said he made a lot of them, 
 
 ; 0x002b1bfd この森の出口の近くにいた、
-0x002b1bfd Near the exit of this forest,
+0x002b1bfd but then some lunatic in a mech stole them.
 
 ; 0x002b1c18 あの爆弾を投げる奴かな？
-0x002b1c18 I wonder if it's the guy who throws that bomb?
+0x002b1c18 Could it be the one 
 
 ; 0x002b1c32 巨大な魔物ってもしかして
-0x002b1c32 Huge monsters?
+0x002b1c32 throwing all those bombs?
 
 ; 0x002b1c4b ファイアの魔法がきかなかった、あの爆弾を投げる魔物かな？
-0x002b1c4b Maybe it’s that bomb-throwing monster that Fire’s magic didn’t work?
+0x002b1c4b The one I wasn’t able to use my fire magic on.
 
 ; 0x002b1c8d あら、こんな所に、よその人が
 0x002b1c8d Oh, it's very rare to see
@@ -853,7 +853,7 @@
 0x002b1da1 you'll see in big cities.
 
 ; 0x002b1dbc 大丈夫かしらね…。
-0x002b1dbc Hope he is safe...
+0x002b1dbc I hope he is safe...
 
 ; 0x002b1dd3 ｮ0ｮあら、
 0x002b1dd3 Oh,
@@ -874,19 +874,19 @@
 0x002b1e21 Why are you here?
 
 ; 0x002b1e30 あら、あなた誰？
-0x002b1e30 Oh, who're you?
+0x002b1e30 Isn’t it too hot 
 
 ; 0x002b1e41 ヌイグルミなんかかぶって
-0x002b1e41 Wearing a stuffed animal
+0x002b1e41 outside to wear a stuffed 
 
 ; 0x002b1e5a 暑くないの？
-0x002b1e5a Are you?
+0x002b1e5a animal?
 
 ; 0x002b1e68 ヌイグルミじゃないガウ！
-0x002b1e68 I'm not a stuffed animal, gaw!
+0x002b1e68 Gaw is not a stuffed animal!
 
 ; 0x002b1e81 オレは、怪獣ガウ！！
-0x002b1e81 I'm the monster Gaw!!
+0x002b1e81 I’m a monster, gaw!
 
 ; 0x002b1e98 ･ぼくらの他にも、仲間がいたんだけど、みんな魔物にやられて
 0x002b1e98 We had more companions, but they were all killed by 
@@ -1105,10 +1105,10 @@
 0x002b2535 giving you information?
 
 ; 0x002b2557 俺は大樹木の塔の村一番の
-0x002b2557 I’m the most powerful
+0x002b2557 The most powerful person
 
 ; 0x002b2570 力自慢さ。
-0x002b2570 person in the village of Big Tree Town.
+0x002b2570 in the village of Big Tree Town.
 
 ; 0x002b257b 何か、役に立てることもきっと
 0x002b257b I’m sure I can be helpful
@@ -1169,7 +1169,7 @@
 0x002b2707 Up!
 
 ; 0x002b270d $Rあんた、そんなとこで何やってんのよ。
-0x002b270d What are you doing there, $R?
+0x002b270d What are you doing there?
 
 ; 0x002b2734 $Sボヤボヤしていると、魔物の
 0x002b2734 If you’re not careful, you’ll
@@ -1382,16 +1382,16 @@
 0x002b2e31 Wait a minute!!
 
 ; 0x002b2e46 ｦひどいなぁ、魔物を倒せたんなら教えてよ。
-0x002b2e46 You managed to defeat the monster, you should have told me.
+0x002b2e46 You really were able to defeat that maniacal mech!?
 
 ; 0x002b2e70 でも、スゴイなぁ。
-0x002b2e70 are amazing.
+0x002b2e70 Tell me how!
 
 ; 0x002b2e83 あっさり倒しちゃうんだもの。
-0x002b2e83 You beat him so easily.
+0x002b2e83 You beat him so easily too!
 
 ; 0x002b2ea0 でも、これで大樹木の塔へ
-0x002b2ea0 So now we can go to the
+0x002b2ea0 Now we can go to the Big
 
 ; 0x002b2eb9 行けるよ。
 0x002b2eb9 Tree Tower.
@@ -1793,7 +1793,7 @@
 0x0030199c Mail, let's go to my village!
 
 ; 0x003019bc 牢屋の奥で男の声が聞こえて来る
-0x003019bc I hear a voice deep in the cell
+0x003019bc A man's voice can be heard inside.
 
 ; 0x003019e2 $%誰か、そこにいるのか！？
 0x003019e2 Is anyone out there?!
@@ -1805,19 +1805,19 @@
 0x00301a04 Help me!!
 
 ; 0x00301a13 $&上にいる魔物が、この牢屋の
-0x00301a13 The monsters have
+0x00301a13 The monsters up there!!
 
 ; 0x00301a30 カギを持っているんだ。
-0x00301a30 the key of this prison.
+0x00301a30 They have the key to this prison.
 
 ; 0x00301a4a 魔物から手に入れたカギを使うと牢屋の扉が開いた。
 0x00301a4a Using the key, the prison door opened.
 
 ; 0x00301a7d ｦこ、これは硬いスイッチだな…。うーん、それっ！！
-0x00301a7d This switch is stiff... Hmm, there it is!!
+0x00301a7d This switch is kinda stuck!! Hah! There!!
 
 ; 0x00301ab1 ｦうわっ！！！
-0x00301ab1 Ugh!!!
+0x00301ab1 Uwaah-!!
 
 ; 0x00301abf $(君が外にいた魔物を、
 0x00301abf Did you defeat the
@@ -1838,73 +1838,73 @@
 0x00301b2f The door is shut tight.
 
 ; 0x00301b50 牢屋の奥で男の声が聞こえる。
-0x00301b50 I can hear a man's voice deep in the cell.
+0x00301b50 A man's voice can be heard inside.
 
 ; 0x00301b6f ｦ$%誰かそこにいるのか！？
-0x00301b6f Who's there?!
+0x00301b6f Is anyone out there!?
 
 ; 0x00301b89 頼む助けてくれ！！
-0x00301b89 Please help!!
+0x00301b89 Please!
 
 ; 0x00301b9c $&上にいる魔物が、この牢屋の
-0x00301b9c The monsters on top of me are the ones in this cell.
+0x00301b9c The monsters up there!!
 
 ; 0x00301bb9 カギを持っているんだ。
-0x00301bb9 I have a key.
+0x00301bb9 They have the key to this prison.
 
 ; 0x00301bd6 魔物から手に入れたカギを使うと牢屋の扉が開いた。
 0x00301bd6 Using the key, the prison door opened.
 
 ; 0x00301c10 5$7ねぇねぇ、
-0x00301c10 $7, huh?
+0x00301c10 Hey, you!
 
 ; 0x00301c1e あなた、ちょっと聞いてよ。
-0x00301c1e Listen, dear.
+0x00301c1e Listen to this...
 
 ; 0x00301c39 $8そこにいるミフィさんの
-0x00301c39 That's Mifi's.
+0x00301c39 I heard Mifi’s husband 
 
 ; 0x00301c52 だんなさんて、鉱山で金脈掘り
-0x00301c52 Don't be so lazy. I'll dig a vein in the mine.
+0x00301c52 went off to the mines to dig 
 
 ; 0x00301c6f してるらしいんだけどさ、
-0x00301c6f I hear you're doing it,
+0x00301c6f for gold again.
 
 ; 0x00301c88 $9一度も金なんて、
-0x00301c88 I've never had any money.
+0x00301c88 But I never see 
 
 ; 0x00301c9b 持って帰ったことないのよ。
-0x00301c9b I've never taken it home.
+0x00301c9b him bring any gold home.
 
 ; 0x00301cb6 $:そのくせ、
-0x00301cb6 And yet
+0x00301cb6 He doesn’t 
 
 ; 0x00301cc3 ろくに働きもしないから、
-0x00301cc3 I don't work very hard,
+0x00301cc3 work much.. He’s desperately 
 
 ; 0x00301cdc 生活はかなり苦しいみたいよ。
-0x00301cdc Life seems pretty rough.
+0x00301cdc searching for gold and their money is tight.
 
 ; 0x00301cf9 $;もう、気の毒でしょうがないわ。
-0x00301cf9 I can't help feeling sorry for you.
+0x00301cf9 Why, I feel sorry for poor Mifi..
 
 ; 0x00301d1a ねぇねぇ、ちょっとあなた、
-0x00301d1a Hey, hey, you,
+0x00301d1a Hey, you!
 
 ; 0x00301d35 聞いた？
-0x00301d35 Did you hear?
+0x00301d35 Listen to this..
 
 ; 0x00301d3e ミフィさんのだんなさん、
-0x00301d3e Mifi-san's slut,
+0x00301d3e I heard Mifi’s husband
 
 ; 0x00301d57 ついに金脈を掘り当てたそうね。
-0x00301d57 It seems you've finally dug up a gold vein.
+0x00301d57 went off to the mines to dig for gold again.
 
 ; 0x00301d76 でも、うわさだと、
-0x00301d76 But according to rumor...
+0x00301d76 But I never see 
 
 ; 0x00301d89 なんかよくわからない３人組が
-0x00301d89 There's a group of three I don't really get.
+0x00301d89 him bring any gold home.
 
 ; 0x00301da6 だんなさんをあわれに思って、
 0x00301da6 I felt sorry for Dana-san,
@@ -1925,16 +1925,16 @@
 0x00301e29 Mifi
 
 ; 0x00301e35 舒私も、マリオネット強盗団に
-0x00301e35 Jo, I'm with the Marionette Gang.
+0x00301e35 My precious ring was stolen 
 
 ; 0x00301e52 大事な指輪を盗まれたの。
-0x00301e52 He stole my precious ring.
+0x00301e52 by the Marionette Robbery gang.
 
 ; 0x00301e6b あれは、主人との大切な
-0x00301e6b That's important to my husband.
+0x00301e6b That was my precious 
 
 ; 0x00301e82 婚約指輪なのに…。 
-0x00301e82 It's an engagement ring...
+0x00301e82 engagement ring I got from my husband…
 
 ; 0x00301e98 長いこと鉱山で金塊探しを
 0x00301e98 I spent a long time looking for gold in the mine.
@@ -1982,7 +1982,7 @@
 0x00301fff I want it...
 
 ; 0x00302015 ｰ芦豌ナモを助けてくれて感謝して
-0x00302015 - Thank you for saving Namo.
+0x00302015 Thank you for saving Namo.
 
 ; 0x00302035 いる。
 0x00302035 I'm here.
@@ -2387,19 +2387,19 @@
 0x003513c7 Mage
 
 ; 0x003513d0 $>いかにも。わしこそこの国を恐怖で満たし、暗黒の世界をも支配できる魔導師の中の魔導師。
-0x003513d0 Indeed. Indeed! I am the greatest mage of all! One who shall fill this country with fear and rule the underworld! 
+0x003513d0 Indeed! I am the greatest mage of all! One who shall fill this country with fear and rule the underworld! 
 
 ; 0x00351427 $?マテリアル様じゃ！！
 0x00351427 The great material!
 
 ; 0x0035143f $@なるほど、
-0x0035143f I see,
+0x0035143f I see...
 
 ; 0x0035144c お前がタットの師匠ね。
 0x0035144c And you're Tato's master. 
 
 ; 0x00351464 ﾝ｢$Aほう、タットを知っとるのか。
-0x00351464 Oh, so you know Tatto!
+0x00351464 Oh, so you know Tatto?
 
 ; 0x00351485 やつめ、弟子のくせにわしに
 0x00351485 That bastard, he's my disciple.
@@ -2417,7 +2417,7 @@
 0x003514d0 in prison by now.
 
 ; 0x003514df ワハハ
-0x003514df Wahaha
+0x003514df HAHAHAHA!
 
 ; 0x003514e7 $Cそんな事、あたしの知った
 0x003514e7 That's what I know.
@@ -2444,7 +2444,7 @@
 0x0035157e You idiot! If you want me so badly, come after me!
 
 ; 0x003515ba $Gさらばだ！！
-0x003515ba Goodbye!!
+0x003515ba Farewell!!
 
 ; 0x003515cc $H君は確か
 0x003515cc If I remember correctly
@@ -2453,37 +2453,37 @@
 0x003515e4 Mail!
 
 ; 0x003515ef $Iメイル、頼むよ。
-0x003515ef $I Mail, please.
+0x003515ef Mail, please.
 
 ; 0x00351602 僕の言うとおりに、
-0x00351602 Do as I say,
+0x00351602 That switch over there.. 
 
 ; 0x00351615 左のスイッチを動かしてくれ！！
-0x00351615 Move the left switch!
+0x00351615 To your left. Can you move it for me?
 
 ; 0x00351635 $Jこうやって
-0x00351635 do this.
+0x00351635 This one here?
 
 ; 0x0035164f こうかな？
 0x0035164f Like this?
 
 ; 0x0035165b $Kタット、実は…
-0x0035165b Tatto, actually...
+0x0035165b Actually...
 
 ; 0x0035166d $Lそうか…。
 0x0035166d I see...
 
 ; 0x0035167a 多分、お師匠様は古代の洞窟に
-0x0035167a Master was probably in an ancient cave
+0x0035167a Perhaps my master went to hide 
 
 ; 0x00351697 いるはずだ。
-0x00351697 There should be.
+0x00351697 in the ancient caves.
 
 ; 0x003516a4 $M何度か僕も行った事がある。
 0x003516a4 I’ve been there a few times.
 
 ; 0x003516c1 よし、一緒に行こう！！
-0x003516c1 Okay, let's go together!!
+0x003516c1 Alright let’s go together.
 
 
 ; 0x003d3db9 メイル
@@ -2734,64 +2734,64 @@
 0x0040166b Blacky
 
 ; 0x00401687 やはり追ってきおったか。
-0x00401687 So they're after us.
+0x00401687 I knew you’d come after me.
 
 ; 0x004016a0 お嬢ちゃんが、わしを捕まえ
-0x004016a0 The young lady caught me
+0x004016a0 You’re a hundred years too 
 
 ; 0x004016bb ようなんて百年早いわ。
-0x004016bb It's a hundred years too early.
+0x004016bb early to catch me, little girl.
 
 ; 0x004016d4 ここで返り討ちにして
-0x004016d4 I'll take him down here.
+0x004016d4 Now I’ll take my 
 
 ; 0x004016e9 くれる。
-0x004016e9 She gave it to me.
+0x004016e9 revenge.
 
 ; 0x004016f4 タット…、さっきのお嬢ちゃんに助けてもらったのか。お前なんぞが、何を言っても無駄じゃぞ。
-0x004016f4 Tatt... Did the young lady just save you? No matter what you say, it's useless.
+0x004016f4 Tatto… So, that girl from earlier saved you, did she? Well, your words have no use here!
 
 ; 0x0040174f あのまま牢屋で、
-0x0040174f In that cell,
+0x0040174f You should have 
 
 ; 0x00401760 おとなしくしとれば
-0x00401760 If you behave,
+0x00401760 remained in the prison
 
 ; 0x00401773 よかったのじゃ！
-0x00401773 I'm glad!
+0x00401773 and kept quiet!
 
 ; 0x0040178b マテリアル。
 0x0040178b Material.
 
 ; 0x0040179d 先ほどの醜態。
-0x0040179d That disgraceful display.
+0x0040179d Your previous failure
 
 ; 0x004017b1 みていたぞ。
 0x004017b1 I saw it.
 
 ; 0x004017c2 わしたちの与えた、
-0x004017c2 The one we gave,
+0x004017c2 I witnessed it
 
 ; 0x004017d7 ゴーレムを無駄に
-0x004017d7 Waste the golems.
+0x004017d7 You wasted the 
 
 ; 0x004017ea しおって…。
-0x004017ea Withered?
+0x004017ea Wood Golem that we gave to you.
 
 ; 0x004017fb お前には制裁を、
-0x004017fb I'll punish you,
+0x004017fb You must now be 
 
 ; 0x0040180e 加えなければなるまい…。
-0x0040180e I have to add it...
+0x0040180e punished for it.
 
 ; 0x0040182c ま、
-0x0040182c M-
+0x0040182c W-
 
 ; 0x00401832 待ってくだされ。
-0x00401832 Hold on.
+0x00401832 wait a moment!
 
 ; 0x00401845 あれは…。
-0x00401845 It's...
+0x00401845 Please! I…
 
 ; 0x00401852 魔法使い
 0x00401852 Wizard
@@ -2800,7 +2800,7 @@
 0x0040185f Material,
 
 ; 0x00401870 さらわれてしまった！！
-0x00401870 I was kidnapped!!
+0x00401870 He’s been kidnapped!!
 
 ; 0x0040188b 怪獣
 0x0040188b Monster
@@ -2809,7 +2809,7 @@
 0x00401892 Uh,
 
 ; 0x0040189b どこにいったんだガウ！？
-0x0040189b Where'd you go, gaw?!
+0x0040189b Where'd he go, gaw?!
 
 ; 0x004018be 一体何が起こったのかしら？
 0x004018be I wonder what happened?
@@ -2935,7 +2935,7 @@
 0x00401c44 Where?
 
 ; 0x00401c4c iｦ僕はブラッキィ、
-0x00401c4c I'm blaky,
+0x00401c4c I'm Blacky,
 
 ; 0x00401c5f ただの遊び人さ。
 0x00401c5f Just a playboy.
@@ -11449,7 +11449,7 @@
 0x0091184d It can't be helped if he finds out.
 
 ; 0x00911871 $*出たガウな！
-0x00911871 $*There it is!
+0x00911871 There it is!
 
 ; 0x00911880 オマエがメイル達の偽者だった
 0x00911880 You were Mail's impostor.
@@ -11463,7 +11463,7 @@
 ; 0x009118b6 $,俺の作り出した幻影だったのだ。お前を元の世界へ帰すわけには、いかぬ。
 0x009118b6 It was an illusion I created. I can't let you return to your world.
 
-; 0x009118fd $-この場で始末してくれるわ！！.
+; 0x009118fd $-この場で始末してくれるわ！！
 0x009118fd I'll kill you right here and now.
 
 ; 0x00911921 h･ゆくぞー！！
@@ -14002,13 +14002,13 @@
 0x00b719ad I can open it with this key.
 
 ; 0x00b719c7 　　　　鍵を手にいれた.
-0x00b719c7 I got a key.
+0x00b719c7 Received the key.
 
 ; 0x00b719e1 ﾁｦあそこにある石にくっついて
-0x00b719e1 stick to the stone over there.
+0x00b719e1 Try to stick to that object over 
 
 ; 0x00b719fe ごらん。
-0x00b719fe Look.
+0x00b719fe there.
 
 ; 0x00b71a07 あの石は、この工場内の移動
 0x00b71a07 That stone is moving inside this factory.
@@ -14289,12 +14289,6 @@
 ; 0x00bad099 　でよろしい　　　　　　ですか？
 0x00bad099 Is that okay?
 
-; 0x00bad0ba 　ＹＥＳ
-0x00bad0ba YES
-
-; 0x00bad0c6 ＮＯ
-0x00bad0c6 No
-
 ; 0x00bad0cc あなたはそのアイテムをこれ以上持てません。
 0x00bad0cc Cannot carry more items.
 
@@ -14308,7 +14302,7 @@
 0x00bc1677 Fiza
 
 ; 0x00bc1685 機械こうもり　バッツ
-0x00bc1685 Machine Komori Bats
+;TODO 0x00bc1685 Machine Komori Bats
 
 ; 0x00bc169f ロボットゴーレム
 0x00bc169f Robot Golem
@@ -14320,49 +14314,49 @@
 0x00bc16da Yeah. Who are you?
 
 ; 0x00bc16f8 eｦ$#私は抵抗軍の一員で、
-0x00bc16f8 I'm a member of the resistance
+0x00bc16f8 I’m a part of the resistance 
 
 ; 0x00bc1711 ラフィーアと言います。
-0x00bc1711 I'm Lafier.
+0x00bc1711 army. I'm Rafia.
 
 ; 0x00bc1728 $$フィーザの伝言を伝えに
-0x00bc1728 I'm here to deliver the Fiza message.
+0x00bc1728 Fiza has something for 
 
 ; 0x00bc1741 来ました。
-0x00bc1741 I'm here.
+0x00bc1741 you.
 
 ; 0x00bc174d $%フィーザからの伝言？
-0x00bc174d A message from Fiza?
+0x00bc174d Hmm? Fiza?
 
 ; 0x00bc1765 eｦ$&ええ。
-0x00bc1765 Yeah.
+0x00bc1765 Yes.
 
 ; 0x00bc1770 $'フィーザは、あなたに渡したい
-0x00bc1770 I'd like to give you Fiza.
+0x00bc1770 Fiza has something very important 
 
 ; 0x00bc178f 物があるから、研究室まで来て
-0x00bc178f I have things, so come to my lab.
+0x00bc178f to give you. He is waiting at the 
 
 ; 0x00bc17ac 欲しいって、言ってました。
-0x00bc17ac He said he wants it.
+0x00bc17ac laboratory.
 
 ; 0x00bc17c8 $(あたしに、渡したい物って…。
-0x00bc17c8 What do you want to give me?
+0x00bc17c8 Something he wants to give to me?
 
 ; 0x00bc17e7 何だろ？
-0x00bc17e7 What is it?
+0x00bc17e7 What could it be?
 
 ; 0x00bc17f1 eｦフィーザは、あなたに渡したい
-0x00bc17f1 I'd like to give you Eofiza.
+0x00bc17f1 Fiza said he had something to give you. 
 
 ; 0x00bc1810 物があるから、研究室まで来て
-0x00bc1810 I have things, so come to my lab.
+0x00bc1810 It’s very important!
 
 ; 0x00bc182d 欲しいって、言ってました。
 0x00bc182d He said he wants it.
 
 ; 0x00bc184b Θ$)さっきは、どうも、ありがとう。僕が、研究室まで連れていって
-0x00bc184b Thanks for earlier. I'll take you to the lab.
+0x00bc184b Please, go see him at the lab.
 
 ; 0x00bc188a あげるよ！
 0x00bc188a You can have it!
@@ -14407,7 +14401,7 @@
 0x00bc19c7 Didn't I say?
 
 ; 0x00bc19d4 $+おかげで、パーツを組み込んで
-0x00bc19d4 Thanks to $+, we can incorporate parts
+0x00bc19d4 Thanks to that, I was able to assemble the parts.
 
 ; 0x00bc19f3 パワーアップできたよ。
 0x00bc19f3 It's powered up.

@@ -22,3 +22,5 @@ Not compatible with:
 ## [Usage](https://github.com/eadmaster/ezrominject/wiki/Usage)
 
 ## [FAQs](https://github.com/eadmaster/ezrominject/wiki/FAQs)
+
+## [Examples](https://github.com/eadmaster/ezrominject/wiki/Compatible-games)

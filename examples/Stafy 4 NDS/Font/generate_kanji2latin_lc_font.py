@@ -1,6 +1,5 @@
 import os
 
-# Configuration
 FONT_PATH = "font8x16.bin"
 OUTPUT_PATH = "custom_lc_font.dat"
 
@@ -30,7 +29,6 @@ def generate_lc_font():
               [chr(i) for i in range(ord('a'), ord('z')+1)] + \
               [" "]
 
-    # 2. Create the list of all glyph records
     records = []
     sjis_value = 0x889F # Starting ID for 'AA'
 
@@ -41,34 +39,30 @@ def generate_lc_font():
             header = bytes([b1, b2])
             #print( header)
             
-            if header:
-                glyph1 = get_glyph(font_data, ord(char1))
-                glyph2 = get_glyph(font_data, ord(char2))
+            glyph1 = get_glyph(font_data, ord(char1))
+            glyph2 = get_glyph(font_data, ord(char2))
+            
+            # Stitch 16x16 bitmap (32 bytes)
+            bitmap = bytearray()
+            for i in range(16):
                 
-                # Stitch 16x16 bitmap (32 bytes)
-                bitmap = bytearray()
-                for i in range(16):
-                    
-                    row1 = glyph1[i]
-                    row2 = glyph2[i]
-                    
-                    # FIX: If the right-hand character is a space, 
-                    # NitroPaint trims the width. We force a single pixel 
-                    # at the far right (bit 0) of one row (e.g., row 15).
-                    if char1 == " " and i == 15:
-                        row1 |= 0x80  # 0x80 is the bit for the leftmost pixel
-                    if char2 == " " and i == 15:
-                        row2 |= 0x01  # right-most pixel
-                          
-                    bitmap.append(row1)
-                    bitmap.append(row2)
+                row1 = glyph1[i]
+                row2 = glyph2[i]
                 
-                # Store as a tuple (header_value, full_record_bytes)
-                header_int = (header[0] << 8) | header[1]
-                records.append((header_int, header + bitmap))
-            else:
-                # This will print for 0x9358 and any other IDs that aren't in CP932
-                print("missing: %X" % sjis_value)
+                # FIX: If the right-hand character is a space, 
+                # NitroPaint trims the width. We force a single pixel 
+                # at the far right (bit 0) of one row (e.g., row 15).
+                if char1 == " " and i == 15:
+                    row1 |= 0x80  # 0x80 is the bit for the leftmost pixel
+                if char2 == " " and i == 15:
+                    row2 |= 0x01  # right-most pixel
+                        
+                bitmap.append(row1)
+                bitmap.append(row2)
+            
+            # Store as a tuple (header_value, full_record_bytes)
+            header_int = (header[0] << 8) | header[1]
+            records.append((header_int, header + bitmap))
                 
             lead = sjis_value >> 8
             trail = sjis_value & 0xFF
@@ -85,7 +79,7 @@ def generate_lc_font():
     # Sort records by the header value to pass the C tool's ascending check
     records.sort(key=lambda x: x[0])
 
-    # 4. Write the sorted file
+    # Write the sorted file
     with open(OUTPUT_PATH, "wb") as out_file:
         for _, data in records:
             out_file.write(data)

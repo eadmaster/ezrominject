@@ -181,7 +181,7 @@
 0x0011a331 [Miry]
 
 ; 0x0011a340 あああ〜！！　にげる気だあ〜！！
-0x0011a340 Ahhh!! She’s trying to run!!|
+0x0011a340 Ahhh!! She’s trying to run!!
 
 ; 0x0011a367 ［フレイ］
 0x0011a367 [Fray]
@@ -744,7 +744,7 @@
 0x0011b512 You are saying Latok
 
 ; 0x0011b527 を壊した』ですってぇ！？
-0x0011b527 destroyed this bridge!?
+0x0011b527 destroyed this bridge?!
 
 ; 0x0011b546 ［おにいさん］
 0x0011b546 [Young Man]
@@ -756,25 +756,25 @@
 0x0011b56e [Fray]
 
 ; 0x0011b57d ラトクさんがそんなコト
-0x0011b57d Latok wouldn’t do 
+0x0011b57d Latok would never do
 
 ; 0x0011b594 するハズないでしょぉー！！
 0x0011b594 such a thing!!
 
 ; 0x0011b5b1 そんなコトゆー人はぁ！
-0x0011b5b1 If you say things
+0x0011b5b1 Say that again and...
 
 ; 0x0011b5c9 こーして、こーしてっ・・・
-0x0011b5c9 like that...
+0x0011b5c9 I'll...  I'll...
 
 ; 0x0011b5ea ［おにいさん］
 0x0011b5ea [Young Man]
 
 ; 0x0011b5ff じょ、じょうちゃ
-0x0011b5ff Young lady…
+0x0011b5ff L-lady…
 
 ; 0x0011b610 ん・・・ぐるじ・・・・・
-0x0011b610 I feel…
+0x0011b610 Can't... breathe...
 
 ; 0x0011b62f ［フレイ］
 0x0011b62f [Fray]
@@ -1121,7 +1121,7 @@
 0x0011c09c [Voice]
 
 ; 0x0011c0a9 もう、じれったいわね！
-0x0011c0a9 Oh, so frustrating!|
+0x0011c0a9 Oh, how frustrating!
 
 ; 0x0011c0c6 あなたが落としたのは、この金のロッド？
 0x0011c0c6 Did you drop the Golden Rod?
@@ -1139,10 +1139,10 @@
 0x0011c125 Oh, how honest!
 
 ; 0x0011c13a そーゆーヒトってぇ、あたしケッ
-0x0011c13a I really do respect people
+0x0011c13a I really admire people
 
 ; 0x0011c15b コウ尊敬しちゃう、みたいな。
-0x0011c15b like that.
+0x0011c15b like you.
 
 ; 0x0011c17e ［声］
 0x0011c17e [Voice]
@@ -1256,10 +1256,10 @@
 0x0011c533 Never mind that now.
 
 ; 0x0011c552 おまえさん、そのカッコウではカ
-0x0011c552 You’ll catch a cold dressed 
+0x0011c552 You’ll catch a cold in those
 
 ; 0x0011c571 ゼをひいてしまうぞ。
-0x0011c571 like that.
+0x0011c571 wet clothes.
 
 ; 0x0011c588 どれ、わしが・・・
 ;0x0011c588 Let me handle this...
@@ -1859,7 +1859,7 @@
 0x0011d78b [Fray]
 
 ; 0x0011d79a はっはっは、じゃないわよ。
-0x0011d79a Don't say 'hahaha.'
+0x0011d79a Don't "ha ha"  me!
 
 ; 0x0011d7b7 とりあえず、そのズブぬれのカッ
 0x0011d7b7 Anyway, we need to do something
@@ -1877,7 +1877,7 @@
 0x0011d827 [Mill]
 
 ; 0x0011d834 こちらの方は？
-0x0011d834 Who's this?
+0x0011d834 Who is she?
 
 ; 0x0011d849 ［フレイ］
 0x0011d849 [Fray]
@@ -1892,7 +1892,7 @@
 0x0011d87e And this was 
 
 ; 0x0011d88b ついこの間まで私の先生だった人で、
-0x0011d88b ...my teacher until just recently,
+0x0011d88b  my teacher until just recently,
 
 ; 0x0011d8b0 ミル・グラードって言うの。
 0x0011d8b0 his name is Mill Grard.
@@ -1907,7 +1907,7 @@
 0x0011d907 [Mill]
 
 ; 0x0011d914 いいんですよ、その方が気が楽ですし。
-0x0011d914 It's fine. It's easier that way.
+0x0011d914 It's fine, It's easier that way.
 
 ; 0x0011d93f ［ミリー］
 0x0011d93f [Miry]
@@ -2024,7 +2024,7 @@
 0x0011dcfe [Samus]
 
 ; 0x0011dd0d 今度こそ二人きりになれたね、メネア。
-0x0011dd0d This time we’re alone, Menea.
+0x0011dd0d This time we’re    alone, Menea.
 
 ; 0x0011dd38 ［メネア］
 0x0011dd38 [Menea]
@@ -2042,7 +2042,7 @@
 0x0011dda0 [Samus]
 
 ; 0x0011ddaf 心配することはないよメネア。
-0x0011ddaf Don't worry, Menea.
+0x0011ddaf Don't worry,     Menea.
 
 ; 0x0011ddce ボクたちの愛の前では、どんな罪
 0x0011ddce Before our love, any sin 
@@ -5604,6 +5604,7 @@
 0x0012ac42 be my Latok while 
 
 ; 0x0012ac53 ばかりしてるのは！
+;0x0012ac53 doing bad things!
 0x0012ac53 doing evil!
 
 ; 0x0012ac6c ［ラトクのにせもの］
@@ -6530,7 +6531,7 @@
 0x0015d431 Don’t try to brush me off like that.
 
 ; 0x0015d45d あたしはもう子供じゃないわ。
-0x0015d45d I'm not a kid anymore.
+0x0015d45d I'm not a child anymore.
 
 ; 0x0015d47c “ちゃん”づけもやめてよね。
 0x0015d47c Quit calling me "Little"!
@@ -7174,7 +7175,7 @@
 0x00307b86 As clueless as ever, aren’t you?
 
 ; 0x00307bae わしらは今、城の結界のカベをこえて話しておるのじゃ。
-0x00307bae Right now, we're speaking   across the barrier.
+0x00307bae Right now, we're speaking   through the barrier.
 
 ; 0x00307be9 フレイさん、よく聞いてください。
 0x00307be9 Fray, listen      closely.
@@ -7211,7 +7212,7 @@
 0x00307d77 …a tree…
 
 ; 0x00307d87 言われてみれば、たしかにそんな木があるわね。
-0x00307d87 Now that you mention it, there is a tree like that.
+0x00307d87 Indeed, there is a  tree like that.
 
 ; 0x00307dba そっ、それに違いありません！　早くそれを・・・
 0x00307dba Yes, that must be it! Hurry up and...

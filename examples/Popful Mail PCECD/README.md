@@ -2,7 +2,7 @@
 
 ## Current status  🏗️
 
- - Translated most of the dialogue text (**needs a rewrite/revision to match the dub and to fit the available space**)
+ - Still a lot of placeholder dialogue text (**needs a rewrite/revision to match the dub and to fit the available space**)
  - Menus partially translated
  - **Only partially tested, there may be crashes!**
 
@@ -29,3 +29,12 @@
 7. Download and use the corresponding cue sheet in this folder to play the game:
    - `PopfulMail (English).cue` (Jap dub)
    - `PopfulMail (English)(dub).cue` (Eng dub)
+
+
+# Credits/Contributors/Special thanks  🤝
+
+In chronological order:
+
+ - [Forrealsyall](https://github.com/Forrealsyall): original script translation
+ - [eadmaster](https://github.com/eadmaster): text injection and other patching tools, script revisions
+ - [Mentil](https://github.com/mentill): gfx hacking and compression reverse engineering

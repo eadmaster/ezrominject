@@ -62,8 +62,10 @@ extract_gfx() {
     sfk partcopy "$OUTPUT_ROM" -fromto 0x10615D1 0x1061651 gfx/location_underground_maze_jap.bin -yes
     sfk partcopy "$OUTPUT_ROM" -fromto 0x1061651 0x10616D1 gfx/location_sealed_palace_jap.bin -yes
     
+    # pause menu
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x2940e3 0x294307 gfx/menu_pause_jap.bin -yes
+    
     #TODO:
-    #sfk partcopy "$OUTPUT_ROM" -fromto 0x251D50 0x2571f0 gfx/_pause_menu_jap.bin -yes
     #sfk partcopy "$OUTPUT_ROM" -fromto 0x1680400 0x gfx/_sound_test_menu_jap.bin -yes
 }
 
@@ -105,6 +107,10 @@ patch_gfx() {
     replace_gfx location_treasury
     replace_gfx location_underground_maze
     replace_gfx location_sealed_palace
+    
+    cat menu_pause_top_part_eng.bin menu_pause_end_part.bin > menu_pause_eng.bin  # append top and bottom parts
+    truncate --reference=menu_pause_jap.bin menu_pause_eng.bin  # fill with 0s to match the original block size
+    replace_gfx menu_pause
 }
 
 
