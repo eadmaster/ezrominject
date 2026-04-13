@@ -121,6 +121,9 @@ patch_gfx() {
     replace_gfx menu_save
     replace_gfx menu_load
     replace_gfx menu_confirm
+    
+    # increase pointer to load menu +10 bytes 
+    sfk replace "$OUTPUT_ROM" -binary /A502C983F01DA929A0B4442FB00160/A502C983F01DA933A0B4442FB00160/  -yes
 }
 
 
