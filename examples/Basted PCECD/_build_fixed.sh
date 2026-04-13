@@ -1,9 +1,10 @@
+#!/bin/bash
 
 INPUT_ROM="Basted (Japan) (Track 02).bin"
 OUTPUT_ROM="Basted (Japan) (Track 02) (patched).bin"
 
 # strip ecc data
-bchunk-bin2iso -t 00:03:00 "$INPUT_ROM" "$OUTPUT_ROM"
+../../bchunk-bin2iso/bchunk-bin2iso -t 00:03:00 "$INPUT_ROM" "$OUTPUT_ROM"
 
 python ../../ezrominject.py *_jap.txt *_eng.txt "$OUTPUT_ROM"  --ascii-bios-hack 
 #NOT COMPATIBLE: --ascii-mode

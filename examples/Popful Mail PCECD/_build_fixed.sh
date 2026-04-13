@@ -63,8 +63,11 @@ extract_gfx() {
     sfk partcopy "$OUTPUT_ROM" -fromto 0x1061651 0x10616D1 gfx/location_sealed_palace_jap.bin -yes
     
     # menus
-    sfk partcopy "$OUTPUT_ROM" -fromto 0x2940e3 0x2942ad gfx/menu_pause_jap.bin -yes
-    sfk partcopy "$OUTPUT_ROM" -fromto 0x2e3afd 0x2e3d9b gfx/menu_pause2_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x2e3afd 0x2e3d02 gfx/menu_pause1_jap.bin -yes  # multi char overworld ver.
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x2e3d02 0x2e3ef0 gfx/menu_pause2_jap.bin -yes  # single char overworld ver.
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x2e3ef0 0x2e40e3 gfx/menu_pause3_jap.bin -yes  # multi-char underworld ver.
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x2940e3 0x2942ad gfx/menu_pause4_jap.bin -yes  # single-char underworld ver
+    # TODO: menu_save, menu_load, menu_confirm
     #TODO: sfk partcopy "$OUTPUT_ROM" -fromto 0x1680400 0x gfx/_sound_test_menu_jap.bin -yes
 }
 
@@ -107,10 +110,12 @@ patch_gfx() {
     replace_gfx location_underground_maze
     replace_gfx location_sealed_palace
     
-    #truncate --reference=menu_pause_jap.bin menu_pause_eng.bin  # fill with 0s to match the original block size
-    #truncate --reference=menu_pause2_jap.bin menu_pause2_eng.bin  # fill with 0s to match the original block size
-    replace_gfx menu_pause
+    #truncate --reference=menu_pause_jap.bin menu_pause1_eng.bin  # fill with 0s to match the original block size
+
+    replace_gfx menu_pause1
     replace_gfx menu_pause2
+    replace_gfx menu_pause3
+    replace_gfx menu_pause4
 }
 
 
@@ -120,7 +125,7 @@ INPUT_ROM="PopfulMail (Japan) (Track 02).bin"
 OUTPUT_ROM="PopfulMail (Japan) (Track 02) (patched).bin"
 
 # strip ecc data
-bchunk-bin2iso -t 00:03:00  "$INPUT_ROM" "$OUTPUT_ROM"
+../../bchunk-bin2iso/bchunk-bin2iso -t 00:03:00  "$INPUT_ROM" "$OUTPUT_ROM"
 
 # patch text
 python ../../ezrominject.py *_jap.txt *_eng.txt "$OUTPUT_ROM"  --ascii-bios-hack 

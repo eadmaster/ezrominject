@@ -4,7 +4,7 @@ INPUT_ROM="In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 02).bin"
 OUTPUT_ROM="In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 02) (patched).bin"
 
 # strip ecc data
-bchunk-bin2iso -t 00:02:74 "$INPUT_ROM" "$OUTPUT_ROM"
+../../bchunk-bin2iso/bchunk-bin2iso -t 00:02:74 "$INPUT_ROM" "$OUTPUT_ROM"
 
 # patch text
 python ../../ezrominject.py *_jap.txt *_eng.txt "$OUTPUT_ROM" --ascii-bios-hack 
