@@ -428,7 +428,7 @@
 0x00080c72 Got it!
 
 ; 0x00080c9a キョロスケのおとうと
-0x00080c9a Kyorosuke´s Dad
+0x00080c9a Moe´s Dad
 
 ; 0x00080cb7 見つけたよ！　あとの２人は
 0x00080cb7 I found you! The other two
@@ -437,7 +437,7 @@
 0x00080cd2 Somewhere?
 
 ; 0x00080cf6 キョロスケのいもうと
-0x00080cf6 Kyorosuke´s cousin
+0x00080cf6 Moe´s cousin
 
 ; 0x00080d13 見つけたよ！　のこりの１人も
 0x00080d13 I found one of the saws.
@@ -446,7 +446,7 @@
 0x00080d30 Find him.
 
 ; 0x00080d5a キョロスケのおとうと
-0x00080d5a Kyorosuke´s Dad
+0x00080d5a Moe´s Dad
 
 ; 0x00080d77 見つけたよ！　これで３人そろった
 0x00080d77 I found it! Now all three of us are here.
@@ -608,7 +608,7 @@
 0x0008135a I saved you.
 
 ; 0x00081367 シティにかえって　キョロスケを
-0x00081367 Go back to the city, Kyorosuke.
+0x00081367 Go back to the city, Moe.
 
 ; 0x00081386 あんしんさせてあげてね
 0x00081386 Let her be safe.
@@ -920,7 +920,7 @@
 0x00082b59 Are you out with Ototo-chan?
 
 ; 0x00082b89 キョロスケボタンおしたらしゅうりょう
-0x00082b89 If you press the kyorosuke button
+0x00082b89 If you press the Moe button
 
 ; 0x00082bc6 チョロスケ
 0x00082bc6 Choroske
@@ -968,7 +968,7 @@
 0x00082d59 I told you not to call!
 
 ; 0x00082d93 キョロスケどこの　さみしがりやさんだ
-0x00082d93 Kyorosuke, what kind of lonely guy is he?
+0x00082d93 Moe, what kind of lonely guy is he?
 
 ; 0x00082db8 オメェは！！
 0x00082db8 You!!
@@ -989,7 +989,7 @@
 0x00082e3f Can´t stay?
 
 ; 0x00082e69 キョロスケじゃあ　とっととつかまえて
-0x00082e69 Okay, Kyorosuke, go get him.
+0x00082e69 Okay, Moe, go get him.
 
 ; 0x00082e8e スピンを　くらわせてやれ！
 0x00082e8e Let him spin!
@@ -998,7 +998,7 @@
 0x00082ea9 Then the door should open.
 
 ; 0x00082edf キョロスケきっと　そのトビラのむこうに
-0x00082edf Kyorosuke must be behind that door.
+0x00082edf Moe must be behind that door.
 
 ; 0x00082f06 かいがらを　かくしてる
 0x00082f06 He´s hiding a shell.
@@ -1047,6 +1047,9 @@
 
 ; 0x000830c2 モノをおいて　とおせんぼ
 0x000830c2 Leaving things behind.
+
+; 0x000830e0 して
+0x000830e0 Do.
 
 ; 0x000830e5 おいつめちまえ！
 0x000830e5 Hey, c´mon!
@@ -1097,7 +1100,7 @@
 0x0008326d That´s the mark.
 
 ; 0x00083293 キョロスケよし　どっかに
-0x00083293 Kyorosuke, go away.
+0x00083293 Moe, go away.
 
 ; 0x000832b1 そのマークと
 0x000832b1 That mark.
@@ -1112,7 +1115,7 @@
 0x000832db Look for him. Spin him.
 
 ; 0x00083311 キョロスケニセモノもあるかも
-0x00083311 Maybe there´s a Kyorosuke fake.
+0x00083311 Maybe there´s a Moe fake.
 
 ; 0x0008332e しれねーから　マークのガラを
 0x0008332e I don´t know what you´re talking about, so I´ll get Mark´s gara.
@@ -1142,7 +1145,7 @@
 0x000833f1 Find Mark and make him spin.
 
 ; 0x00083429 キョロスケそうすりゃ　トビラが
-0x00083429 Kyorosuke, if you do that, the portal will
+0x00083429 Moe, if you do that, the portal will
 
 ; 0x00083448 あくはずだぞ　ニセモノもあるかも
 0x00083448 There´s gotta be a way out. Maybe it´s fake.
@@ -1168,6 +1171,9 @@
 ; 0x00083540 ツミなオトコだな　オレさまも…
 0x00083540 You´re such a lucky man. I...
 
+; 0x0008355f ふっ
+0x0008355f Heh.
+
 ; 0x00083582 キョロスケ
 0x00083582 Moe
 
@@ -1187,7 +1193,7 @@
 0x000835e3 There´s one, right?
 
 ; 0x00083609 キョロスケそのせきばんの　まえで
-0x00083609 Kyorosuke, in front of that sequin.
+0x00083609 Moe, in front of that sequin.
 
 ; 0x00083630 せきばんにかいてあるのと
 0x00083630 It´s the same as what´s in there.
@@ -1198,6 +1204,9 @@
 ; 0x00083659 をするんだ
 0x00083659 Do it.
 
+; 0x0008367d キョロスケそうすりゃ　シャッターが
+0x0008367d Moe, if you do that, the shutter will...
+
 ; 0x000836a0 あくはずだぞ　あのシャッターだと
 0x000836a0 That shutter should open.
 
@@ -1205,13 +1214,13 @@
 0x000836c1 One lamp?
 
 ; 0x000836ed キョロスケなら　せきばんも１つのはずだぞ
-0x000836ed If you´re looking for Kyorosuke, he´s got to have one.
+0x000836ed If you´re looking for Moe, he´s got to have one.
 
 ; 0x00083716 さっさと　さがせよ
 0x00083716 Go find him.
 
 ; 0x00083742 キョロスケアクションを　わすれたときは
-0x00083742 When I forget the Kyorosuke action,
+0x00083742 When I forget the Moe action,
 
 ; 0x00083769 スタートボタンを押して
 0x00083769 Push the start button
@@ -1228,11 +1237,14 @@
 ; 0x000837e7 同じポーズをとる
 0x000837e7 Make the same pose
 
+; 0x000837fd んだ
+0x000837fd What´s up?
+
 ; 0x00083802 そうすりゃ　シャッターがあくぞ
 0x00083802 That´ll open the shutters.
 
 ; 0x0008383a キョロスケシャッターについてる
-0x0008383a It´s on a Kyorosuke shutter.
+0x0008383a It´s on a Moe shutter.
 
 ; 0x0008385e ランプのかずと
 0x0008385e Lamp Kazuto
@@ -1259,7 +1271,7 @@
 0x000838dc That´s good. Congratulations.
 
 ; 0x0008390e キョロスケ…って　バッカヤロー
-0x0008390e Kyorosuke... Bastard.
+0x0008390e Moe... Bastard.
 
 ; 0x0008392d デンワしてこなくていいから
 0x0008392d You don´t have to call.
@@ -1325,7 +1337,7 @@
 0x00083b3a You know, it´s weird, right?
 
 ; 0x00083b6c キョロスケじつは　チョーこうせいのうな
-0x00083b6c The truth is, Kyorosuke is...
+0x00083b6c The truth is, Moe is...
 
 ; 0x00083b93 じんこうえいせいを　使って
 0x00083b93 Use Jinkoeisei
@@ -1334,7 +1346,7 @@
 0x00083bae I´ll take care of you.
 
 ; 0x00083be6 キョロスケ……って　んなワケあるかーー！！
-0x00083be6 Kyorosuke... No way!!
+0x00083be6 Moe... No way!!
 
 ; 0x00083c11 しんじんなよ！　ムダばなしは
 0x00083c11 Don´t be so cold! Don´t waste your time!
@@ -1361,7 +1373,7 @@
 0x00083cc2 Then it´ll open up.
 
 ; 0x00083cf0 キョロスケずっと下のほうにもあるから
-0x00083cf0 Kyorosuke, it´s way down there.
+0x00083cf0 Moe, it´s way down there.
 
 ; 0x00083d15 ちゅういしてさがせよ！
 0x00083d15 Look for it!
@@ -1415,7 +1427,7 @@
 0x00083ea7 Then it´ll open up.
 
 ; 0x00083ed5 キョロスケたぶん　もう少しで
-0x00083ed5 Kyorosuke, I think it´s almost time.
+0x00083ed5 Moe, I think it´s almost time.
 
 ; 0x00083ef2 ボンボーンのところにつくはずだ
 0x00083ef2 We´ll be at Bombourne´s.
@@ -1498,6 +1510,9 @@
 ; 0x0008420d ばしっと　やっつけてやれ！
 0x0008420d Smash him!
 
+; 0x00084240 キョロスケ
+0x00084240 Moe
+
 ; 0x0008424b ボンボーンの
 0x0008424b Bonborn.
 
@@ -1523,7 +1538,7 @@
 0x000842f5 Get out of here!
 
 ; 0x0008431b キョロスケとっとと　たおして
-0x0008431b Kyorosuke, hurry up and calm down.
+0x0008431b Moe, hurry up and calm down.
 
 ; 0x00084338 ようせいを　たすけ出すぞ！
 0x00084338 I´ll save you!
@@ -1550,7 +1565,10 @@
 0x0008440a I´m not recommending it?
 
 ; 0x0008443e キョロスケ近くに　ヘンなスイッチがあるだろ？
-0x0008443e There´s a weird switch near Kyorosuke.
+0x0008443e There´s a weird switch near Moe.
+
+; 0x0008446b その
+0x0008446b That´s...
 
 ; 0x00084475 スイッチにスピンを当てれば
 0x00084475 If I hit the switch with a spin
@@ -1562,7 +1580,7 @@
 0x000844aa That should be it.
 
 ; 0x000844cc キョロスケただし　じかんがたつと
-0x000844cc Kyorosuke, but I´m afraid it won´t be long.
+0x000844cc Moe, but I´m afraid it won´t be long.
 
 ; 0x000844ed すいりゅうは　元にもどっちまうぞ
 0x000844ed Suiryu will go back to normal.
@@ -1595,7 +1613,10 @@
 0x000845e5 You don´t recommend it upstairs?
 
 ; 0x00084617 キョロスケ近くに　ミョーなスイッチがねえか？
-0x00084617 Isn´t there a switch near Kyorosuke?
+0x00084617 Isn´t there a switch near Moe?
+
+; 0x00084644 その
+0x00084644 That´s...
 
 ; 0x0008464e スイッチにスピンを当てれば
 0x0008464e If I hit the switch with a spin
@@ -1607,7 +1628,7 @@
 0x0008467f That should be it.
 
 ; 0x000846a1 キョロスケただし　じかんがたつと
-0x000846a1 Kyorosuke, but I´m afraid it won´t be long.
+0x000846a1 Moe, but I´m afraid it won´t be long.
 
 ; 0x000846c2 あしばは　きえちまうぞ
 0x000846c2 It´s gonna be a long time.
@@ -1700,7 +1721,7 @@
 0x000849e6 That was close.
 
 ; 0x00084a0c キョロスケかまわねーから
-0x00084a0c I don´t mind Kyorosuke.
+0x00084a0c I don´t mind Moe.
 
 ; 0x00084a2b スピンでサクラを
 0x00084a2b I´ll spin Sakura.
@@ -1729,11 +1750,14 @@
 ; 0x00084b25 すっきりさせる
 0x00084b25 I´ll clear it.
 
+; 0x00084b39 んだ
+0x00084b39 What´s up?
+
 ; 0x00084b57 キョロスケアミイヨシノのばあさんも
 0x00084b57 Moeamiiyoshino´s grandmother, too
 
 ; 0x00084b7a 『ヤッチマイナー』つってるから
-0x00084b7a  ⁇  said ⁇ Yachminor ⁇ "
+0x00084b7a  said "Yachminor"
 
 ; 0x00084b99 心おきなく　ちらしてやれ
 0x00084b99 Don´t mind him. Glance him.
@@ -1751,7 +1775,7 @@
 0x00084c17 You do, don´t you?
 
 ; 0x00084c3b キョロスケこのあしばは　スゲー
-0x00084c3b Kyorosuke, this is amazing.
+0x00084c3b Moe, this is amazing.
 
 ; 0x00084c5a デリケートなんだ
 0x00084c5a It´s delicate.
@@ -1760,7 +1784,7 @@
 0x00084c71 If you don´t, we won´t be able to cross.
 
 ; 0x00084cb0 キョロスケハイハイいがいで　行こうとすると
-0x00084cb0 Kyorosuke, high, high, trying to go
+0x00084cb0 Moe, high, high, trying to go
 
 ; 0x00084cdb くずれちまうからな
 0x00084cdb It´s going to break.
@@ -1781,7 +1805,7 @@
 0x00084d68 I can´t go unless I´m high and low.
 
 ; 0x00084da5 キョロスケそれいがいだと　あしばが
-0x00084da5 Kyorosuke, I think you´re struggling with that.
+0x00084da5 Moe, I think you´re struggling with that.
 
 ; 0x00084dc8 くずれちまうから
 0x00084dc8 It´s gonna fall apart.
@@ -1797,6 +1821,9 @@
 
 ; 0x00084e2c よごれだらけで
 0x00084e2c It was full of filth
+
+; 0x00084e3b よく見えねーだろ
+0x00084e3b It´s hard to see.
 
 ; 0x00084e65 キョロスケルノサールが
 0x00084e65 Moelnosar
@@ -1922,7 +1949,7 @@
 0x000852cb I don´t think so.
 
 ; 0x000852ff キョロスケみちをふさいでるブロックが
-0x000852ff The block blocking kyorosuke michi
+0x000852ff The block blocking Moe michi
 
 ; 0x00085324 あってすすめないって？
 0x00085324 I don´t recommend it?
@@ -1931,7 +1958,7 @@
 0x0008533b Maybe it´s just a trick.
 
 ; 0x0008536f キョロスケスイッチをスピンすれば
-0x0008536f If I spin the kyorosuke switch
+0x0008536f If I spin the Moe switch
 
 ; 0x00085390 ブロックはきえるはずだぞ
 0x00085390 Block should work.
@@ -1955,7 +1982,7 @@
 0x00085427 He should be nearby too.
 
 ; 0x0008545f キョロスケそのへんにある　
-0x0008545f Kyorosuke, over there.
+0x0008545f Moe, over there.
 
 ; 0x0008547f よびりん
 0x0008547f Yobirin
@@ -1967,7 +1994,7 @@
 0x00085499 You can call the Stapy.
 
 ; 0x000854c9 キョロスケスイッチにスピンを当てるときには
-0x000854c9 When you hit a Kyorosuke switch with a spin
+0x000854c9 When you hit a Moe switch with a spin
 
 ; 0x000854f4 スイッチとブロックについてる
 0x000854f4 It´s on the switch and block.
@@ -1976,7 +2003,7 @@
 0x00085511 Just tell Mark.
 
 ; 0x00085543 キョロスケたとえば　たいようのマークの
-0x00085543 Kyorosuke, for example, with a big mark.
+0x00085543 Moe, for example, with a big mark.
 
 ; 0x0008556a ブロックなら　たいようマークの
 0x0008556a If it´s a block, it´s Mark´s.
@@ -1985,7 +2012,7 @@
 0x00085589 You should be able to switch.
 
 ; 0x000855b9 キョロスケそれから　モナムーヒールの
-0x000855b9 Kyorosuke and Monamuheel.
+0x000855b9 Moe and Monamuheel.
 
 ; 0x000855de カンバンがそのへんに
 0x000855de Kanban´s around there.
@@ -1994,7 +2021,7 @@
 0x000855f3 I´ve got it, so you better be careful.
 
 ; 0x00085627 キョロスケ分かったか？　じゃあ
-0x00085627 Kyorosuke, do you understand?
+0x00085627 Moe, do you understand?
 
 ; 0x00085646 とっととかえって来いよ……　って
 0x00085646 “Hurry up and come back...”
@@ -2015,7 +2042,7 @@
 0x000856e5 I´m gonna hit the spin.
 
 ; 0x00085713 キョロスケスイッチが見当たらねえときは
-0x00085713 If you can´t find Kyorosuke switch
+0x00085713 If you can´t find Moe switch
 
 ; 0x0008573a そのへんの
 0x0008573a That´s about it.
@@ -2051,7 +2078,7 @@
 0x0008583b Huh? What?
 
 ; 0x00085867 キョロスケ…まいごに　なっただあ？
-0x00085867 Kyorosuke... You´re in trouble?
+0x00085867 Moe... You´re in trouble?
 
 ; 0x0008588a あ　アホか！　さっきのカニヤローを
 0x0008588a Oh, you idiot! That crab bastard!
@@ -2060,7 +2087,7 @@
 0x000858ad Come back here!
 
 ; 0x000858dd キョロスケねんのため　オレさまの
-0x000858dd For Kyorosuke.
+0x000858dd For Moe.
 
 ; 0x000858fe ステキアイが見つけた　チョキングの
 0x000858fe It´s the Choking´s.
@@ -2090,13 +2117,16 @@
 0x000859f9 You´ll get a little bumpy.
 
 ; 0x00085a2b キョロスケあと　アイツはどくのアワをはいて
-0x00085a2b Kyorosuke, he´s out of the way.
+0x00085a2b Moe, he´s out of the way.
 
 ; 0x00085a56 まわりをどくの水にしちまうんだ
 0x00085a56 I´m going to turn it into water.
 
 ; 0x00085a8e キョロスケそういうときは　にげるしかねえ！
-0x00085a8e Kyorosuke, at times like this, we have to run!
+0x00085a8e Moe, at times like this, we have to run!
+
+; 0x00085ab9 水のきれいなところで
+0x00085ab9 Where the water´s clean
 
 ; 0x00085ace ひたすらたえるんだ！
 0x00085ace Keep it together!
@@ -2113,8 +2143,11 @@
 ; 0x00085b25 こうらの中のちょきんばこ
 0x00085b25 Chokinbako in Kora
 
+; 0x00085b43 だ！
+0x00085b43 !
+
 ; 0x00085b61 キョロスケまず
-0x00085b61 Kyorosuke first
+0x00085b61 Moe first
 
 ; 0x00085b75 こうらにスピンして
 0x00085b75 Spin this way
@@ -2126,7 +2159,7 @@
 0x00085ba3 Get rid of the gibberish.
 
 ; 0x00085bdd キョロスケヤツがどくの水を　はきはじめたら
-0x00085bdd When Kyorosuke starts splashing water.
+0x00085bdd When Moe starts splashing water.
 
 ; 0x00085c08 水のきれいなところで　ひたすら
 0x00085c08 Where the water´s clean.
@@ -2192,7 +2225,7 @@
 0x00085dda ...Geez, you´re making me nervous.
 
 ; 0x00085e12 キョロスケそういや　この
-0x00085e12 Kyorosuke, that reminds me.
+0x00085e12 Moe, that reminds me.
 
 ; 0x00085e30 こうしゅうデンワの
 0x00085e30 It´s a phone.
@@ -2208,6 +2241,9 @@
 
 ; 0x00085e8d キョロスケ
 0x00085e8d Moe
+
+; 0x00085e98 この
+0x00085e98 You...
 
 ; 0x00085ea2 こうしゅうデンワの
 0x00085ea2 It´s a phone.
@@ -2306,7 +2342,7 @@
 0x000861d5 It´s a cold.
 
 ; 0x00086203 キョロスケオメェみたいに　ちっちぇえと
-0x00086203 Just like you, Kyorosuke.
+0x00086203 Just like you, Moe.
 
 ; 0x0008622a とばされちまうからな
 0x0008622a You´ll be blown away.
@@ -2323,6 +2359,9 @@
 ; 0x0008629e カゲにかくれる
 0x0008629e Hide in shadow
 
+; 0x000862b2 んだ
+0x000862b2 What´s up?
+
 ; 0x000862b7 やんだら　またすすむんだぞ
 0x000862b7 If you don´t, you´re going to die.
 
@@ -2338,6 +2377,9 @@
 ; 0x00086335 ものかげに　かくれる
 0x00086335 He hides his face.
 
+; 0x0008634f んだ
+0x0008634f What´s up?
+
 ; 0x00086372 キョロスケ
 0x00086372 Moe
 
@@ -2351,7 +2393,7 @@
 0x000863bd You don´t recommend it first?
 
 ; 0x000863ef キョロスケそいつらに　スピンはきかねえ…
-0x000863ef Kyorosuke, they don´t have spins...
+0x000863ef Moe, they don´t have spins...
 
 ; 0x00086418 ヤツらの中に　１こだけ
 0x00086418 One of them.
@@ -2386,8 +2428,11 @@
 ; 0x0008653e ばくだんにスピンを当てる
 0x0008653e Hit Bakudan with a spin
 
+; 0x0008655c んだ
+0x0008655c What´s up?
+
 ; 0x0008657a キョロスケそうすりゃ　とおれるようになるぞ
-0x0008657a Kyorosuke, you´ll be able to stay that way.
+0x0008657a Moe, you´ll be able to stay that way.
 
 ; 0x000865a5 ………ハデヒラリさあん
 0x000865a5 ...Hadehirari-saan.
@@ -2397,6 +2442,9 @@
 
 ; 0x000865f9 キョロスケ
 0x000865f9 Moe
+
+; 0x00086604 ふんふん　あしばがなくて上に
+0x00086604 Hmm, hmm, hmm, hmm, hmm, hmm.
 
 ; 0x00086621 すすめねえって？　そんなときこそ
 0x00086621 I don´t recommend it? That´s when it happens.
@@ -2423,7 +2471,7 @@
 0x000866de I touch it.
 
 ; 0x00086704 キョロスケオメェとスタピーを
-0x00086704 Kyorosuke, you and Stapy.
+0x00086704 Moe, you and Stapy.
 
 ; 0x00086721 きりかえられるぞ
 0x00086721 You´ll be able to go back.
@@ -2435,7 +2483,7 @@
 0x00086746 It´s everywhere.
 
 ; 0x00086776 キョロスケそのへんのリフトは
-0x00086776 Kyorosuke, the lift over there
+0x00086776 Moe, the lift over there
 
 ; 0x00086799 上にのってスピン
 0x00086799 Up, spin.
@@ -2447,7 +2495,7 @@
 0x000867b6 You´re gonna have to go all the way to Hantaigawa.
 
 ; 0x000867ec キョロスケうまく　上まで行けるように
-0x000867ec Kyorosuke, make sure you get up there.
+0x000867ec Moe, make sure you get up there.
 
 ; 0x00086811 リフトをうごかすことが　だいじだな
 0x00086811 It´s important to move the lift.
@@ -2486,7 +2534,7 @@
 0x00086934 You´ll be able to go back.
 
 ; 0x00086962 キョロスケ２人できょうりょくして
-0x00086962 Kyorosuke, the two of us are having a little fun.
+0x00086962 Moe, the two of us are having a little fun.
 
 ; 0x00086983 うまくリフトを　うごかすんだ
 0x00086983 You´re gonna have to do a good job on the lift.
@@ -2546,7 +2594,7 @@
 0x00086bdb I´m sure he´ll be upset.
 
 ; 0x00086c0b キョロスケでも　アイツのまねっこは
-0x00086c0b Even if it´s Kyorosuke, he´s just copying her.
+0x00086c0b Even if it´s Moe, he´s just copying her.
 
 ; 0x00086c2e そんなに　うまくねえ　よく見れば
 0x00086c2e I´m not that good at it.
@@ -2618,7 +2666,7 @@
 0x00086ebe I don´t wanna. Spin!
 
 ; 0x00086ef4 キョロスケ…ん？　どうやって
-0x00086ef4 Kyorosuke... Hm? How?
+0x00086ef4 Moe... Hm? How?
 
 ; 0x00086f11 ハリセンさんたちの　トゲを
 0x00086f11 The thorns of Mr. Harisen and the others.
@@ -2627,7 +2675,7 @@
 0x00086f2c You want me to let it out?
 
 ; 0x00086f56 キョロスケそのへんに　やくにたちそうなもん
-0x00086f56 Kyorosuke, it looks like you´ll be here soon.
+0x00086f56 Moe, it looks like you´ll be here soon.
 
 ; 0x00086f81 ないか？　…ナニナニ？
 0x00086f81 You don´t? ...What?
@@ -2636,7 +2684,7 @@
 0x00086f98 Is there anything you´d like to do right now?
 
 ; 0x00086fce キョロスケよし！　
-0x00086fce Kyorosuke, good!
+0x00086fce Moe, good!
 
 ; 0x00086fe6 たいほうにスピンを
 0x00086fe6 Spin a lot.
@@ -2648,7 +2696,7 @@
 0x0008700a Something might happen.
 
 ; 0x00087040 キョロスケほんものの　ハリセンさんたちの
-0x00087040 Kyorosuke´s real friends.
+0x00087040 Moe´s real friends.
 
 ; 0x00087069 トゲには　さわるんじゃねーぞ
 0x00087069 Don´t touch the thorns.
@@ -2698,6 +2746,9 @@
 ; 0x00087219 アクレイマのヤローをおっかけろ！
 0x00087219 Get Acreima!
 
+; 0x00087252 キョロスケ
+0x00087252 Moe
+
 ; 0x0008725d ワープじぞうでも使って　早く
 0x0008725d Use warp. Quickly.
 
@@ -2720,7 +2771,7 @@
 0x00087315 Isn´t he hiding?
 
 ; 0x00087347 キョロスケやりかたは　もう分かってるだろ？
-0x00087347 You know how to play Kyorosuke, right?
+0x00087347 You know how to play Moe, right?
 
 ; 0x00087378 たいほうを　さがして
 0x00087378 Find the big one.
@@ -2729,7 +2780,7 @@
 0x0008738d I´m gonna spin it.
 
 ; 0x000873c1 キョロスケそうすりゃ　アクレイマがばけた
-0x000873c1 Kyorosuke, that´s how Acreima found out.
+0x000873c1 Moe, that´s how Acreima found out.
 
 ; 0x000873ea ニセのハリセンさんが
 0x000873ea The fake harisen
@@ -2893,6 +2944,9 @@
 ; 0x000879e9 『がんばりおよぎ』で
 0x000879e9 “Good luck oyogi”
 
+; 0x000879fe 回す
+0x000879fe Spin.
+
 ; 0x00087a08 んだ！
 0x00087a08 What?!
 
@@ -2983,6 +3037,9 @@
 ; 0x00087ced アイシャークは
 0x00087ced Aishark
 
+; 0x00087d01 ５回
+0x00087d01 Five.
+
 ; 0x00087d0b スピンを当てると
 0x00087d0b I hit a spin
 
@@ -2997,6 +3054,9 @@
 
 ; 0x00087d6a アイシャークに　こうげきすれば
 0x00087d6a If I get mad at Eishark,
+
+; 0x00087d89 するほど
+0x00087d89 The more I do.
 
 ; 0x00087dab キョロスケ
 0x00087dab Moe
@@ -3033,6 +3093,9 @@
 
 ; 0x00087ed4 アイシャークは
 0x00087ed4 Aishark
+
+; 0x00087ee8 ５回
+0x00087ee8 Five.
 
 ; 0x00087ef2 スピンを当てると
 0x00087ef2 I hit a spin
@@ -3122,7 +3185,7 @@
 0x00088204 It´s gonna be.
 
 ; 0x00088226 キョロスケっつーか　こんなところに
-0x00088226 I don´t know if I should call it Kyorosuke.
+0x00088226 I don´t know if I should call it Moe.
 
 ; 0x00088249 カギかけたのはだれだよ！？
 0x00088249 Who locked the door?
@@ -3140,7 +3203,7 @@
 0x000882b5 I wonder if it´ll stop?
 
 ; 0x000882ed キョロスケさいきんはぶっそうだからな
-0x000882ed Kyorosuke saikin looks like he´s going to die.
+0x000882ed Moe saikin looks like he´s going to die.
 
 ; 0x00088312 とじまり　ひのもとは
 0x00088312 Tojimari
@@ -3158,7 +3221,7 @@
 0x00088380 If you don´t, then hurry up and find it!
 
 ; 0x000883ba キョロスケん？　下のほうにトビラがあるな
-0x000883ba Kyorosuke? There´s a door down there.
+0x000883ba Moe? There´s a door down there.
 
 ; 0x000883e3 ……におう　におうぞ！
 0x000883e3 ...Smirk. Smirk!
@@ -3167,7 +3230,7 @@
 0x000883fa There has to be something!!
 
 ; 0x0008842c キョロスケかべが　あやしいな
-0x0008842c The walls of Kyorosuke are suspicious.
+0x0008842c The walls of Moe are suspicious.
 
 ; 0x00088449 スタフィー　ちょっとしらべてみろよ
 0x00088449 Stuffy, let´s play dumb.
@@ -3227,10 +3290,13 @@
 0x00088674 Moe
 
 ; 0x0008867f 『水をきれいにするそうちは
-0x0008867f  ⁇ You clean the water ⁇ "
+0x0008867f You clean the water
 
 ; 0x0008869a ぜんぶで
 0x0008869a All of it
+
+; 0x000886a8 ３つ
+0x000886a8 Three.
 
 ; 0x000886b2 あるのよ〜』
 0x000886b2 [I do~]
@@ -3261,6 +3327,9 @@
 
 ; 0x000887b3 キョロスケ
 0x000887b3 Moe
+
+; 0x000887c4 ３つ
+0x000887c4 Three.
 
 ; 0x000887ce の　そうちを
 0x000887ce - No, no, no.
@@ -3297,6 +3366,9 @@
 
 ; 0x000888fd そこにもう用はねぇだろ
 0x000888fd You don´t need me there anymore.
+
+; 0x00088914 だったら早くかえってこい！！
+0x00088914 Then hurry back!!
 
 ; 0x0008894a キョロスケ
 0x0008894a Moe
@@ -3598,6 +3670,9 @@
 ; 0x000893b1 あったりするんじゃねぇか？
 0x000893b1 Isn´t there one?
 
+; 0x000893e5 キョロスケ
+0x000893e5 Moe
+
 ; 0x000893f0 スピンしたらよるにかわったりしてな
 0x000893f0 If you spin it, it´ll change.
 
@@ -3630,6 +3705,9 @@
 
 ; 0x00089523 ニヤケた
 0x00089523 I grinned.
+
+; 0x0008952c かお
+0x0008952c Kao
 
 ; 0x00089536 とかすんじゃねえか？
 0x00089536 Isn´t it melting?
@@ -3718,6 +3796,9 @@
 ; 0x0008982c オバケツボ
 0x0008982c Obubybo
 
+; 0x0008983c には
+0x0008983c Ni
+
 ; 0x00089841 ようちゅういだ　ツボの中に入って
 0x00089841 Come on. Get in the jar.
 
@@ -3751,6 +3832,9 @@
 ; 0x00089975 すなばしらをこうげきしろ
 0x00089975 Knock ´em out.
 
+; 0x00089993 よ！
+0x00089993 Yo!
+
 ; 0x000899b0 キョロスケ
 0x000899b0 Moe
 
@@ -3774,6 +3858,9 @@
 
 ; 0x00089a5b すなばしらをこうげきしろ
 0x00089a5b Knock ´em out.
+
+; 0x00089a79 よ！
+0x00089a79 Yo!
 
 ; 0x00089a7e おちついてやるんだぞ！
 0x00089a7e Calm down!
@@ -3803,7 +3890,7 @@
 0x00089b76 Move faster than him.
 
 ; 0x00089baa キョロスケもし　トビラをしめられたら
-0x00089baa Kyorosuke, if you close the door,
+0x00089baa Moe, if you close the door,
 
 ; 0x00089bcf もう１回　スズをならすんだ
 0x00089bcf Another round of tin.
@@ -3812,7 +3899,7 @@
 0x00089bea Then the door will open again.
 
 ; 0x00089c20 キョロスケいくらでもチャレンジ
-0x00089c20 Kyorosuke, try as many times as you want.
+0x00089c20 Moe, try as many times as you want.
 
 ; 0x00089c3f できるから　おちついて
 0x00089c3f I can do it. Calm down.
@@ -3836,13 +3923,13 @@
 0x00089cd2 He´s so annoying.
 
 ; 0x00089cfe キョロスケくせものより　早くうごいて
-0x00089cfe Move faster than the kyorosuke.
+0x00089cfe Move faster than the Moe.
 
 ; 0x00089d23 トビラをくぐるんだ
 0x00089d23 Go through the portal.
 
 ; 0x00089d4f キョロスケもしトビラをしめられたら
-0x00089d4f Kyorosuke, if you close the door
+0x00089d4f Moe, if you close the door
 
 ; 0x00089d72 もう１回スズをならすと
 0x00089d72 I hit the tin again
@@ -3860,7 +3947,7 @@
 0x00089dd4 It´s a dengo. Um...
 
 ; 0x00089e04 キョロスケ『ししまいさまは
-0x00089e04 Kyorosuke: Shigome-sama
+0x00089e04 Moe: Shigome-sama
 
 ; 0x00089e1f ドーンておちてきて　かまれたら
 0x00089e1f If you fall down and get bitten
@@ -3869,7 +3956,7 @@
 0x00089e3e It´ll hurt nya.´
 
 ; 0x00089e76 キョロスケよ　よくわかんねーけど
-0x00089e76 It´s Kyorosuke. I don´t get it.
+0x00089e76 It´s Moe. I don´t get it.
 
 ; 0x00089e97 ししまいに　かまれねーように
 0x00089e97 Don´t get bitten.
@@ -3890,13 +3977,16 @@
 0x00089f30 It´ll hurt nya.
 
 ; 0x00089f66 キョロスケ…よくわかんねーけど
-0x00089f66 Kyorosuke... I don´t really get it
+0x00089f66 Moe... I don´t really get it
 
 ; 0x00089f85 ししまいに　気をつけろって
 0x00089f85 I told you to be careful.
 
 ; 0x00089fa0 ことじゃねーのか？
 0x00089fa0 Isn´t that what happened?
+
+; 0x00089fd1 キョロスケ
+0x00089fd1 Moe
 
 ; 0x00089fdc さっそくだが　ニャンゾーからの
 0x00089fdc Now, from Nyanzo.
@@ -3908,7 +3998,7 @@
 0x0008a01c Apparently he was a ninja slob
 
 ; 0x0008a054 キョロスケだから今までみたいに　トビラを
-0x0008a054 I´m Kyorosuke, so I´ll just use the portal like I always do.
+0x0008a054 I´m Moe, so I´ll just use the portal like I always do.
 
 ; 0x0008a07d くぐったらカンタンに　つぎの
 0x0008a07d Once you pass, it´ll be easy.
@@ -3958,6 +4048,9 @@
 ; 0x0008a235 へやがぐるっと
 0x0008a235 The room spun.
 
+; 0x0008a244 回る
+0x0008a244 Spin.
+
 ; 0x0008a24e らしいんだ　ぐるぐる回してりゃ
 0x0008a24e Apparently, if you spin it in circles,
 
@@ -3965,7 +4058,7 @@
 0x0008a26d Someday, at Seikai no Michi.
 
 ; 0x0008a29f キョロスケすすめるはずだぞ
-0x0008a29f You should recommend Kyorosuke.
+0x0008a29f You should recommend Moe.
 
 ; 0x0008a2ba あ　このへやのスイッチはこわれてる
 0x0008a2ba Oh, this room´s switch is broken.
@@ -4006,6 +4099,9 @@
 ; 0x0008a426 へやがぐるっと
 0x0008a426 The room spun.
 
+; 0x0008a435 回る
+0x0008a435 Spin.
+
 ; 0x0008a43f らしいんだ　へやを回して
 0x0008a43f It´s like he´s spinning a room.
 
@@ -4013,13 +4109,13 @@
 0x0008a458 You´re gonna have to eat the rest of my food.
 
 ; 0x0008a490 キョロスケスイッチには　２しゅるいあって
-0x0008a490 The Kyorosuke switch has 2 shrui.
+0x0008a490 The Moe switch has 2 shrui.
 
 ; 0x0008a4b9 回りかたがちがうから　気をつけろ
 0x0008a4b9 You´re going to have to be careful.
 
 ; 0x0008a4f3 キョロスケこのへやの　スイッチはこわれてる
-0x0008a4f3 Kyorosuke, the switch in this room´s broken.
+0x0008a4f3 Moe, the switch in this room´s broken.
 
 ; 0x0008a51e つぎのへやから　スピンを当てて
 0x0008a51e I´ll hit the next one with a spin.
@@ -4049,7 +4145,7 @@
 0x0008a5f4 You´ll be able to pick a fight.
 
 ; 0x0008a622 キョロスケでも　どうやらしばらくのあいだ
-0x0008a622 Even in Kyorosuke, for a while.
+0x0008a622 Even in Moe, for a while.
 
 ; 0x0008a64b ひかりを　あびつづけねえと
 0x0008a64b I have to keep playing with Hikari.
@@ -4058,7 +4154,7 @@
 0x0008a666 Looks like I can´t.
 
 ; 0x0008a68e キョロスケなんだって？　どれくらい
-0x0008a68e Kyorosuke, huh?
+0x0008a68e Moe, huh?
 
 ; 0x0008a6b1 あびつづければいいかって？
 0x0008a6b1 You want me to keep playing?
@@ -4067,7 +4163,7 @@
 0x0008a6cc Let´s see...
 
 ; 0x0008a6f2 キョロスケよし　キョロスケさまパワーで
-0x0008a6f2 Kyorosuke, good. Kyorosuke, use your power.
+0x0008a6f2 Moe, good. Moe, use your power.
 
 ; 0x0008a719 オメェのあたまの上に
 0x0008a719 On your head.
@@ -4130,7 +4226,7 @@
 0x0008a8dc Just shut up.
 
 ; 0x0008a904 キョロスケ１回外れちまうと　メーターが
-0x0008a904 If Kyorosuke misses once, the meter will...
+0x0008a904 If Moe misses once, the meter will...
 
 ; 0x0008a92b ０になって　また
 0x0008a92b 0 again.
@@ -4151,7 +4247,7 @@
 0x0008a9aa Go home... Hm? What´d you say?
 
 ; 0x0008a9e0 キョロスケ『コラル王子にかわれ？』
-0x0008a9e0 Kyorosuke: “Become Prince Coral’s replacement?”
+0x0008a9e0 Moe: “Become Prince Coral’s replacement?”
 
 ; 0x0008aa03 っバッカヤロー！！！　
 0x0008aa03 Idiot!!!
@@ -4172,7 +4268,7 @@
 0x0008aa82 Looks like he went.
 
 ; 0x0008aaac キョロスケどっちからでもいいから
-0x0008aaac Kyorosuke, it doesn´t matter either way
+0x0008aaac Moe, it doesn´t matter either way
 
 ; 0x0008aacd とっとと　つかまえて来るんだ！
 0x0008aacd Hurry up and get me!
@@ -4198,6 +4294,9 @@
 ; 0x0008abae その　おとぼけ２人に　こってり
 0x0008abae That´s a lot to play dumb with.
 
+; 0x0008abcd せっきょうしてやる！
+0x0008abcd I´ll give you a lesson!
+
 ; 0x0008ac00 キョロスケ
 0x0008ac00 Moe
 
@@ -4211,7 +4310,7 @@
 0x0008ac37 That idiot.
 
 ; 0x0008ac67 キョロスケナニ？　きりがただよってて
-0x0008ac67 Kyorosuke-nani? Kiri ga Tadari
+0x0008ac67 Moe-nani? Kiri ga Tadari
 
 ; 0x0008ac8c よく見えねえ？　しょーがねーな
 0x0008ac8c Can´t you see? Fine.
@@ -4220,7 +4319,7 @@
 0x0008acab I pinched Kiri´s head.
 
 ; 0x0008ace3 キョロスケきりが　うすくなって
-0x0008ace3 Kyorosuke kiri was sulking.
+0x0008ace3 Moe kiri was sulking.
 
 ; 0x0008ad02 アイツのすがたが見えたら
 0x0008ad02 If I can see him
@@ -4233,6 +4332,9 @@
 
 ; 0x0008ad6e そうだな…　
 0x0008ad6e You´re right...
+
+; 0x0008ad80 ３回
+0x0008ad80 Three.
 
 ; 0x0008ad8a スピンを
 0x0008ad8a Spin.
@@ -4254,6 +4356,9 @@
 
 ; 0x0008ae1b キョロスケスピンを　
 0x0008ae1b Moespin.
+
+; 0x0008ae35 ３回
+0x0008ae35 Three.
 
 ; 0x0008ae3f 当ててやれ！
 0x0008ae3f Hit him!
@@ -4295,13 +4400,13 @@
 0x0008af93 Back to the city.
 
 ; 0x0008afc7 キョロスケへやの　右がわの
-0x0008afc7 To Kyorosuke. To my right.
+0x0008afc7 To Moe. To my right.
 
 ; 0x0008afe2 トビラに入るといいぞ
 0x0008afe2 Get in the door.
 
 ; 0x0008b010 キョロスケ２人とも　つかまえたら
-0x0008b010 If we catch both Kyorosuke,
+0x0008b010 If we catch both Moe,
 
 ; 0x0008b031 シティに　もどって来いよな
 0x0008b031 Come back to the city.
@@ -4349,7 +4454,7 @@
 0x0008b203 You´re wasting your carrots.
 
 ; 0x0008b23b キョロスケきりがじゃまで　よく見えねえのか…
-0x0008b23b I can´t see very well with Kyorosuke Kira...
+0x0008b23b I can´t see very well with Moe Kira...
 
 ; 0x0008b268 って　バカヤロー　うすくなるのを
 0x0008b268 Hey, you idiot, don´t just sit there.
@@ -4358,7 +4463,7 @@
 0x0008b289 Just wait!
 
 ; 0x0008b2bb キョロスケきりが　うすくなって
-0x0008b2bb Kyorosuke kiri was sulking.
+0x0008b2bb Moe kiri was sulking.
 
 ; 0x0008b2da アイツのすがたが見えたら
 0x0008b2da If I can see him
@@ -4367,16 +4472,19 @@
 0x0008b2f3 Spin for him.
 
 ; 0x0008b31b キョロスケきりが　うすくなったときが
-0x0008b31b When Kyorosuke Kiri died.
+0x0008b31b When Moe Kiri died.
 
 ; 0x0008b340 チャンスだ！　ニャンゾーに
 0x0008b340 This is my chance!
+
+; 0x0008b361 ３回
+0x0008b361 Three.
 
 ; 0x0008b36b 　スピンしてやれ
 0x0008b36b Spin for him.
 
 ; 0x0008b395 キョロスケすいりゅうがスゲーから
-0x0008b395 Kyorosuke suiryu is amazing
+0x0008b395 Moe suiryu is amazing
 
 ; 0x0008b3b6 ちゅういしながら
 0x0008b3b6 As we kissed
@@ -4398,6 +4506,9 @@
 
 ; 0x0008b451 キョロスケスピンを　
 0x0008b451 Moespin.
+
+; 0x0008b46b ３回
+0x0008b46b Three.
 
 ; 0x0008b475 当ててやれ！
 0x0008b475 Hit him!
@@ -4430,7 +4541,7 @@
 0x0008b577 Do something for him.
 
 ; 0x0008b5a1 キョロスケニャンジャは　ぎゃくほうこうに
-0x0008b5a1 Kyorosuke Nyanja is like a gyakuho.
+0x0008b5a1 Moe Nyanja is like a gyakuho.
 
 ; 0x0008b5ca にげたから　ワープじぞうを使って
 0x0008b5ca I ran out, so use warp.
@@ -4439,13 +4550,13 @@
 0x0008b5eb Back to the city.
 
 ; 0x0008b61f キョロスケへやの　左がわの
-0x0008b61f To Kyorosuke. To my left.
+0x0008b61f To Moe. To my left.
 
 ; 0x0008b63a トビラに入るといいぞ
 0x0008b63a Get in the door.
 
 ; 0x0008b668 キョロスケ２人とも　つかまえたら
-0x0008b668 If we catch both Kyorosuke,
+0x0008b668 If we catch both Moe,
 
 ; 0x0008b689 シティに　もどって来いよな
 0x0008b689 Come back to the city.
@@ -4490,13 +4601,16 @@
 0x0008b834 You don´t recommend it?
 
 ; 0x0008b864 キョロスケそりゃ　たぶん　かくれざとめいぶつ
-0x0008b864 Kyorosuke´s probably hiding a lot.
+0x0008b864 Moe´s probably hiding a lot.
 
 ; 0x0008b897 『カブトムシ』
 0x0008b897 “Beetle.”
 
 ; 0x0008b8ab だな　…なんだって？
 0x0008b8ab Yeah... What did he say?
+
+; 0x0008b8c0 オメェの知ってるカブトムシと
+0x0008b8c0 The beetle you know.
 
 ; 0x0008b8f6 キョロスケちがうって？　…まあ　気にすんな
 0x0008b8f6 No, no, no, no. Don´t worry about it.
@@ -4508,7 +4622,7 @@
 0x0008b93a It´s amazing!
 
 ; 0x0008b96a キョロスケこいマロが　いうには
-0x0008b96a Come on, Kyorosuke, Maro says.
+0x0008b96a Come on, Moe, Maro says.
 
 ; 0x0008b989 近くの
 0x0008b989 Near.
@@ -4523,7 +4637,7 @@
 0x0008b9b4 Try to spin.
 
 ; 0x0008b9e6 キョロスケそうすると　カブトムシは
-0x0008b9e6 Kyorosuke, if you do that the beetle
+0x0008b9e6 Moe, if you do that the beetle
 
 ; 0x0008ba09 びびって　かたまっちまう
 0x0008ba09 I´m scared. I´m scared.
@@ -4532,7 +4646,7 @@
 0x0008ba22 Apparently.
 
 ; 0x0008ba44 キョロスケかたまった　カブトムシは
-0x0008ba44 The beetle that´s collected in Kyorosuke
+0x0008ba44 The beetle that´s collected in Moe
 
 ; 0x0008ba6d かべじゃんぷ
 0x0008ba6d Kabejanpu
@@ -4556,13 +4670,13 @@
 0x0008baf6 It´s gonna get all hot.
 
 ; 0x0008bb22 キョロスケおたふくそうに　スピンすると
-0x0008bb22 Kyorosuke spins like a mother.
+0x0008bb22 Moe spins like a mother.
 
 ; 0x0008bb49 びっくりさせられるらしいぞ
 0x0008bb49 They´re gonna surprise us.
 
 ; 0x0008bb7d キョロスケかたまった　
-0x0008bb7d Kyorosuke has gathered.
+0x0008bb7d Moe has gathered.
 
 ; 0x0008bb99 カブトムシは
 0x0008bb99 Beetles
@@ -4649,7 +4763,7 @@
 0x0008bee2 Not yet?
 
 ; 0x0008bf12 キョロスケここは　スタピーときょうりょく
-0x0008bf12 Kyorosuke, this is Stapy and Kyoryoku.
+0x0008bf12 Moe, this is Stapy and Kyoryoku.
 
 ; 0x0008bf3b しないと　すすめねぇみたいだ
 0x0008bf3b Looks like I´ll have to do it.
@@ -4661,7 +4775,7 @@
 0x0008bf6c And then, after that...
 
 ; 0x0008bf98 キョロスケって　どなるなよ！
-0x0008bf98 Don’t you dare call me Kyorosuke!
+0x0008bf98 Don’t you dare call me Moe!
 
 ; 0x0008bfb5 ナニ？　『あんなヤツゆるせない！
 0x0008bfb5 What? ´I can´t forgive that guy!
@@ -4688,7 +4802,7 @@
 0x0008c0b8 I didn´t think it´d be this different...
 
 ; 0x0008c0ee キョロスケあ　いや　なんでもねぇ
-0x0008c0ee Kyorosuke! No, never mind.
+0x0008c0ee Moe! No, never mind.
 
 ; 0x0008c10f とにかく　スタピーと
 0x0008c10f Anyway, with Stapy.
@@ -4697,7 +4811,7 @@
 0x0008c124 I´m going to do my best.
 
 ; 0x0008c14d キョロスケオレさまの　カンでは
-0x0008c14d In my intuition, Kyorosuke.
+0x0008c14d In my intuition, Moe.
 
 ; 0x0008c16c さっきのヤローは　ずうっと
 0x0008c16c That bastard´s been here the whole time.
@@ -4715,7 +4829,7 @@
 0x0008c1d8 Are you calm?
 
 ; 0x0008c202 キョロスケっだーー！　うるせえ！
-0x0008c202 Kyorosuke! Shut up!
+0x0008c202 Moe! Shut up!
 
 ; 0x0008c223 どなるな！　オレさまにおこったって
 0x0008c223 Don´t get mad at me!
@@ -4724,7 +4838,7 @@
 0x0008c246 I can´t help it, can I?!
 
 ; 0x0008c274 キョロスケと　とにかくスタピーが
-0x0008c274 Kyorosuke and Stapy, anyway.
+0x0008c274 Moe and Stapy, anyway.
 
 ; 0x0008c295 オメェをおいかけて行ったから
 0x0008c295 I went to see you.
@@ -4751,7 +4865,7 @@
 0x0008c334 Okay? Listen up.
 
 ; 0x0008c362 キョロスケ『ゲイシャチの
-0x0008c362 Kyorosuke: The Gaishachi´s
+0x0008c362 Moe: The Gaishachi´s
 
 ; 0x0008c380 じゃくてんは
 0x0008c380 Jadenha
@@ -4766,7 +4880,7 @@
 0x0008c3b0 [Spin on the lips nya]
 
 ; 0x0008c3e6 キョロスケ『ただし　
-0x0008c3e6 Kyorosuke: But
+0x0008c3e6 Moe: But
 
 ; 0x0008c400 きりが出てるあいだは
 0x0008c400 As long as it´s clear
@@ -4774,11 +4888,14 @@
 ; 0x0008c415 クチビルが　見えニャい
 0x0008c415 I can see the lips.
 
+; 0x0008c431 から
+0x0008c431 So
+
 ; 0x0008c436 はれたときをねらうニャ』
 0x0008c436 [Aim for when you fall off nya]
 
 ; 0x0008c468 キョロスケ『アイツのぶきは　しゃみせんニャ
-0x0008c468 Kyorosuke: He’s not sneezing nya
+0x0008c468 Moe: He’s not sneezing nya
 
 ; 0x0008c493 とくに　
 0x0008c493 Especially
@@ -4793,10 +4910,13 @@
 0x0008c4ce [I will nya]
 
 ; 0x0008c4f2 キョロスケ……だってさ　わかったか？
-0x0008c4f2 Kyorosuke... Did you get it?
+0x0008c4f2 Moe... Did you get it?
 
 ; 0x0008c517 それにしても　スタフィーのヤツが
 0x0008c517 Still, Stuffy.
+
+; 0x0008c538 はりきってたワリに
+0x0008c538 I was so excited.
 
 ; 0x0008c564 キョロスケけっきょく　ゲイシャチと
 0x0008c564 In the end, it´s a gay killer whale.
@@ -4832,7 +4952,7 @@
 0x0008c64c Listen well.
 
 ; 0x0008c670 キョロスケ『ゲイシャチの
-0x0008c670 Kyorosuke: The Gaishachi´s
+0x0008c670 Moe: The Gaishachi´s
 
 ; 0x0008c68e じゃくてんは
 0x0008c68e Jadenha
@@ -4847,7 +4967,7 @@
 0x0008c6be [Spin on the lips nya]
 
 ; 0x0008c6f4 キョロスケ『ただし　
-0x0008c6f4 Kyorosuke: But
+0x0008c6f4 Moe: But
 
 ; 0x0008c70e きりが出てるあいだは
 0x0008c70e As long as it´s clear
@@ -4855,11 +4975,14 @@
 ; 0x0008c723 クチビルが　見えニャい
 0x0008c723 I can see the lips.
 
+; 0x0008c73f から
+0x0008c73f So
+
 ; 0x0008c744 はれたときをねらうニャ』
 0x0008c744 [Aim for when you fall off nya]
 
 ; 0x0008c776 キョロスケ『アイツのぶきは　しゃみせんニャ
-0x0008c776 Kyorosuke: He’s not sneezing nya
+0x0008c776 Moe: He’s not sneezing nya
 
 ; 0x0008c7a1 とくに　
 0x0008c7a1 Especially
@@ -4874,7 +4997,7 @@
 0x0008c7dc [I will nya]
 
 ; 0x0008c800 キョロスケ……だってよ　アイツをぶちのめして
-0x0008c800 Kyorosuke... I mean, beat him up
+0x0008c800 Moe... I mean, beat him up
 
 ; 0x0008c82d スタフィーのかわりに　かみかざりを
 0x0008c82d Instead of Stuffy, I´ll give you a mirror.
@@ -5097,6 +5220,9 @@
 
 ; 0x0008d004 キョロスケ
 0x0008d004 Moe
+
+; 0x0008d00f ドロシーが　
+0x0008d00f Dorothy.
 
 ; 0x0008d021 『すがたクリーム』
 0x0008d021 『Sugata Cream』
@@ -5398,6 +5524,9 @@
 ; 0x0008dab5 が　あるな
 0x0008dab5 There´s one.
 
+; 0x0008dac0 なにかのしかけか…？
+0x0008dac0 Is this some kind of trick?
+
 ; 0x0008daee キョロスケ
 0x0008daee Moe
 
@@ -5409,6 +5538,9 @@
 
 ; 0x0008db3d 上に行きたいならジャンプ
 0x0008db3d Jump if you wanna go up.
+
+; 0x0008db5b しな
+0x0008db5b Shina
 
 ; 0x0008db79 キョロスケ
 0x0008db79 Moe
@@ -5698,6 +5830,9 @@
 ; 0x0008e56d もたもた　すんじゃねぇぞ！
 0x0008e56d Don´t hold back!
 
+; 0x0008e5a1 キョロスケ
+0x0008e5a1 Moe
+
 ; 0x0008e5ac キスミちゃんがまってるから
 0x0008e5ac Because kisumichan is waiting.
 
@@ -5766,6 +5901,9 @@
 
 ; 0x0008e7dc クジラチルドレン
 0x0008e7dc Whale Children
+
+; 0x0008e7fb ３人
+0x0008e7fb Three.
 
 ; 0x0008e805 いるからぜんいんさがせよ！
 0x0008e805 I´m here, so find me!
@@ -5850,6 +5988,9 @@
 
 ; 0x0008eac0 このへんにいると思うぜ
 0x0008eac0 I think he´s around here.
+
+; 0x0008eadd ３人
+0x0008eadd Three.
 
 ; 0x0008eae7 ぜんいん　さがすんだぞ
 0x0008eae7 All right, look for it.
@@ -5950,6 +6091,9 @@
 ; 0x0008ee78 キョロスケ
 0x0008ee78 Moe
 
+; 0x0008ee83 その
+0x0008ee83 That´s...
+
 ; 0x0008ee8d おんぷが　トライアングルの
 0x0008ee8d The one with the triangle.
 
@@ -5998,6 +6142,12 @@
 ; 0x0008f00d おんぷが出るから
 0x0008f00d Because I´m going to cum.
 
+; 0x0008f037 キョロスケ
+0x0008f037 Moe
+
+; 0x0008f042 その
+0x0008f042 That´s...
+
 ; 0x0008f04c おんぷが　トライアングルの
 0x0008f04c The one with the triangle.
 
@@ -6039,6 +6189,9 @@
 
 ; 0x0008f19d クジラチルドレンが
 0x0008f19d The whale children
+
+; 0x0008f1b5 ３人
+0x0008f1b5 Three.
 
 ; 0x0008f1bf そろってねぇ
 0x0008f1bf We´re all here.
@@ -6112,6 +6265,9 @@
 ; 0x0008f416 キョロスケ
 0x0008f416 Moe
 
+; 0x0008f421 その
+0x0008f421 That´s...
+
 ; 0x0008f42b おんぷが　トライアングルの
 0x0008f42b The one with the triangle.
 
@@ -6163,6 +6319,9 @@
 ; 0x0008f5d1 キョロスケ
 0x0008f5d1 Moe
 
+; 0x0008f5dc その
+0x0008f5dc That´s...
+
 ; 0x0008f5e6 おんぷが　トライアングルの
 0x0008f5e6 The one with the triangle.
 
@@ -6204,6 +6363,9 @@
 
 ; 0x0008f741 クジラチルドレンが
 0x0008f741 The whale children
+
+; 0x0008f759 ３人
+0x0008f759 Three.
 
 ; 0x0008f763 そろってねぇ
 0x0008f763 We´re all here.
@@ -6277,6 +6439,9 @@
 ; 0x0008f9c4 キョロスケ
 0x0008f9c4 Moe
 
+; 0x0008f9cf その
+0x0008f9cf That´s...
+
 ; 0x0008f9d9 おんぷが　トライアングルの
 0x0008f9d9 The one with the triangle.
 
@@ -6297,6 +6462,9 @@
 
 ; 0x0008fa78 ギターをえんそうしてくれるぜ
 0x0008fa78 He´ll play the guitar.
+
+; 0x0008faad キョロスケ
+0x0008faad Moe
 
 ; 0x0008fab8 クジラチルドレンをおこすには
 0x0008fab8 To wake up the whale children
@@ -6324,6 +6492,9 @@
 
 ; 0x0008fb7f キョロスケ
 0x0008fb7f Moe
+
+; 0x0008fb8a その
+0x0008fb8a That´s...
 
 ; 0x0008fb94 おんぷが　トライアングルの
 0x0008fb94 The one with the triangle.
@@ -6366,6 +6537,9 @@
 
 ; 0x0008fcff クジラチルドレンが
 0x0008fcff The whale children
+
+; 0x0008fd17 ３人
+0x0008fd17 Three.
 
 ; 0x0008fd21 そろってねぇ
 0x0008fd21 We´re all here.
@@ -6597,6 +6771,9 @@
 
 ; 0x00090524 『にいちゃんにできて　ウチに
 0x00090524 “You can do it, Nii-chan, and you can do it.
+
+; 0x00090541 でけへんわけない』だって？
+0x00090541  can´t be huge?"
 
 ; 0x00090575 キョロスケ
 0x00090575 Moe
@@ -6898,6 +7075,9 @@
 ; 0x0009105c キョロスケ
 0x0009105c Moe
 
+; 0x00091067 だけど　はなちょうちん出して
+0x00091067 But let´s get out of here.
+
 ; 0x00091084 いねむりしてるみたいだったな…
 0x00091084 She looked sleepy...
 
@@ -7027,6 +7207,9 @@
 ; 0x0009150c とんだあとにスピンアタック
 0x0009150c Spin Attack
 
+; 0x0009152c だ！
+0x0009152c !
+
 ; 0x00091531 ヤツにこうげきしまくってやれ！
 0x00091531 Give him a hard time!
 
@@ -7059,6 +7242,9 @@
 
 ; 0x0009164a ばくだんはスピンではねかえせる
 0x0009164a Bakudan can be repelled by spin.
+
+; 0x0009166e から
+0x0009166e So
 
 ; 0x00091673 タイミングよく　はねかえして
 0x00091673 The timing´s right.
@@ -7159,6 +7345,9 @@
 ; 0x00091a0b ばくだんはスピンではねかえせる
 0x00091a0b Bakudan can be repelled by spin.
 
+; 0x00091a2f から
+0x00091a2f So
+
 ; 0x00091a34 タイミングよく　はねかえして
 0x00091a34 The timing´s right.
 
@@ -7197,6 +7386,9 @@
 
 ; 0x00091ba4 うごき回って　ロケットパンチを
 0x00091ba4 Wriggle around. Rocket punch.
+
+; 0x00091bc3 よけまくれよっ！！
+0x00091bc3 Dodge it!!
 
 ; 0x00091bf5 キョロスケ
 0x00091bf5 Moe
@@ -7470,6 +7662,9 @@
 
 ; 0x0009252d かべが　かいてんする
 0x0009252d I´m scratching my wall.
+
+; 0x00092547 んだ
+0x00092547 What´s up?
 
 ; 0x00092565 キョロスケ
 0x00092565 Moe
@@ -7759,6 +7954,9 @@
 ; 0x00092fd4 水に入ると　ひがきえちまう
 0x00092fd4 When you´re in the water, it´s hard to see.
 
+; 0x00092ff4 から
+0x00092ff4 So
+
 ; 0x00092ff9 気をつけろよ！
 0x00092ff9 Watch out!
 
@@ -7774,6 +7972,9 @@
 ; 0x00093051 もやしちまおう
 0x00093051 Let´s make bean sprouts.
 
+; 0x00093065 ぜ！
+0x00093065 Ze!
+
 ; 0x00093083 キョロスケ
 0x00093083 Moe
 
@@ -7782,6 +7983,9 @@
 
 ; 0x000930af 水に入るな
 0x000930af Don´t go in the water.
+
+; 0x000930bf よ！
+0x000930bf Yo!
 
 ; 0x000930dd キョロスケ
 0x000930dd Moe
@@ -7797,6 +8001,9 @@
 
 ; 0x00093137 キョロスケ
 0x00093137 Moe
+
+; 0x00093142 ここにある
+0x00093142 It´s here.
 
 ; 0x00093152 しょくだいに
 0x00093152 I don´t know what to do.
@@ -7846,6 +8053,9 @@
 ; 0x0009328c しょくだいは　ぜんぶで
 0x0009328c I´ll give you everything you need.
 
+; 0x000932a8 ４つ
+0x000932a8 Four.
+
 ; 0x000932b2 あるぜ
 0x000932b2 I do.
 
@@ -7881,6 +8091,9 @@
 
 ; 0x000933c9 ひをつけて回る
 0x000933c9 I´ll follow you around
+
+; 0x000933dd んだ
+0x000933dd What´s up?
 
 ; 0x000933fb キョロスケ
 0x000933fb Moe
@@ -7977,6 +8190,9 @@
 
 ; 0x000936fe でっけえノコギリがせまってくる
 0x000936fe I´m getting a huge saw.
+
+; 0x00093722 ぞ！
+0x00093722 Z!
 
 ; 0x00093727 ぼ〜っとしてノコギリにぶつかったら
 0x00093727 I spaced out and hit the saw
@@ -8098,6 +8314,9 @@
 ; 0x00093b44 …………と　ともかく！！
 0x00093b44 ...Anyway!
 
+; 0x00093b76 キョロスケ
+0x00093b76 Moe
+
 ; 0x00093b81 オウルン王を　やっつけるためには
 0x00093b81 To defeat King Owen.
 
@@ -8207,7 +8426,7 @@
 0x00093eb8 It´s closing in!
 
 ; 0x00093ee4 キョロスケぜ　ぜったいつかまるなよ！
-0x00093ee4 Hey, Kyorosuke, don´t get all upset!
+0x00093ee4 Hey, Moe, don´t get all upset!
 
 ; 0x00093f09 つかまると　なにされるか
 0x00093f09 I don´t know what they´ll do to me if I get caught.
@@ -8216,7 +8435,7 @@
 0x00093f22 I don´t know!!!
 
 ; 0x00093f4e キョロスケそ　そうだ！　そのへんに
-0x00093f4e Kyorosuke! That´s right! Over there!
+0x00093f4e Moe! That´s right! Over there!
 
 ; 0x00093f71 なにか　
 0x00093f71 Something
@@ -8231,7 +8450,7 @@
 0x00093f98 You got a thing?
 
 ; 0x00093fc0 キョロスケそいつを　スピンしてやれば
-0x00093fc0 Kyorosuke, just spin that thing.
+0x00093fc0 Moe, just spin that thing.
 
 ; 0x00093fe5 ちょっとくらいなら　しにがみを
 0x00093fe5 If it´s just a little bit, I´d like a claw.
@@ -8240,7 +8459,7 @@
 0x00094004 I might be able to fool around.
 
 ; 0x00094038 キョロスケとにかく　しにがみに
-0x00094038 Kyorosuke, anyway, let´s go.
+0x00094038 Moe, anyway, let´s go.
 
 ; 0x00094057 近づかれすぎねーように
 0x00094057 Don´t get too close.
@@ -8261,7 +8480,7 @@
 0x000940e8 I´m getting impatient!
 
 ; 0x00094118 キョロスケそいつにつかまると
-0x00094118 Kyorosuke, when he grabs you
+0x00094118 Moe, when he grabs you
 
 ; 0x00094135 とんでもねーことになる！
 0x00094135 It´s gonna be crazy!
@@ -8309,7 +8528,7 @@
 0x00094290 Go back to the city.
 
 ; 0x000942be キョロスケそれにしても　アクシュミな
-0x000942be Kyorosuke, you´re such an axe.
+0x000942be Moe, you´re such an axe.
 
 ; 0x000942e3 しろだぜ　もっとオレさまんち
 0x000942e3 Come on, let´s do this.
@@ -8318,7 +8537,7 @@
 0x00094300 Like that.
 
 ; 0x00094322 キョロスケスマートで　ワイルドで　キュートで
-0x00094322 Kyorosuke, smart, wild, cute.
+0x00094322 Moe, smart, wild, cute.
 
 ; 0x0009434f クールで　プリティなインテリアに
 0x0009434f Cool and pretty.
@@ -8381,7 +8600,7 @@
 0x0009458c ...
 
 ; 0x000945b2 キョロスケ………オメェ　なみだごえだぞ
-0x000945b2 Kyorosuke... You´re the best.
+0x000945b2 Moe... You´re the best.
 
 ; 0x000945f7 キョロスケ
 0x000945f7 Moe
@@ -8396,7 +8615,10 @@
 0x0009462e Yeah, yeah, yeah, yeah.
 
 ; 0x00094660 キョロスケって　バカヤロー！！
-0x00094660 Kyorosuke, you idiot!
+0x00094660 Moe, you idiot!
+
+; 0x0009467f そりゃデジールのそだててる
+0x0009467f That´s Desill´s flattery
 
 ; 0x0009469a どくのはなだ
 0x0009469a Don´t move.
@@ -8426,7 +8648,7 @@
 0x00094783 Don´t touch it.
 
 ; 0x000947af キョロスケそいつは　どくのはなだ
-0x000947af Kyorosuke, don´t move.
+0x000947af Moe, don´t move.
 
 ; 0x000947d0 さわるとふらふらに　なっちまう
 0x000947d0 Touch it and you´ll stagger.
@@ -8447,7 +8669,7 @@
 0x0009485d Sounds complicated.
 
 ; 0x00094889 キョロスケけど　デジールのみかたのやつらは
-0x00094889 It´s Kyorosuke, but the guys in Desire´s way...
+0x00094889 It´s Moe, but the guys in Desire´s way...
 
 ; 0x000948b4 どうやって　せいかいのみちを
 0x000948b4 How do you do that?
@@ -8456,7 +8678,7 @@
 0x000948d1 I bet you´ll find out.
 
 ; 0x000948ff キョロスケなにか　ヒントになるような
-0x000948ff Kyorosuke, there´s gotta be some kind of hint.
+0x000948ff Moe, there´s gotta be some kind of hint.
 
 ; 0x00094924 しかけが　あるはずだぞ
 0x00094924 There´s got to be a trick to it.
@@ -8465,7 +8687,7 @@
 0x0009493b ...Hm? What?
 
 ; 0x00094965 キョロスケあきらかに　あやしい
-0x00094965 Kyorosuke’s clearly suspicious
+0x00094965 Moe’s clearly suspicious
 
 ; 0x0009498a すいしょうだま
 0x0009498a Suishodama
@@ -8525,7 +8747,7 @@
 0x00094b23 We´ll get through.
 
 ; 0x00094b4f キョロスケきぐるみでも
-0x00094b4f Even if it´s a Kyorosuke costume
+0x00094b4f Even if it´s a Moe costume
 
 ; 0x00094b6d Bボタン
 0x00094b6d [B]
@@ -8546,7 +8768,7 @@
 0x00094bec Hang on!
 
 ; 0x00094c12 キョロスケきぐるみでも
-0x00094c12 Even if it´s a Kyorosuke costume
+0x00094c12 Even if it´s a Moe costume
 
 ; 0x00094c30 Bボタン
 0x00094c30 [B]
@@ -8573,7 +8795,7 @@
 0x00094ce2 ...Zaza!
 
 ; 0x00094d08 キョロスケそいつらを　…ザザッ…
-0x00094d08 Kyorosuke, get them...
+0x00094d08 Moe, get them...
 
 ; 0x00094d2f ぱわふるスピン
 0x00094d2f Soft spin
@@ -8630,7 +8852,7 @@
 0x00094f02 Who´s going to call?
 
 ; 0x00094f36 キョロスケ……………ふん　まあ
-0x00094f36 Kyorosuke... Hmph.
+0x00094f36 Moe... Hmph.
 
 ; 0x00094f55 べ　べつにいいけどよ
 0x00094f55 I-I don´t mind.
@@ -8660,7 +8882,7 @@
 0x00095048 They´re here, too.
 
 ; 0x00095074 キョロスケえ？　なんだって？　スタフィーが
-0x00095074 Kyorosukee? What did you say?
+0x00095074 Moee? What did you say?
 
 ; 0x0009509f オレさまをむかえに？
 0x0009509f To get me?
@@ -8669,7 +8891,7 @@
 0x000950b4 Okay... ...
 
 ; 0x000950d7 キョロスケよっ　よけいなこと
-0x000950d7 Kyorosuke! Don´t do anything unnecessary!
+0x000950d7 Moe! Don´t do anything unnecessary!
 
 ; 0x000950f4 すんじゃねーよ！　あんなヤツ
 0x000950f4 Don’t do that!
@@ -8678,7 +8900,7 @@
 0x00095111 I hate you!!
 
 ; 0x0009513f キョロスケ……お　オメェもし　スタフィーを
-0x0009513f Kyorosuke... Hey, what are you doing?
+0x0009513f Moe... Hey, what are you doing?
 
 ; 0x0009516a たすけてやりたいなら
 0x0009516a If you want to help me
@@ -8697,6 +8919,9 @@
 
 ; 0x000951fa を　ためてやれよ
 0x000951fa Save 2 for him.
+
+; 0x0009520b べ　べつにどうでもいいけどな！
+0x0009520b I-I don´t really care!
 
 ; 0x00095242 キョロスケ
 0x00095242 Moe
@@ -8723,7 +8948,7 @@
 0x000952f7 Save him.
 
 ; 0x0009531d キョロスケお　オレさまは　べつに
-0x0009531d Kyorosuke, I don’t really
+0x0009531d Moe, I don’t really
 
 ; 0x0009533e むかえに来てほしくなんか
 0x0009533e I don´t want you to come back.
@@ -8753,7 +8978,7 @@
 0x00095439 No matter what you say!
 
 ; 0x0009546b キョロスケああもう！　オレさまは
-0x0009546b Kyorosukeaaaaaaaaa! I´m
+0x0009546b Moeaaaaaaaaa! I´m
 
 ; 0x0009548c とっとと
 0x0009548c Hurry up
@@ -8762,7 +8987,7 @@
 0x00095495 I´ll be back in the city!
 
 ; 0x000954c5 キョロスケオメェに　かまってるヒマはねえ！
-0x000954c5 I don´t have time for you, Kyorosuke!
+0x000954c5 I don´t have time for you, Moe!
 
 ; 0x000954f6 よびりん
 0x000954f6 Yobirin
@@ -8783,7 +9008,7 @@
 0x00095575 I don´t like it.
 
 ; 0x000955a3 キョロスケたぶん
-0x000955a3 Kyorosuke, maybe.
+0x000955a3 Moe, maybe.
 
 ; 0x000955b4 この近くにデジールが
 0x000955b4 Desill´s nearby.
@@ -8804,7 +9029,7 @@
 0x00095641 Shut up!
 
 ; 0x00095665 キョロスケあのヤロー　へびだから
-0x00095665 Kyorosuke, that bastard´s weak.
+0x00095665 Moe, that bastard´s weak.
 
 ; 0x00095686 タマゴみてーに　オメェも
 0x00095686 Like an egg.
@@ -8813,7 +9038,7 @@
 0x0009569f I might get swallowed up.
 
 ; 0x000956d5 キョロスケそんなときは
-0x000956d5 Kyorosuke, when that happens
+0x000956d5 Moe, when that happens
 
 ; 0x000956ec がむしゃらに
 0x000956ec Reckless.
@@ -8860,6 +9085,9 @@
 ; 0x00095853 じゃくてんはカオ
 0x00095853 Jadenha Kao
 
+; 0x00095869 だ！
+0x00095869 !
+
 ; 0x00095887 キョロスケデジールにのみこまれ
 0x00095887 Only Moedejir
 
@@ -8869,11 +9097,14 @@
 ; 0x000958c0 スピン
 0x000958c0 Spin
 
+; 0x000958cc して
+0x000958cc Do.
+
 ; 0x000958d1 だっしゅつしろよ！
 0x000958d1 Shut up!
 
 ; 0x000958fd キョロスケマテルに　いいとこ見せて
-0x000958fd Show Kyorosukemateru what you´ve got.
+0x000958fd Show Moemateru what you´ve got.
 
 ; 0x00095920 ラブラブになるためにも
 0x00095920 To be lovey-dovey.
@@ -8933,7 +9164,7 @@
 0x00095afa Mushibaaaaaa!
 
 ; 0x00095b30 キョロスケオレさまは　デジールどころじゃ
-0x00095b30 Kyorosuke, I´m not a Desire.
+0x00095b30 Moe, I´m not a Desire.
 
 ; 0x00095b59 ねえ！　オメェ　かってに
 0x00095b59 Hey! You!
@@ -8942,7 +9173,7 @@
 0x00095b72 Good luck!
 
 ; 0x00095b96 キョロスケ『
-0x00095b96 Kyorosuke:
+0x00095b96 Moe:
 
 ; 0x00095ba8 むしばに　スピンアタック
 0x00095ba8 A spin attack.
@@ -8983,6 +9214,9 @@
 ; 0x00095d03 かめん
 0x00095d03 Kame
 
+; 0x00095d0f を　
+0x00095d0f O.
+
 ; 0x00095d1a ぜんぶひっぺがしてやれ
 0x00095d1a Tear it all off.
 
@@ -8998,8 +9232,14 @@
 ; 0x00095daf キョロスケ
 0x00095daf Moe
 
+; 0x00095dba ウソでかためられたデジールの
+0x00095dba It´s Desill´s lie.
+
 ; 0x00095ddd かめん
 0x00095ddd Kame
+
+; 0x00095de9 を　
+0x00095de9 O.
 
 ; 0x00095df3 ぜんぶひっぺがしてやれ
 0x00095df3 Tear it all off.
@@ -9128,16 +9368,16 @@
 0x00096286 Listen well.
 
 ; 0x000962ac キョロスケ『そのおかしなトビラは
-0x000962ac Kyorosuke: That weird portal
+0x000962ac Moe: That weird portal
 
 ; 0x000962cd とびらまじんのへやに
-0x000962cd Tobiramajinnoya
+0x000962cd Tobira Majinnoya
 
 ; 0x000962e2 つづいておるのじゃ』
-0x000962e2 ❛It continues. ⁇ 
+0x000962e2 It continues.
 
 ; 0x00096310 キョロスケ『おまえのちーっちゃい力では
-0x00096310 Kyorosuke: With your tiny power
+0x00096310 Moe: With your tiny power
 
 ; 0x00096337 まだ　とびらまじんをあけることは
 0x00096337 I can´t open the door yet.
@@ -9146,7 +9386,7 @@
 0x00096358 You can´t do it.´ ...That´s what he said.
 
 ; 0x0009638a キョロスケどうやら　その　とびらなんとかって
-0x0009638a Kyorosuke, it looks like that flyer is something.
+0x0009638a Moe, it looks like that flyer is something.
 
 ; 0x000963b7 ヤツは　今のオメェじゃ
 0x000963b7 He´s not you anymore.
@@ -9155,7 +9395,7 @@
 0x000963ce Looks like we don´t have a choice.
 
 ; 0x00096400 キョロスケとりあえず　今はムシして
-0x00096400 Kyorosuke, be a bug for now
+0x00096400 Moe, be a bug for now
 
 ; 0x00096423 すすんだら
 0x00096423 If you slurp
@@ -9173,7 +9413,7 @@
 0x00096479 There´s a door, right?
 
 ; 0x000964a5 キョロスケとびらまじんってヤツのいる
-0x000964a5 There´s a guy named Kyorosuke and Binjajin.
+0x000964a5 There´s a guy named Moe and Binjajin.
 
 ; 0x000964ca へやに　つづいてるらしいけど
 0x000964ca It´s going to be in the room.
@@ -9298,7 +9538,10 @@
 ; 0x0009690c ホシがらの　水ふうせんがパンパンに
 0x0009690c Hoshigara no Mizufusen ga Panpan
 
-　　　　　　; 0x00096946 ん？　なんだ？　うんうん
+; 0x0009692f なってるんじゃねぇか？
+0x0009692f Isn´t that how it is?
+
+; 0x00096946 ん？　なんだ？　うんうん
 0x00096946 Hm? What? Yeah, yeah.
 
 ; 0x00096978 キョロスケ
@@ -9479,7 +9722,7 @@
 0x00097080 I gathered up my Answers Card
 
 ; 0x0009709f 「とびらまじん」のなぞなぞをとくと
-0x0009709f If you solve the tobiramajin riddle
+0x0009709f If you solve the Tobira Majin riddle
 
 ; 0x000970c2 あたらしいぼうけんが　はじまるよ！
 0x000970c2 It´s time for a new game of rock-paper-scissors!
@@ -9491,7 +9734,7 @@
 0x00097104 Let´s get it back.
 
 ; 0x00097112 「キョロスケさまのいえ」に　いろんな
-0x00097112 There´s so much more to Kyorosuke-sama.
+0x00097112 There´s so much more to Moe-sama.
 
 ; 0x00097137 こうもくがついかされたよ！
 0x00097137 He made me do this!
@@ -9598,6 +9841,9 @@
 ; 0x000a84da 『アイツ』
 0x000a84da “He.”
 
+; 0x000a84ed パワーアップしてかえって来た！
+0x000a84ed It´s powered up!
+
 ; 0x000a850c こらしめちゃおう！
 0x000a850c Let´s do this!
 
@@ -9701,7 +9947,7 @@
 0x000a884c Got it!
 
 ; 0x000a8868 ハデヒラリにあえてキョロスケは
-0x000a8868 To Hadehirari, Kyorosuke dared
+0x000a8868 To Hadehirari, Moe dared
 
 ; 0x000a8887 うちょうてんみたい！
 0x000a8887 It´s like I´m a dolt!
@@ -9897,6 +10143,9 @@
 
 ; 0x000a8ea5 ゲットしたよ！
 0x000a8ea5 Got it!
+
+; 0x000a8ec1 つぎは　ロマンチックな
+0x000a8ec1 Next, romantic.
 
 ; 0x000a8ed8 さばくのステージ！！
 0x000a8ed8 Sabaku stage!!
@@ -10160,7 +10409,7 @@
 0x000a96f3 Huh? Huh? What?
 
 ; 0x000a970c キョロスケもスタフィーも
-0x000a970c Both Kyorosuke and Stuffy
+0x000a970c Both Moe and Stuffy
 
 ; 0x000a9725 イライラしてるみたい…？？？
 0x000a9725 Is she irritated...???
@@ -10197,6 +10446,9 @@
 
 ; 0x000a9852 これでおみせのしょうひんは
 0x000a9852 With this, the shohin on display
+
+; 0x000a986d コンプリートしたみたいだね
+0x000a986d Looks like it´s all done.
 
 ; 0x000a9888 こんどはあそびに行ってみよう！
 0x000a9888 Let´s play next time!
@@ -10498,8 +10750,11 @@
 ; 0x000aa22c ばしょをまわってみよう！
 0x000aa22c Let´s go around the bath!
 
+; 0x000aa252 がくふ
+0x000aa252 *Gag*
+
 ; 0x000aa25e 『キョロスケさまのいえ』
-0x000aa25e “Sir Kyorosuke’s no.”
+0x000aa25e “Sir Moe’s no.”
 
 ; 0x000aa27f ゲットしたよ！
 0x000aa27f Got it!
@@ -10797,6 +11052,9 @@
 
 ; 0x000aac0f ゲットしたよ！
 0x000aac0f Got it!
+
+; 0x000aac31 『アンサーズカード』
+0x000aac31 “Anser’s Card”
 
 ; 0x000aac4b はぜんぶ
 0x000aac4b All of it
@@ -11098,6 +11356,9 @@
 ; 0x000ab5ce あつまったかな？　いろんな
 0x000ab5ce I wonder if it´s all settled?
 
+; 0x000ab5e9 ばしょをまわってみよう！
+0x000ab5e9 Let´s go around the bath!
+
 ; 0x000ab60f アンサーズカード
 0x000ab60f Uncer´s Card
 
@@ -11398,6 +11659,9 @@
 ; 0x000abfa5 『ノート』
 0x000abfa5 “Note.”
 
+; 0x000abfb8 ゲットしたよ！
+0x000abfb8 Got it!
+
 ; 0x000abfda 『アンサーズカード』
 0x000abfda “Anser’s Card”
 
@@ -11477,7 +11741,7 @@
 0x000ac249 *Gag*
 
 ; 0x000ac255 『３ふんでりょうりのテーマ』
-0x000ac255  ⁇ 3 Funderyori Theme ⁇ "
+0x000ac255 3 Funderyori Theme
 
 ; 0x000ac27a ゲットしたよ！
 0x000ac27a Got it!
@@ -11697,6 +11961,9 @@
 
 ; 0x000ac983 はぜんぶ
 0x000ac983 All of it
+
+; 0x000ac98c あつまったかな？　いろんな
+0x000ac98c I wonder if it´s all settled?
 
 ; 0x000ac9a7 ばしょをまわってみよう！
 0x000ac9a7 Let´s go around the bath!
@@ -11941,6 +12208,9 @@
 ; 0x000b3292 うめぼし
 0x000b3292 Plump
 
+; 0x000b329b かさ
+0x000b329b Kasa
+
 ; 0x000b32a0 にわいじり
 0x000b32a0 Niwajiri
 
@@ -11971,6 +12241,9 @@
 ; 0x000b32fb うえきばち
 0x000b32fb Ekibachi
 
+; 0x000b3306 ゆき
+0x000b3306 Yuki
+
 ; 0x000b330b クリスマス
 0x000b330b Christmas
 
@@ -11998,11 +12271,17 @@
 ; 0x000b3425 うめぼし
 0x000b3425 Plump
 
+; 0x000b342e おばけ
+0x000b342e Ghost
+
 ; 0x000b3435 イチゴ
 0x000b3435 Ichigo
 
 ; 0x000b343c ケーキ
 0x000b343c Cake
+
+; 0x000b3443 みず
+0x000b3443 Mizu
 
 ; 0x000b3448 じょうろ
 0x000b3448 Water wheel
@@ -12018,6 +12297,9 @@
 
 ; 0x000b346e スタピー
 0x000b346e Stapy
+
+; 0x000b3477 はな
+0x000b3477 Hana
 
 ; 0x000b347c キョロスケ
 0x000b347c Moe
@@ -12058,6 +12340,9 @@
 ; 0x000b34e4 こおり
 0x000b34e4 Kori
 
+; 0x000b34eb かさ
+0x000b34eb Kasa
+
 ; 0x000b34f0 うえきばち
 0x000b34f0 Ekibachi
 
@@ -12069,6 +12354,9 @@
 
 ; 0x000b350d ほうき
 0x000b350d Broom
+
+; 0x000b3514 ゆき
+0x000b3514 Yuki
 
 ; 0x000b3519 プレゼント
 0x000b3519 Gift
@@ -12297,6 +12585,9 @@
 
 ; 0x000b3dbc わしが使ってる
 0x000b3dbc I´m using it.
+
+; 0x000b3dcb ２つのどうぐなーんジャ？
+0x000b3dcb Two dognanja?
 
 ; 0x000b3de4 ごほんごほん　のどがいたいんジャ
 0x000b3de4 *cough* *cough* *cough*
@@ -12598,6 +12889,9 @@
 ; 0x00162eba そーちょー
 0x00162eba Souchou
 
+; 0x00162ec5 たなか　えいすけ
+0x00162ec5 Tanaka Eisuke
+
 ; 0x00162ed6 ながみね　ゆう
 0x00162ed6 Naminé Yuu
 
@@ -12720,6 +13014,9 @@
 
 ; 0x001632e2 けつえきがたはやまがた
 0x001632e2 Ketsuekigatahayamagata
+
+; 0x001632f9 サキ
+0x001632f9 Saki
 
 ; 0x001632fe ナイスヘアー　のぶ
 0x001632fe Nice hair, Nobu.
@@ -12897,6 +13194,9 @@
 
 ; 0x001637b9 いわたしゃちょぅ
 0x001637b9 I-I-I...
+
+; 0x001637fa みなさんのおかげで
+0x001637fa Thanks to you all.
 
 ; 0x0016380d アミー王国に　平和とあいを
 0x0016380d May the Kingdom of Ami be at peace.
@@ -13198,6 +13498,9 @@
 ; 0x001a557d ◆デジール
 0x001a557d ◆Dejir
 
+; 0x001a558f 「つぎの　まんげつの日には
+0x001a558f 「Next Mangetsu Day
+
 ; 0x001a55aa 　フルパワーになるザマス
 0x001a55aa It´ll be full power, zamas.
 
@@ -13497,6 +13800,9 @@
 
 ; 0x001a63a9 　あの人を　つれてくるザマス！」
 0x001a63a9 I´ll bring him!」
+
+; 0x001a63e3 ◆？？？
+0x001a63e3 ◆??
 
 ; 0x001a63f3 「おっけーで　ありんすー
 0x001a63f3 「Okay, okay.
@@ -13798,6 +14104,9 @@
 ; 0x001a7115 　テンカイの王子に
 0x001a7115 The prince of tenkai.
 
+; 0x001a7128 　かてるザマスか？」
+0x001a7128 Is it Zamasu?」
+
 ; 0x001a7156 ◆オウルン王
 0x001a7156 ◆ King Owen
 
@@ -14075,7 +14384,7 @@
 0x001a7dc5 ◆Dejir
 
 ; 0x001a7dde 「ホーーーーッホッホッホッホッホッ
-0x001a7dde 「Hoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+0x001a7dde 「Hoooooooooooooooooooooooooooooo
 
 ; 0x001a7e01 　ホッホッホッホッホッホッホッホッ
 0x001a7e01 Ho ho ho ho ho ho ho ho
@@ -14097,6 +14406,9 @@
 
 ; 0x00238fc7 １−２　スピンアタックをおぼえよう
 0x00238fc7 1-2. Remember the spin attack.
+
+; 0x00238fea ヤドカリタが　こまってるよ
+0x00238fea There´s a lot of hermit crabs here.
 
 ; 0x00239005 スピンアタックで　かいけつして
 0x00239005 A spin attack.
@@ -14180,7 +14492,7 @@
 0x002392f3 3-1, who´s asking?
 
 ; 0x00239312 キョロスケのおとうとたちに
-0x00239312 Kyorosuke´s dads
+0x00239312 Moe´s dads
 
 ; 0x0023932d たいへんな　じけんが！？
 0x0023932d That´s a hell of a job!
@@ -14398,6 +14710,9 @@
 ; 0x00239afc マテルが　ラビアーティーに
 0x00239afc Mater´s in Laviati.
 
+; 0x00239b17 さらわれちゃった！！
+0x00239b17 She was kidnapped!!
+
 ; 0x00239b2c いかりのスタフィーが　今たち上がる！！
 0x00239b2c Ikari´s staphy is up now!!
 
@@ -14477,7 +14792,7 @@
 0x00239dc5 Don´t mess with me.
 
 ; 0x00239dd6 キョロスケをおいかけて
-0x00239dd6 Call Kyorosuke
+0x00239dd6 Call Moe
 
 ; 0x00239ded ゆうじょうを　とりもどそう
 0x00239ded Let´s get Yujo back
@@ -14663,6 +14978,9 @@
 ; 0x0023a456 キョロスケ
 0x0023a456 Moe
 
+; 0x0023a461 まず
+0x0023a461 First,
+
 ; 0x0023a46b 『！』
 0x0023a46b ´!´
 
@@ -14699,14 +15017,21 @@
 ; 0x0023a55c かいわキャラクター
 0x0023a55c Character Icon
 
+; 0x0023a574 だな
+0x0023a574 ...
+
 ; 0x0023a579 タッチしたり　カーソルをうごかして
-0x0023a579 Touch one or use D-pad.
+0x0023a579 Touch one or use D-pad and 
+
+; 0x0023a59d Aボタンを　押すと
+0x0023a59d  press A
+
 
 ; 0x0023a5c2 キョロスケ
 0x0023a5c2 Moe
 
 ; 0x0023a5cd こいつらに　はなしを
-0x0023a5cd and you can talk to
+0x0023a5cd to talk to
 
 ; 0x0023a5e2 きくことが　できるぞ
 0x0023a5e2 these guys.
@@ -15001,6 +15326,9 @@
 
 ; 0x0023b299 ききたいことがあるんだ
 0x0023b299  for you.
+
+; 0x0023b2e6 ロブじいさんぼんさいが！！！
+0x0023b2e6 Old Lobber is so stubborn!!!
 
 ; 0x0023b303 ワシの…　ワシのかわいい
 0x0023b303 My bonsai!
@@ -15602,6 +15930,9 @@
 ; 0x0023c9ea スピルを使うと　とくべつな
 0x0023c9ea You can´t use a spiel.
 
+; 0x0023ca05 ワザが　使えるように
+0x0023ca05 So you can use the move.
+
 ; 0x0023ca1a なるらしいんじゃ
 0x0023ca1a I heard it´ll happen.
 
@@ -15755,6 +16086,9 @@
 ; 0x0023d0c7 ヤドカリタ
 0x0023d0c7 Hermita
 
+; 0x0023d0d7 かよ
+0x0023d0d7 Kayo
+
 ; 0x0023d0dc また　かいがらなくしたのか…って
 0x0023d0dc You lost your temper again?
 
@@ -15901,6 +16235,9 @@
 
 ; 0x0023d5ff じゃあ　にいちゃん
 0x0023d5ff Okay, niichan.
+
+; 0x0023d612 がんばりやー
+0x0023d612 Good luck!
 
 ; 0x0023d663 キョロスケ
 0x0023d663 Moe
@@ -16056,7 +16393,7 @@
 0x0023dcdb You guys.
 
 ; 0x0023dceb 『とびらまじん』
-0x0023dceb “Tobiramajin.”
+0x0023dceb “Tobira Majin.”
 
 ; 0x0023dd04 知っておるか？　えらいわしらが
 0x0023dd04 Do you know? We´re good.
@@ -16092,7 +16429,7 @@
 0x0023de17 Warp Jizo
 
 ; 0x0023de26 しかし　すーーーーーーっごく
-0x0023de26 But it´s sooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!
+0x0023de26 But it´s sooooooooo
 
 ; 0x0023de43 どりょくすれば　いつの日か
 0x0023de43 Someday, I´ll do it.
@@ -16104,7 +16441,7 @@
 0x0023de86 Warp.
 
 ; 0x0023de93 とびらまじんの　おくには
-0x0023de93 In the depths of Tobiramajin,
+0x0023de93 In the depths of Tobira Majin,
 
 ; 0x0023deac たくさんのしんじゅや　ざいほうが
 0x0023deac A lot of shinjuya, a lot of zai.
@@ -16201,6 +16538,9 @@
 
 ; 0x0023e2a6 ……もういいから
 0x0023e2a6 ...Enough.
+
+; 0x0023e2b7 とっとと　たからもの
+0x0023e2b7 Let´s get this over with.
 
 ; 0x0023e2cc よこせよ……
 0x0023e2cc Hand it over...
@@ -16502,6 +16842,9 @@
 ; 0x0023efd5 ゆうしゃさまなんですね！
 0x0023efd5 You´re Yusha-sama!
 
+; 0x0023f02b キョロスケ
+0x0023f02b Moe
+
 ; 0x0023f036 い…　いだいかどうかは
 0x0023f036 I... I don´t know if it´s okay.
 
@@ -16724,6 +17067,9 @@
 ; 0x0023faae ロブじいさん
 0x0023faae Uncle Rob.
 
+; 0x0023fabb 今　
+0x0023fabb Now.
+
 ; 0x0023fac5 ラブリー
 0x0023fac5 Lovely
 
@@ -16802,6 +17148,9 @@
 ; 0x0023fd30 ロブじいさん
 0x0023fd30 Uncle Rob.
 
+; 0x0023fd43 あいのいずみを　使えば
+0x0023fd43 Use Aino Izumi
+
 ; 0x0023fd5a とおくのシティまでワープ
 0x0023fd5a Warp to the city.
 
@@ -16858,6 +17207,9 @@
 
 ; 0x00240066 ボンボーン
 0x00240066 Bonborn
+
+; 0x00240076 ！！
+0x00240076 !
 
 ; 0x0024007b ………だよな？　なんだその
 0x0024007b ...Right? What´s that?
@@ -17102,6 +17454,9 @@
 ; 0x00240a7c たおすと　しんじゅが
 0x00240a7c Taosto shinjuga
 
+; 0x00240a91 とれる
+0x00240a91 I can get it.
+
 ; 0x00240a9d って　もう知ってるー？
 0x00240a9d Hey, you already know?
 
@@ -17142,7 +17497,7 @@
 0x00240c1d The pose menu.
 
 ; 0x00240c33 『アクション』
-0x00240c33  ⁇ Act ⁇ "
+0x00240c33 Act "
 
 ; 0x00240c4a カクニンするのじゃ
 0x00240c4a I´m going to check.
@@ -17271,7 +17626,7 @@
 0x00241363 Where´d you put it?!
 
 ; 0x0024138b ラブウィズミー
-0x0024138b Lovewithmy
+0x0024138b Lovewizumi
 
 ; 0x0024139a ジョークがうまいね！
 0x0024139a That´s a good joke!
@@ -17280,7 +17635,7 @@
 0x002413af I´m like Izumi Ai.
 
 ; 0x002413d6 ラブウィズミー
-0x002413d6 Lovewithmy
+0x002413d6 Lovewizumi
 
 ; 0x002413ea さっ！
 0x002413ea Now!
@@ -17298,7 +17653,7 @@
 0x00241445 ...Let´s go home, Stuffy.
 
 ; 0x00241475 ラブウィズミー
-0x00241475 Lovewithmy
+0x00241475 Lovewizumi
 
 ; 0x00241484 てれやさんだな　シャイボーイ！
 0x00241484 You´re a shy boy!
@@ -17313,7 +17668,7 @@
 0x002414cc I´ll send it to you!
 
 ; 0x002414f2 ラブウィズミー
-0x002414f2 Lovewithmy
+0x002414f2 Lovewizumi
 
 ; 0x00241501 あいのいずみを　使えば
 0x00241501 Use Aino Izumi
@@ -17325,7 +17680,7 @@
 0x0024152b Just once!!
 
 ; 0x0024154f ラブウィズミー
-0x0024154f Lovewithmy
+0x0024154f Lovewizumi
 
 ; 0x0024155e し・か・も！！　トクベツに
 0x0024155e I can´t believe it!
@@ -17349,7 +17704,7 @@
 0x002415fb What´s that?
 
 ; 0x0024161f ラブウィズミー
-0x0024161f Lovewithmy
+0x0024161f Lovewizumi
 
 ; 0x0024162e シティにある　あいのいずみどうしを
 0x0024162e The Aino Izumi Doshi in the City.
@@ -17373,7 +17728,7 @@
 0x002416d1 Hurry up and get me!
 
 ; 0x002416f5 ラブウィズミー
-0x002416f5 Lovewithmy
+0x002416f5 Lovewizumi
 
 ; 0x00241704 せっかちさんだな　ボーイは！
 0x00241704 You´re so impatient, boy!
@@ -17385,7 +17740,7 @@
 0x0024173a By the way.
 
 ; 0x0024175a ラブウィズミー
-0x0024175a Lovewithmy
+0x0024175a Lovewizumi
 
 ; 0x00241769 ラブロードでは　
 0x00241769 In lovelord
@@ -17400,7 +17755,10 @@
 0x00241798 I´ll be!
 
 ; 0x002417b6 ラブウィズミー
-0x002417b6 Lovewithmy
+0x002417b6 Lovewizumi
+
+; 0x002417c5 がめんをタッチして
+0x002417c5 Touch the noodles
 
 ; 0x002417dd 『ラブポインタ』
 0x002417dd Love pointer.
@@ -17412,7 +17770,7 @@
 0x00241812 I´m gonna do it!
 
 ; 0x00241832 ラブウィズミー
-0x00241832 Lovewithmy
+0x00241832 Lovewizumi
 
 ; 0x00241841 おけるラブポインタの　かずは
 0x00241841 Kazuha the Love Pointer
@@ -17424,7 +17782,7 @@
 0x00241879 Make sure you put it on.
 
 ; 0x002418a1 ラブウィズミー
-0x002418a1 Lovewithmy
+0x002418a1 Lovewizumi
 
 ; 0x002418b0 のこりを　かんがえながら
 0x002418b0 While thinking about the lump.
@@ -17436,7 +17794,7 @@
 0x002418e4 To that!
 
 ; 0x00241904 ラブウィズミー
-0x00241904 Lovewithmy
+0x00241904 Lovewizumi
 
 ; 0x00241913 ゴールできたら　あまった
 0x00241913 When the goal is complete, it´s over.
@@ -17448,7 +17806,7 @@
 0x0024194b I´ll give you a present!
 
 ; 0x00241977 ラブウィズミー
-0x00241977 Lovewithmy
+0x00241977 Lovewizumi
 
 ; 0x00241986 ラブポインタの　のこりは
 0x00241986 The Love Pointer’s saw
@@ -17460,7 +17818,7 @@
 0x002419b8 Do it! Do it!
 
 ; 0x002419d8 ラブウィズミー
-0x002419d8 Lovewithmy
+0x002419d8 Lovewizumi
 
 ; 0x002419e7 おおっと　それからトゲに
 0x002419e7 Oops, and then the spikes.
@@ -17484,7 +17842,7 @@
 0x00241a70 Should I be okay?
 
 ; 0x00241a98 ラブウィズミー
-0x00241a98 Lovewithmy
+0x00241a98 Lovewizumi
 
 ; 0x00241aa7 じゃあトクベツに
 0x00241aa7 Okay, let´s go.
@@ -17493,7 +17851,7 @@
 0x00241ab8 I´ll train you!
 
 ; 0x00241af5 ラブウィズミー
-0x00241af5 Lovewithmy
+0x00241af5 Lovewizumi
 
 ; 0x00241b04 れんしゅうするかい？」
 0x00241b04 Should we renshu?」
@@ -17505,7 +17863,7 @@
 0x00241b30 Renshuu
 
 ; 0x00241b69 ラブウィズミー
-0x00241b69 Lovewithmy
+0x00241b69 Lovewizumi
 
 ; 0x00241b78 オオッケエエエイ！　キミは
 0x00241b78 Okay! You´re...
@@ -17517,7 +17875,7 @@
 0x00241ba6 It´s Yuka!
 
 ; 0x00241bc8 ラブウィズミー
-0x00241bc8 Lovewithmy
+0x00241bc8 Lovewizumi
 
 ; 0x00241bd7 もし　とちゅうで力つきても
 0x00241bd7 Even if you´re strong enough.
@@ -17529,7 +17887,7 @@
 0x00241c11 I´ll take you there!
 
 ; 0x00241c3f ラブウィズミー
-0x00241c3f Lovewithmy
+0x00241c3f Lovewizumi
 
 ; 0x00241c4e それじゃ　レッツマッスル！
 0x00241c4e Let´s go, Muscle!
@@ -17541,7 +17899,7 @@
 0x00241c82 Come on!!!
 
 ; 0x00241cbb ラブウィズミー
-0x00241cbb Lovewithmy
+0x00241cbb Lovewizumi
 
 ; 0x00241cca オッケエィ！　トレーニングから
 0x00241cca Okay! Let´s start training.
@@ -17553,7 +17911,7 @@
 0x00241cfe Let me go!
 
 ; 0x00241d2c ラブウィズミー
-0x00241d2c Lovewithmy
+0x00241d2c Lovewizumi
 
 ; 0x00241d3b れんしゅうようの　ラブロードで
 0x00241d3b It´s a love road.
@@ -17565,7 +17923,7 @@
 0x00241d79 I´ll get it back!
 
 ; 0x00241d9f ラブウィズミー
-0x00241d9f Lovewithmy
+0x00241d9f Lovewizumi
 
 ; 0x00241dae やめたくなったら
 0x00241dae If you want to quit
@@ -17580,7 +17938,7 @@
 0x00241de6 Shuuryo!
 
 ; 0x00241e0a ラブウィズミー
-0x00241e0a Lovewithmy
+0x00241e0a Lovewizumi
 
 ; 0x00241e19 それじゃ
 0x00241e19 Well then.
@@ -17589,7 +17947,7 @@
 0x00241e22 Let´s train!
 
 ; 0x00241f27 ラブウィズミー
-0x00241f27 Lovewithmy
+0x00241f27 Lovewizumi
 
 ; 0x00241f36 ラブロードでは　タッチの
 0x00241f36 In Lovelord, touch.
@@ -17601,7 +17959,7 @@
 0x00241f60 How about a touch jumbi?
 
 ; 0x00241f97 ラブウィズミー
-0x00241f97 Lovewithmy
+0x00241f97 Lovewizumi
 
 ; 0x00241fa6 それじゃ　そろそろ行くかい？」
 0x00241fa6 Shall we get going?」
@@ -17613,7 +17971,7 @@
 0x00241fda Go to Honban
 
 ; 0x00242013 ラブウィズミー
-0x00242013 Lovewithmy
+0x00242013 Lovewizumi
 
 ; 0x00242022 アメイジング！
 0x00242022 Amazing!
@@ -17625,10 +17983,10 @@
 0x0024204e Then let´s train!
 
 ; 0x00242095 ラブウィズミー
-0x00242095 Lovewithmy
+0x00242095 Lovewizumi
 
 ; 0x002420a4 オッケェエエイ！　さあボクの
-0x002420a4 Okayyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy!
+0x002420a4 Okay!
 
 ; 0x002420c1 ムネにとびこんでおいで！
 0x002420c1 Get in the chest!
@@ -17701,6 +18059,9 @@
 
 ; 0x00242433 マニアンコウが　マージャンパイを
 0x00242433 Maniamkou´s got majesty pie.
+
+; 0x00242454 なくして　こまってるのよおん
+0x00242454 It´s hard to lose it.
 
 ; 0x00242471 さがしてぇきてん
 0x00242471 I want to find you.
@@ -17820,7 +18181,7 @@
 0x002428a3 Stapy
 
 ; 0x002428ac 『？』のトコが
-0x002428ac  ⁇  ⁇ ? ⁇ "
+0x002428ac  " ? "
 
 ; 0x002428bb なくしてもうたヤツやな
 0x002428bb You lost it already.
@@ -17885,6 +18246,9 @@
 ; 0x00242b0e キョロスケ
 0x00242b0e Moe
 
+; 0x00242b19 って
+0x00242b19 Wait.
+
 ; 0x00242b1e おい！　ねてんじゃねーよ！
 0x00242b1e Hey! Don´t sleep!
 
@@ -17923,6 +18287,9 @@
 
 ; 0x00242c8e 『ジャンパイモドキ』
 0x00242c8e “Jampai Modoki.”
+
+; 0x00242ca8 って
+0x00242ca8 Wait.
 
 ; 0x00242cc0 マニアンコウ
 0x00242cc0 Mania kou
@@ -18002,6 +18369,9 @@
 ; 0x0024321f ほんまの　ほんまにたおす
 0x0024321f It´s true. It´s true.
 
+; 0x00243238 ほうほうは　ないん？
+0x00243238 Isn´t there a way?
+
 ; 0x0024326e ロブじいさん
 0x0024326e Uncle Rob.
 
@@ -18045,7 +18415,7 @@
 0x00243398 It´s been hmmed.
 
 ; 0x002433ad 『とびらまじん王』
-0x002433ad “Tobiramajin-o”
+0x002433ad “Tobira Majin”
 
 ; 0x002433c5 のまもる
 0x002433c5 Nomaru
@@ -18072,7 +18442,7 @@
 0x00243498 Or so they say
 
 ; 0x0024349f とびらまじん王をひらくカギになる
-0x0024349f It´ll be the key to unlocking Tobiramajin King.
+0x0024349f It´ll be the key to unlocking Tobira Majin King.
 
 ; 0x002434c0 まりょくをもつカードがある
 0x002434c0 There´s a card with a circle.
@@ -18147,10 +18517,13 @@
 0x0024374f This is
 
 ; 0x0024375b 『とびらまじん』
-0x0024375b “Tobiramajin.”
+0x0024375b “Tobira Majin.”
+
+; 0x00243771 じゃ
+0x00243771 Okay, then.
 
 ; 0x00243776 とびらまじん王の
-0x00243776 Tobiramajin
+0x00243776 Tobira Majin
 
 ; 0x00243787 子分たちじゃな
 0x00243787 Henchmen.
@@ -18174,7 +18547,7 @@
 0x0024382d I woke up from sleep.
 
 ; 0x0024383e とびらまじんは
-0x0024383e Tobiramajin
+0x0024383e Tobira Majin
 
 ; 0x0024384d なぞなぞをだしてくるから
 0x0024384d I´ll get you a riddle.
@@ -18195,7 +18568,7 @@
 0x002438d6 Uncle Rob.
 
 ; 0x002438e3 とびらまじん王ほど
-0x002438e3 Like Tobiramajin-o.
+0x002438e3 Like Tobira Majin-o.
 
 ; 0x002438f6 まりょくはつよくないから
 0x002438f6 It´s not good to be married.
@@ -18234,7 +18607,7 @@
 0x00243a0f Uncle Rob.
 
 ; 0x00243a1c とびらまじんのおくには
-0x00243a1c Tobiramajin no Oku ni
+0x00243a1c Tobira Majin no Oku ni
 
 ; 0x00243a33 たからものや　アンサーズカード
 0x00243a33 Tadamono and Anser´s Cards
@@ -18301,6 +18674,9 @@
 
 ; 0x00243c70 １−１のエリアにも　カードが
 0x00243c70 There´s a card in the 1-1 area.
+
+; 0x00243c8d ねむっておるんじゃ
+0x00243c8d I´m sleepy.
 
 ; 0x00243cb3 ロブじいさん
 0x00243cb3 Uncle Rob.
@@ -18378,7 +18754,7 @@
 0x00243f51 Desire´s.
 
 ; 0x00243f62 とびらまじん王を
-0x00243f62 Tobiramajinou
+0x00243f62 Tobira Majinou
 
 ; 0x00243f73 ひらくのじゃ
 0x00243f73 Open wide.
@@ -18602,6 +18978,9 @@
 ; 0x00244842 なぞなぞにこたえられると
 0x00244842 When you answer a riddle
 
+; 0x0024485b トビラを　あけるのじゃ
+0x0024485b Open the door.
+
 ; 0x00244885 ワープじぞう王
 0x00244885 Warp Jizo
 
@@ -18609,7 +18988,7 @@
 0x00244894 I´m in a 1-1 area.
 
 ; 0x002448b3 おる　とびらまじんが出す
-0x002448b3 There´s a tobiramajin.
+0x002448b3 There´s a Tobira Majin.
 
 ; 0x002448cc なぞなぞを　おしえてやろう
 0x002448cc I´ll give you a riddle.
@@ -18624,7 +19003,7 @@
 0x0024492a The only thing that stands out from the rest of us.
 
 ; 0x00244945 なーんジャ？』じゃった
-0x00244945 ❛Whaaat? ⁇ 
+0x00244945 Whaaat? "
 
 ; 0x0024496f ワープじぞう王
 0x0024496f Warp Jizo
@@ -18645,7 +19024,7 @@
 0x002449f1 I´ve seen riddles once before.
 
 ; 0x00244a14 『キョロスケさまのいえ』
-0x00244a14 “Sir Kyorosuke’s no.”
+0x00244a14 “Sir Moe’s no.”
 
 ; 0x00244a35 カクニンできるのじゃ
 0x00244a35 I can confirm it.
@@ -18675,16 +19054,16 @@
 0x00244afd Don´t forget.
 
 ; 0x00244cf4 ラブウィズミー
-0x00244cf4 Lovewithmy
+0x00244cf4 Lovewizumi
 
 ; 0x00244d03 エル・オー・ブイ・イー
-0x00244d03 El O Bui E
+0x00244d03 L.O.V.E.
 
 ; 0x00244d1a ラブ　マッソオー！！！
 0x00244d1a Love Massoo!
 
 ; 0x00244d44 ラブウィズミー
-0x00244d44 Lovewithmy
+0x00244d44 Lovewizumi
 
 ; 0x00244d53 やあ　ハニーたち！　またあえて
 0x00244d53 Hey, honeys! Again.
@@ -18696,31 +19075,31 @@
 0x00244d8d What a nice body!!
 
 ; 0x00244db3 ラブウィズミー
-0x00244db3 Lovewithmy
+0x00244db3 Lovewizumi
 
 ; 0x00244dc2 ほかのシティへ行きたいのかい？
 0x00244dc2 Want to go to another city?
 
 ; 0x00244de1 じゃあベンリなほうほうを
-0x00244de1 Then let´s go with Benri.
+0x00244de1 Ok, let me tell you a 
 
 ; 0x00244dfa おしえてあげよう！
-0x00244dfa I´ll tell you!
+0x00244dfa convenient way!
 
 ; 0x00244e20 ラブウィズミー
-0x00244e20 Lovewithmy
+0x00244e20 Lovewizumi
 
 ; 0x00244e2f シティの左上の
 0x00244e2f In the upper left of the city
 
 ; 0x00244e44 『ステージセレクトへ行く』
-0x00244e44  ⁇ Go to Stage Select ⁇ "
+0x00244e44 Go to Stage Select
 
 ; 0x00244e66 にタッチすると
 0x00244e66 Touch to
 
 ; 0x00244e88 ラブウィズミー
-0x00244e88 Lovewithmy
+0x00244e88 Lovewizumi
 
 ; 0x00244e97 あいのいずみを　使わなくても
 0x00244e97 You don´t have to use aizumi.
@@ -18729,10 +19108,10 @@
 0x00244eb4 You can go anywhere.
 
 ; 0x00244ed1 アンダスタン？
-0x00244ed1 Andastan?
+0x00244ed1 Understand?
 
 ; 0x00244ef3 ラブウィズミー
-0x00244ef3 Lovewithmy
+0x00244ef3 Lovewizumi
 
 ; 0x00244f02 で・も！　キミたちは　とうぜん
 0x00244f02 But you´re all...
@@ -18741,7 +19120,7 @@
 0x00244f21 You use lovelord, right?
 
 ; 0x00244f56 ラブウィズミー
-0x00244f56 Lovewithmy
+0x00244f56 Lovewizumi
 
 ; 0x00244f65 ラブロードへ　レッツダイブ！！」
 0x00244f65 Let´s dive to Love Road!!」
@@ -18753,7 +19132,7 @@
 0x00244f95 No
 
 ; 0x00244fc4 ラブウィズミー
-0x00244fc4 Lovewithmy
+0x00244fc4 Lovewizumi
 
 ; 0x00244fd3 グッッッッレイトゥーーー！！！
 0x00244fd3 Guhhhhhhhhhhh!!!
@@ -18765,7 +19144,7 @@
 0x00245011 Drown!!!
 
 ; 0x0024504e ラブウィズミー
-0x0024504e Lovewithmy
+0x0024504e Lovewizumi
 
 ; 0x0024505d じゅんびができたら　ボクを
 0x0024505d When you´re ready, take me.
@@ -18902,8 +19281,11 @@
 ; 0x002456cf サブァコ
 0x002456cf Sabako
 
+; 0x002456d8 まけたヤツがー
+0x002456d8 The loser.
+
 ; 0x002456ec 『ラブリーのおみせ
-0x002456ec ´Lovely show
+0x002456ec Lovely show
 
 ; 0x002456ff アミー王国してん』
 0x002456ff [It´s the Kingdom of Ami.]
@@ -18947,6 +19329,12 @@
 ; 0x00245859 おれいに　たからもの
 0x00245859 Here´s a gift for you.
 
+; 0x0024588e チャ
+0x0024588e Cha
+
+; 0x002458b0 から
+0x002458b0 So
+
 ; 0x002458c8 キョロスケ
 0x002458c8 Moe
 
@@ -18969,7 +19357,7 @@
 0x00245978 Stapy
 
 ; 0x00245981 『？』のトコが
-0x00245981  ⁇  ⁇ ? ⁇ "
+0x00245981  " ? "
 
 ; 0x00245990 なくしてもうたヤツやな
 0x00245990 You lost it already.
@@ -19025,6 +19413,12 @@
 ; 0x00245b17 『マージャンパイ』
 0x00245b17 “Majan pie.”
 
+; 0x00245b2f を　
+0x00245b2f O.
+
+; 0x00245b39 ３つ
+0x00245b39 Three.
+
 ; 0x00245b44 さがして来てぇん
 0x00245b44 Come find me.
 
@@ -19039,6 +19433,9 @@
 
 ; 0x00245bdd キョロスケ
 0x00245bdd Moe
+
+; 0x00245be8 って
+0x00245be8 Wait.
 
 ; 0x00245bed おい！　ねてんじゃねーよ！
 0x00245bed Hey! Don´t sleep!
@@ -19078,6 +19475,9 @@
 
 ; 0x00245d51 『ジャンパイモドキ』
 0x00245d51 “Jampai Modoki.”
+
+; 0x00245d6b って
+0x00245d6b Wait.
 
 ; 0x00245d83 マニアンコウ
 0x00245d83 Mania kou
@@ -19120,6 +19520,9 @@
 
 ; 0x00245fa0 なくしたのは　この
 0x00245fa0 I lost this.
+
+; 0x00245fb9 ３つ
+0x00245fb9 Three.
 
 ; 0x00245fc3 だピョン
 0x00245fc3 Dapyon
@@ -19201,6 +19604,9 @@
 
 ; 0x002463b6 ねーちゃんが　かったん？
 0x002463b6 Sis was here?
+
+; 0x002463cf あいつ　まけてもうたんか？
+0x002463cf Did he give up?
 
 ; 0x002463fd キョロスケ
 0x002463fd Moe
@@ -19502,6 +19908,9 @@
 ; 0x002470d0 あんたたちが　知りたがってる
 0x002470d0 You want to know.
 
+; 0x00247100 アミイヨシノ
+0x00247100 Amiyoshino
+
 ; 0x0024710d モナムールストーンのじょうほうを
 0x0024710d The Monamur Stone.
 
@@ -19546,6 +19955,9 @@
 
 ; 0x002473ab デジール
 0x002473ab Dejir
+
+; 0x002473b9 って
+0x002473b9 Wait.
 
 ; 0x002473be なまえは　きいたことが
 0x002473be I´ve heard of you.
@@ -19709,6 +20121,9 @@
 ; 0x002479f3 ルノサール
 0x002479f3 Lunosar
 
+; 0x00247a03 って
+0x00247a03 Wait.
+
 ; 0x00247a08 えかきに　はなしをききな
 0x00247a08 Listen to the story.
 
@@ -19801,6 +20216,9 @@
 
 ; 0x00247e2a スゲー　キモいしー』って
 0x00247e2a It´s so gross.
+
+; 0x00247e56 マテル
+0x00247e56 Mater
 
 ; 0x00247e5d おっしゃってたんですけど…
 0x00247e5d You said that...
@@ -20102,6 +20520,9 @@
 ; 0x00248bc3 カクニンできるわよん
 0x00248bc3 You can count on it.
 
+; 0x00248beb キョロスケ
+0x00248beb Moe
+
 ; 0x00248bf6 してんまで　出すなんて……
 0x00248bf6 I can´t believe you came so much...
 
@@ -20402,6 +20823,9 @@
 ; 0x002497aa アミイヨシノ
 0x002497aa Amiyoshino
 
+; 0x002497b7 カンバンを　たてておいたから
+0x002497b7 I´ve put a lot of money on it.
+
 ; 0x002497d4 分からなくなったら
 0x002497d4 If I don´t know,
 
@@ -20694,13 +21118,16 @@
 0x0024a4d4 It was just a scratch...
 
 ; 0x0024a6e6 ラブウィズミー
-0x0024a6e6 Lovewithmy
+0x0024a6e6 Lovewizumi
 
 ; 0x0024a6f5 そいやーーーー！！
 0x0024a6f5 Oh yeah!!
 
 ; 0x0024a721 ラブウィズミー
-0x0024a721 Lovewithmy
+0x0024a721 Lovewizumi
+
+; 0x0024a730 ひさしぶりだね　しょくん
+0x0024a730 It´s been a while, Mr. Deer.
 
 ; 0x0024a749 キミたちが　チョキングをたおして
 0x0024a749 You guys knocked down the choking.
@@ -20709,7 +21136,7 @@
 0x0024a76a Thanks to you
 
 ; 0x0024a78c ラブウィズミー
-0x0024a78c Lovewithmy
+0x0024a78c Lovewizumi
 
 ; 0x0024a79b このシティの　あいのいずみも
 0x0024a79b And this city´s Aino Izumi.
@@ -20721,7 +21148,7 @@
 0x0024a7d5 Thanks so much!
 
 ; 0x0024a7fb ラブウィズミー
-0x0024a7fb Lovewithmy
+0x0024a7fb Lovewizumi
 
 ; 0x0024a80a もちろん　つぎのシティに
 0x0024a80a To the next city.
@@ -20733,7 +21160,7 @@
 0x0024a83e Can I get a jumbi?
 
 ; 0x0024a873 ラブウィズミー
-0x0024a873 Lovewithmy
+0x0024a873 Lovewizumi
 
 ; 0x0024a882 あいのいずみに　行くかい？」
 0x0024a882 Wanna go to Izumi?」
@@ -20745,7 +21172,7 @@
 0x0024a8aa No. No.
 
 ; 0x0024a8db ラブウィズミー
-0x0024a8db Lovewithmy
+0x0024a8db Lovewizumi
 
 ; 0x0024a8ea オッケィ！
 0x0024a8ea OK!
@@ -20757,7 +21184,7 @@
 0x0024a90c Take a lot!
 
 ; 0x0024a94d ラブウィズミー
-0x0024a94d Lovewithmy
+0x0024a94d Lovewizumi
 
 ; 0x0024a95c そうかい？　じゅんびが
 0x0024a95c Is that so? The jumbi
@@ -20769,7 +21196,7 @@
 0x0024a98a Touch me.
 
 ; 0x0024aa6f ラブウィズミー
-0x0024aa6f Lovewithmy
+0x0024aa6f Lovewizumi
 
 ; 0x0024aa7e じゅんびは　ととのったかい？
 0x0024aa7e Did you get on board?
@@ -20781,7 +21208,7 @@
 0x0024aab2 You got it?
 
 ; 0x0024aadf ラブウィズミー
-0x0024aadf Lovewithmy
+0x0024aadf Lovewizumi
 
 ; 0x0024aaee あいのいずみに　行くかい？」
 0x0024aaee Wanna go to Izumi?」
@@ -20793,7 +21220,7 @@
 0x0024ab16 No. No.
 
 ; 0x0024ab47 ラブウィズミー
-0x0024ab47 Lovewithmy
+0x0024ab47 Lovewizumi
 
 ; 0x0024ab56 オッケィ！
 0x0024ab56 OK!
@@ -20805,7 +21232,7 @@
 0x0024ab78 Take a lot!
 
 ; 0x0024abb9 ラブウィズミー
-0x0024abb9 Lovewithmy
+0x0024abb9 Lovewizumi
 
 ; 0x0024abc8 おやそうかい？　じゅんびが
 0x0024abc8 Do you think it´s good?
@@ -21002,6 +21429,9 @@
 ; 0x0024b466 アミイヨシノ
 0x0024b466 Amiyoshino
 
+; 0x0024b473 アンタたち『アンサーズカード』を
+0x0024b473 I want you to use the Answer´s Card.
+
 ; 0x0024b494 さがしてるんだろう？
 0x0024b494 You´re looking for her, right?
 
@@ -21096,7 +21526,7 @@
 0x0024b7e1 That´s not good!
 
 ; 0x0024b9dc ラブウィズミー
-0x0024b9dc Lovewithmy
+0x0024b9dc Lovewizumi
 
 ; 0x0024b9eb そいやーーーー！！
 0x0024b9eb Oh yeah!!
@@ -21114,7 +21544,7 @@
 0x0024ba44 Aren´t you wrong?
 
 ; 0x0024ba6a ラブウィズミー
-0x0024ba6a Lovewithmy
+0x0024ba6a Lovewizumi
 
 ; 0x0024ba79 てれなくていいんだよ！
 0x0024ba79 Don´t be shy!
@@ -21138,7 +21568,7 @@
 0x0024bb02 Don´t follow me!!!
 
 ; 0x0024bb2c ラブウィズミー
-0x0024bb2c Lovewithmy
+0x0024bb2c Lovewizumi
 
 ; 0x0024bb3b ちっちっち！　王子のボクを見る
 0x0024bb3b Tsk tsk tsk! Look at me, the prince
@@ -21150,7 +21580,7 @@
 0x0024bb75 You look at me!
 
 ; 0x0024bb97 ラブウィズミー
-0x0024bb97 Lovewithmy
+0x0024bb97 Lovewizumi
 
 ; 0x0024bba6 きみたちもボクを
 0x0024bba6 You guys too.
@@ -21162,7 +21592,7 @@
 0x0024bbd2 Hey, you can call!
 
 ; 0x0024bc07 ラブウィズミー
-0x0024bc07 Lovewithmy
+0x0024bc07 Lovewizumi
 
 ; 0x0024bc16 さあ　ついて来たまえ！」
 0x0024bc16 Come with me!」
@@ -21174,7 +21604,7 @@
 0x0024bc44 ...No.
 
 ; 0x0024bc77 ラブウィズミー
-0x0024bc77 Lovewithmy
+0x0024bc77 Lovewizumi
 
 ; 0x0024bc86 オッケイ！
 0x0024bc86 OK!
@@ -21302,6 +21732,9 @@
 ; 0x0024c2a5 分かってるらしいの
 0x0024c2a5 He understands.
 
+; 0x0024c2b8 …私が　きいたはなしでは
+0x0024c2b8 If I don´t ask...
+
 ; 0x0024c2e4 ハデヒラリ
 0x0024c2e4 Hadehirari
 
@@ -21309,7 +21742,7 @@
 0x0024c2ef The killer´s head...
 
 ; 0x0024c308 …キョロスケさんのおとうとさんに
-0x0024c308 ...to Kyorosuke´s father.
+0x0024c308 ...to Moe´s father.
 
 ; 0x0024c329 そっくりなの…
 0x0024c329 It´s just like...
@@ -21363,7 +21796,7 @@
 0x0024c57e Hadehirari
 
 ; 0x0024c589 キョロスケさんの
-0x0024c589 Kyorosuke´s
+0x0024c589 Moe´s
 
 ; 0x0024c59a おとうとさんたちが　ひほうを
 0x0024c59a Dad and the others are looking at the sun.
@@ -21536,6 +21969,9 @@
 ; 0x0024cc62 オレさまの　おとうとたちは
 0x0024cc62 My dads
 
+; 0x0024cc83 ３人
+0x0024cc83 Three.
+
 ; 0x0024cc8d いるからな…
 0x0024cc8d I´m here...
 
@@ -21602,6 +22038,9 @@
 ; 0x0024cf10 ぬすんだデスわー
 0x0024cf10 It´s like, slimy!
 
+; 0x0024cf42 キョロスケ
+0x0024cf42 Moe
+
 ; 0x0024cf4d うるせぇ！　ゴカイだっつってんだろ
 0x0024cf4d Shut up! I told you, it´s a mess.
 
@@ -21612,7 +22051,7 @@
 0x0024cf87 Find these three!
 
 ; 0x0024d0ea キョロスケおとうと
-0x0024d0ea Kyorosuke Dad
+0x0024d0ea Moe Dad
 
 ; 0x0024d0fd うわーーん！　にいちゃん
 0x0024d0fd Wow! Nii-chan!
@@ -21675,10 +22114,10 @@
 0x0024d2fa ...You guys...
 
 ; 0x0024d328 キョロスケおとうと
-0x0024d328 Kyorosuke Dad
+0x0024d328 Moe Dad
 
 ; 0x0024d33b うわああーーん！　ごめんよー
-0x0024d33b Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+0x0024d33b Waaaaaaaaaaa
 
 ; 0x0024d358 ぬすむ気なんかなかったんだよ
 0x0024d358 I wasn´t trying to be slimy.
@@ -21696,7 +22135,7 @@
 0x0024d3d6 It´s a slipper?
 
 ; 0x0024d3f6 キョロスケおとうと
-0x0024d3f6 Kyorosuke Dad
+0x0024d3f6 Moe Dad
 
 ; 0x0024d409 このゆみやを使った人たちは
 0x0024d409 Those who used this yumiya
@@ -21708,7 +22147,7 @@
 0x0024d43d I heard.
 
 ; 0x0024d45b キョロスケおとうと
-0x0024d45b Kyorosuke Dad
+0x0024d45b Moe Dad
 
 ; 0x0024d46e これを使えば　にいちゃんが
 0x0024d46e If you use this, Nii-chan...
@@ -21786,7 +22225,7 @@
 0x0024d741 You got it...
 
 ; 0x0024d761 キョロスケおとうと
-0x0024d761 Kyorosuke Dad
+0x0024d761 Moe Dad
 
 ; 0x0024d774 うわあああん！　ごめんよー
 0x0024d774 Wahhhhhhh! I´m sorry!
@@ -21828,7 +22267,7 @@
 0x0024d8af It´s a seal!
 
 ; 0x0024d8f4 キョロスケおとうと
-0x0024d8f4 Kyorosuke Dad
+0x0024d8f4 Moe Dad
 
 ; 0x0024d907 にいちゃん　オレたちは
 0x0024d907 Nii-chan, we...
@@ -21901,6 +22340,9 @@
 
 ; 0x0024dcd9 ハデヒラリ？
 0x0024dcd9 Hadeirari?
+
+; 0x0024dcf8 私は　ここよー
+0x0024dcf8 I´m here.
 
 ; 0x0024dd21 ハデヒラリ？
 0x0024dd21 Hadeirari?
@@ -22116,7 +22558,7 @@
 0x0024e75a They´ll be fine.
 
 ; 0x0024e77f 『キョロスケさまのいえ』
-0x0024e77f “Sir Kyorosuke’s no.”
+0x0024e77f “Sir Moe’s no.”
 
 ; 0x0024e7a0 いい子にしてますから！
 0x0024e7a0 I´ll be good!
@@ -22179,7 +22621,7 @@
 0x0024ea37 Anju
 
 ; 0x0024ea42 キョロスケさんの
-0x0024ea42 Kyorosuke´s
+0x0024ea42 Moe´s
 
 ; 0x0024ea53 おとうとさんたちは
 0x0024ea53 Dad and the others
@@ -22200,7 +22642,10 @@
 0x0024eb75 Anju
 
 ; 0x0024eb80 キョロスケさんは　まだ
-0x0024eb80 Mr. Kyorosuke is still...
+0x0024eb80 Mr. Moe is still...
+
+; 0x0024eb97 目がさめないデスよー　よほど
+0x0024eb97 I can´t wake up.
 
 ; 0x0024ebb4 ショックだったデスねー
 0x0024ebb4 It was like, a shock!
@@ -22269,7 +22714,7 @@
 0x0024ee9d Mater
 
 ; 0x0024eea4 キョロスケさんの　おとうとさん
-0x0024eea4 Kyorosuke´s Dad
+0x0024eea4 Moe´s Dad
 
 ; 0x0024eec3 たちは　あんぜんにおうちに
 0x0024eec3 We´re at home.
@@ -22284,7 +22729,7 @@
 0x0024ef0d But we´re in the Kingdom of Amy.
 
 ; 0x0024ef26 キョロスケさんのおたくは
-0x0024ef26 Kyorosuke´s otaku
+0x0024ef26 Moe´s otaku
 
 ; 0x0024ef3f ありませんから
 0x0024ef3f No, I don´t.
@@ -22293,7 +22738,7 @@
 0x0024ef61 Mater
 
 ; 0x0024ef68 キョロスケさんが　おうちを
-0x0024ef68 Mr. Kyorosuke´s home.
+0x0024ef68 Mr. Moe´s home.
 
 ; 0x0024ef83 見つけてあげたみたいです
 0x0024ef83 Looks like he found her.
@@ -22502,6 +22947,9 @@
 ; 0x0024fabd アイツ　やっぱりウソ
 0x0024fabd He´s lying.
 
+; 0x0024fad2 ついてたんやー！
+0x0024fad2 I was lucky!
+
 ; 0x0024faf6 アンジュー
 0x0024faf6 Anju
 
@@ -22578,7 +23026,7 @@
 0x0024ff4e Hadehirari
 
 ; 0x0024ff59 『キョロスケさまのいえ』に
-0x0024ff59 “Kyorosuke-sama’s No”
+0x0024ff59 “Moe-sama’s No”
 
 ; 0x0024ff74 入れるようになったのは
 0x0024ff74 I was able to get in
@@ -22590,7 +23038,7 @@
 0x0024ffad Hadehirari
 
 ; 0x0024ffb8 キョロスケさんが　私の
-0x0024ffb8 Mr. Kyorosuke is my
+0x0024ffb8 Mr. Moe is my
 
 ; 0x0024ffcf ために　カギをあけて
 0x0024ffcf Open the lock.
@@ -22802,6 +23250,12 @@
 ; 0x002507c8 がんばってデスー
 0x002507c8 Good luck, like,
 
+; 0x0025087d スタピー
+0x0025087d Stapy
+
+; 0x00250886 この
+0x00250886 You...
+
 ; 0x00250890 ハリセンさんにばけた
 0x00250890 Miss harisen found out
 
@@ -22947,7 +23401,7 @@
 0x00250ea4 I wonder if there is?
 
 ; 0x002510aa ラブウィズミー
-0x002510aa Lovewithmy
+0x002510aa Lovewizumi
 
 ; 0x002510b9 そいやーーーーーっ！！！
 0x002510b9 Oh yeah!!!
@@ -22971,7 +23425,7 @@
 0x00251172 There´s no such thing in the city!!
 
 ; 0x0025119e ラブウィズミー
-0x0025119e Lovewithmy
+0x0025119e Lovewizumi
 
 ; 0x002511ad オウ！　せっかちさんだね
 0x002511ad Oh! You´re so impatient.
@@ -22983,7 +23437,7 @@
 0x002511e1 I´ll do that, tugasa.
 
 ; 0x0025120f ラブウィズミー
-0x0025120f Lovewithmy
+0x0025120f Lovewizumi
 
 ; 0x0025121e タッチの　じゅんびオッケー？
 0x0025121e Touch jumbi ok?
@@ -22995,7 +23449,7 @@
 0x00251254 Menny, I´m ready!
 
 ; 0x0025128d ラブウィズミー
-0x0025128d Lovewithmy
+0x0025128d Lovewizumi
 
 ; 0x0025129c それじゃ　そろそろ行こうか？」
 0x0025129c Shall we get going?」
@@ -23007,7 +23461,7 @@
 0x002512c6 No. No.
 
 ; 0x002512f7 ラブウィズミー
-0x002512f7 Lovewithmy
+0x002512f7 Lovewizumi
 
 ; 0x00251306 オウ！　スイート！
 0x00251306 Oh! Sweet!
@@ -23019,7 +23473,7 @@
 0x00251334 Jump in here!
 
 ; 0x00251377 ラブウィズミー
-0x00251377 Lovewithmy
+0x00251377 Lovewizumi
 
 ; 0x00251386 マイペースも　いいことだ！
 0x00251386 My pace is good, too!
@@ -23031,7 +23485,7 @@
 0x002513ba Touch!
 
 ; 0x002514ac ラブウィズミー
-0x002514ac Lovewithmy
+0x002514ac Lovewizumi
 
 ; 0x002514bb つぎの　シティに行くかい？」
 0x002514bb Wanna go to the next city?」
@@ -23043,7 +23497,7 @@
 0x002514e3 No. No.
 
 ; 0x00251514 ラブウィズミー
-0x00251514 Lovewithmy
+0x00251514 Lovewizumi
 
 ; 0x00251523 ゥオッケーイィィィ！！！
 0x00251523 Whoaaaaaaaa!!!
@@ -23055,7 +23509,7 @@
 0x00251553 It´s going to be cold at once!
 
 ; 0x0025159c ラブウィズミー
-0x0025159c Lovewithmy
+0x0025159c Lovewizumi
 
 ; 0x002515ab オッケーオッケー　ノンビリやさん
 0x002515ab Okay, okay, Mr. Nonbiri.
@@ -23101,6 +23555,9 @@
 
 ; 0x00251791 いうてへんて……
 0x00251791 Just kidding.
+
+; 0x00251826 アンジュー
+0x00251826 Anju
 
 ; 0x00251831 たいへんデス　たいへんデスー
 0x00251831 It´s like, really, really bad.
@@ -23169,7 +23626,7 @@
 0x00251aa2 You might find it.
 
 ; 0x00251ca7 ラブウィズミー
-0x00251ca7 Lovewithmy
+0x00251ca7 Lovewizumi
 
 ; 0x00251cb6 エンジェリック
 0x00251cb6 Angelic
@@ -23178,7 +23635,7 @@
 0x00251cc5 Massoooo!!!
 
 ; 0x00251ceb ラブウィズミー
-0x00251ceb Lovewithmy
+0x00251ceb Lovewizumi
 
 ; 0x00251cfa やあ！　ボクのかわいい
 0x00251cfa Hey! My cuteness.
@@ -23202,7 +23659,7 @@
 0x00251d8b I´m getting a retort.
 
 ; 0x00251db5 ラブウィズミー
-0x00251db5 Lovewithmy
+0x00251db5 Lovewizumi
 
 ; 0x00251dc4 オウ！　キミはまさしく
 0x00251dc4 Ooh! You´re truly
@@ -23214,7 +23671,7 @@
 0x00251df4 I´ll help you out.
 
 ; 0x00251e2b ラブウィズミー
-0x00251e2b Lovewithmy
+0x00251e2b Lovewizumi
 
 ; 0x00251e3a あいのいずみに行くかい？」
 0x00251e3a Wanna go to Izumi?」
@@ -23226,7 +23683,7 @@
 0x00251e6e ...It´s fine.
 
 ; 0x00251ea7 ラブウィズミー
-0x00251ea7 Lovewithmy
+0x00251ea7 Lovewizumi
 
 ; 0x00251eb6 アメイジンググレイス！！！
 0x00251eb6 Amazing Grace!
@@ -23238,7 +23695,7 @@
 0x00251ee6 Let´s do it!
 
 ; 0x00251f1f ラブウィズミー
-0x00251f1f Lovewithmy
+0x00251f1f Lovewizumi
 
 ; 0x00251f2e ボクはいつでも　まよえる
 0x00251f2e I´m always confused.
@@ -23295,7 +23752,7 @@
 0x002522c7 ???
 
 ; 0x002522ce …………………グーグー
-0x002522ce ....................................................................................................................................
+0x002522ce .........
 
 ; 0x002522f8 スタピー
 0x002522f8 Stapy
@@ -23401,6 +23858,9 @@
 
 ; 0x0025264d なんや　そんなことやったら
 0x0025264d What? If you do that
+
+; 0x00252668 ウチらにまかせとき！
+0x00252668 Leave it to us!
 
 ; 0x002526ba キョロスケ
 0x002526ba Moe
@@ -23702,6 +24162,9 @@
 ; 0x002534b0 シャケじい
 0x002534b0 Old man Shake
 
+; 0x002534bb ワシになんか用かの？
+0x002534bb What do you want with me?
+
 ; 0x002534d0 ん？　おぬしらここいらで
 0x002534d0 Hm? You guys are here.
 
@@ -23724,7 +24187,7 @@
 0x00253570 Stupid little clam.
 
 ; 0x00253593 キョロスケで
-0x00253593 In Kyorosuke
+0x00253593 In Moe
 
 ; 0x002535b3 シャケじい
 0x002535b3 Old man Shake
@@ -24001,6 +24464,9 @@
 
 ; 0x00254187 シャケじい
 0x00254187 Old man Shake
+
+; 0x00254192 ほいほい…………　ありゃ？
+0x00254192 Hoi hoi... Huh?
 
 ; 0x002541c7 キョロスケ
 0x002541c7 Moe
@@ -24302,6 +24768,9 @@
 ; 0x00254c5f サイマミィ
 0x00254c5f Cymamy
 
+; 0x00254c70 そうちは３つあるの
+0x00254c70 There are three.
+
 ; 0x00254c89 ぜんぶなおして来てね
 0x00254c89 Go fix it all.
 
@@ -24572,6 +25041,9 @@
 ; 0x0025597b キョロスケ
 0x0025597b Moe
 
+; 0x00255986 だな
+0x00255986 You´re right.
+
 ; 0x00255ae1 シャケじい
 0x00255ae1 Old man Shake
 
@@ -24601,6 +25073,9 @@
 
 ; 0x00255baa にある　しろにいるはずじゃ
 0x00255baa It´s gotta be there.
+
+; 0x00255bd8 キョロスケ
+0x00255bd8 Moe
 
 ; 0x00255be3 やっと　思い出したか…
 0x00255be3 You finally remember...
@@ -24902,6 +25377,9 @@
 ; 0x00256816 むすみ出したのか……
 0x00256816 She´s pissed off...
 
+; 0x0025683e シャケじい
+0x0025683e Old man Shake
+
 ; 0x00256849 きっとなにかもくてきが
 0x00256849 I´m sure it´s something.
 
@@ -25032,13 +25510,13 @@
 0x00256d50 I knew it! You´re asleep!
 
 ; 0x00256f5c ラブウィズミー
-0x00256f5c Lovewithmy
+0x00256f5c Lovewizumi
 
 ; 0x00256f6b そいやーーーーーーーっ！！！
 0x00256f6b Oh yeah!!!
 
 ; 0x00256f9b ラブウィズミー
-0x00256f9b Lovewithmy
+0x00256f9b Lovewizumi
 
 ; 0x00256faa やあ！　またあったね
 0x00256faa Hey! Here it is again.
@@ -25062,7 +25540,7 @@
 0x00257035 Oh well...
 
 ; 0x00257057 ラブウィズミー
-0x00257057 Lovewithmy
+0x00257057 Lovewizumi
 
 ; 0x00257066 もちろんさ！！　ボクのハートは
 0x00257066 Of course!! My heart
@@ -25095,7 +25573,7 @@
 0x00257149 Hitsyoijo ni Tsukuru
 
 ; 0x00257179 ラブウィズミー
-0x00257179 Lovewithmy
+0x00257179 Lovewizumi
 
 ; 0x00257188 オーケイ　シャイボーイ！！
 0x00257188 Okay, shy boy!
@@ -25107,7 +25585,7 @@
 0x002571c4 Go away!
 
 ; 0x002571ec ラブウィズミー
-0x002571ec Lovewithmy
+0x002571ec Lovewizumi
 
 ; 0x002571fb いつもどおり　キミたちが
 0x002571fb As usual, you guys.
@@ -25119,7 +25597,7 @@
 0x00257231 I´m a muscledandy.
 
 ; 0x00257261 ラブウィズミー
-0x00257261 Lovewithmy
+0x00257261 Lovewizumi
 
 ; 0x00257270 ちゃぁぁああんと　つぎのシティに
 0x00257270 The next city.
@@ -25131,7 +25609,7 @@
 0x002572a6 Anshin!
 
 ; 0x002572ce ラブウィズミー
-0x002572ce Lovewithmy
+0x002572ce Lovewizumi
 
 ; 0x002572dd タッチペンのじゅんびは
 0x002572dd The jumbi of a touch pen
@@ -25140,7 +25618,7 @@
 0x002572f4 I wonder if it´s done?
 
 ; 0x00257321 ラブウィズミー
-0x00257321 Lovewithmy
+0x00257321 Lovewizumi
 
 ; 0x00257330 それじゃ　そろそろ行くかい？」
 0x00257330 Shall we get going?」
@@ -25152,7 +25630,7 @@
 0x0025735a No. No.
 
 ; 0x0025738b ラブウィズミー
-0x0025738b Lovewithmy
+0x0025738b Lovewizumi
 
 ; 0x0025739a う〜〜ん　ナイスファイッッツ！！
 0x0025739a Hmm... Nice fight!
@@ -25164,7 +25642,7 @@
 0x002573dc Haahahahahahaha!!
 
 ; 0x0025741f ラブウィズミー
-0x0025741f Lovewithmy
+0x0025741f Lovewizumi
 
 ; 0x0025742e じゅんびができたら　ボクを
 0x0025742e When you´re ready, take me.
@@ -25176,7 +25654,7 @@
 0x0025745c Be nice, of course.
 
 ; 0x00257486 ラブウィズミー
-0x00257486 Lovewithmy
+0x00257486 Lovewizumi
 
 ; 0x00257495 ボクのほうはいつでも
 0x00257495 I´m always here.
@@ -25188,7 +25666,7 @@
 0x002574c5 Then I´ll be waiting!
 
 ; 0x002575c0 ラブウィズミー
-0x002575c0 Lovewithmy
+0x002575c0 Lovewizumi
 
 ; 0x002575cf もう分かっていると思うけど
 0x002575cf I think you already know
@@ -25200,13 +25678,16 @@
 0x0025760d You´ll be.
 
 ; 0x0025762b ラブウィズミー
-0x0025762b Lovewithmy
+0x0025762b Lovewizumi
+
+; 0x0025763a さあ　タッチペンのじゅんびは
+0x0025763a Come on, touch pen.
 
 ; 0x00257657 できてるかな？
 0x00257657 I wonder if it´s done?
 
 ; 0x00257684 ラブウィズミー
-0x00257684 Lovewithmy
+0x00257684 Lovewizumi
 
 ; 0x00257693 それじゃ　そろそろ行くかい？」
 0x00257693 Shall we get going?」
@@ -25218,7 +25699,7 @@
 0x002576bd No. No.
 
 ; 0x002576ee ラブウィズミー
-0x002576ee Lovewithmy
+0x002576ee Lovewizumi
 
 ; 0x002576fd う〜〜ん　ナイスファイッッツ！！
 0x002576fd Hmm... Nice fight!
@@ -25230,7 +25711,7 @@
 0x0025773f Haahahahahahaha!!
 
 ; 0x00257782 ラブウィズミー
-0x00257782 Lovewithmy
+0x00257782 Lovewizumi
 
 ; 0x00257791 じゅんびができたら　ボクを
 0x00257791 When you´re ready, take me.
@@ -25242,7 +25723,7 @@
 0x002577bf Be nice, of course.
 
 ; 0x002577e9 ラブウィズミー
-0x002577e9 Lovewithmy
+0x002577e9 Lovewizumi
 
 ; 0x002577f8 ボクのほうはいつでも
 0x002577f8 I´m always here.
@@ -25476,13 +25957,13 @@
 0x002581b0 ...?
 
 ; 0x002581b9 どうして　キョロスケさん
-0x002581b9 Why, Mr. Kyorosuke?
+0x002581b9 Why, Mr. Moe?
 
 ; 0x002581d2 おこってるんですか？
 0x002581d2 Is he mad?
 
 ; 0x002583d3 ラブウィズミー
-0x002583d3 Lovewithmy
+0x002583d3 Lovewizumi
 
 ; 0x002583e2 イエーーーッス！！！
 0x002583e2 Yay!!!
@@ -25494,7 +25975,7 @@
 0x00258416 Did he read me?
 
 ; 0x00258440 ラブウィズミー
-0x00258440 Lovewithmy
+0x00258440 Lovewizumi
 
 ; 0x0025844f オーケー　なにもいわなくても
 0x0025844f Okay, you don´t have to say anything.
@@ -25502,8 +25983,11 @@
 ; 0x0025846c 分かってるよ　ラブロードを
 0x0025846c I know. Lovelord.
 
+; 0x00258487 使いたいんだろう？
+0x00258487 You want to use it?
+
 ; 0x002584cd ラブウィズミー
-0x002584cd Lovewithmy
+0x002584cd Lovewizumi
 
 ; 0x002584dc ラブロードへ行きたいかーーい！？」
 0x002584dc Do you wanna go to Love Road?!」
@@ -25515,7 +25999,7 @@
 0x00258512 Not really.
 
 ; 0x00258545 ラブウィズミー
-0x00258545 Lovewithmy
+0x00258545 Lovewizumi
 
 ; 0x00258554 ワーーーーンダホォーーーー！！
 0x00258554 Waaaaaaaaaaaaaaaaaah!!
@@ -25527,7 +26011,7 @@
 0x0025858e Go!!
 
 ; 0x002585c9 ラブウィズミー
-0x002585c9 Lovewithmy
+0x002585c9 Lovewizumi
 
 ; 0x002585d8 そうかい？　また行きたくなったら
 0x002585d8 Really? If you want to go again
@@ -25801,6 +26285,9 @@
 
 ; 0x00259258 アミー王国で　なにしてる
 0x00259258 What are you doing in the Kingdom of Amy?
+
+; 0x00259271 ニャリーン？
+0x00259271 Nyalene?
 
 ; 0x00259291 ニャンゾー
 0x00259291 Nyanzo
@@ -26102,6 +26589,9 @@
 ; 0x00259edd ひかりを
 0x00259edd Hikari
 
+; 0x00259ee6 あびて来てください
+0x00259ee6 Please come in here.
+
 ; 0x00259f0c コラル王子
 0x00259f0c Prince Coral
 
@@ -26402,6 +26892,9 @@
 ; 0x0025ac47 ニンジャがっこうで
 0x0025ac47 It´s a ninja.
 
+; 0x0025ac5a ライバルだったニャリーン
+0x0025ac5a She was my rival, nyarine.
+
 ; 0x0025aca2 ニャンジャ
 0x0025aca2 Nyanja
 
@@ -26562,7 +27055,7 @@
 0x0025b7bd Prince Coral
 
 ; 0x0025b7de ありますぅ？　スキないろとか
-0x0025b7de  ⁇ You do? Like, you don´t like it ⁇ "
+0x0025b7de You do Like, you don´t like it
 
 ; 0x0025b7fb スキなタイプとか……
 0x0025b7fb Like the type you like...
@@ -26701,6 +27194,9 @@
 
 ; 0x0025be2b いわれてみれば　たしかに……
 0x0025be2b Now that you mention it...
+
+; 0x0025be48 スゲーことに　なってるが…
+0x0025be48 It´s been a hell of a time.
 
 ; 0x0025be76 スタピー
 0x0025be76 Stapy
@@ -26915,6 +27411,9 @@
 ; 0x0025c809 そういえば　スタピーは
 0x0025c809 Come to think of it, Stapy...
 
+; 0x0025c820 もう
+0x0025c820 Already.
+
 ; 0x0025c82a 『かべじゃんぷ』
 0x0025c82a “Kabejampu.”
 
@@ -27001,6 +27500,9 @@
 
 ; 0x0025caca こ　こわい子ニャ……
 0x0025caca She´s scary...
+
+; 0x0025cadf と　とりあえず
+0x0025cadf A-Anyway
 
 ; 0x0025caee カンバンはたてておいたから…
 0x0025caee I left the can open.
@@ -27132,13 +27634,13 @@
 0x0025d086 Maro forgives.
 
 ; 0x0025d286 ラブウィズミー
-0x0025d286 Lovewithmy
+0x0025d286 Lovewizumi
 
 ; 0x0025d295 マッソォーーーーー！！！！
 0x0025d295 Massoooooooo!!!!
 
 ; 0x0025d2c3 ラブウィズミー
-0x0025d2c3 Lovewithmy
+0x0025d2c3 Lovewizumi
 
 ; 0x0025d2d2 おお　カプリシャスボーイズ！
 0x0025d2d2 Oh, Capricas Boys!
@@ -27150,7 +27652,7 @@
 0x0025d308 Muscle! In other words, kinnik!
 
 ; 0x0025d338 ラブウィズミー
-0x0025d338 Lovewithmy
+0x0025d338 Lovewizumi
 
 ; 0x0025d347 ステキな　ことばだよね！
 0x0025d347 That´s a wonderful word!
@@ -27171,7 +27673,7 @@
 0x0025d3c4 Enough. Go home!
 
 ; 0x0025d3ea ラブウィズミー
-0x0025d3ea Lovewithmy
+0x0025d3ea Lovewizumi
 
 ; 0x0025d3f9 あいかわらずだね　クールボーイ！
 0x0025d3f9 You´re as cool as ever, boy!
@@ -27183,7 +27685,7 @@
 0x0025d437 It´s time to go!
 
 ; 0x0025d463 ラブウィズミー
-0x0025d463 Lovewithmy
+0x0025d463 Lovewizumi
 
 ; 0x0025d472 つぎのシティは　さばくだよ！
 0x0025d472 Next city´s going to be big!
@@ -27195,7 +27697,7 @@
 0x0025d4b0 How about a pen?
 
 ; 0x0025d4eb ラブウィズミー
-0x0025d4eb Lovewithmy
+0x0025d4eb Lovewizumi
 
 ; 0x0025d4fa あいのいずみに　行くかい？」
 0x0025d4fa Wanna go to Izumi?」
@@ -27207,10 +27709,10 @@
 0x0025d522 No. No.
 
 ; 0x0025d553 ラブウィズミー
-0x0025d553 Lovewithmy
+0x0025d553 Lovewizumi
 
 ; 0x0025d562 う〜〜ん！　グレイトゥ！！
-0x0025d562 Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+0x0025d562 Hmmmmmmmmmm
 
 ; 0x0025d57d それじゃ　行こうか！
 0x0025d57d Let´s go!
@@ -27219,7 +27721,7 @@
 0x0025d592 Habaaguddeeee!!!
 
 ; 0x0025d5d3 ラブウィズミー
-0x0025d5d3 Lovewithmy
+0x0025d5d3 Lovewizumi
 
 ; 0x0025d5e2 おやおや？　やりのこしたことが
 0x0025d5e2 Well, well, well, well.
@@ -27231,7 +27733,7 @@
 0x0025d622 I’ll wait forever!!
 
 ; 0x0025d70d ラブウィズミー
-0x0025d70d Lovewithmy
+0x0025d70d Lovewizumi
 
 ; 0x0025d71c じゅんびは　できたのかな？
 0x0025d71c I wonder if it´s ready?
@@ -27243,7 +27745,7 @@
 0x0025d752 Snacks are only 300 yen!
 
 ; 0x0025d78d ラブウィズミー
-0x0025d78d Lovewithmy
+0x0025d78d Lovewizumi
 
 ; 0x0025d79c それじゃ　あいのいずみへ行こう！」
 0x0025d79c Let´s go to Izumi!」
@@ -27255,10 +27757,10 @@
 0x0025d7ca No. No.
 
 ; 0x0025d7fb ラブウィズミー
-0x0025d7fb Lovewithmy
+0x0025d7fb Lovewizumi
 
 ; 0x0025d80a う〜〜ん！　グレイトゥ！！！
-0x0025d80a Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+0x0025d80a Hmmmmmmmmmmmmmm
 
 ; 0x0025d827 それじゃ　行こうか！
 0x0025d827 Let´s go!
@@ -27267,7 +27769,7 @@
 0x0025d83c Habaaguddeeee!!!
 
 ; 0x0025d87d ラブウィズミー
-0x0025d87d Lovewithmy
+0x0025d87d Lovewizumi
 
 ; 0x0025d88c おやおや？　やりのこしたことが
 0x0025d88c Well, well, well, well.
@@ -27301,6 +27803,9 @@
 
 ; 0x0025da11 さがしておじゃるか？
 0x0025da11 Looking for him?
+
+; 0x0025da39 こいマロ
+0x0025da39 Come, maro.
 
 ; 0x0025da42 このかくれざとの近くにも
 0x0025da42 Even near this hideout
@@ -27351,7 +27856,7 @@
 0x0025dbf0 Nyanzo
 
 ; 0x0025dbfb 『キョロスケさまのいえ』の
-0x0025dbfb “Sir Kyorosuke’s No”
+0x0025dbfb “Sir Moe’s No”
 
 ; 0x0025dc16 ブタさんちょきんばこは
 0x0025dc16 Pigs, kinbako
@@ -27408,7 +27913,7 @@
 0x0025de48 I´m biting you.
 
 ; 0x0025e049 ラブウィズミー
-0x0025e049 Lovewithmy
+0x0025e049 Lovewizumi
 
 ; 0x0025e058 テンプラーー！！
 0x0025e058 Templar!!
@@ -27420,7 +27925,7 @@
 0x0025e07c Susiskiyakiii!!!
 
 ; 0x0025e0a6 ラブウィズミー
-0x0025e0a6 Lovewithmy
+0x0025e0a6 Lovewizumi
 
 ; 0x0025e0b5 さあさあ　サムライボーイたち！
 0x0025e0b5 Come on, samurai boys!
@@ -27444,7 +27949,7 @@
 0x0025e14a I don´t know what to say.
 
 ; 0x0025e172 ラブウィズミー
-0x0025e172 Lovewithmy
+0x0025e172 Lovewizumi
 
 ; 0x0025e181 おおっと　ブシドーハマグリ！
 0x0025e181 Whoa, Bushido clam!
@@ -27456,7 +27961,7 @@
 0x0025e1ad Gozar!
 
 ; 0x0025e1e4 ラブウィズミー
-0x0025e1e4 Lovewithmy
+0x0025e1e4 Lovewizumi
 
 ; 0x0025e1f3 そろそろ行くでゴザルか？」
 0x0025e1f3 Let´s get going. Gozar?」
@@ -27468,7 +27973,7 @@
 0x0025e221 *munch*
 
 ; 0x0025e256 ラブウィズミー
-0x0025e256 Lovewithmy
+0x0025e256 Lovewizumi
 
 ; 0x0025e265 アッパレアッパレ！
 0x0025e265 Appareappare!
@@ -27480,7 +27985,7 @@
 0x0025e28f Daimyo, gozaru!
 
 ; 0x0025e2b9 ラブウィズミー
-0x0025e2b9 Lovewithmy
+0x0025e2b9 Lovewizumi
 
 ; 0x0025e2c8 さあさあ
 0x0025e2c8 Come on, come on.
@@ -27489,7 +27994,7 @@
 0x0025e2d1 Come on, gozaru!
 
 ; 0x0025e31a ラブウィズミー
-0x0025e31a Lovewithmy
+0x0025e31a Lovewizumi
 
 ; 0x0025e329 むむ！
 0x0025e329 Mmm!
@@ -27601,6 +28106,9 @@
 
 ; 0x0025e8b6 ちがうのよ　しつれいなのよ！！
 0x0025e8b6 No, I´m not! I´m sorry!
+
+; 0x0025e8d5 ボクのなまえは　ドロシー
+0x0025e8d5 I´m Dorothy.
 
 ; 0x0025e8ee しんきろうの　ようせいなのよ
 0x0025e8ee It´s just like Shinkirou.
@@ -27902,6 +28410,9 @@
 ; 0x0025f5fb マテル
 0x0025f5fb Mater
 
+; 0x0025f602 さばくに　みどりや水がある
+0x0025f602 There´s green and water at the edge.
+
 ; 0x0025f61d ばしょを　オアシスっていうんです
 0x0025f61d It´s called an oase.
 
@@ -28201,6 +28712,9 @@
 
 ; 0x0026041d したり　おちつかないだネ
 0x0026041d You´re so calm.
+
+; 0x00260449 プラム
+0x00260449 Plum
 
 ; 0x00260450 それをなんとかしたいから
 0x00260450 I want to do something about it.
@@ -28502,6 +29016,9 @@
 ; 0x0026126d 『ダブルジャンプ』
 0x0026126d “Double Jump”
 
+; 0x00261285 ジャナイト　
+0x00261285 Janet
+
 ; 0x00261292 トドカナイ　バショニアルデス
 0x00261292 Todokanai Bashonialdez
 
@@ -28692,7 +29209,7 @@
 0x00261c31 Stapy
 
 ; 0x00261c3a あーーっちやねんな　分かったわ
-0x00261c3a Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.
+0x00261c3a Ahhhhhhh
 
 ; 0x00261c59 ありがとー　行ってみるわー
 0x00261c59 Thanks. I´ll go.
@@ -28704,7 +29221,7 @@
 0x00261d59 What I wanted to say
 
 ; 0x00261d74 『でア〜ル』とかいう　ヤツのこと
-0x00261d74  ⁇ ´s called ⁇ Sore ⁇ "
+0x00261d74  ⁇ ´s called ⁇ Sore "
 
 ; 0x00261d95 だったネ　でもそんなことより
 0x00261d95 Yeah, but more importantly...
@@ -28801,6 +29318,9 @@
 
 ; 0x002621ca …………
 0x002621ca ......
+
+; 0x002621d3 オカマなめたら　あかんな
+0x002621d3 Don´t underestimate a pansy.
 
 ; 0x00262292 ？？？
 0x00262292 ???
@@ -28922,6 +29442,9 @@
 ; 0x002627b5 おまえのいもうとが大ピンチだ
 0x002627b5 Your cousin´s in big trouble.
 
+; 0x002627d2 早く
+0x002627d2 Hurry!
+
 ; 0x002627dc 『きゅうでん』
 0x002627dc “Kyuden.”
 
@@ -29015,6 +29538,9 @@
 ; 0x00262ba9 『サンバル』
 0x00262ba9 “Sambal.”
 
+; 0x00262bbb にも
+0x00262bbb Nii
+
 ; 0x00262bc0 気をつけろ！！
 0x00262bc0 Careful!!
 
@@ -29052,7 +29578,7 @@
 0x00262d69 “I gave up on Stapy.
 
 ; 0x00262d88 わけじゃ　ないでア〜ル！！』
-0x00262d88 [Don´t say that, Aaaaaaaaaaaaaaaaaaaaaaaaa!!]
+0x00262d88 [Don´t say that, Aaaaa!!]
 
 ; 0x00262dc6 キョロスケ
 0x00262dc6 Moe
@@ -29101,6 +29627,9 @@
 
 ; 0x0026303a ソノポーズ　イイデース！！
 0x0026303a Son pose, nice!!
+
+; 0x00263055 サイコウデース
+0x00263055 Psychodes
 
 ; 0x00263077 キスミ
 0x00263077 Kismi
@@ -29223,7 +29752,7 @@
 0x00263628 It sounds fun!
 
 ; 0x00263830 ラブウィズミー
-0x00263830 Lovewithmy
+0x00263830 Lovewizumi
 
 ; 0x0026383f そいやーーーーー！！！
 0x0026383f Oh yeah!!!
@@ -29235,7 +29764,7 @@
 0x00263871 How´s your hustle?
 
 ; 0x0026389f ラブウィズミー
-0x0026389f Lovewithmy
+0x0026389f Lovewizumi
 
 ; 0x002638ae ボクとシュガーたっぷりの
 0x002638ae Me and sugary stuff.
@@ -29259,7 +29788,7 @@
 0x0026394d Can you give me that?
 
 ; 0x0026396d ラブウィズミー
-0x0026396d Lovewithmy
+0x0026396d Lovewizumi
 
 ; 0x0026397c オーケイ！　せいしゅんまっさかりな
 0x0026397c Okay! You´re right, you´re right.
@@ -29271,7 +29800,7 @@
 0x002639b8 And strong Pretty Guys.
 
 ; 0x002639e4 ラブウィズミー
-0x002639e4 Lovewithmy
+0x002639e4 Lovewizumi
 
 ; 0x002639f3 ボクをやさし〜く　ソフトタッチ
 0x002639f3 Soft touch.
@@ -29283,7 +29812,7 @@
 0x00263a2d I wonder if it´s done?
 
 ; 0x00263a5d ラブウィズミー
-0x00263a5d Lovewithmy
+0x00263a5d Lovewizumi
 
 ; 0x00263a6c さあ！　ラブロードへしゅっぱつさ」
 0x00263a6c Come on! Let´s go to Lovelord.」
@@ -29295,7 +29824,7 @@
 0x00263a9a No. No.
 
 ; 0x00263acb ラブウィズミー
-0x00263acb Lovewithmy
+0x00263acb Lovewizumi
 
 ; 0x00263ada ナイスだよ！　ナイスだよキミたち！
 0x00263ada Nice! Nice, guys!
@@ -29307,7 +29836,7 @@
 0x00263b16 Hahahahaha~
 
 ; 0x00263b4f ラブウィズミー
-0x00263b4f Lovewithmy
+0x00263b4f Lovewizumi
 
 ; 0x00263b5e むむ！　まだやりのこした
 0x00263b5e Mmm! I´ve still got it.
@@ -29319,7 +29848,7 @@
 0x00263b92 It´s hot. Put it away.
 
 ; 0x00263bc2 ラブウィズミー
-0x00263bc2 Lovewithmy
+0x00263bc2 Lovewizumi
 
 ; 0x00263bd1 やさし〜く　ソフトタッチしてくれ！
 0x00263bd1 Gently touch it!
@@ -29331,7 +29860,7 @@
 0x00263c17 It´s all right!!
 
 ; 0x00263d21 ラブウィズミー
-0x00263d21 Lovewithmy
+0x00263d21 Lovewizumi
 
 ; 0x00263d30 そいやーーーーー！！！
 0x00263d30 Oh yeah!!!
@@ -29343,7 +29872,7 @@
 0x00263d66 Nothing?
 
 ; 0x00263d9a ラブウィズミー
-0x00263d9a Lovewithmy
+0x00263d9a Lovewizumi
 
 ; 0x00263da9 さあ！　ラブロードへ行こうか！！」
 0x00263da9 Come on! Let´s go to Lovelord!!」
@@ -29355,7 +29884,7 @@
 0x00263dd7 No. No.
 
 ; 0x00263dfd ラブウィズミー
-0x00263dfd Lovewithmy
+0x00263dfd Lovewizumi
 
 ; 0x00263e0c ナイスだよ！　ナイスだよキミたち！
 0x00263e0c Nice! Nice, guys!
@@ -29367,7 +29896,7 @@
 0x00263e48 Hahahaha~
 
 ; 0x00263e7d ラブウィズミー
-0x00263e7d Lovewithmy
+0x00263e7d Lovewizumi
 
 ; 0x00263e8c ン　ン　ン〜　じゅんびができたら
 0x00263e8c Mm-hmm-hmm-hmm-hmm-hmm.
@@ -29401,6 +29930,9 @@
 
 ; 0x00264090 キョロスケ
 0x00264090 Moe
+
+; 0x0026409b くう！　ロマンじゃねぇか
+0x0026409b Ugh! It´s so romantic.
 
 ; 0x002640b4 ……オレさまもハデヒラリさんに
 0x002640b4 ...I´ll tell Hadehirari, too.
@@ -29637,7 +30169,7 @@
 0x00264aed Please say it!
 
 ; 0x00264cf2 ラブウィズミー
-0x00264cf2 Lovewithmy
+0x00264cf2 Lovewizumi
 
 ; 0x00264d01 スフィンクスーーー！！
 0x00264d01 Sphinx!
@@ -29649,7 +30181,7 @@
 0x00264d2b Hurry up!
 
 ; 0x00264d51 ラブウィズミー
-0x00264d51 Lovewithmy
+0x00264d51 Lovewizumi
 
 ; 0x00264d60 くんくん…　なんてことだ！！
 0x00264d60 *sniff* *sniff* *sniff* *sniff* *sniff*
@@ -29661,7 +30193,7 @@
 0x00264d9c You guys! Look!
 
 ; 0x00264ddf ラブウィズミー
-0x00264ddf Lovewithmy
+0x00264ddf Lovewizumi
 
 ; 0x00264dee ここ！　ここ！　ボクの
 0x00264dee Here! Here! My...
@@ -29673,7 +30205,7 @@
 0x00264e24 It´s a mess.
 
 ; 0x00264e59 ラブウィズミー
-0x00264e59 Lovewithmy
+0x00264e59 Lovewizumi
 
 ; 0x00264e68 すずしい　ところへ行こうよぉ
 0x00264e68 Let´s go somewhere quiet.
@@ -29685,7 +30217,7 @@
 0x00264e96 I´m not going.
 
 ; 0x00264ed1 ラブウィズミー
-0x00264ed1 Lovewithmy
+0x00264ed1 Lovewizumi
 
 ; 0x00264ee0 これで　ビューティフルボディへ
 0x00264ee0 Now we´re in beautiful body.
@@ -29697,10 +30229,13 @@
 0x00264f1c It´ll be fresh.
 
 ; 0x00264f5d ラブウィズミー
-0x00264f5d Lovewithmy
+0x00264f5d Lovewizumi
 
 ; 0x00264f6c んっ　もう！
 0x00264f6c Mm, geez!
+
+; 0x00264f79 い・じ・わ・る・さ・ん！
+0x00264f79 Iji waru san!
 
 ; 0x00265137 ？？？
 0x00265137 ???
@@ -29829,7 +30364,7 @@
 0x002658e9 Stapy
 
 ; 0x002658f2 うわーーーーん　にいちゃーーん
-0x002658f2 Wahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.
+0x002658f2 Wahhhhhhh.
 
 ; 0x00265911 ぶじでよかったーーー！！
 0x00265911 I´m so glad I´m dead!!
@@ -30002,6 +30537,9 @@
 ; 0x002660a0 このおかたこそ　ブルダさまである
 0x002660a0 This mother is Burda.
 
+; 0x002660c1 そそうのないように
+0x002660c1 D-Don´t do that.
+
 ; 0x00266154 ブルダッド
 0x00266154 Burdad
 
@@ -30018,7 +30556,7 @@
 0x002661d0 Burdad
 
 ; 0x002661db 『たんていならば　ワシのなくした
-0x002661db  ⁇ If it´s tantei, I lost it ⁇ "
+0x002661db  If it´s tantei, I lost it
 
 ; 0x00266202 『じゅず』
 0x00266202 “Juz.”
@@ -30117,7 +30655,7 @@
 0x00266686 Burdad
 
 ; 0x00266691 『とちゅう　せまいつうろがあるが
-0x00266691  ⁇ There´s a fish scale ⁇ "
+0x00266691 There´s a fish scale
 
 ; 0x002666b2 ハイハイスピンを使えば
 0x002666b2 With a high spin
@@ -30301,6 +30839,9 @@
 
 ; 0x00267026 こんなところまで　どうした？
 0x00267026 What´s going on here?
+
+; 0x00267056 スタピー
+0x00267056 Stapy
 
 ; 0x0026705f それは　こっちのセリフやで
 0x0026705f That´s my line.
@@ -30602,6 +31143,9 @@
 ; 0x00267d31 ラスケル
 0x00267d31 Raskel
 
+; 0x00267d3a だが　それでもやめられないのさ
+0x00267d3a But I still can´t stop.
+
 ; 0x00267d59 それどころかキケンであればあるほど
 0x00267d59 On the contrary, the more dangerous
 
@@ -30901,6 +31445,9 @@
 
 ; 0x00268e6f 見るのは　はじめてだぜ
 0x00268e6f It´s the first time I´ve seen it.
+
+; 0x00268e86 こいって　おそろしいな…
+0x00268e86 Come on, it´s scary...
 
 ; 0x00268f47 マテル
 0x00268f47 Mater
@@ -31202,17 +31749,20 @@
 ; 0x00269cb4 ラスケル
 0x00269cb4 Raskel
 
+; 0x00269cbd そんなダダこねてもダメだ！！
+0x00269cbd There´s no point in kneading like that!!
+
 ; 0x00269cda これは　うらないぞっ！！！
 0x00269cda This won´t work!!!
 
 ; 0x00269ee8 ラブウィズミー
-0x00269ee8 Lovewithmy
+0x00269ee8 Lovewizumi
 
 ; 0x00269ef7 そいやーーーーーーーっ！！！
 0x00269ef7 Oh yeah!!!
 
 ; 0x00269f27 ラブウィズミー
-0x00269f27 Lovewithmy
+0x00269f27 Lovewizumi
 
 ; 0x00269f36 やあ　元気にしてたかな？
 0x00269f36 Hey. How´s it been?
@@ -31233,7 +31783,7 @@
 0x00269fc4 ...I´ll get bored...
 
 ; 0x00269fec ラブウィズミー
-0x00269fec Lovewithmy
+0x00269fec Lovewizumi
 
 ; 0x00269ffb おや？　ずいぶん元気がないな〜
 0x00269ffb Oh? You don´t look so happy.
@@ -31257,7 +31807,7 @@
 0x0026a0a2 Hurry up and notice...
 
 ; 0x0026a0cc ラブウィズミー
-0x0026a0cc Lovewithmy
+0x0026a0cc Lovewizumi
 
 ; 0x0026a0db さぁ！！　ボクのすてきポージングで
 0x0026a0db Come on!! With my awesome pose.
@@ -31269,7 +31819,7 @@
 0x0026a113 Let´s get going!!!
 
 ; 0x0026a14e ラブウィズミー
-0x0026a14e Lovewithmy
+0x0026a14e Lovewizumi
 
 ; 0x0026a15d つぎのシティに行くかい？」
 0x0026a15d Should we go to the next city?」
@@ -31281,7 +31831,7 @@
 0x0026a183 No. No.
 
 ; 0x0026a1b4 ラブウィズミー
-0x0026a1b4 Lovewithmy
+0x0026a1b4 Lovewizumi
 
 ; 0x0026a1c3 では　はりきって
 0x0026a1c3 Okay, let´s go.
@@ -31290,7 +31840,7 @@
 0x0026a1d4 Let´s gooo!!!!
 
 ; 0x0026a217 ラブウィズミー
-0x0026a217 Lovewithmy
+0x0026a217 Lovewizumi
 
 ; 0x0026a226 そうかい
 0x0026a226 I see.
@@ -31302,7 +31852,7 @@
 0x0026a250 Call me anytime!
 
 ; 0x0026a351 ラブウィズミー
-0x0026a351 Lovewithmy
+0x0026a351 Lovewizumi
 
 ; 0x0026a360 このシティでやりのこしたことは
 0x0026a360 What I did in this city
@@ -31314,7 +31864,7 @@
 0x0026a38a Is it ready?
 
 ; 0x0026a3c3 ラブウィズミー
-0x0026a3c3 Lovewithmy
+0x0026a3c3 Lovewizumi
 
 ; 0x0026a3d2 つぎのシティに行くかい？」
 0x0026a3d2 Should we go to the next city?」
@@ -31326,7 +31876,7 @@
 0x0026a3f8 No. No.
 
 ; 0x0026a429 ラブウィズミー
-0x0026a429 Lovewithmy
+0x0026a429 Lovewizumi
 
 ; 0x0026a438 では　はりきって
 0x0026a438 Okay, let´s go.
@@ -31335,7 +31885,7 @@
 0x0026a449 Let´s gooo!!!!
 
 ; 0x0026a48c ラブウィズミー
-0x0026a48c Lovewithmy
+0x0026a48c Lovewizumi
 
 ; 0x0026a49b そうかい
 0x0026a49b I see.
@@ -31362,7 +31912,7 @@
 0x0026a5b7 Heehee. Well?
 
 ; 0x0026a5c8 キョロスケくんもワタシといっしょに
-0x0026a5c8 Kyorosuke-kun, with me
+0x0026a5c8 Moe-kun, with me
 
 ; 0x0026a5eb ぼうけんのたびに出てみるか？
 0x0026a5eb Do you want to try it every time you play baseball?
@@ -31371,7 +31921,7 @@
 0x0026a61b Moe
 
 ; 0x0026a626 ぼうけんかのキョロスケさまかぁ…
-0x0026a626 Kyorosuke-sama in a fight?
+0x0026a626 Moe-sama in a fight?
 
 ; 0x0026a647 へへっ　わるくねぇな！
 0x0026a647 Heheh, sorry about that!
@@ -31392,7 +31942,7 @@
 0x0026a6e0 Moe
 
 ; 0x0026a6eb ヘンッ　このキョロスケさまが
-0x0026a6eb Hen! You, Kyorosuke-sama!
+0x0026a6eb Hen! You, Moe-sama!
 
 ; 0x0026a708 そんなかんたんに　ワナにかかるワケ
 0x0026a708 It´s so easy to trap him.
@@ -31501,6 +32051,9 @@
 
 ; 0x0026ac34 ブルダッド
 0x0026ac34 Burdad
+
+; 0x0026ac3f そうであるか
+0x0026ac3f I see.
 
 ; 0x0026ac4c では　われらは　しゅぎょうに
 0x0026ac4c Well then, we´ll be off.
@@ -31671,7 +32224,7 @@
 0x0026b3c3 Tall!
 
 ; 0x0026b5bc ラブウィズミー
-0x0026b5bc Lovewithmy
+0x0026b5bc Lovewizumi
 
 ; 0x0026b5cb そいや〜〜〜〜〜〜〜ン
 0x0026b5cb Oh yeah~~
@@ -31692,7 +32245,7 @@
 0x0026b65d How do you talk?
 
 ; 0x0026b67f ラブウィズミー
-0x0026b67f Lovewithmy
+0x0026b67f Lovewizumi
 
 ; 0x0026b68e ボクのかわいさを　さいだいに
 0x0026b68e I´ll show you how cute I am.
@@ -31716,7 +32269,7 @@
 0x0026b73d It hurts.
 
 ; 0x0026b75f ラブウィズミー
-0x0026b75f Lovewithmy
+0x0026b75f Lovewizumi
 
 ; 0x0026b76e このしゃべりかた　気に入ってたのに
 0x0026b76e I liked the way you talk.
@@ -31737,7 +32290,7 @@
 0x0026b7f4 Take me along!
 
 ; 0x0026b818 ラブウィズミー
-0x0026b818 Lovewithmy
+0x0026b818 Lovewizumi
 
 ; 0x0026b827 ハマグリボーイも　スターガールも
 0x0026b827 No clam boy, no star girl.
@@ -31749,7 +32302,7 @@
 0x0026b859 Okay. Okay.
 
 ; 0x0026b88c ラブウィズミー
-0x0026b88c Lovewithmy
+0x0026b88c Lovewizumi
 
 ; 0x0026b89b さあ　ラブロードへ　レッツゴォー
 0x0026b89b Come on, Lovelord. Let´s go.
@@ -31761,7 +32314,7 @@
 0x0026b8cf I think I´ll stop.
 
 ; 0x0026b908 ラブウィズミー
-0x0026b908 Lovewithmy
+0x0026b908 Lovewizumi
 
 ; 0x0026b917 ベリィ〜　チャ〜ミィ〜〜〜
 0x0026b917 Berry~ Cha~mi~~
@@ -31773,7 +32326,7 @@
 0x0026b955 Don´t blame me.
 
 ; 0x0026b992 ラブウィズミー
-0x0026b992 Lovewithmy
+0x0026b992 Lovewizumi
 
 ; 0x0026b9a1 あれ？　行かないのかい？
 0x0026b9a1 Huh? Aren´t we going?
@@ -31785,7 +32338,7 @@
 0x0026b9d7 That´s part of Charmy.
 
 ; 0x0026ba07 ラブウィズミー
-0x0026ba07 Lovewithmy
+0x0026ba07 Lovewizumi
 
 ; 0x0026ba16 ラブロードに　行きたくなったら
 0x0026ba16 If you ever want to go to Lovelord,
@@ -31801,6 +32354,9 @@
 
 ; 0x0026bbef ウ…ウゥ……
 0x0026bbef Uh... uh...
+
+; 0x0026bc16 キョロスケ
+0x0026bc16 Moe
 
 ; 0x0026bc21 な　なんだ……！
 0x0026bc21 Wh-What...?!
@@ -32102,6 +32658,9 @@
 ; 0x0026c792 オイラのなかまたちもきょうりょく
 0x0026c792 I´m in the middle of it.
 
+; 0x0026c7b3 してくれるはずだぜぃ
+0x0026c7b3 I´m sure he´ll do it.
+
 ; 0x0026c7db ゾゾビー
 0x0026c7db Zozoby
 
@@ -32393,6 +32952,9 @@
 ; 0x0026d5a7 ヤリイカさん
 0x0026d5a7 Mr. Yariika.
 
+; 0x0026d5b9 だ！
+0x0026d5b9 !
+
 ; 0x0026d5be オイーッス！！
 0x0026d5be Hey!!
 
@@ -32401,6 +32963,9 @@
 
 ; 0x0026d5ed オイーーッス！！
 0x0026d5ed Hey, pal!
+
+; 0x0026d5fe うむ　いいアイサツだな
+0x0026d5fe Yeah, that´s a good one.
 
 ; 0x0026d615 かんしん　かんしん！
 0x0026d615 KANSHIN KANSHIN
@@ -32467,6 +33032,9 @@
 
 ; 0x0026d8bd をはっけんした
 0x0026d8bd It´s a game.
+
+; 0x0026d8cc のだ
+0x0026d8cc That´s it.
 
 ; 0x0026d8e4 ヤリイカさん
 0x0026d8e4 Mr. Yariika.
@@ -32594,6 +33162,9 @@
 ; 0x0026dca5 りゅうせいアタ
 0x0026dca5 Ryuuseiata
 
+; 0x0026dcb4 ック
+0x0026dcb4 Kick
+
 ; 0x0026dcbe を行うこともできるぞ！
 0x0026dcbe I can do it!
 
@@ -32626,6 +33197,9 @@
 
 ; 0x0026de76 『ぼうはんそうち』を止めて来て
 0x0026de76 Stop ´Bohan Sochi´.
+
+; 0x0026de95 くれ
+0x0026de95 Give me that.
 
 ; 0x0026dead ヤリイカさん
 0x0026dead Mr. Yariika.
@@ -32701,6 +33275,9 @@
 
 ; 0x0026e1cc スタピー
 0x0026e1cc Stapy
+
+; 0x0026e1d5 えぇ〜　ヤリイカさんはウチらと
+0x0026e1d5 Yariika-san is with us.
 
 ; 0x0026e1f4 いっしょに来てくれへんの〜？
 0x0026e1f4 Can you come with me?
@@ -33002,6 +33579,9 @@
 ; 0x0026eee9 おしえるんさ
 0x0026eee9 I´ll teach you.
 
+; 0x0026ef22 スピル
+0x0026ef22 Spiel
+
 ; 0x0026ef2e 『テンカイバリア』
 0x0026ef2e “Tenkaibara.”
 
@@ -33302,6 +33882,9 @@
 ; 0x0026fc09 これがおたからぁ〜？
 0x0026fc09 This is otakara?
 
+; 0x0026fc1e きたいしてそんしちまった…
+0x0026fc1e That´s what I wanted to ask.
+
 ; 0x0026fc68 ブリュータツ
 0x0026fc68 Brutus
 
@@ -33417,7 +34000,7 @@
 0x00270136 ...Wakatta.
 
 ; 0x00270147 キョロスケノコト……ウラナウ……
-0x00270147 Kyorosuke... Uranus...
+0x00270147 Moe... Uranus...
 
 ; 0x00270197 ゾゾビー
 0x00270197 Zozoby
@@ -33447,7 +34030,7 @@
 0x002702a1 Zozoby
 
 ; 0x002702aa キョロスケ……オンナノウン……
-0x002702aa Kyorosuke...onnaone...
+0x002702aa Moe...onnaone...
 
 ; 0x002702c9 …スゴク…ワルイ………
 0x002702c9 Wow... Sorry...
@@ -33600,7 +34183,10 @@
 0x00270ae2 Moe
 
 ; 0x00270aed 『おうつくしい』わけ
-0x00270aed  ⁇ Ouch ⁇ "
+0x00270aed  Ouch
+
+; 0x00270b02 ねぇだろーが
+0x00270b02 I don´t think so.
 
 ; 0x00270b22 オウルン王
 0x00270b22 King Oulun
@@ -33672,7 +34258,7 @@
 0x00270dd4 Moe
 
 ; 0x00270ddf 『けっとうをもうしこむ』だってよ
-0x00270ddf  ⁇  said, ⁇ I´m going to take care of you ⁇ "
+0x00270ddf said, "I´m going to take care of you"
 
 ; 0x00270e00 スタフィー行って来い…………………
 0x00270e00 Go, Stuffy...
@@ -33902,6 +34488,9 @@
 ; 0x00271897 ああ　そういやさっきデンワしたとき
 0x00271897 Oh yeah, when I called earlier.
 
+; 0x002718ba まちがったから　だまって
+0x002718ba I was wrong, so shut up.
+
 ; 0x002718d3 きっちまったかも………
 0x002718d3 I think it´s over...
 
@@ -33966,7 +34555,7 @@
 0x00271c1c I´ll hand it over!
 
 ; 0x00271d33 ラブウィズミー
-0x00271d33 Lovewithmy
+0x00271d33 Lovewizumi
 
 ; 0x00271d42 プ　ロ　テ　イ　ン
 0x00271d42 Plo Tein
@@ -33975,7 +34564,7 @@
 0x00271d55 Massoooooooooo!!
 
 ; 0x00271d87 ラブウィズミー
-0x00271d87 Lovewithmy
+0x00271d87 Lovewizumi
 
 ; 0x00271d96 やあみんな　いいあせかいてるかい？
 0x00271d96 Hey, guys. Are you all busy?
@@ -33999,7 +34588,7 @@
 0x00271e5d It´s been so long...!
 
 ; 0x00271e81 ラブウィズミー
-0x00271e81 Lovewithmy
+0x00271e81 Lovewizumi
 
 ; 0x00271e90 ハマグリボーイ…　そんなにボクとの
 0x00271e90 A clam boy... with me so much.
@@ -34068,7 +34657,7 @@
 0x00272109 Don´t think...
 
 ; 0x00272144 ラブウィズミー
-0x00272144 Lovewithmy
+0x00272144 Lovewizumi
 
 ; 0x00272153 なぜ２人ともおちこんでるんだい？
 0x00272153 Why are you two so down?
@@ -34080,7 +34669,7 @@
 0x00272195 No problem!!
 
 ; 0x002721c3 ラブウィズミー
-0x002721c3 Lovewithmy
+0x002721c3 Lovewizumi
 
 ; 0x002721d2 わかれのあとには　であいがある
 0x002721d2 There´s a date after he splits.
@@ -34092,7 +34681,7 @@
 0x0027220c It´s begun!!
 
 ; 0x0027222e ラブウィズミー
-0x0027222e Lovewithmy
+0x0027222e Lovewizumi
 
 ; 0x0027223d さあ　なみだをふいて
 0x0027223d Come on. Wipe the grass.
@@ -34104,7 +34693,7 @@
 0x00272269 Every time!!!
 
 ; 0x00272299 ラブウィズミー
-0x00272299 Lovewithmy
+0x00272299 Lovewizumi
 
 ; 0x002722a8 あいのたび…　つぎのシティへ行く
 0x002722a8 Every time... I go to the next city.
@@ -34116,7 +34705,7 @@
 0x002722e4 Don´t forget the pen!
 
 ; 0x0027231d ラブウィズミー
-0x0027231d Lovewithmy
+0x0027231d Lovewizumi
 
 ; 0x0027232c つぎのシティに行くかい？」
 0x0027232c Should we go to the next city?」
@@ -34128,7 +34717,7 @@
 0x00272352 No. No.
 
 ; 0x00272383 ラブウィズミー
-0x00272383 Lovewithmy
+0x00272383 Lovewizumi
 
 ; 0x00272392 ナーーーイスガッツ！！
 0x00272392 Naaahhhhhhhhhhhhh!!
@@ -34140,7 +34729,7 @@
 0x002723ca Ha ha ha ha ha!
 
 ; 0x00272411 ラブウィズミー
-0x00272411 Lovewithmy
+0x00272411 Lovewizumi
 
 ; 0x00272420 ボクとのわかれがつらいんだね……
 0x00272420 It must be hard for you to talk to me...
@@ -34152,7 +34741,7 @@
 0x0027245e Touch me anytime!
 
 ; 0x0027255d ラブウィズミー
-0x0027255d Lovewithmy
+0x0027255d Lovewizumi
 
 ; 0x0027256c タッチペンとこころのじゅんびは
 0x0027256c Touchpen and Kokoro´s Junbi
@@ -34164,7 +34753,7 @@
 0x002725ae It´s so long ago!
 
 ; 0x002725e9 ラブウィズミー
-0x002725e9 Lovewithmy
+0x002725e9 Lovewizumi
 
 ; 0x002725f8 つぎのシティに行くかい？」
 0x002725f8 Should we go to the next city?」
@@ -34176,7 +34765,7 @@
 0x0027261e No. No.
 
 ; 0x0027264f ラブウィズミー
-0x0027264f Lovewithmy
+0x0027264f Lovewizumi
 
 ; 0x0027265e ナーーーイスガッツ！！
 0x0027265e Naaahhhhhhhhhhhhh!!
@@ -34188,7 +34777,7 @@
 0x00272696 Ha ha ha ha ha!
 
 ; 0x002726e3 ラブウィズミー
-0x002726e3 Lovewithmy
+0x002726e3 Lovewizumi
 
 ; 0x002726f2 ボクとのわかれがつらいんだね……
 0x002726f2 It must be hard for you to talk to me...
@@ -34201,6 +34790,9 @@
 
 ; 0x00272859 キョロスケ
 0x00272859 Moe
+
+; 0x00272864 あれ？　ゾゾビーのヤツいねぇぞ？？
+0x00272864 Huh? Zozoby´s not here?
 
 ; 0x0027289a スタピー
 0x0027289a Stapy
@@ -34455,7 +35047,7 @@
 0x0027347c That´s not fair...
 
 ; 0x00273656 ラブウィズミー
-0x00273656 Lovewithmy
+0x00273656 Lovewizumi
 
 ; 0x00273665 こ　う　て　つ　の
 0x00273665 Kotetsuno
@@ -34464,7 +35056,7 @@
 0x00273678 Massoooooooooo!!
 
 ; 0x002736aa ラブウィズミー
-0x002736aa Lovewithmy
+0x002736aa Lovewizumi
 
 ; 0x002736b9 タッチしてくれて　ありがとう
 0x002736b9 Thanks for the touch.
@@ -34494,13 +35086,16 @@
 0x0027379d I´m getting hungry.
 
 ; 0x002737cf ラブウィズミー
-0x002737cf Lovewithmy
+0x002737cf Lovewizumi
 
 ; 0x002737de テレることないさ！
 0x002737de Don´t be shy!
 
 ; 0x002737f1 よあけまで　ラブトークで
 0x002737f1 We´ll have a little love talk.
+
+; 0x0027380a もりあがろうじゃないかっ！！
+0x0027380a Let´s get outta here!!
 
 ; 0x0027384f キョロスケ
 0x0027384f Moe
@@ -34512,7 +35107,7 @@
 0x0027386f I knew it. I´m just mad...
 
 ; 0x002738a3 ラブウィズミー
-0x002738a3 Lovewithmy
+0x002738a3 Lovewizumi
 
 ; 0x002738b2 おこっちゃノンノン
 0x002738b2 Okocha nonnon
@@ -34524,7 +35119,7 @@
 0x002738ea Goodbye.
 
 ; 0x00273908 ラブウィズミー
-0x00273908 Lovewithmy
+0x00273908 Lovewizumi
 
 ; 0x00273917 さあ　なみだをふいて
 0x00273917 Come on. Wipe the grass.
@@ -34536,7 +35131,7 @@
 0x00273943 Every time!!!
 
 ; 0x0027397e ラブウィズミー
-0x0027397e Lovewithmy
+0x0027397e Lovewizumi
 
 ; 0x0027398d ボクとラブロードでランデブーする？」
 0x0027398d Will you rendezvous with me on the love road?」
@@ -34548,7 +35143,7 @@
 0x002739c9 No rendezvous
 
 ; 0x00273a06 ラブウィズミー
-0x00273a06 Lovewithmy
+0x00273a06 Lovewizumi
 
 ; 0x00273a15 ン　ン　ン〜〜
 0x00273a15 Mm-hmm-hmm~
@@ -34572,7 +35167,7 @@
 0x00273ad8 Don´t mess with me!
 
 ; 0x00273b00 ラブウィズミー
-0x00273b00 Lovewithmy
+0x00273b00 Lovewizumi
 
 ; 0x00273b0f ン　ン　ン〜　おこっちゃノンノン
 0x00273b0f Mm-hmm-hmm-hmm-hmm-hmm-hmm.
@@ -34802,6 +35397,9 @@
 ; 0x00274516 デンワがあるから　ぜっっったい
 0x00274516 There´s a telephone.
 
+; 0x00274535 デンワして来いよ！！！
+0x00274535 Go call her!!!
+
 ; 0x00274615 dおくびょうのもん
 0x00274615 d Okubyo-no-mon
 
@@ -34964,6 +35562,9 @@
 ; 0x00274cd9 dゆうきのもん
 0x00274cd9 dYuukinomon
 
+; 0x00274ce7 さあ
+0x00274ce7 Come on.
+
 ; 0x00274cec どうぞおとおりください！
 0x00274cec Please go through!
 
@@ -35102,6 +35703,9 @@
 ; 0x0027534a 来なかったり
 0x0027534a Or not.
 
+; 0x0027537e スタピー
+0x0027537e Stapy
+
 ; 0x00275387 どっちやねん！
 0x00275387 Which one?!
 
@@ -35229,7 +35833,7 @@
 0x00275877 Stapy
 
 ; 0x00275880 ……………………うつってもた
-0x00275880 ................................................
+0x00275880 .........
 
 ; 0x00275a3d dまよいのもん
 0x00275a3d D-Mayoi´s.
@@ -35401,6 +36005,9 @@
 
 ; 0x002760cb ぬすみ出してしまったのだよ
 0x002760cb I took it out.
+
+; 0x002760f8 dしんじつのもん
+0x002760f8 d Shinjitsu-mon
 
 ; 0x00276108 モナムールストーンの力を
 0x00276108 The power of Monamur Stone.
@@ -35702,6 +36309,9 @@
 ; 0x00276ddc ゲットしたよ！
 0x00276ddc Got it!
 
+; 0x00276deb たおしたテキを　大きなしんじゅに
+0x00276deb I´ll give you a big shinju.
+
 ; 0x00276e0c かえられるよ！
 0x00276e0c I can go home!
 
@@ -35856,7 +36466,7 @@
 0x002772b7 I mean, Mr. Stuffy.
 
 ; 0x002772d2 キョロスケさんっていう　ステキな
-0x002772d2 It´s Kyorosuke.
+0x002772d2 It´s Moe.
 
 ; 0x002772f3 お友だちが　いますから！
 0x002772f3 I have friends!
@@ -35922,7 +36532,7 @@
 0x00277674 Mater
 
 ; 0x0027767b キョロスケさんと
-0x0027767b With Kyorosuke
+0x0027767b With Moe
 
 ; 0x0027768c スタフィーさんが
 0x0027768c Mr. Stuffy.
@@ -36001,6 +36611,9 @@
 
 ; 0x00277937 できます
 0x00277937 I can do it.
+
+; 0x00277953 マテル
+0x00277953 Mater
 
 ; 0x0027795a しかも　たおしたテキはすべて
 0x0027795a What´s more, everything we´ve done has been ruined.
@@ -36081,7 +36694,7 @@
 0x00277bb8 Good luck, you two.
 
 ; 0x00277bcf キョロスケさんを　見つけて
-0x00277bcf Find Kyorosuke.
+0x00277bcf Find Moe.
 
 ; 0x00277bea あげてくださいね！
 0x00277bea Give it to me!
@@ -36109,6 +36722,9 @@
 
 ; 0x00277ded ゆうじょうのもん
 0x00277ded Yujonomon
+
+; 0x00277e03 です
+0x00277e03 It is.
 
 ; 0x00277e33 dゆうじょうのもん
 0x00277e33 D Yuujounomon
@@ -36279,7 +36895,7 @@
 0x002785d8 Moe
 
 ; 0x002785e3 まあ　キョロスケさまにかかれば
-0x002785e3 Well, with Master Kyorosuke,
+0x002785e3 Well, with Master Moe,
 
 ; 0x00278602 どんなにつよいヤツでも…
 0x00278602 No matter how strong...
@@ -36301,6 +36917,9 @@
 
 ; 0x002787b4 ようこそ　テンカイの王子
 0x002787b4 Welcome, Prince Tenkai.
+
+; 0x002787cd スタフィー　ここまで来たことは
+0x002787cd Stuffy, I´ve never come this far.
 
 ; 0x002787ec ほめてあげるザマス
 0x002787ec I praise you, zamas.
@@ -36378,7 +36997,7 @@
 0x00278a6c Say it, Zamas!
 
 ; 0x00278a93 dデジール
-0x00278a93 dDezir
+0x00278a93 Dezir
 
 ; 0x00278a9d モナムールストーンを
 0x00278a9d Monamur stone.
@@ -36387,7 +37006,7 @@
 0x00278ab2 If you want it back
 
 ; 0x00278ad7 dデジール
-0x00278ad7 dDezir
+0x00278ad7 Dezir
 
 ; 0x00278ae1 この　つよく！ウツクシく！
 0x00278ae1 You´re strong! Utsukushiku!
@@ -36399,7 +37018,7 @@
 0x00278b13 I´ll try to beat him. Zamasu.
 
 ; 0x00278b38 dデジール
-0x00278b38 dDezir
+0x00278b38 Dezir
 
 ; 0x00278b42 ホーーーッホッホッホッホッホ
 0x00278b42 Hooooooooooooooooooooooo!
@@ -36495,7 +37114,7 @@
 0x00278eb5 Please, gobuji!
 
 ; 0x00278f55 dゆうきのもん
-0x00278f55 dYuukinomon
+0x00278f55 Yuukinomon
 
 ; 0x00278f63 このしろは　デジールがしはい
 0x00278f63 I, Shiroha, am Desire.
@@ -36507,7 +37126,7 @@
 0x00278f9d No peace.
 
 ; 0x00278fc4 dゆうきのもん
-0x00278fc4 dYuukinomon
+0x00278fc4 Yuukinomon
 
 ; 0x00278fd2 それが今では　デジールの力で
 0x00278fd2 But now, with Desire´s power.
@@ -36519,7 +37138,7 @@
 0x00279000 It´s changed.
 
 ; 0x00279029 dゆうきのもん
-0x00279029 dYuukinomon
+0x00279029 Yuukinomon
 
 ; 0x00279037 どうか　しろの
 0x00279037 Please.
@@ -36555,7 +37174,7 @@
 0x002791a8 It worked.
 
 ; 0x002791cd dゆうきのもん
-0x002791cd dYuukinomon
+0x002791cd Yuukinomon
 
 ; 0x002791db コラル王子の　おつきのメイドで
 0x002791db Prince Coral´s maid.
@@ -36602,6 +37221,9 @@
 ; 0x00279395 はたらいていたんです
 0x00279395 I was working.
 
+; 0x002793bc dゆうきのもん
+0x002793bc dYuukinomon
+
 ; 0x002793ca また　かのじょにあえる日を
 0x002793ca I´ll see you again someday.
 
@@ -36642,7 +37264,7 @@
 0x0027957c The only thing I care about is Teki.
 
 ; 0x00279591 よーーーくねらって
-0x00279591 Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah
+0x00279591 Aaaaaaaaaaaaaaaa
 
 ; 0x002795a4 使うことだよ
 0x002795a4 It´s to use.
@@ -36678,7 +37300,7 @@
 0x0027972c The only thing I care about is Teki.
 
 ; 0x00279741 よーーーくねらって
-0x00279741 Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah
+0x00279741 Aaaaaaaaaaaaaaaa
 
 ; 0x00279754 使うことだよ
 0x00279754 It´s to use.
@@ -36759,7 +37381,7 @@
 0x00279ba9 dYuukinomon
 
 ; 0x00279bb7 『キョロスケさまのいえ』の
-0x00279bb7 “Sir Kyorosuke’s No”
+0x00279bb7 “Sir Moe’s No”
 
 ; 0x00279bd2 『海のねいろ』には　もう
 0x00279bd2 There´s no more sea.
@@ -36795,7 +37417,7 @@
 0x00279d43 d Shinjitsu-mon
 
 ; 0x00279d53 『キョロスケさまのいえ』に
-0x00279d53 “Kyorosuke-sama’s No”
+0x00279d53 “Moe-sama’s No”
 
 ; 0x00279d6e いろいろ　ついかされたのは
 0x00279d6e I´ve had a lot of fun.
@@ -36902,6 +37524,9 @@
 ; 0x0027a31e ククク……
 0x0027a31e Hehehe...
 
+; 0x0027a329 このワタクシを　かんぜんに
+0x0027a329 You´ve got me.
+
 ; 0x0027a344 たおすですって？
 0x0027a344 Taosu?
 
@@ -36996,7 +37621,7 @@
 0x0027a630 dDezir
 
 ; 0x0027a63a ホーーーーーーーーーッホッホ
-0x0027a63a Hooooooooooooooooooooooooooooooooooooooooooooo!
+0x0027a63a Hoooooooooooooooo!
 
 ; 0x0027a657 ホッホッホッホッホッホッホ
 0x0027a657 Ho-ho-ho-ho-ho-ho
@@ -37011,7 +37636,7 @@
 0x002dd68e Moe
 
 ; 0x002dd699 ステキなキョロスケさまとは
-0x002dd699 What a wonderful Kyorosuke-sama
+0x002dd699 What a wonderful Moe-sama
 
 ; 0x002dd6b4 オレさまのことだ！　なに！？
 0x002dd6b4 It’s about me! What?!
@@ -37140,7 +37765,7 @@
 0x002dda2b Someday, my guhehehe.
 
 ; 0x002dda46 キョロスケおとうと
-0x002dda46 Kyorosuke Dad
+0x002dda46 Moe Dad
 
 ; 0x002dda59 オレさまがいえにいない
 0x002dda59 I´m not here.
@@ -37152,7 +37777,7 @@
 0x002dda85 He´s doing it for me.
 
 ; 0x002dda98 キョロスケいもうと
-0x002dda98 Kyorosuke, I´m trying to
+0x002dda98 Moe, I´m trying to
 
 ; 0x002ddaab とくいりょうりは　おでん
 0x002ddaab Tokuiri is oden
@@ -37164,7 +37789,7 @@
 0x002ddae1 Oden and aji are coming out.
 
 ; 0x002ddafa キョロスケおとうと
-0x002ddafa Kyorosuke Dad
+0x002ddafa Moe Dad
 
 ; 0x002ddb0d いちばん下の　おとうとだ
 0x002ddb0d It´s my youngest dad.
@@ -37201,6 +37826,9 @@
 
 ; 0x002ddbfe サイマミィ
 0x002ddbfe Cymamy
+
+; 0x002ddc09 まったくはなしをきかねぇ
+0x002ddc09 I don´t know what to say.
 
 ; 0x002ddc22 どしどしあるくすがたは
 0x002ddc22 Doshidoshiru kusugata
@@ -37502,6 +38130,9 @@
 ; 0x002de474 スタフィーとスタピーの
 0x002de474 Staphy and Stapy.
 
+; 0x002de48b かあちゃんだ！　子供思いの
+0x002de48b It´s Mommy! She cares about kids.
+
 ; 0x002de4a6 やさしいかあちゃんだぞ
 0x002de4a6 You´re a nice mom.
 
@@ -37530,7 +38161,7 @@
 0x002de55c You´re so busy!
 
 ; 0x002de573 ラブウィズミー
-0x002de573 Lovewithmy
+0x002de573 Lovewizumi
 
 ; 0x002de582 マッスルないずみのようせいだ！
 0x002de582 It´s because you´re like a muscle!
@@ -37593,7 +38224,7 @@
 0x002de729 Warp 4
 
 ; 0x002de73c げぇえええ！！　オメェ
-0x002de73c Gaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!
+0x002de73c Gaaaaaaaaaaaaaaaaa!!
 
 ; 0x002de753 てにうんこ　もってんのか？
 0x002de753 Do you have a poop?
@@ -37721,6 +38352,9 @@
 ; 0x002deb7e オレさまのテキじゃねぇけど
 0x002deb7e It´s not my fault.
 
+; 0x002deb99 ムー
+0x002deb99 Mu
+
 ; 0x002deb9e コイツによくにた　ブタとウシを
 0x002deb9e He´s got a pig and a cow.
 
@@ -37801,6 +38435,9 @@
 
 ; 0x002dee60 ほんとうに　サカナか？
 0x002dee60 Is it really a fish?
+
+; 0x002dee77 アンコナイト
+0x002dee77 Anconite
 
 ; 0x002dee84 オデコについた　あんころモチを
 0x002dee84 I´ll give you the mochi from when I was on your forehead.
@@ -38003,6 +38640,9 @@
 ; 0x002df4b4 ドロローが口ぐせだな
 0x002df4b4 That´s what Drool says.
 
+; 0x002df57d ピノ
+0x002df57d Pino
+
 ; 0x002df582 どっからともなく　あらわれて
 0x002df582 He appeared out of nowhere.
 
@@ -38101,6 +38741,9 @@
 
 ; 0x002df844 まっかなかおして　すいりゅうを
 0x002df844 Let´s get a watermelon.
+
+; 0x002df863 出してきやがる　んん？
+0x002df863 He´s letting it out. Hm?
 
 ; 0x002df87a まっかなかおはタコだからか…
 0x002df87a Maybe it´s because she´s an octopus?
@@ -38402,6 +39045,9 @@
 ; 0x002e0231 おとこだな！　まぁオレさま
 0x002e0231 He’s a man! Well, I’m
 
+; 0x002e024c にはかなわなかったけどな！
+0x002e024c I couldn´t beat him, though!
+
 ; 0x002e033d ミーマム
 0x002e033d Mimam
 
@@ -38618,6 +39264,9 @@
 ; 0x002e09d2 まさか　中から出るとはな
 0x002e09d2 I didn´t think you´d leave.
 
+; 0x002e09eb ラテ
+0x002e09eb Laté
+
 ; 0x002e09f0 下にいるあいぼうと
 0x002e09f0 He´s down there. He´s trying to be nice.
 
@@ -38701,6 +39350,9 @@
 
 ; 0x002e0c2d オウルン王
 0x002e0c2d King Oulun
+
+; 0x002e0c38 なんでかなぁ　デジールに
+0x002e0c38 I don´t know why, but Déjà vu.
 
 ; 0x002e0c51 ひとめぼれだなんて…
 0x002e0c51 At first sight...
@@ -38985,7 +39637,7 @@
 0x00300806 「Prince Coral!」
 
 ; 0x00300853 ◆キョロスケ・スタピー
-0x00300853 ◆Kyorosuke Stapy
+0x00300853 ◆Moe Stapy
 
 ; 0x00300871 「はあ！！！！！！？」
 0x00300871 「Huh!!!?」
@@ -39001,6 +39653,9 @@
 
 ; 0x003008f0 　よかった」
 0x003008f0 Good.」
+
+; 0x00300916 ◆マテル
+0x00300916 ◆Mater
 
 ; 0x00300926 「コラル王子さえごぶじなら
 0x00300926 「If only Prince Coral was a gobuji.
@@ -39300,7 +39955,10 @@
 0x00301930 What a persistent old lady!」
 
 ; 0x003019a7 とびらまじん王のおくにねむる
-0x003019a7 Sleeping deep inside Tobiramajin-o
+0x003019a7 Sleeping deep inside Tobira Majin-o
+
+; 0x003019c4 ほんたいが　ブジなかぎり
+0x003019c4 As long as it´s true,
 
 ; 0x003019dd ワタクシは　なんどでも
 0x003019dd I´ll do anything.
@@ -39440,11 +40098,6 @@
 ; 0x0030208f 　いやザマス！　いや………」
 0x0030208f No, no! No...」
 
-; 0x003022ee 悟糊坂
-0x003022ee Gokorizaka
-
-; 0x00302824 使用可能メモリサイズ取得
-0x00302824 Acquire usable memory size
 
 ; 0x0032cf60 オープニングデモ
 0x0032cf60 Opening demo
@@ -39567,7 +40220,7 @@
 0x0032d1f7 Zkan
 
 ; 0x0032d1fe キョロスケさまのいえ
-0x0032d1fe Kyorosukesama´s no.
+0x0032d1fe Moesama´s no.
 
 ; 0x0032d213 おみせ
 0x0032d213 Show me.
@@ -39602,6 +40255,9 @@
 ; 0x0032d2a9 海のねいろファンキー
 0x0032d2a9 Sea neiro funky
 
+; 0x0032d2be 海のねいろしゃみせん
+0x0032d2be Sea sneeze
+
 ; 0x0032d2d3 ゲームオーバー１
 0x0032d2d3 Game Over 1
 
@@ -39610,6 +40266,9 @@
 
 ; 0x0032d2f5 マテルのテーマ
 0x0032d2f5 Matter theme
+
+; 0x0032d304 なし
+0x0032d304 No.
 
 ; 0x0032d309 きょく５８
 0x0032d309 Kyoku58
@@ -39654,7 +40313,7 @@
 0x00352daf ◆Papasta
 
 ; 0x00352dc1 「キョロスケではないか
-0x00352dc1 「It´s Kyorosuke.
+0x00352dc1 「It´s Moe.
 
 ; 0x00352dd8 　ど　どうしたんじゃ
 0x00352dd8 Wh-What is it?
@@ -39669,7 +40328,7 @@
 0x00352e52 Stuffy and Stuffy Friends
 
 ; 0x00352e71 キョロスケです
-0x00352e71 Kyorosuke.
+0x00352e71 Moe.
 
 ; 0x00352eb0 ずいぶん　大あわてです
 0x00352eb0 It´s quite a rush.
@@ -39901,6 +40560,9 @@
 
 ; 0x00353a43 　きいたんです」
 0x00353a43 I heard.」
+
+; 0x00353a82 ◆マテル
+0x00353a82 ◆Mater
 
 ; 0x00353a92 「テンカイという王国の王子は
 0x00353a92 「The prince of the kingdom, tenkai
@@ -40202,6 +40864,9 @@
 ; 0x00366b12 テンカイのあかし
 0x00366b12 Tenkai no Akane
 
+; 0x00366b23 デジールのドレス
+0x00366b23 Desire´s Dress
+
 ; 0x00366b34 デジールのメイク
 0x00366b34 Desire makeup
 
@@ -40222,6 +40887,9 @@
 
 ; 0x00366b90 ひよこ
 0x00366b90 Chick
+
+; 0x00366b97 トキ
+0x00366b97 Toki
 
 ; 0x00366b9c さばくのぼうし
 0x00366b9c Sabakunoboshi
@@ -40370,6 +41038,9 @@
 ; 0x00366e78 うさちゃん
 0x00366e78 Usagi!
 
+; 0x00366e83 ☆☆☆☆☆☆☆☆☆☆
+0x00366e83 ☆☆☆☆☆☆☆☆☆☆☆☆☆
+
 ; 0x00366e98 きるもの
 0x00366e98 Kite
 
@@ -40501,6 +41172,9 @@
 
 ; 0x00367190 これで　うたえば
 0x00367190 Now, if you hit me with this,
+
+; 0x003671a1 たのしく　うたえ
+0x003671a1 Pleasant.
 
 ; 0x003671b2 ちゃいそうだね
 0x003671b2 Looks like it´s gonna happen.
@@ -40794,13 +41468,16 @@
 0x00367863 It´s princess.
 
 ; 0x00367872 キョロスケにへんそう
-0x00367872 Kyorosuke´s weird
+0x00367872 Moe´s weird
 
 ; 0x00367887 した　かわいい
 0x00367887 Yes, it´s cute.
 
 ; 0x00367896 きせかえだよ
 0x00367896 It´s a rematch.
+
+; 0x003678a3 げんじ！　せんし！
+0x003678a3 Genji! Senji!
 
 ; 0x003678b6 べんけい！　これなら
 0x003678b6 Benkei! Now
@@ -41102,6 +41779,9 @@
 ; 0x00367f85 フライトアテンダント
 0x00367f85 Flight attendant
 
+; 0x00367f9a さんになったね
+0x00367f9a You´re san.
+
 ; 0x00367fab ばちっと　きめたら
 0x00367fab If you make up your mind,
 
@@ -41301,7 +41981,7 @@
 0x0036843a It´s a shameless spiel.
 
 ; 0x0036844d キョロスケと力を
-0x0036844d Kyorosuke and power
+0x0036844d Moe and power
 
 ; 0x0036845e あわせて　テキを
 0x0036845e Let´s do this together.
@@ -41401,6 +42081,9 @@
 
 ; 0x00374427 レアものの
 0x00374427 It´s rare.
+
+; 0x00374432 しょうひんが
+0x00374432 Shohinga
 
 ; 0x0037443f きたピョン
 0x0037443f Kitapyon
@@ -41702,6 +42385,9 @@
 ; 0x00374a61 どはでスーツ
 0x00374a61 Dohade suit
 
+; 0x00374a6e フラダンスグッズ
+0x00374a6e Fradance goods
+
 ; 0x00374a7f フラダンスふく
 0x00374a7f Fladansefuku
 
@@ -42002,6 +42688,9 @@
 ; 0x004a3968 ハイハイスピン
 0x004a3968 High spin
 
+; 0x004a3977 かべじゃんぷ
+0x004a3977 Kabejanpu
+
 ; 0x004a3984 アクション２３
 0x004a3984 Action23
 
@@ -42093,7 +42782,7 @@
 0x004a3bb9 A hoemakuru... Wow.
 
 ; 0x004a3bd5 Gボタン……オスト
-0x004a3bd5 [G]... Ost
+0x004a3bd5 Button... Ost
 
 ; 0x004a3be7 タコ……カワル……ツカイカタ
 0x004a3be7 Octopus... Kawar... Tsukaikata
@@ -42132,7 +42821,7 @@
 0x004a3c85 Spiel 10
 
 ; 0x004a3c90 キョロスケさんといっしょに
-0x004a3c90 With Kyorosuke
+0x004a3c90 With Moe
 
 ; 0x004a3cab 力をあわせて…　その力が
 0x004a3cab Together... that power.
@@ -42301,6 +42990,9 @@
 
 ; 0x004a42b1 した　スピンじゃ　なみまで
 0x004a42b1 I did. It´s a spin.
+
+; 0x004a42cc 使えば　たかくじゃんぷできるぞ
+0x004a42cc If you use it, you´ll be able to use it.
 
 ; 0x004a42eb スピンアタックをよりきょうりょくに
 0x004a42eb Make a spin attack more kyoryo.
@@ -42602,6 +43294,9 @@
 ; 0x008090c8 ダレかと　はなすことが
 0x008090c8 I don´t know who it is.
 
+; 0x008090df できる　デンワだな！！
+0x008090df You can do it!
+
 ; 0x008090f6 ファックスはついてないぞ
 0x008090f6 There´s no fax.
 
@@ -42902,6 +43597,9 @@
 ; 0x00809bc6 わふうテイストの
 0x00809bc6 The wafuu taste
 
+; 0x00809bd7 へやになるよな
+0x00809bd7 It´ll be a mess.
+
 ; 0x00809c00 キョロスケ
 0x00809c00 Moe
 
@@ -42942,7 +43640,7 @@
 0x00809d32 Moe
 
 ; 0x00809d3d あああああ！！！！　ったく
-0x00809d3d Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!
+0x00809d3d Aaaaaaaaaaaa
 
 ; 0x00809d58 あたらしいのに　もうラクガキ
 0x00809d58 It´s so new. You´re such a brat.
@@ -43202,6 +43900,9 @@
 ; 0x0080a691 うれしいんだぜ…
 0x0080a691 I´m happy...
 
+; 0x0080a6bc キョロスケ
+0x0080a6bc Moe
+
 ; 0x0080a6c7 なんもしんぱいする
 0x0080a6c7 I don´t know what to do.
 
@@ -43296,7 +43997,7 @@
 0x0080a9e7 Moe
 
 ; 0x0080a9f2 っだああああ！　やさしくタッチ
-0x0080a9f2 Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!
+0x0080a9f2 Ahhhhhhhhhhhhhhhhhhh
 
 ; 0x0080aa11 しろよな！　こわれたら
 0x0080aa11 Do it! If you break
@@ -43502,6 +44203,9 @@
 ; 0x0080b112 たいせつに　しろよな……
 0x0080b112 Let´s make it a feast...
 
+; 0x0080b145 キョロスケ
+0x0080b145 Moe
+
 ; 0x0080b150 かぞくって　いいよな…
 0x0080b150 It´s nice to be able to sneak up on them...
 
@@ -43686,7 +44390,7 @@
 0x0080b776 I´m digital.
 
 ; 0x0080b78f パソコンで　えとか　かいたり
-0x0080b78f You know, like, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, you know, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like,
+0x0080b78f You know, like, 
 
 ; 0x0080b7ac するんだよなー…
 0x0080b7ac You do it, don´t you?
@@ -43801,6 +44505,9 @@
 
 ; 0x0080bba5 キョロスケ
 0x0080bba5 Moe
+
+; 0x0080bbb0 しかのつのって　なんか
+0x0080bbb0 I don´t know what you mean.
 
 ; 0x0080bbc7 かっこいいかたち　してるよな
 0x0080bbc7 Looks cool.
@@ -44102,6 +44809,9 @@
 ; 0x0080c636 ハデヒラリさんの　スキな
 0x0080c636 Mr. Hadehirari´s favorite
 
+; 0x0080c64f タイプって　いったい
+0x0080c64f What´s a type?
+
 ; 0x0080c664 どんなヤツなのかな…
 0x0080c664 I wonder what he´s like...
 
@@ -44402,6 +45112,9 @@
 ; 0x0080d0c1 リフォームしたのに　なんで
 0x0080d0c1 I remodeled it. Why?
 
+; 0x0080d0dc このあなだけ　ふさがなかった
+0x0080d0dc She was the only one who wasn´t blocked.
+
 ; 0x0080d0f9 んだろうな…　まさか！？
 0x0080d0f9 I bet... No way!
 
@@ -44496,7 +45209,7 @@
 0x0080d41b When you´re hungry, dondondon.
 
 ; 0x0080d434 ドンドン　おとがなるんだ
-0x0080d434 Dondondondondondondondondondondondondondondondondondondondondondondondondondon
+0x0080d434 Dondondondondondondon
 
 ; 0x0080d44d いったいなんのおとなんだろ…
 0x0080d44d What kind of man is he...?
@@ -44701,6 +45414,9 @@
 
 ; 0x0080daf0 と思うけどなぁー
 0x0080daf0 Or so I think.
+
+; 0x0080db1b キョロスケ
+0x0080db1b Moe
 
 ; 0x0080db26 ったく　なんども
 0x0080db26 Geez, how many times?
@@ -45002,6 +45718,9 @@
 ; 0x0080e4ad よく　ブタのちょきんばこ
 0x0080e4ad Pig´s Chokinbako
 
+; 0x0080e4c6 タッチしてくれたなー
+0x0080e4c6 You touched me.
+
 ; 0x0080e4f5 キョロスケ
 0x0080e4f5 Moe
 
@@ -45302,6 +46021,9 @@
 ; 0x0080ee97 オレさまスタフィーとは
 0x0080ee97 I´m Stuffy.
 
+; 0x0080eeae いろんなぼうけん　してきた
+0x0080eeae I´ve played lots of games.
+
 ; 0x0080eec9 からよー　うんうん
 0x0080eec9 From. Yeah, yeah.
 
@@ -45336,7 +46058,7 @@
 0x0080efde Hello! Sorry for the wait.
 
 ; 0x0080effb ぼ　ボクキョロスケです！！
-0x0080effb I´m Bokkyorosuke!!
+0x0080effb I´m BokMoe!!
 
 ; 0x0080f016 おまちしてましたデンワ！！
 0x0080f016 I´ve been waiting for you!
@@ -45454,6 +46176,9 @@
 
 ; 0x0080f3db ツーツー
 0x0080f3db Two-two
+
+; 0x0080f3e4 ツー
+0x0080f3e4 Tu
 
 ; 0x0080f40c キョロスケ
 0x0080f40c Moe
@@ -45601,6 +46326,9 @@
 
 ; 0x0080f8de おねぇさんってよぶ日が
 0x0080f8de The day when I call you onee-san
+
+; 0x0080f8f5 くるのかな　でへでへ
+0x0080f8f5 I wonder if he´s coming.
 
 ; 0x0080f924 キョロスケ
 0x0080f924 Moe
@@ -45902,6 +46630,9 @@
 ; 0x00810316 なんかふくざつだ…
 0x00810316 Something´s wrong...
 
+; 0x00810343 キョロスケ
+0x00810343 Moe
+
 ; 0x0081034e かあちゃんみてぇに
 0x0081034e Like Mom.
 
@@ -46201,6 +46932,9 @@
 
 ; 0x00810d13 いつか　うまいめしを
 0x00810d13 Someday, I´ll make you a good meal.
+
+; 0x00810d28 はらいっぱい　
+0x00810d28 Lots of them.
 
 ; 0x00810d37 くわせてやるからな！
 0x00810d37 I´ll make you do it!
@@ -46502,6 +47236,9 @@
 ; 0x0081177a キョロスケ
 0x0081177a Moe
 
+; 0x00811785 いつか　オレさまのこと
+0x00811785 Someday, I´ll...
+
 ; 0x0081179c にいちゃんって
 0x0081179c Nii-chan?
 
@@ -46802,6 +47539,9 @@
 ; 0x008121bd せんざいが　はんがくだ！！
 0x008121bd Senzai is rice!
 
+; 0x008121d8 かいに行かねぇと！！
+0x008121d8 I have to go!
+
 ; 0x00812207 キョロスケ
 0x00812207 Moe
 
@@ -46878,7 +47618,7 @@
 0x00812477 I´m Hadehirareborn.
 
 ; 0x00812490 キョロスケよりボンボーンさんが
-0x00812490 From kyorosuke to bonbonne.
+0x00812490 From Moe to bonbonne.
 
 ; 0x008124af タイプボーン？　だって？
 0x008124af Typeborn?
@@ -46926,7 +47666,7 @@
 0x00812629 Yes, this way.
 
 ; 0x00812636 キョロスケさまのいえー
-0x00812636 Kyorosuke-sama´s...
+0x00812636 Moe-sama´s...
 
 ; 0x00812661 キョロスケ
 0x00812661 Moe
@@ -47101,6 +47841,9 @@
 
 ; 0x00812c17 まてよ！　おい！！
 0x00812c17 Wait! Hey!
+
+; 0x00812c2a ……きれちまった
+0x00812c2a ...I´m done.
 
 ; 0x00812c55 キョロスケ
 0x00812c55 Moe
@@ -47402,6 +48145,9 @@
 ; 0x00813615 オレさまが　つくった
 0x00813615 I made it.
 
+; 0x0081362a めしを　まいにちたらふく
+0x0081362a Meshi wo Mai ni Chirafuku
+
 ; 0x00813643 くってやがるよ　しんぱいすんな
 0x00813643 Don´t be shy.
 
@@ -47702,6 +48448,9 @@
 ; 0x00813fef さんなんが　こわがるだろー
 0x00813fef I don´t know why you´re so scared.
 
+; 0x0081400a でんきつけてやれよ！
+0x0081400a Let´s kick his ass!
+
 ; 0x00814039 キョロスケ
 0x00814039 Moe
 
@@ -47718,7 +48467,7 @@
 0x008140af Moe
 
 ; 0x008140ba ってぇえええ！！　いきなり
-0x008140ba Heyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy!!
+0x008140ba Heyyyyyy!!
 
 ; 0x008140d5 でんききるから　つくえの
 0x008140d5 I´ll make it because it´s so big.
@@ -48002,6 +48751,9 @@
 ; 0x00814aaa ねぇからな！！
 0x00814aaa I won´t!!
 
+; 0x00814ad3 キョロスケ
+0x00814ad3 Moe
+
 ; 0x00814ade そんな　ところタッチしても
 0x00814ade You can touch that.
 
@@ -48215,20 +48967,6 @@
 ; 0x0081523a ホントにないんだからな！
 0x0081523a It really isn´t here!
 
-; 0x00817d8e 仙‾美
-0x00817d8e Sen~mi
-
-; 0x00817e16 貞¥美
-0x00817e16 Sadafumi
-
-; 0x0081b1ba ｢獎ヰ
-0x0081b1ba 「Bensui
-
-; 0x0081b830 ｡喩履y
-0x0081b830  ⁇ Y ⁇ "
-
-; 0x0081c1e4 尖狢愚_p
-0x0081c1e4 Pointy fool_p
 
 ; 0x00825bf1 ここには、にしゅうめを
 0x00825bf1 Here´s a carrot.
@@ -48272,6 +49010,9 @@
 ; 0x00825d0e かいがら
 0x00825d0e Kagara
 
+; 0x00825d1c を　
+0x00825d1c O.
+
 ; 0x00825d26 フォーク
 0x00825d26 Fork
 
@@ -48301,6 +49042,9 @@
 
 ; 0x00825ddc 使ってみたらどうかしら
 0x00825ddc Why don´t you try it?
+
+; 0x00825df3 かいがらは　もうすぐそこに
+0x00825df3 It´s almost there.
 
 ; 0x00825e0e あるはずよ　しんちょうに
 0x00825e0e There´s gotta be one.
@@ -48389,6 +49133,9 @@
 ; 0x0082606f せいかいのものを　
 0x0082606f I´ll give you something.
 
+; 0x00826087 ３つ
+0x00826087 Three.
+
 ; 0x00826091 あつめてね
 0x00826091 Gather up.
 
@@ -48397,6 +49144,12 @@
 
 ; 0x008260ae マージャンパイ
 0x008260ae Marjanpai
+
+; 0x008260c5 あと
+0x008260c5 Also
+
+; 0x008260cf ２つ
+0x008260cf Two.
 
 ; 0x008260d9 さがしましょう
 0x008260d9 Let´s find him.
@@ -48409,6 +49162,12 @@
 
 ; 0x00826109 マージャンパイ
 0x00826109 Marjanpai
+
+; 0x00826120 あと
+0x00826120 Also
+
+; 0x0082612a １つ
+0x0082612a One.
 
 ; 0x00826134 さがしましょう
 0x00826134 Let´s find him.
@@ -48513,7 +49272,7 @@
 0x00826400 Oh no!
 
 ; 0x00826412 キョロスケの
-0x00826412 Kyorosuke´s
+0x00826412 Moe´s
 
 ; 0x0082641f おとうとたち
 0x0082641f Dads
@@ -48527,8 +49286,14 @@
 ; 0x00826457 きょうだいは　ぜんぶで
 0x00826457 All siblings.
 
+; 0x00826473 ３人
+0x00826473 Three.
+
 ; 0x00826480 のこりのきょうだいは　あと
 0x00826480 Nokori´s sibling is later.
+
+; 0x008264a0 ２人
+0x008264a0 Two.
 
 ; 0x008264ad そういえば　おとうとのいた
 0x008264ad Come to think of it, Dad...
@@ -48547,6 +49312,9 @@
 
 ; 0x0082652c いそいでさいごの
 0x0082652c In a hurry
+
+; 0x00826542 １人
+0x00826542 One.
 
 ; 0x0082654f 見つけてあげてね
 0x0082654f Find him.
@@ -48602,6 +49370,9 @@
 ; 0x008266e3 さんが
 0x008266e3 Mr
 
+; 0x008266ea さらわれちゃった！！！
+0x008266ea She was kidnapped!!!
+
 ; 0x00826701 たすけだしてあげて！
 0x00826701 Save him!
 
@@ -48646,6 +49417,9 @@
 
 ; 0x0082683c をやっつけてあげてね
 0x0082683c Take care of him.
+
+; 0x00826851 もう
+0x00826851 Already.
 
 ; 0x0082685b アイシャーク
 0x0082685b Ishark
@@ -48815,6 +49589,9 @@
 ; 0x00826d3b しょうがないんだから！！
 0x00826d3b I can´t help it!!
 
+; 0x00826d5a ２人
+0x00826d5a Two.
+
 ; 0x00826d64 を見つけてね
 0x00826d64 Find it.
 
@@ -48901,6 +49678,9 @@
 
 ; 0x00826fbd こうしゅうデンワ
 0x00826fbd Koshudenwa
+
+; 0x00826fd3 を使ってみてね
+0x00826fd3 Try it.
 
 ; 0x00826fe8 すがたクリーム
 0x00826fe8 Sugar cream
@@ -49008,7 +49788,7 @@
 0x008272fe Use it
 
 ; 0x00827307 キョロスケと　はなしてみて
-0x00827307 Let Kyorosuke go.
+0x00827307 Let Moe go.
 
 ; 0x00827322 シティにかえるほうほうが分かるはずよ
 0x00827322 You´ll know better if you switch to the city.
@@ -49202,6 +49982,9 @@
 ; 0x0082788d を止めないと
 0x0082788d We have to stop it.
 
+; 0x0082789a たいへんなことになっちゃうみたい！
+0x0082789a This is going to be a big deal!
+
 ; 0x008278bd ２人できょうりょくして
 0x008278bd The two of us made fun of him.
 
@@ -49255,6 +50038,12 @@
 
 ; 0x00827a5f オウルン王
 0x00827a5f King Oulun
+
+; 0x00827a6f に　
+0x00827a6f Ni
+
+; 0x00827a79 ちず
+0x00827a79 Chizu
 
 ; 0x00827a83 をとられちゃった！
 0x00827a83 He took it!
@@ -49349,6 +50138,9 @@
 ; 0x00827d8b ステージセレクトにもどれる
 0x00827d8b It´s also a stage selection.
 
+; 0x00827dab のよ
+0x00827dab No.
+
 ; 0x00827f51 ・・・・・・・・
 0x00827f51 .. ..
 
@@ -49425,7 +50217,7 @@
 0x00828199 Marjanpai 3
 
 ; 0x008281aa 『パーピン』という　マージャンパイ
-0x008281aa  ⁇ ´s called ⁇ Papin ⁇ "
+0x008281aa  is called "Papin "
 
 ; 0x008281cd なのじゃ　しけんに出るのじゃ
 0x008281cd What are you going to do?
@@ -49434,7 +50226,7 @@
 0x008281ea Keep in mind.
 
 ; 0x008281fd キョロスケおとうと
-0x008281fd Kyorosuke Dad
+0x008281fd Moe Dad
 
 ; 0x00828210 ミドリのおとうとなのじゃ
 0x00828210 Midori´s father.
@@ -49446,7 +50238,7 @@
 0x00828242 No, I don´t.
 
 ; 0x0082824d キョロスケいもうと
-0x0082824d Kyorosuke, I´m trying to
+0x0082824d Moe, I´m trying to
 
 ; 0x00828260 ピンクのいもうとなのじゃ
 0x00828260 It´s my pink cousin.
@@ -49458,7 +50250,7 @@
 0x00828296 It´s much better.
 
 ; 0x008282ab キョロスケおとうと
-0x008282ab Kyorosuke Dad
+0x008282ab Moe Dad
 
 ; 0x008282be あかいおとうとなのじゃ
 0x008282be I´m a red-faced man.
@@ -49501,6 +50293,9 @@
 
 ; 0x008283f1 サッカーのほうが
 0x008283f1 Soccer is better
+
+; 0x00828402 ナウいのじゃ
+0x00828402 It´s now.
 
 ; 0x0082840f すがたクリーム
 0x0082840f Sugar cream
@@ -49602,13 +50397,13 @@
 0x008286cb Moe
 
 ; 0x008286d6 キョロスケなのじゃ
-0x008286d6 It´s Kyorosuke.
+0x008286d6 It´s Moe.
 
 ; 0x008286e9 どこからどう見ても
 0x008286e9 No matter how you look at it
 
 ; 0x008286fc キョロスケなのじゃ
-0x008286fc It´s Kyorosuke.
+0x008286fc It´s Moe.
 
 ; 0x0082870f じゅず
 0x0082870f Juzu
@@ -49801,6 +50596,9 @@
 
 ; 0x00828cca がまんするのじゃ
 0x00828cca Hold back.
+
+; 0x00828cdb ないしょばなし１５
+0x00828cdb Nope, nope. 15.
 
 ; 0x00828cee シツレン？　ふん　王子たるもの
 0x00828cee Shitsuren? Hmph. A prince.

@@ -11,6 +11,10 @@ OUTPUT_ROM="Densetsu no Stafy 4 (English).nds"
 ./nds-replace.py "/tmp/$OUTPUT_ROM" Font/stafy4_13b2_2_bmp.bin Font/stafy4_13b2_2_bmp_comb.bin -o "$OUTPUT_ROM"
 #TODO: ./nds-replace.py "$INPUT_ROM" Font/stafy2_9b2_small_bmp.bin ... -o "$OUTPUT_ROM"
 
+# patch gfx
+#./nds-replace.py "/tmp/$OUTPUT_ROM" gfx/save_obj.NCGR Cell/save_obj.NCGR -o "$OUTPUT_ROM"
+
+
 # ensure supported chars
 #sed "s/'/´/g; s/'/´/g"  *_eng.txt > "/tmp/$OUTPUT_ROM.txt"
 
