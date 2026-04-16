@@ -40304,10 +40304,10 @@
 0x00352c98 True peace had finally
 
 ; 0x00352caf ほんとうの　平和がおとずれ
-0x00352caf befallen Pufftop. It`s
+0x00352caf befallen Pufftop. Its
 
 ; 0x00352cca みんなたのしくくらしています
-0x00352cca citizens enjoying peace.
+0x00352cca citizens are enjoying peace.
 
 ; 0x00352d39 ◆キョロスケ
 0x00352d39 ◆Moe

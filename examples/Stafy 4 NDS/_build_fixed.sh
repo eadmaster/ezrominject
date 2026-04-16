@@ -9,9 +9,8 @@ OUTPUT_ROM="Densetsu no Stafy 4 (English).nds"
 #TODO: ./nds-replace.py "$INPUT_ROM" Font/stafy2_9b2_small_bmp.bin ... -o "$OUTPUT_ROM"
 
 replace_gfx() {
-    [ ! -f gfx/$1.NCGR ] && return
-    cp gfx/$1.NCGR  "Densetsu no Stafy 4 (Japan)/data/Cell/$1.NCER"
-    cp gfx/$1.NCER  "Densetsu no Stafy 4 (Japan)/data/Cell/$1.NCER"
+    [ -f gfx/$1.NCGR ] && cp -fv gfx/$1.NCGR  "Densetsu no Stafy 4 (Japan)/data/Cell/$1.NCGR"
+    [ -f gfx/$1.NCER ] && cp -fv gfx/$1.NCER  "Densetsu no Stafy 4 (Japan)/data/Cell/$1.NCER"
 }
 
 # repack with custom font and gfx with dsrom https://github.com/AetiasHax/ds-rom
@@ -26,9 +25,11 @@ replace_gfx() {
 cp Font/stafy4_13b2_full_bmp_comb_clean.bin  "Densetsu no Stafy 4 (Japan)/data/Font/stafy4_13b2_full_bmp.bin"
 cp Font/stafy4_13b2_2_bmp_comb_clean.bin  "Densetsu no Stafy 4 (Japan)/data/Font/stafy4_13b2_2_bmp.bin"
 
-replace_gfx title_ue_ob_font
-replace_gfx title_sita_ob_font
-replace_gfx save_obj
+replace_gfx title_ue_ob_font  # "Press Start button!" on title screen
+replace_gfx title_sita_ob_font  # "Start" on title screen
+replace_gfx save_obj  # "Save now?" window (used in ??)
+replace_gfx save_window_l  # "Save now?" window (used in stages)
+#TODO: replace_gfx fileselect_low_obj  # File menu
 
 NitroPacker pack -p "Densetsu no Stafy 4 (Japan)/Densetsu no Stafy 4 (English).json" -r "$OUTPUT_ROM"
 
