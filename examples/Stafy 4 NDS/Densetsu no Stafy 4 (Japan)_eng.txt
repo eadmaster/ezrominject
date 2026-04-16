@@ -13268,13 +13268,13 @@
 0x001a4a83 ◆??
 
 ; 0x001a4a93 「テンカイの王子スタフィー…
-0x001a4a93 「Staffy, Prince of Tenkai.
+0x001a4a93 「Starfy, Prince of Pufftop.
 
 ; 0x001a4ab0 　うふふ　ワタクシのあいてには
-0x001a4ab0 Heeheehee. I´m sorry.
+0x001a4ab0 So this child will stand
 
 ; 0x001a4acf 　お子ちゃまザマスけど…」
-0x001a4acf I´m a kid, but...」
+0x001a4acf against me?」
 
 ; 0x001a4b03 ◆？？？
 0x001a4b03 ◆??
@@ -13283,7 +13283,7 @@
 0x001a4b13 「It´s getting interesting...
 
 ; 0x001a4b32 　うふふふ
-0x001a4b32 Ufufufu
+0x001a4b32 HmHmHm.
 
 ; 0x001a4b3d 　おほほほほほほ」
 0x001a4b3d Ohohohohoho.」
@@ -15630,14 +15630,11 @@
 ; 0x0023befe ワープじぞう
 0x0023befe Warp Jizo
 
-; 0x0023bf0b わしはえらいので　
-0x0023bf0b And I'll take 
-
 ; 0x0023bf23 ワープじぞう王の
-0x0023bf23 you to the 
+0x0023bf23 I'll take you
 
 ; 0x0023bf34 ところまで　いっしゅんで
-0x0023bf34 Warp King by
+0x0023bf34 to the Warp King by
 
 ; 0x0023bf4d ワープ
 0x0023bf4d ㅤ
@@ -15684,11 +15681,8 @@
 ; 0x0023c08a ワープじぞう
 0x0023c08a Warp Jizo
 
-; 0x0023c097 だが
-0x0023c097 But...
-
 ; 0x0023c09c わしらが　えらいということだけは
-0x0023c09c don´t forget the
+0x0023c09c Don´t forget the
 
 ; 0x0023c0bd わすれるな
 0x0023c0bd details.
@@ -15771,11 +15765,8 @@
 ; 0x0023c3e9 ワープじぞう
 0x0023c3e9 Warp Jizo
 
-; 0x0023c097 だが
-0x0023c097 But...
-
 ; 0x0023c3fb わしらが　えらいということだけは
-0x0023c3fb don`t forget the info we
+0x0023c3fb Don`t forget the info we
 
 ; 0x0023c41c わすれるな
 0x0023c41c gave you.
@@ -40283,31 +40274,31 @@
 0x0032d309 Kyoku58
 
 ; 0x00352ba1 大きな海の　そらたかく
-0x00352ba1 Soratakaku of the Big Sea
+0x00352ba1 High in the sky there
 
 ; 0x00352bb8 くもの上に　テンカイという
-0x00352bb8 It´s called Tenkai.
+0x00352bb8 was the peaceful kingdom
 
 ; 0x00352bd3 平和な　王国がありました
-0x00352bd3 We had a peaceful kingdom.
+0x00352bd3 of Pufftop.
 
 ; 0x00352c1d テンカイの王子スタフィーと
-0x00352c1d The prince of tenkai, staphy
+0x00352c1d The prince of Pufftop
 
 ; 0x00352c38 その　いもうとスタピーが
-0x00352c38 Your cousin, Stapy.
+0x00352c38 Starfy with his sister
 
 ; 0x00352c51 きょだいな　あくをたおし…
-0x00352c51 I don´t know what to do.
+0x00352c51 Starly defeated evil.
 
 ; 0x00352c98 テンカイにも　ようやく
-0x00352c98 Tenkai, too.
+0x00352c98 True peace had finally
 
 ; 0x00352caf ほんとうの　平和がおとずれ
-0x00352caf The real peace is out.
+0x00352caf befallen Pufftop. It`s
 
 ; 0x00352cca みんなたのしくくらしています
-0x00352cca We´re all having fun.
+0x00352cca citizens enjoying peace.
 
 ; 0x00352d39 ◆キョロスケ
 0x00352d39 ◆Moe
@@ -40319,100 +40310,100 @@
 0x00352d68 It´s terrible!」
 
 ; 0x00352daf ◆パパスタ
-0x00352daf ◆Papasta
+0x00352daf ◆PapaStar
 
 ; 0x00352dc1 「キョロスケではないか
-0x00352dc1 「It´s Moe.
+0x00352dc1 「Oh. It`s just Moe.
 
 ; 0x00352dd8 　ど　どうしたんじゃ
-0x00352dd8 Wh-What is it?
+0x00352dd8 What is it? Are
 
 ; 0x00352ded 　あそびに来たんじゃないのか？」
-0x00352ded Are you here to play?」
+0x00352ded you here to play with Starfy?」
 
 ; 0x00352e43 やって来たのは
-0x00352e43 What came was...
+0x00352e43 The clam who
 
 ; 0x00352e52 スタフィーとスタピーのともだち
-0x00352e52 Stuffy and Stuffy Friends
+0x00352e52 just arrived is Moe. A friend
 
 ; 0x00352e71 キョロスケです
-0x00352e71 Moe.
+0x00352e71 of Starfy.
 
 ; 0x00352eb0 ずいぶん　大あわてです
-0x00352eb0 It´s quite a rush.
+0x00352eb0 But what could have
 
 ; 0x00352ec7 いったい
-0x00352ec7 What the hell is going on?
+0x00352ec7 happened
 
 ; 0x00352ed0 どうしたのでしょう？
-0x00352ed0 What happened?
+0x00352ed0 to make him panic?
 
 ; 0x00352f41 ◆キョロスケ
 0x00352f41 ◆Moe
 
 ; 0x00352f55 「て　テンカイの入り口に
-0x00352f55 「T-The entrance to Tenkai.
+0x00352f55 「T-there`s a girl
 
 ; 0x00352f6e 　見たことのない　女の子が
-0x00352f6e A girl I´ve never seen.
+0x00352f6e who fainted at the front
 
 ; 0x00352f89 　たおれてたんだよ！！」
-0x00352f89 I was down!!」
+0x00352f89 gates!!」
 
 ; 0x00352fda ◆スタピー
-0x00352fda ◆Stapy
+0x00352fda ◆Starly
 
 ; 0x00352fec 「なんやて？　女の子！？
-0x00352fec 「What? A girl!?
+0x00352fec 「Huh? A girl!?
 
 ; 0x00353005 　ハマグリ！　自分が
-0x00353005 Clams!
+0x00353005 Clammy! What
 
 ; 0x0035301a 　いじめたんちゃうやろな！」
-0x0035301a You´re bullying me!」
+0x0035301a happened to her!?」
 
 ; 0x00353065 ◆キョロスケ
 0x00353065 ◆Moe
 
 ; 0x00353079 「あ　アホかっ！！
-0x00353079 「You idiot!!
+0x00353079 「I don`t know!
 
 ; 0x0035308c 　ほんとに　たおれてたんだって！」
-0x0035308c He was really down!」
+0x0035308c I found her like this!」
 
 ; 0x003530dd ◆パパスタ
-0x003530dd ◆Papasta
+0x003530dd ◆PapaStar
 
 ; 0x003530ef 「とりあえず　すぐ
-0x003530ef 「Anyway, now.
+0x003530ef 「This girl needs
 
 ; 0x00353102 　てあてして　あげるんじゃ」
-0x00353102 Let me guess.」
+0x00353102 our aid!」
 
 ; 0x00353144 やがて　てあてをしてもらった
-0x00353144 Eventually, I got a lead.
+0x00353144 The young woman was cared
 
 ; 0x00353161 女の子は
-0x00353161 A girl.
+0x00353161 for.
 
 ; 0x0035319a スタフィーたちのいる
-0x0035319a Stuffy´s here.
+0x0035319a She came before the
 
 ; 0x003531af ぎょくざのまに　よばれました
-0x003531af He called me Gyakuza.
+0x003531af throne room to speak.
 
 ; 0x00353228 ◆パパスタ
-0x00353228 ◆Papasta
+0x00353228 ◆PapaStar
 
 ; 0x0035323a 「だいじょうぶかね？　ムスメさん
-0x0035323a 「Are you okay, daughter?
+0x0035323a 「Are you okay, young lady?
 
 ; 0x0035325b 　おぬし　このへんの
-0x0035325b You´re here.
+0x0035325b You don`t look
 
 ; 0x00353270 　海では見かけないかおじゃが……」
-0x00353270 You haven´t seen him at the beach...」
+0x00353270 like you`re from around here.
 
 ; 0x003532b7 ◆？？？
 0x003532b7 ◆??
@@ -40424,265 +40415,265 @@
 0x003532dc Thank you.」
 
 ; 0x00353319 ◆マテル
-0x00353319 ◆Mater
+0x00353319 ◆Matel
 
 ; 0x00353329 「私は　アミー王国から
-0x00353329 「I´m from the Kingdom of Amy.
+0x00353329 「I´m Matel. I`m
 
 ; 0x00353340 　やってきた　マテルと
-0x00353340 We´re here. Mattel.
+0x00353340 from the Kingdom of
 
 ; 0x00353357 　いうものです」
-0x00353357 That´s how it is.」
+0x00353357 Amiy.
 
 ; 0x00353396 ◆ママスタ
-0x00353396 ◆Masta
+0x00353396 ◆MamaStar
 
 ; 0x003533a8 「まあ！　アミー王国ですって？
-0x003533a8 「Oh! The Kingdom of Ami?
+0x003533a8 「Oh! The Kingdom of Amiy?
 
 ; 0x003533c7 　ずいぶん　とおくから
-0x003533c7 I´ll be there for you.
+0x003533c7 That`s quite far
 
 ; 0x003533de 　いらしたのね」
-0x003533de You came.」
+0x003533de from here!
 
 ; 0x0035341d ◆パパスタ
-0x0035341d ◆Papasta
+0x0035341d ◆PapaStar
 
 ; 0x0035342f 「そんな　はるかとおい国から
-0x0035342f 「That´s far from home.
+0x0035342f 「Why would you travel to
 
 ; 0x0035344c 　このテンカイに　いったい
-0x0035344c What in the world is going on here?
+0x0035344c Pufftop? That`s so far
 
 ; 0x00353467 　なんの用じゃね？」
-0x00353467 What do you want?」
+0x00353467 from home.」
 
 ; 0x003534a0 ◆マテル
-0x003534a0 ◆Mater
+0x003534a0 ◆Matel
 
 ; 0x003534b0 「みなさん　おねがいです！
-0x003534b0 「Everyone please!
+0x003534b0 「Everyone I beg! My home,
 
 ; 0x003534cb 　私の国を…　アミー王国を
-0x003534cb My country... the Kingdom of Amy.
+0x003534cb please save the Amiy
 
 ; 0x003534e6 　すくってください！」
-0x003534e6 Please scoop it up!」
+0x003534e6 Kingdom!」
 
 ; 0x00353522 私たちのアミー王国には
-0x00353522 Our kingdom of amy
+0x00353522 There is a treasure
 
 ; 0x00353539 『モナムールストーン』という
-0x00353539 It´s called the Monamur Stone.
+0x00353539 called the Mon Amor Stone.
 
 ; 0x00353556 ひほうがあります
-0x00353556 There´s a hiho.
+0x00353556 It is sacred.
 
 ; 0x00353597 モナムールストーンは大むかしから
-0x00353597 Monamur stone has been around for a long time.
+0x00353597 The Mon Amor Stone is ancient
 
 ; 0x003535b8 私たちのまもりがみとして
-0x003535b8 As our guardian.
+0x003535b8 and has protected us for
 
 ; 0x003535d1 たいせつにうけつがれていて・・・
-0x003535d1 He´s really hung up.
+0x003535d1 a very long time.
 
 ; 0x00353622 私たちは　モナムールストーンに
-0x00353622 We´re at Monamur Stone.
+0x00353622 Thanks to Mon Amor Stone`s
 
 ; 0x00353641 まもられて　なかよく平和に
-0x00353641 We´ll be protected, and we´ll be friends.
+0x00353641 protection. We lived in
 
 ; 0x0035365c くらしていました
-0x0035365c I´m dizzy.
+0x0035365c peace.
 
 ; 0x003536ab そのモナムールストーンが
-0x003536ab That monamur stone
+0x003536ab Someone stole the Mon
 
 ; 0x003536c4 なにものかに
-0x003536c4 Something.
+0x003536c4 Amor
 
 ; 0x003536d1 ぬすまれてしまったのです！
-0x003536d1 I´ve been snuggled!
+0x003536d1 Stone!
 
 ; 0x0035371c はんにんは　モナムールストーンの
-0x0035371c Hannin is the Monamur Stone.
+0x0035371c They then used its power to
 
 ; 0x0035373d きょだいな力を使って　国中に
-0x0035373d Use your powers all over the country
+0x0035373d thrust the entire kingdom
 
 ; 0x0035375a わざわいを　よびよせ
-0x0035375a Call me.
+0x0035375a into disaster.
 
 ; 0x0035379f 平和だったアミー王国では
-0x0035379f In the peaceful Kingdom of Ami
+0x0035379f The peaceful kingdom was
 
 ; 0x003537b8 ワルモノが　あばれまわり
-0x003537b8 The bad guys found out.
+0x003537b8 overrun with villains
 
 ; 0x003537d1 みんな　こまっています
-0x003537d1 We´re all stuck.
+0x003537d1 and danger.
 
 ; 0x00353818 はんにんには　きっと
-0x00353818 I´m sure it´s for rice.
+0x00353818 Theres no doubt in
 
 ; 0x0035382d じゃあくなたくらみがあるに
-0x0035382d Then there´s a plot.
+0x0035382d my mind the culprit has
 
 ; 0x00353848 ちがいありません！
-0x00353848 It must be!
+0x00353848 wicked intent!
 
 ; 0x003538b4 ◆マテル
-0x003538b4 ◆Mater
+0x003538b4 ◆Matel
 
 ; 0x003538c4 「おしろにまで　ワルモノが
-0x003538c4 「You´re a bad guy.
+0x003538c4 「Those bad guys got into
 
 ; 0x003538df 　入りこみ　メイドをしていた私は
-0x003538df I was a maid.
+0x003538df the castle! I'm just a maid
 
 ; 0x00353900 　どうにかにげ出せましたが…」
-0x00353900 I managed to get it out, but...」
+0x00353900 but I managed to get out.
 
 ; 0x00353970 ◆スタピー
-0x00353970 ◆Stapy
+0x00353970 ◆Starly
 
 ; 0x00353982 「でも　なんでわざわざ
-0x00353982 「But why go out of your way?
+0x00353982 「But why come here?
 
 ; 0x00353999 　テンカイに来たんや？
-0x00353999 You came to Tenkai?
+0x00353999 Your home is far
 
 ; 0x003539b0 　めっちゃとおいんやろ？」
-0x003539b0 Isn´t it crazy?」
+0x003539b0 away isn`t it?」
 
 ; 0x003539f9 ◆マテル
-0x003539f9 ◆Mater
+0x003539f9 ◆Matel
 
 ; 0x00353a09 「とほうにくれていたとき
-0x00353a09 「When you gave it to me
+0x00353a09 「I didn`t know what to
 
 ; 0x00353a22 　スタフィーさんの　ごかつやくを
-0x00353a22 Mr. Stuffy´s wish.
+0x00353a22 do but I had heard of Mr.
 
 ; 0x00353a43 　きいたんです」
-0x00353a43 I heard.」
+0x00353a43 Starfy.」
 
 ; 0x00353a82 ◆マテル
-0x00353a82 ◆Mater
+0x00353a82 ◆Matel
 
 ; 0x00353a92 「テンカイという王国の王子は
-0x00353a92 「The prince of the kingdom, tenkai
+0x00353a92 「A hero defeated great
 
 ; 0x00353aaf 　きょだいな　あくをたおした
-0x00353aaf I´m sorry. I lost my mind.
+0x00353aaf evil. That hero was
 
 ; 0x00353acc 　ゆうしゃだって」
-0x00353acc Yusha too.」
+0x00353acc Starfy!」
 
 ; 0x00353b0d ◆マテル
-0x00353b0d ◆Mater
+0x00353b0d ◆Matel
 
 ; 0x00353b1d 「おねがいです　スタフィーさん
-0x00353b1d 「Please, Mr. Stuffy.
+0x00353b1d 「Please, Mr. Starfy, I beg
 
 ; 0x00353b3c 　どうか　アミー王国を
-0x00353b3c Please, the Kingdom of Ami.
+0x00353b3c please save the Amiy
 
 ; 0x00353b53 　すくってください！」
-0x00353b53 Please scoop it up!」
+0x00353b53 Kingdom!」
 
 ; 0x00353ba2 ◆スタピー
-0x00353ba2 ◆Stapy
+0x00353ba2 ◆Starly
 
 ; 0x00353bb4 「なあにいちゃん　この人
-0x00353bb4 「What´s with this guy?
+0x00353bb4 「Let`s help her, Big
 
 ; 0x00353bcd 　たすけてあげようなー　
-0x00353bcd Let´s save her!
+0x00353bcd bro! I feel bad for
 
 ; 0x00353be6 　かわいそやん！」
-0x00353be6 Poor guy!」
+0x00353be6 her!」
 
 ; 0x00353c31 ◆キョロスケ
 0x00353c31 ◆Moe
 
 ; 0x00353c45 「かーっ！　まーたそんな　なんの
-0x00353c45 「Kaaah! There´s no such thing again!
+0x00353c45 「I don`t think so! What do
 
 ; 0x00353c66 　トクにもならねーことを…」
-0x00353c66 Something I can´t do...」
+0x00353c66 we gain from this?」
 
 ; 0x00353cb1 ◆キョロスケ
 0x00353cb1 ◆Moe
 
 ; 0x00353cc5 「ダメだダメだ！　スタフィーは
-0x00353cc5 「No, no! Stuffy
+0x00353cc5 「No, no! Starf`s hangin`
 
 ; 0x00353ce4 　今から　オレさまと
-0x00353ce4 From now on, with me.
+0x00353ce4 out with me! End
 
 ; 0x00353cf9 　あそびに行くんだからよ」
-0x00353cf9 I´m going to play.」
+0x00353cf9 of Story!」
 
 ; 0x00353d38 ◆スタピー
-0x00353d38 ◆Stapy
+0x00353d38 ◆Starly
 
 ; 0x00353d4a 「ハマグリ！　あんたは　あいかわらず
-0x00353d4a 「Clam! You´re the same as ever.
+0x00353d4a 「You`re dumb as ever,
 
 ; 0x00353d6f 　アホやなあ…」
-0x00353d6f What an idiot...」
+0x00353d6f Clammy!」
 
 ; 0x00353d99 ◆スタピー
-0x00353d99 ◆Stapy
+0x00353d99 ◆Starly
 
 ; 0x00353dab 「その　ナントカって石があれば
-0x00353dab 「If you have that nantoka stone
+0x00353dab If you had that stone thingy
 
 ; 0x00353dca 　あんたのだいすきな　ハデヒラリの
-0x00353dca I love you so much.
+0x00353dca you could make Ruby fall for
 
 ; 0x00353ded 　ねーちゃんも　オトせるやん？」
-0x00353ded Sis can do it too?」
+0x00353ded you, right?」
 
 ; 0x00353e32 ◆キョロスケ
 0x00353e32 ◆Moe
 
 ; 0x00353e46 「…おおお！　そうか！　
-0x00353e46 「...Ohh! I see!
+0x00353e46 I didn`t think
 
 ; 0x00353e5f 　そのテがあったか！　でかしたぞ
-0x00353e5f Oh, so that´s what it was! Great job.
+0x00353e5f of that, good idea
 
 ; 0x00353e80 　スタピー！」
-0x00353e80 Stapy!」
+0x00353e80 Starly!」
 
 ; 0x00353eb3 ◆キョロスケ
 0x00353eb3 ◆Moe
 
 ; 0x00353ec7 「これでようやく　ハデヒラリさんが
-0x00353ec7 「With this, Hadehirari-san finally...
+0x00353ec7 「Ms. Ruby would finally be
 
 ; 0x00353eea 　オレさまと…　デヘヘ　デヘ
-0x00353eea Me and... Dehehehe.
+0x00353eea with me. Dehehe.
 
 ; 0x00353f07 　デヘヘヘヘヘヘヘヘヘヘヘヘ」
-0x00353f07 Deheheheheheheheheheheheheh.」
+0x00353f07 Dehehe dehe deheheheh!」
 
 ; 0x00353f4a ◆スタピー
-0x00353f4a ◆Stapy
+0x00353f4a ◆Starly
 
 ; 0x00353f5c （ふう…　あいかわらず
-0x00353f5c (Phew... As usual.)
+0x00353f5c (Phew, it`s a good
 
 ; 0x00353f73 　たんじゅんなハマグリで
-0x00353f73 It´s a tanju clam.
+0x00353f73 thing you`re so simple
 
 ; 0x00353f8c 　たすかったわ……）
-0x00353f8c You saved me...)
+0x00353f8c minded...)
 
 ; 0x00353fc5 ◆キョロスケ
 0x00353fc5 ◆Moe
@@ -40691,43 +40682,43 @@
 0x00353fd9 「Okay, then, as usual.
 
 ; 0x00353ff4 　ロブじいさんに　はなしを
-0x00353ff4 Talk to old man Rob.
+0x00353ff4 Let`s talk to Old
 
 ; 0x0035400f 　ききにいこうぜ！」
-0x0035400f Let´s listen!」
+0x0035400f Lobber!」
 
 ; 0x00354052 ◆パパスタ
-0x00354052 ◆Papasta
+0x00354052 ◆PapaStar
 
 ; 0x00354064 「こっ　こら！
 0x00354064 「H-Hey!
 
 ; 0x00354073 　こどもたちだけで
-0x00354073 Just the kids.
+0x00354073 This is much
 
 ; 0x00354086 　そんな　キケンな……」
-0x00354086 That´s dangerous...」
+0x00354086 too dangerous!」
 
 ; 0x003540cd ◆ママスタ
-0x003540cd ◆Masta
+0x003540cd ◆MamaStar
 
 ; 0x003540df 「あらー　ちょうどよかったわねー
 0x003540df 「Oh, good timing.
 
 ; 0x00354100 　ロブおじいさんなら　今
-0x00354100 If you´re looking for Uncle Rob right now,
+0x00354100 Old Lobber is at his
 
 ; 0x00354119 　アミー王国のべっそうにいるわ」
-0x00354119 “I´m not the only one. I´m in the Kingdom of Ami.」
+0x00354119 Amiy Kingdom vacation home!
 
 ; 0x00354168 ◆パパスタ
-0x00354168 ◆Papasta
+0x00354168 ◆PapaStar
 
 ; 0x0035417a 「ま　ママ！！！？」
 0x0035417a 「M-Mama!!!?」
 
 ; 0x003541a8 ◆スタピー
-0x003541a8 ◆Stapy
+0x003541a8 ◆Starly
 
 ; 0x003541ba 「ほんなら　パパ　ママ
 0x003541ba 「Okay, Dad, Mom.
@@ -40736,16 +40727,16 @@
 0x003541d1 I´m off!
 
 ; 0x003541e2 　おくれなや　にいちゃん！」
-0x003541e2 Give it up, bro!」
+0x003541e2 Come on, bro!」
 
 ; 0x0035422d ◆ママスタ
-0x0035422d ◆Masta
+0x0035422d ◆MamaStar
 
 ; 0x0035423f 「ばんごはんまでに
-0x0035423f 「By dinnertime
+0x0035423f 「Be back by
 
 ; 0x00354252 　かえるんですよー」
-0x00354252 I´m going to change.」
+0x00354252 dinnertime!」
 
 ; 0x003668d1 シマシマみずぎ
 0x003668d1 Stripe Swimmer
@@ -50615,5 +50606,3 @@
 ; 0x00828d0d シツレンの１つや２つ　よゆうで
 0x00828d0d A shitsuren or two.
 
-; 0x00828d2c のりこえるものじゃ
-0x00828d2c you have to overcome.
