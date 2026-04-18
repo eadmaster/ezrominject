@@ -362,7 +362,7 @@
 0x00080a24 Mitaiouno Message Death
 
 ; 0x00080a5c しゅうりキット
-0x00080a5c Bonsai kit
+0x00080a5c Bonsai Kit
 
 ; 0x00080a70 をゲットしたよ
 0x00080a70 I got it lets
@@ -374,16 +374,16 @@
 0x00080a9e the City!
 
 ; 0x00080ac4 ヤドカリタのかいがら
-0x00080ac4 Hermit crabs
+0x00080ac4 Outing Shell
 
 ; 0x00080ade をゲットしたよ
 0x00080ade I got it.
 
 ; 0x00080aed シティにかえって
-0x00080aed Back to the city.
+0x00080aed To the city!
 
 ; 0x00080afe ヤドカリタにとどけてあげよう
-0x00080afe Let´s get it to hermit crabs.
+0x00080afe Let´s get it to Herman.
 
 ; 0x00080b34 たからばこ
 0x00080b34 Tadabako
@@ -725,34 +725,34 @@
 0x00081788 I´ll show you!
 
 ; 0x00081825 あつめたグッズで
-0x00081825 It´s a bunch of merch
+0x00081825 Stuff you`ve
 
 ; 0x00081836 きせかえができるよ
-0x00081836 You´ll get a comeback.
+0x00081836 found is here!
 
 ; 0x00081849 まよったときは　ここを見てね！
-0x00081849 If you´re confused, look here!
+0x00081849 If confused, look here!
 
 ; 0x00081868 ぼうけんのヒントや
-0x00081868 There´s a hint of boken
+0x00081868 View hints and
 
 ; 0x0008187b 今もっている　アイテムが分かるよ
-0x0008187b I know what you´re doing.
+0x0008187b current collected items.
 
 ; 0x0008189c 今まで　おぼえたアクションや
-0x0008189c The action I´ve learned so far
+0x0008189c If you forgot, you can
 
 ; 0x000818b9 のりものの　そうさほうほうを
-0x000818b9 Norimono no Soho
+0x000818b9 review abilities
 
 ; 0x000818d6 かくにんできるよ
-0x000818d6 I can make a kakuni.
+0x000818d6 here!
 
 ; 0x000818e7 ゲームを　とちゅうで
-0x000818e7 Play the game.
+0x000818e7 Save and quit during
 
 ; 0x000818fc セーブして　やめられるよ
-0x000818fc Save. I can stop.
+0x000818fc gameplay.
 
 ; 0x0008191b でんげんは　タイトルがめんに
 0x0008191b The title is Menga.
@@ -941,130 +941,130 @@
 0x00082c67 Moe
 
 ; 0x00082c72 こうしゅうデンワの使いかたは
-0x00082c72 How to use a telephone
+0x00082c72 Looks like you got the
 
 ; 0x00082c8f 分かったみてーだな
-0x00082c8f Looks like you get it.
+0x00082c8f hang of usin` a
 
 ; 0x00082ca2 そうやって使うんだ
-0x00082ca2 That´s how I use it.
+0x00082ca2 Pay Phone.
 
 ; 0x00082cce キョロスケオレさまも　ヒマじゃねーんだから
-0x00082cce I don´t have time for this, either.
+0x00082cce Moe       Just don`t go crazy
 
 ; 0x00082cf9 なんべんも　かけてくんじゃ
-0x00082cf9 Why don´t you call me?
+0x00082cf9 calling me, okay?
 
 ; 0x00082d14 ねーぞ
-0x00082d14 I´m not.
+0x00082d14 ㅤ
 
 ; 0x00082d33 キョロスケ
 0x00082d33 Moe
 
 ; 0x00082d3e だーーーっ！　用もないのに
-0x00082d3e Daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!
+0x00082d3e Grah! If you don`t
 
 ; 0x00082d59 かけてくんじゃねーっつっただろ！
-0x00082d59 I told you not to call!
+0x00082d59 need to don`t call!
 
 ; 0x00082d93 キョロスケどこの　さみしがりやさんだ
-0x00082d93 Moe, what kind of lonely guy is he?
+0x00082d93 Moe       Need someone to hold
 
 ; 0x00082db8 オメェは！！
-0x00082db8 You!!
+0x00082db8 your hand?
 
 ; 0x00082dc5 もう　きるからな！！！
-0x00082dc5 I´m gonna do it now!
+0x00082dc5 Hang up already!
 
 ; 0x00082dfa キョロスケ
 0x00082dfa Moe
 
 ; 0x00082e05 ナニ？　フォークを見つけたけど
-0x00082e05 I found a fork.
+0x00082e05 You found Fork?
 
 ; 0x00082e24 トビラに　カギをかけられて
-0x00082e24 The door locked me.
+0x00082e24 He locked the door
 
 ; 0x00082e3f とおれないって？
-0x00082e3f Can´t stay?
+0x00082e3f and ran away?
 
 ; 0x00082e69 キョロスケじゃあ　とっととつかまえて
-0x00082e69 Okay, Moe, go get him.
+0x00082e69 Moe       Then just chase
 
 ; 0x00082e8e スピンを　くらわせてやれ！
-0x00082e8e Let him spin!
+0x00082e8e him down and hit
 
 ; 0x00082ea9 そしたら　トビラがあくはずだ
-0x00082ea9 Then the door should open.
+0x00082ea9 with a Star Spin!
 
 ; 0x00082edf キョロスケきっと　そのトビラのむこうに
-0x00082edf Moe must be behind that door.
+0x00082edf Moe       That should open
 
 ; 0x00082f06 かいがらを　かくしてる
-0x00082f06 He´s hiding a shell.
+0x00082f06 the door where the
 
 ; 0x00082f1d はずだからな
-0x00082f1d Or so I thought.
+0x00082f1d shell is.
 
 ; 0x00082f43 キョロスケフォークのヤローは
-0x00082f43 Moefork bastard
+0x00082f43 Moe       Fork`s fast
 
 ; 0x00082f60 けっこうすばやいから　もし
-0x00082f60 It´s pretty fast. If...
+0x00082f60 if you`re having trouble
 
 ; 0x00082f7b おいつけねえときは
-0x00082f7b Hey, if you don´t wear it
+0x00082f7b catching him...
 
 ; 0x00082fa7 キョロスケ
 0x00082fa7 Moe
 
 ; 0x00082fb7 アイツの　すすむほうこうを
-0x00082fb7 Let´s see what he´s got.
+0x00082fb7 Find something that
 
 ; 0x00082fd2 なにかで　とおせんぼしてやるんだ
-0x00082fd2 I´m gonna do something for you.
+0x00082fd2 can block his path.
 
 ; 0x00082ffb それじゃ　せいぜいがんばれよ
-0x00082ffb Good luck, then.
+0x00082ffb Good luck, Starf!
 
 ; 0x00083030 キョロスケ
 0x00083030 Moe
 
 ; 0x0008303b フォークを　つかまえて
-0x0008303b Grab a fork.
+0x0008303b Catch Fork 
 
 ; 0x00083052 スピンを当ててやれ！
-0x00083052 Give him a spin!
+0x00083052 and give him a
 
 ; 0x00083067 つかまえらんねーときは
-0x00083067 If you can´t catch it
+0x00083067 Star Spin!
 
 ; 0x00083097 キョロスケアイツの　
-0x00083097 Kyoros careitz´s
+0x00083097 Moe       If
 
 ; 0x000830b1 すすむほうこうに
-0x000830b1 Susumu Hoko
+0x000830b1 you can`t
 
 ; 0x000830c2 モノをおいて　とおせんぼ
-0x000830c2 Leaving things behind.
+0x000830c2 catch him then
 
 ; 0x000830e0 して
-0x000830e0 Do.
+0x000830e0 ㅤ
 
 ; 0x000830e5 おいつめちまえ！
-0x000830e5 Hey, c´mon!
+0x000830e5 block his path!
 
 ; 0x0008310e キョロスケ
 0x0008310e Moe
 
 ; 0x00083119 おい　トビラはあいたんだろ？
-0x00083119 Hey, the door´s open, right?
+0x00083119 Hey, the door´s opened!
 
 ; 0x00083136 じゃあさっさと行って
-0x00083136 Then get going
+0x00083136 Then get going and
 
 ; 0x0008314b かいがらを　とって来いよ
-0x0008314b Go get the bag.
+0x0008314b get the shell back!
 
 ; 0x00083182 キョロスケ
 0x00083182 Moe
@@ -9359,76 +9359,76 @@
 0x00096253 Moe
 
 ; 0x0009625e おい　ワープじぞうからの
-0x0009625e Hey, warp.
+0x0009625e That Warp Jizo told
 
 ; 0x00096277 じょうほうだぞ
-0x00096277 It´s a joke.
+0x00096277 me something
 
 ; 0x00096286 よく　きけよ
-0x00096286 Listen well.
+0x00096286 important.
 
 ; 0x000962ac キョロスケ『そのおかしなトビラは
-0x000962ac Moe: That weird portal
+0x000962ac Moe       That`s where a
 
 ; 0x000962cd とびらまじんのへやに
-0x000962cd Tobira Majinnoya
+0x000962cd Door Djinn
 
 ; 0x000962e2 つづいておるのじゃ』
-0x000962e2 It continues.
+0x000962e2 resides.
 
 ; 0x00096310 キョロスケ『おまえのちーっちゃい力では
-0x00096310 Moe: With your tiny power
+0x00096310 Moe       You`re too weak
 
 ; 0x00096337 まだ　とびらまじんをあけることは
-0x00096337 I can´t open the door yet.
+0x00096337 to open the door
 
 ; 0x00096358 できんじゃろう』…だとよ
-0x00096358 You can´t do it.´ ...That´s what he said.
+0x00096358 right now.
 
 ; 0x0009638a キョロスケどうやら　その　とびらなんとかって
-0x0009638a Moe, it looks like that flyer is something.
+0x0009638a Moe       You can`t do
 
 ; 0x000963b7 ヤツは　今のオメェじゃ
-0x000963b7 He´s not you anymore.
+0x000963b7 anything about these
 
 ; 0x000963ce どうしようもねえみたいだ
-0x000963ce Looks like we don´t have a choice.
+0x000963ce right now.
 
 ; 0x00096400 キョロスケとりあえず　今はムシして
-0x00096400 Moe, be a bug for now
+0x00096400 Moe       Just ignore
 
 ; 0x00096423 すすんだら
-0x00096423 If you slurp
+0x00096423 them for
 
 ; 0x0009642e いいんじゃねえか？
-0x0009642e Why not?
+0x0009642e now.
 
 ; 0x00096459 キョロスケ
 0x00096459 Moe
 
 ; 0x00096464 右におかしなマークの
-0x00096464 The one with the funny mark on the right
+0x00096464 There´s a door
 
 ; 0x00096479 トビラがあるだろ？
-0x00096479 There´s a door, right?
+0x00096479 there, right?
 
 ; 0x000964a5 キョロスケとびらまじんってヤツのいる
-0x000964a5 There´s a guy named Moe and Binjajin.
+0x000964a5 Moe       It goes to a room
 
 ; 0x000964ca へやに　つづいてるらしいけど
-0x000964ca It´s going to be in the room.
+0x000964ca with the Door Djinn.
 
 ; 0x000964e7 今のオメェにはイミがねえ
-0x000964e7 You don´t have a point now.
+0x000964e7 Its empty right now.
 
 ; 0x0009650c キョロスケムシして　すすんじまえ
-0x0009650c Suck up on me.
+0x0009650c Moe       You could peek
 
 ; 0x0009652d まあ１回くらい　けんぶつ
-0x0009652d Well, just once.
+0x0009652d inside if
 
 ; 0x00096546 しといてもいいけどな
-0x00096546 I don´t mind if you do.
+0x00096546 you`re curious.
 
 ; 0x0009657c キョロスケ
 0x0009657c Moe
@@ -9809,22 +9809,22 @@
 0x000a83c8 help!
 
 ; 0x000a83e6 グッズ
-0x000a83e6 Goods
+0x000a83e6 Got
 
 ; 0x000a83f2 『ヤドカリタのぼうし』
-0x000a83f2 “Hermit crabs.”
+0x000a83f2 Herman Hat
 
 ; 0x000a8411 ゲットしたよ！
-0x000a8411 Got it!
+0x000a8411 ㅤ
 
 ; 0x000a842d アクションには　そろそろ
-0x000a842d It´s time for action.
+0x000a842d Are you used to your
 
 ; 0x000a8446 なれたかな？　このちょうしで
-0x000a8446 I wonder if I´ll be able to do it with this.
+0x000a8446 Abilities yet? Keep
 
 ; 0x000a8463 どんどんすすもう！
-0x000a8463 More and more!
+0x000a8463 going!
 
 ; 0x000a8483 グッズ
 0x000a8483 Goods
@@ -14405,16 +14405,16 @@
 0x00238fae abilities!
 
 ; 0x00238fc7 １−２　スピンアタックをおぼえよう
-0x00238fc7 1-2. Remember the spin attack.
+0x00238fc7 1-2 Remember the Star Spin!
 
 ; 0x00238fea ヤドカリタが　こまってるよ
-0x00238fea There´s a lot of hermit crabs here.
+0x00238fea Let`s help out Herman!
 
 ; 0x00239005 スピンアタックで　かいけつして
-0x00239005 A spin attack.
+0x00239005 Use the Star Spin to beat
 
 ; 0x00239024 あげよう！
-0x00239024 I´ll give it to you!
+0x00239024 Fork!
 
 ; 0x0023902f １−３　あこがれのムササビじゃんぷ
 0x0023902f 1-3 I yearn for musabi.
@@ -15328,7 +15328,7 @@
 0x0023b299  for you.
 
 ; 0x0023b2e6 ロブじいさんぼんさいが！！！
-0x0023b2e6 Old Lobber
+0x0023b2e6 Old Lobber is so stubborn!!!
 
 ; 0x0023b303 ワシの…　ワシのかわいい
 0x0023b303 My bonsai!
@@ -15433,7 +15433,7 @@
 0x0023b804 grab my
 
 ; 0x0023b814 『しゅうりキット』
-0x0023b814 [Bonsai kit]
+0x0023b814 [Bonsai Kit]
 
 ; 0x0023b82f とって来てほしいのじゃ
 0x0023b82f I want you to get it.
@@ -15630,14 +15630,11 @@
 ; 0x0023befe ワープじぞう
 0x0023befe Warp Jizo
 
-; 0x0023bf0b わしはえらいので　
-0x0023bf0b And I'll take 
-
 ; 0x0023bf23 ワープじぞう王の
-0x0023bf23 you to the 
+0x0023bf23 I'll take you
 
 ; 0x0023bf34 ところまで　いっしゅんで
-0x0023bf34 Warp King by
+0x0023bf34 to the Warp King by
 
 ; 0x0023bf4d ワープ
 0x0023bf4d ㅤ
@@ -15684,11 +15681,8 @@
 ; 0x0023c08a ワープじぞう
 0x0023c08a Warp Jizo
 
-; 0x0023c097 だが
-0x0023c097 And...
-
 ; 0x0023c09c わしらが　えらいということだけは
-0x0023c09c don´t forget the
+0x0023c09c Don´t forget the
 
 ; 0x0023c0bd わすれるな
 0x0023c0bd details.
@@ -15727,7 +15721,7 @@
 0x0023c21d for the
 
 ; 0x0023c22d 『しゅうりキット』
-0x0023c22d [Bonsai kit]
+0x0023c22d [Bonsai Kit]
 
 ; 0x0023c248 さがして来たってえな
 0x0023c248 while exploring.
@@ -15771,11 +15765,8 @@
 ; 0x0023c3e9 ワープじぞう
 0x0023c3e9 Warp Jizo
 
-; 0x0023c097 だが
-0x0023c097 And...
-
 ; 0x0023c3fb わしらが　えらいということだけは
-0x0023c3fb don`t forget the info we
+0x0023c3fb Don`t forget the info we
 
 ; 0x0023c41c わすれるな
 0x0023c41c gave you.
@@ -15784,175 +15775,174 @@
 0x0023c49f Uncle Rob.
 
 ; 0x0023c4ac スタフィーも　スタピーも
-0x0023c4ac Staphy, Stapy.
+0x0023c4ac Starly, Starfy. Do you
 
 ; 0x0023c4c5 アミー王国につたわる
-0x0023c4c5 It´s related to the Kingdom of Ami.
+0x0023c4c5 know about
 
 ; 0x0023c4e0 『スピル』
-0x0023c4e0 “Spill.”
+0x0023c4e0 Spills?
 
 ; 0x0023c4f0 を　知っておるか？
-0x0023c4f0 You know ?
+0x0023c4f0 Do you?
 
 ; 0x0023c516 スタピー
-0x0023c516 Stapy
+0x0023c516 Starly
 
 ; 0x0023c51f スピル？
-0x0023c51f Spiel?
+0x0023c51f Spills?
 
 ; 0x0023c528 きいたこと　ないなあ……
-0x0023c528 I’ve never heard of it...
+0x0023c528 Never heard of it.
 
 ; 0x0023c554 ロブじいさん
-0x0023c554 Uncle Rob.
+0x0023c554 Old Lobber
 
 ; 0x0023c567 スピルを使うと　まほうのような
-0x0023c567 When you use a spirit, it´s like magic.
+0x0023c567 Spills allow you to perform
 
 ; 0x0023c586 とくべつな　ワザが
-0x0023c586 No, no, no, no, no.
+0x0023c586 magic abilities
 
 ; 0x0023c599 出せる
-0x0023c599 I can do it.
+0x0023c599 when
 
 ; 0x0023c5a5 んじゃよ
-0x0023c5a5 See ya.
+0x0023c5a5 used.
 
 ; 0x0023c5c1 スタピー
-0x0023c5c1 Stapy
+0x0023c5c1 Starly
 
 ; 0x0023c5ca まほう！？　すごいやん！
-0x0023c5ca Magic?! That’s amazing!
+0x0023c5ca Magic? That`s cool!
 
 ; 0x0023c5e3 そらとんだり　するんかなあ？
-0x0023c5e3 I wonder if he´ll be able to do it?
+0x0023c5e3 How do we learn
 
 ; 0x0023c600 どうやって　おぼえるんやろ
-0x0023c600 I don´t know how to remember.
+0x0023c600  `em?
 
 ; 0x0023c62e ロブじいさん
-0x0023c62e Uncle Rob.
+0x0023c62e Old Lobber
 
 ; 0x0023c63b スピルは　あちこちのシティにいる
-0x0023c63b Spiel´s in every city.
+0x0023c63b Across the Cities there are
 
 ; 0x0023c65c ４人の
-0x0023c65c Four.
+0x0023c65c Four
 
 ; 0x0023c668 『けんじゃ』
-0x0023c668 “Kenja”
-
+0x0023c668 Sages
 ; 0x0023c67a たちが
-0x0023c67a We´re...
+0x0023c67a who
 
 ; 0x0023c681 もっておるそうじゃ
-0x0023c681 I hear you have it.
+0x0023c681 know Spills.
 
 ; 0x0023c6a7 ロブじいさん
-0x0023c6a7 Uncle Rob.
+0x0023c6a7 Old Lobber
 
 ; 0x0023c6b4 『けんじゃ』たちと　あうことが
-0x0023c6b4 To meet Kenja.
+0x0023c6b4 They may teach you how to
 
 ; 0x0023c6d3 できれば　スピルを
-0x0023c6d3 Spiel, if you can.
+0x0023c6d3 use Spills if you
 
 ; 0x0023c6e6 おしえてくれるかもしれんのう
-0x0023c6e6 Maybe he´ll teach me.
+0x0023c6e6 meet them.
 
 ; 0x0023c716 スタピー
-0x0023c716 Stapy
+0x0023c716 Starly
 
 ; 0x0023c71f うわ〜！
 0x0023c71f Wow!
 
 ; 0x0023c728 ウチも使ってみたいわ〜！
-0x0023c728 I wanna try it too!
+0x0023c728 I wanna learn them!
 
 ; 0x0023c754 ロブじいさん
-0x0023c754 Uncle Rob.
+0x0023c754 Old Lobber
 
 ; 0x0023c761 ほっほっほ　がんばるんじゃよ
 0x0023c761 Hohoho. Good luck.
 
 ; 0x0023c77e スピルを使うと　ぼうけんが
-0x0023c77e When you use a Spiel, you play dumb.
+0x0023c77e Spills would make your
 
 ; 0x0023c799 うんと　ラクになるじゃろう
-0x0023c799 It´ll be easier.
+0x0023c799 adventure easier.
 
 ; 0x0023c7c7 ロブじいさん
-0x0023c7c7 Uncle Rob.
+0x0023c7c7 Old Lobber
 
 ; 0x0023c7d4 そうそう　それからシティの
-0x0023c7d4 Yeah, yeah, and then the city.
+0x0023c7d4 Near the edge of the City
 
 ; 0x0023c7ef はしっこに
-0x0023c7ef At the edge.
+0x0023c7ef there is
 
 ; 0x0023c7ff 『グッズがめん』
-0x0023c7ff “The merch’s Men.”
+0x0023c7ff Stuff Menu
 
 ; 0x0023c818 アイコンができたのじゃ
-0x0023c818 There´s an icon.
+0x0023c818 icon you can tap.
 
 ; 0x0023c842 ロブじいさん
-0x0023c842 Uncle Rob.
+0x0023c842 Old Lobber
 
 ; 0x0023c84f シティからでもポーズメニューと
-0x0023c84f Even from the city, there´s a pose menu
+0x0023c84f You can access the Stuff Menu
 
 ; 0x0023c86e いっしょでグッズがめんに
-0x0023c86e We´ll do the goods together.
+0x0023c86e from both the City and
 
 ; 0x0023c887 行けるようになったんじゃよ
-0x0023c887 I can go now.
+0x0023c887 in a Stage.
 
 ; 0x0023c8b5 ロブじいさん
-0x0023c8b5 Uncle Rob.
+0x0023c8b5 Old Lobber
 
 ; 0x0023c8c2 さっき　プレゼントした
-0x0023c8c2 I gave you a present.
+0x0023c8c2 Why don`t you try on
 
 ; 0x0023c8d9 グッズをさっそく
-0x0023c8d9 I´ll get the goods.
+0x0023c8d9 the gift I gave
 
 ; 0x0023c8ea きてみてはどうじゃな？
-0x0023c8ea How about coming?
+0x0023c8ea you earlier?
 
 ; 0x0023c972 ロブじいさん
-0x0023c972 Uncle Rob.
+0x0023c972 Old Lobber
 
 ; 0x0023c97f アミー王国につたわる『スピル』は
-0x0023c97f The ‘spill’ associated with the Kingdom of Ami
+0x0023c97f Spill is a treasure held
 
 ; 0x0023c9a0 ４人の『けんじゃ』たちが
-0x0023c9a0 Four kenja
+0x0023c9a0 by the 4 sages of the
 
 ; 0x0023c9b9 もっておるのじゃ
-0x0023c9b9 I have it.
+0x0023c9b9 Amiy Kingdom.
 
 ; 0x0023c9dd ロブじいさん
-0x0023c9dd Uncle Rob.
+0x0023c9dd Old Lobber
 
 ; 0x0023c9ea スピルを使うと　とくべつな
-0x0023c9ea You can´t use a spiel.
+0x0023c9ea Using Spill let`s you
 
 ; 0x0023ca05 ワザが　使えるように
-0x0023ca05 So you can use the move.
+0x0023ca05 do special moves.
 
 ; 0x0023ca1a なるらしいんじゃ
-0x0023ca1a I heard it´ll happen.
+0x0023ca1a Or so I hear.
 
 ; 0x0023ca3e ロブじいさん
-0x0023ca3e Uncle Rob.
+0x0023ca3e Old Lobber
 
 ; 0x0023ca4b スタフィーたちも
-0x0023ca4b Stuffy and the others.
+0x0023ca4b Hopefully Starfy
 
 ; 0x0023ca5c おぼえられると　いいのう
-0x0023ca5c I hope you remember.
+0x0023ca5c and you learn them.
 
 ; 0x0023cb31 ロブじいさん
 0x0023cb31 Old Lobber
@@ -15970,7 +15960,7 @@
 0x0023cb96 Old Lobber
 
 ; 0x0023cbe7 おお！　『しゅうりキット』！
-0x0023cbe7 Oh! Bonsai kit! Now I can
+0x0023cbe7 Oh! Bonsai Kit! Now I can
 
 ; 0x0023cc04 これで
 0x0023cc04 care
@@ -16078,175 +16068,175 @@
 0x0023d039 Hermita
 
 ; 0x0023d044 あーーー！　スタフィー！！
-0x0023d044 Ahhhh! Stuffy!
+0x0023d044 Ahhhh! Starfy!
 
 ; 0x0023d05f ねー　ちょっときいてよきいてよ！
-0x0023d05f Hey, listen up!
+0x0023d05f Help me, please!
 
 ; 0x0023d080 きいてってばーーーーっ！
-0x0023d080 Listen to meeeee!
+0x0023d080 Pleeeease!
 
 ; 0x0023d0ac キョロスケ
 0x0023d0ac Moe
 
 ; 0x0023d0b7 なんだよ　
-0x0023d0b7 What the hell?
+0x0023d0b7 Huh?
 
 ; 0x0023d0c7 ヤドカリタ
-0x0023d0c7 Hermita
+0x0023d0c7 Herman
 
 ; 0x0023d0d7 かよ
-0x0023d0d7 Kayo
+0x0023d0d7 ?
 
 ; 0x0023d0dc また　かいがらなくしたのか…って
-0x0023d0dc You lost your temper again?
+0x0023d0dc Lost your shell again? Wait,
 
 ; 0x0023d0fd せおってるじゃねえか
-0x0023d0fd You´re in a rush.
+0x0023d0fd you have it.
 
 ; 0x0023d125 ヤドカリタ
-0x0023d125 Hermita
+0x0023d125 Herman
 
 ; 0x0023d130 これは『ふだんぎよう』の
-0x0023d130 This is the “normal” one
+0x0023d130 This isn`t about my
 
 ; 0x0023d149 かいがらなんだよー！
-0x0023d149 It´s kagara!
+0x0023d149 normal shell. It`s
 
 ; 0x0023d164 『おでかけよう』のかいがら
-0x0023d164 “Let’s go out” kaigara
+0x0023d164 my Outing Shell!
 
 ; 0x0023d1bd ヤドカリタ
-0x0023d1bd Hermita
+0x0023d1bd Herman
 
 ; 0x0023d1ce フォーク
-0x0023d1ce Fork
+0x0023d1ce Fork!
 
 ; 0x0023d1dc のヤツに　カバンごと
-0x0023d1dc He´s got a bag.
+0x0023d1dc He stole it!
 
 ; 0x0023d1f1 とられちゃったんだ　しかもアイツ
-0x0023d1f1 He´s been taken.
+0x0023d1f1 The bully took it! He`s
 
 ; 0x0023d212 どこかに　かくしてるんだー！
-0x0023d212 I´m hiding something!
+0x0023d212 hiding it somewhere!
 
 ; 0x0023d242 ヤドカリタ
-0x0023d242 Hermita
+0x0023d242 Herman
 
 ; 0x0023d24d ねえ　スタフィーおねがいだよ
-0x0023d24d Hey, Stuffy, please.
+0x0023d24d Hey, Starfy, please
 
 ; 0x0023d26a おでかけようの　かいがらを
-0x0023d26a Let´s go out.
+0x0023d26a get my Outing Shell
 
 ; 0x0023d285 とりかえして来てよー！
-0x0023d285 Get it back!
+0x0023d285 back!
 
 ; 0x0023d2af ヤドカリタ
-0x0023d2af Hermita
+0x0023d2af Herman
 
 ; 0x0023d2ba とりかえしてくれたら　おれいに
-0x0023d2ba Take it back, and I´ll give it to you.
+0x0023d2ba I`ll give you some
 
 ; 0x0023d2d9 たからものを　プレゼント
-0x0023d2d9 A gift for you.
+0x0023d2d9 treasure if you
 
 ; 0x0023d2f2 しちゃうよー
-0x0023d2f2 I´ll do it!
+0x0023d2f2 do!
 
 ; 0x0023d32e キョロスケ
 0x0023d32e Moe
 
 ; 0x0023d339 ナニ！？　おたから！！？
-0x0023d339 What!? From a lad!!?
+0x0023d339 What!? Treasure?
 
 ; 0x0023d352 スタフィー　ぜひ　たすけて
-0x0023d352 Stuffy, help me.
+0x0023d352 Starfy, you should help
 
 ; 0x0023d36d さしあげなさい
-0x0023d36d Give it to him.
+0x0023d36d `em out.
 
 ; 0x0023d39d スタピー
-0x0023d39d Stapy
+0x0023d39d Starly
 
 ; 0x0023d3a6 あさましいやっちゃな…
-0x0023d3a6 What a disgrace...
+0x0023d3a6 Moe!? Its good to
 
 ; 0x0023d3bd まあ　人だすけになるし
-0x0023d3bd Well, it´ll be a lot of help.
+0x0023d3bd help people at least.
 
 ; 0x0023d3d4 ええんちゃう？　やったりーな
-0x0023d3d4 What´s wrong? Not bad.
+0x0023d3d4 We`ll get your shell!
 
 ; 0x0023d404 ヤドカリタ
-0x0023d404 Hermita
+0x0023d404 Herman
 
 ; 0x0023d40f わーい！　ありがとう！
-0x0023d40f Yay! Thanks!
+0x0023d40f Yay! Thanks! You
 
 ; 0x0023d426 でも　フォークをこらしめるには
-0x0023d426 But if you want to hold a fork
+0x0023d426 can`t beat Fork unless
 
 ; 0x0023d44b 『スピンアタック』
-0x0023d44b “Spin Attack”
+0x0023d44b you Star Spin.
 
 ; 0x0023d463 がないと
-0x0023d463 I don´t have it.
+0x0023d463 ㅤ
 
 ; 0x0023d47f ヤドカリタ
-0x0023d47f Hermita
+0x0023d47f Herman
 
 ; 0x0023d48a こまるでしょー？　また
-0x0023d48a It´s like this? Again?
+0x0023d48a I`ll put up a sign
 
 ; 0x0023d4a1 カンバンを　たてておいたよー
-0x0023d4a1 I´ve got a big bang for you.
+0x0023d4a1 for you to read.
 
 ; 0x0023d4d1 ヤドカリタ
-0x0023d4d1 Hermita
+0x0023d4d1 Herman
 
 ; 0x0023d4dc スピンアタックを使えば
-0x0023d4dc If I use a spin attack
+0x0023d4dc You can use the Star
 
 ; 0x0023d4f3 ワルモノをやっつけたり
-0x0023d4f3 Like taking out bad guys
+0x0023d4f3 Spin to take out bad
 
 ; 0x0023d50a できるんだよー
-0x0023d50a I can do it!
+0x0023d50a guys!
 
 ; 0x0023d52c ヤドカリタ
-0x0023d52c Hermita
+0x0023d52c Herman
 
 ; 0x0023d537 でもでもー　４回いじょう
-0x0023d537 But, but, but, four times.
+0x0023d537 If you spin 4 times
 
 ; 0x0023d550 れんぞくして使うと
-0x0023d550 If you use it renzoku
+0x0023d550 in a row you`ll
 
 ; 0x0023d563 フラフラになっちゃうから
-0x0023d563 You´ll get dizzy.
+0x0023d563 get dizzy.
 
 ; 0x0023d58f ヤドカリタ
-0x0023d58f Hermita
+0x0023d58f Herman
 
 ; 0x0023d59a そんなときは　すばやく
-0x0023d59a In times like these, quick.
+0x0023d59a If that happens,
 
 ; 0x0023d5b1 十字ボタンの　上下左右を押すと
-0x0023d5b1 Press the cross button up, down, left, right.
+0x0023d5b1 mash the D-Pad to recover
 
 ; 0x0023d5d0 早く目がさめるよー
-0x0023d5d0 I´ll wake up soon!
+0x0023d5d0 faster!
 
 ; 0x0023d5f6 スタピー
-0x0023d5f6 Stapy
+0x0023d5f6 Starly
 
 ; 0x0023d5ff じゃあ　にいちゃん
-0x0023d5ff Okay, niichan.
+0x0023d5ff Good luck, Big
 
 ; 0x0023d612 がんばりやー
-0x0023d612 Good luck!
+0x0023d612 Bro!
 
 ; 0x0023d663 キョロスケ
 0x0023d663 Moe
@@ -16258,127 +16248,127 @@
 0x0023d6bf Moe
 
 ; 0x0023d6ca オレさまは　今回オメェに
-0x0023d6ca This time, I´ll give you...
+0x0023d6ca I won`t be going with
 
 ; 0x0023d6e3 ついてってやらねえ
-0x0023d6e3 I won´t follow you.
+0x0023d6e3 you. Too much
 
 ; 0x0023d6f6 メンドクセェからな
-0x0023d6f6 It´s a pain.
+0x0023d6f6 of a pain.
 
 ; 0x0023d71c キョロスケ
 0x0023d71c Moe
 
 ; 0x0023d727 けど　オメェみたいな　なきむしの
-0x0023d727 But you´re the only one who can do it.
+0x0023d727 You`re so weak, you can`t
 
 ; 0x0023d748 よわむしは　オレさまがいねえと
-0x0023d748 The dung beetle needs me.
+0x0023d748 do anything without me,
 
 ; 0x0023d767 なんにも　できねえだろ？
-0x0023d767 I can´t do anything, can I?
+0x0023d767 can you?
 
 ; 0x0023d793 キョロスケ
 0x0023d793 Moe
 
 ; 0x0023d79e もしオレさまの　ありがたーい
-0x0023d79e What if I´m grateful?
+0x0023d79e If you need my advice,
 
 ; 0x0023d7bb コトバが　ききたいときは
-0x0023d7bb When you want to hear a word,
+0x0023d7bb you can use a 
 
 ; 0x0023d7da 『こうしゅうデンワ』
-0x0023d7da “Koshu Denwa”
+0x0023d7da Pay Phone.
 
 ; 0x0023d7f4 を使えよ
-0x0023d7f4 Use .
+0x0023d7f4 ㅤ
 
 ; 0x0023d810 スタピー
-0x0023d810 Stapy
+0x0023d810 Starly
 
 ; 0x0023d819 なあ　ハマグリ
-0x0023d819 Hey, clam.
+0x0023d819 Hey, Clammy.
 
 ; 0x0023d828 こうしゅうデンワってなんや？
-0x0023d828 What´s a telephone?
+0x0023d828 What´s a Pay Phone? Is
 
 ; 0x0023d845 ケータイとちゃうんか？
-0x0023d845 You´re taking your phone?
+0x0023d845 it like a cellphone?
 
 ; 0x0023d87d キョロスケ
 0x0023d87d Moe
 
 ; 0x0023d888 お　オメェ　こうしゅうデンワ
-0x0023d888 Hey, you´re like this.
+0x0023d888 Y-you don`t know?
 
 ; 0x0023d8a5 知らねえのか…　おそろしい
-0x0023d8a5 You don´t know? Scary.
+0x0023d8a5 Your generation
 
 ; 0x0023d8c0 せだいだな……
-0x0023d8c0 It´s a waste...
+0x0023d8c0 scares me…
 
 ; 0x0023d909 キョロスケ
 0x0023d909 Moe
 
 ; 0x0023d914 こうしゅうデンワってのは
-0x0023d914 What´s a phone call?
+0x0023d914 You`ll find these
 
 ; 0x0023d92d こんなヤツだ　ステージの
-0x0023d92d That´s the guy on stage.
+0x0023d92d around in stages.
 
 ; 0x0023d946 あちこちにたってるんだ
-0x0023d946 It´s everywhere.
+0x0023d946 These are Pay Phones.
 
 ; 0x0023d970 キョロスケ
 0x0023d970 Moe
 
 ; 0x0023d97b この　
-0x0023d97b You...
+0x0023d97b You
 
 ; 0x0023d987 こうしゅうデンワのまえで
-0x0023d987 In front of the telephone
+0x0023d987 can call me by
 
 ; 0x0023d9a1 Hボタンを押す
-0x0023d9a1 Push H
+0x0023d9a1 Pushing
 
 ; 0x0023d9b4 と　オレさまに
-0x0023d9b4 To me.
+0x0023d9b4 to speak
 
 ; 0x0023d9c3 デンワが　つながるんだ
-0x0023d9c3 It´s a phone call.
+0x0023d9c3 to me directly.
 
 ; 0x0023d9ed キョロスケ
 0x0023d9ed Moe
 
 ; 0x0023d9f8 まよったりしたら
-0x0023d9f8 If you´re confused
+0x0023d9f8 If you´re
 
 ; 0x0023da09 オレさまに　デンワしろ
-0x0023da09 Call me.
+0x0023da09 confused call me.
 
 ; 0x0023da20 ヒマだったら　こたえてやるよ
-0x0023da20 If you´re free, I´ll give you a hand.
+0x0023da20 I´ll give you a hand.
 
 ; 0x0023db01 ヤドカリタ
-0x0023db01 Hermita
+0x0023db01 Herman
 
 ; 0x0023db0c フォークのヤツが　ボクの
-0x0023db0c The fork guy´s mine.
+0x0023db0c Fork went and hid my
 
 ; 0x0023db25 おでかけようの　かいがらを
-0x0023db25 Let´s go out.
+0x0023db25 Outing Shell! The
 
 ; 0x0023db40 かくしちゃったんだ！
-0x0023db40 I hid it!
+0x0023db40 bully!
 
 ; 0x0023db68 ヤドカリタ
-0x0023db68 Hermita
+0x0023db68 Herman
 
 ; 0x0023db73 フォークを見つけて
-0x0023db73 Find a fork
+0x0023db73 Find Fork and get
 
 ; 0x0023db86 かいがらを　とりかえして来てよー
-0x0023db86 Go get me a new one.
+0x0023db86 my Outing Shell back!
 
 ; 0x0023dc0b キョロスケ
 0x0023dc0b Moe
@@ -16387,160 +16377,160 @@
 0x0023dc16 If there´s a problem,
 
 ; 0x0023dc2d この　
-0x0023dc2d You...
+0x0023dc2d use
 
 ; 0x0023dc39 『こうしゅうデンワ』
-0x0023dc39 “Koshu Denwa”
+0x0023dc39 Pay Phone to
 
 ; 0x0023dc56 オレさまにデンワしろよ
-0x0023dc56 Call me.
+0x0023dc56 call me.
 
 ; 0x0023dcce ワープじぞう
-0x0023dcce Warp.
+0x0023dcce Warp Jizo
 
 ; 0x0023dcdb おぬしら　
-0x0023dcdb You guys.
+0x0023dcdb Hear of
 
 ; 0x0023dceb 『とびらまじん』
-0x0023dceb “Tobira Majin.”
+0x0023dceb Door Djinns?
 
 ; 0x0023dd04 知っておるか？　えらいわしらが
-0x0023dd04 Do you know? We´re good.
+0x0023dd04 Are you aware of
 
 ; 0x0023dd23 おしえてやろう
-0x0023dd23 I´ll tell you.
+0x0023dd23 them?
 
 ; 0x0023dd45 ワープじぞう王
-0x0023dd45 Warp Jizo
+0x0023dd45 Warp Jizo King
 
 ; 0x0023dd54 とびらまじんは　たまにステージ中に
-0x0023dd54 Every once in a while, Tobira-majin is on stage.
+0x0023dd54 Door Djinns are sealed doors
 
 ; 0x0023dd77 おかれている　ふういんされた
-0x0023dd77 He´s crazy. He´s blowing me up.
+0x0023dd77 you may find while in
 
 ; 0x0023dd94 トビラじゃ
-0x0023dd94 It´s a door.
+0x0023dd94 a Stage.
 
 ; 0x0023ddb2 ワープじぞう
-0x0023ddb2 Warp.
+0x0023ddb2 Warp Jizo
 
 ; 0x0023ddbf 今の　おぬしたちの
-0x0023ddbf Right now, you´re...
+0x0023ddbf Right now,
 
 ; 0x0023ddd2 ちーーーーーーっちゃい力では
-0x0023ddd2 With such a small power
+0x0023ddd2 you`re too weak to open
 
 ; 0x0023ddef あけることは　できん
-0x0023ddef I can´t open it.
+0x0023ddef them.
 
 ; 0x0023de17 ワープじぞう王
-0x0023de17 Warp Jizo
+0x0023de17 Warp Jizo King
 
 ; 0x0023de26 しかし　すーーーーーーっごく
-0x0023de26 But it´s sooooooooo
+0x0023de26 But with effort you may
 
 ; 0x0023de43 どりょくすれば　いつの日か
-0x0023de43 Someday, I´ll do it.
+0x0023de43 one day be able to open
 
 ; 0x0023de5e あけられるかもしれん
-0x0023de5e It might open up.
+0x0023de5e one.
 
 ; 0x0023de86 ワープじぞう
-0x0023de86 Warp.
+0x0023de86 Warp Jizo
 
 ; 0x0023de93 とびらまじんの　おくには
-0x0023de93 In the depths of Tobira Majin,
+0x0023de93 It is said that they
 
 ; 0x0023deac たくさんのしんじゅや　ざいほうが
-0x0023deac A lot of shinjuya, a lot of zai.
+0x0023deac are full of treasure and
 
 ; 0x0023decd ねむっていると　いわれておる
-0x0023decd They say you sleep.
+0x0023decd pearls inside.
 
 ; 0x0023defd ワープじぞう王
-0x0023defd Warp Jizo
+0x0023defd Warp Jizo King
 
 ; 0x0023df0c だが　もちろん
 0x0023df0c But of course
 
 ; 0x0023df1b わしらのほうが　えらいことを
-0x0023df1b We´re better than you.
+0x0023df1b we´re greater than a Door
 
 ; 0x0023df38 わすれるな
-0x0023df38 Don´t forget.
+0x0023df38 Djinn.
 
 ; 0x0023dfed ヤドカリタ
-0x0023dfed Hermita
+0x0023dfed Herman
 
 ; 0x0023dff8 あああーーー！！
 0x0023dff8 Ahhhhhh!!
 
 ; 0x0023e009 ボクの　かいがらだ！！
-0x0023e009 It’s my shell!
+0x0023e009 It`s my shell!
 
 ; 0x0023e020 どうもありがとう！
 0x0023e020 Thanks so much!
 
 ; 0x0023e046 ヤドカリタ
-0x0023e046 Hermita
+0x0023e046 Herman
 
 ; 0x0023e051 さっそく　きがえてみるね！
-0x0023e051 I´ll go ahead and ask!
+0x0023e051 Ill go ahead and change!
 
 ; 0x0023e09f キョロスケ
 0x0023e09f Moe
 
 ; 0x0023e0aa オメェの　きがえなんか
-0x0023e0aa I don´t know what you´re doing.
+0x0023e0aa No need to do that,
 
 ; 0x0023e0c1 見なくていいから　とっとと
-0x0023e0c1 You don´t have to look.
+0x0023e0c1 just hand over the 
 
 ; 0x0023e0dc おたから…
-0x0023e0dc Otakara...
+0x0023e0dc treasure…
 
 ; 0x0023e147 ヤドカリタ
-0x0023e147 Hermita
+0x0023e147 Herman
 
 ; 0x0023e152 どう！？
 0x0023e152 Well!?
 
 ; 0x0023e175 スタピー
-0x0023e175 Stapy
+0x0023e175 Starly
 
 ; 0x0023e17e そ　それが『おでかけよう』かいな！
-0x0023e17e So that´s what it means to go out!
+0x0023e17e Why are you wearing that
 
 ; 0x0023e1a1 なにかんがえてんねん！
-0x0023e1a1 What are you thinking?!
+0x0023e1a1 thing outside!?
 
 ; 0x0023e1cb ヤドカリタ
-0x0023e1cb Hermita
+0x0023e1cb Herman
 
 ; 0x0023e1d6 やだなー　ホメすぎー
-0x0023e1d6 Oh, no. That´s too much praise.
+0x0023e1d6 Aw, I`m blushing.
 
 ; 0x0023e1fe キョロスケ
 0x0023e1fe Moe
 
 ; 0x0023e209 ホメてねえし！
-0x0023e209 I didn´t praise you!
+0x0023e209 That was an
 
 ; 0x0023e218 むしろ　けなしてんだよ！
-0x0023e218 In fact, I´m insulting you!
+0x0023e218 insult, if anything.
 
 ; 0x0023e244 ヤドカリタ
-0x0023e244 Hermita
+0x0023e244 Herman
 
 ; 0x0023e24f もー　てれやだなーみんな
 0x0023e24f Geez, you guys.
 
 ; 0x0023e268 もっとホメてくれて
-0x0023e268 He praised me more.
+0x0023e268 You can praise
 
 ; 0x0023e27b いいのにぃー
-0x0023e27b I don´t mind...
+0x0023e27b my shell.
 
 ; 0x0023e29b キョロスケ
 0x0023e29b Moe
@@ -16549,10 +16539,10 @@
 0x0023e2a6 ...Enough.
 
 ; 0x0023e2b7 とっとと　たからもの
-0x0023e2b7 Let´s get this over with.
+0x0023e2b7 Let´s get the
 
 ; 0x0023e2cc よこせよ……
-0x0023e2cc Hand it over...
+0x0023e2cc treasure…
 
 ; 0x0023e39e マテル
 0x0023e39e Mater
@@ -40277,7 +40267,7 @@
 0x0032d2f5 Matter theme
 
 ; 0x0032d304 なし
-0x0032d304 No
+0x0032d304 No.
 
 ; 0x0032d309 きょく５８
 0x0032d309 Kyoku58
@@ -40304,10 +40294,10 @@
 0x00352c98 True peace had finally
 
 ; 0x00352caf ほんとうの　平和がおとずれ
-0x00352caf befallen Pufftop. Its
+0x00352caf befallen Pufftop. It`s
 
 ; 0x00352cca みんなたのしくくらしています
-0x00352cca citizens are enjoying peace.
+0x00352cca citizens enjoying peace.
 
 ; 0x00352d39 ◆キョロスケ
 0x00352d39 ◆Moe
@@ -40751,7 +40741,7 @@
 0x003668d1 Stripe Swimmer
 
 ; 0x003668e0 ヤドカリタのぼうし
-0x003668e0 Hermit crabs
+0x003668e0 Herman Hat
 
 ; 0x003668f3 たいそうふく
 0x003668f3 Taisoku
@@ -42635,46 +42625,46 @@
 0x00374f77 Idol Puppet
 
 ; 0x004a3842 およぐ
-0x004a3842 Oyogu
+0x004a3842 Swim
 
 ; 0x004a3849 シティへもどる
-0x004a3849 Back to the City
+0x004a3849 Return to City
 
 ; 0x004a3858 トビラに入る
-0x004a3858 Enter the door.
+0x004a3858 Doors
 
 ; 0x004a3865 がんばりおよぎ
-0x004a3865 Good luck, oyogi.
+0x004a3865 Turbo Swim
 
 ; 0x004a3874 なみまじゃんぷ
-0x004a3874 Namimajampu
+0x004a3874 Wave Jump
 
 ; 0x004a3883 ワープじぞう
-0x004a3883 Warp.
+0x004a3883 Warp Jizo
 
 ; 0x004a3890 あるく
-0x004a3890 Aruk
+0x004a3890 Walk
 
 ; 0x004a3897 だっっしゅ
-0x004a3897 Dashu
+0x004a3897 Dash
 
 ; 0x004a38a2 しゃがみ
-0x004a38a2 Crouching
+0x004a38a2 Crouch
 
 ; 0x004a38ab こうしゅうデンワ
-0x004a38ab Koshudenwa
+0x004a38ab Pay Phone
 
 ; 0x004a38bc しゃがみすべり
-0x004a38bc Crouching, sliding
+0x004a38bc Sliding
 
 ; 0x004a38cb じゃんぷ
-0x004a38cb Janpu
+0x004a38cb Jump
 
 ; 0x004a38d4 だっっしゅじゃんぷ
-0x004a38d4 Dashujanpu
+0x004a38d4 Dash Jump
 
 ; 0x004a38e7 スピンアタックレベル１
-0x004a38e7 Spin Attack Level 1
+0x004a38e7 Star Spin
 
 ; 0x004a38fe ムササビじゃんぷ
 0x004a38fe Musabijampu
@@ -42941,13 +42931,13 @@
 0x004a4081 right time to be safe!
 
 ; 0x004a409a こうしゅうデンワのまえにたって
-0x004a409a Even in front of the phone
+0x004a409a At a Pay Phone,
 
 ; 0x004a40ba Hボタンを押すと　オレさまに
-0x004a40ba You press the H button, and I´ll...
+0x004a40ba Press to talk to the
 
 ; 0x004a40d6 つながるぞ！　なにかあれば使えよな！
-0x004a40d6 I´ll connect! If anything happens, use it!
+0x004a40d6 Great Moe!
 
 ; 0x004a40fb だっっしゅしながら　しゃがむと
 0x004a40fb If you Duck while Dashing you
@@ -42977,13 +42967,13 @@
 0x004a41bf with ease!
 
 ; 0x004a41dc テキやブロックに　アタックを
-0x004a41dc Attack Teki, Block.
+0x004a41dc Use it to attack foes
 
 ; 0x004a41f9 するんだよー！！　あんまり
-0x004a41f9 I´m gonna do it!! Too much.
+0x004a41f9 and break blocks!
 
 ; 0x004a4214 やりすぎると　目を回すからねー
-0x004a4214 If you overdo it, you´ll get dizzy.
+0x004a4214 Don`t overuse it!
 
 ; 0x004a4233 じゃんぷじゃとどかないばしょも
 0x004a4233 It won´t stop at jampu.
@@ -48984,100 +48974,100 @@
 0x00825c08 I might put it in.
 
 ; 0x00825c1f ロブじいさんのぼんさいを
-0x00825c1f Uncle Rob´s bonzai.
+0x00825c1f Bring back Old
 
 ; 0x00825c38 なおすのよ　
-0x00825c38 I´m going to do it.
+0x00825c38 Lobber`s
 
 ; 0x00825c4a しゅうりキット
-0x00825c4a Cucumber kit
+0x00825c4a Bonsai Kit
 
 ; 0x00825c61 とって来てあげてね
-0x00825c61 Go get him.
+0x00825c61 Go get it!
 
 ; 0x00825c7a しゅうりキット
-0x00825c7a Cucumber kit
+0x00825c7a Bonsai Kit
 
 ; 0x00825c8e を　見つけたのね
-0x00825c8e You found .
+0x00825c8e You found it!
 
 ; 0x00825c9f じゃあ　シティの
-0x00825c9f Okay, city.
+0x00825c9f Give it to
 
 ; 0x00825cb5 ロブじいさん
-0x00825cb5 Uncle Rob.
+0x00825cb5 Old Lobber
 
 ; 0x00825cca とどけてあげましょう
-0x00825cca Let´s get it over with.
+0x00825cca in the City!
 
 ; 0x00825ce5 ヤドカリタ
-0x00825ce5 Hermita
+0x00825ce5 Herman`s
 
 ; 0x00825cf5 が　おでかけようの
-0x00825cf5 Let´s go out.
+0x00825cf5 Outing Shell
 
 ; 0x00825d0e かいがら
-0x00825d0e Kagara
+0x00825d0e was
 
 ; 0x00825d1c を　
-0x00825d1c O.
+0x00825d1c ㅤ
 
 ; 0x00825d26 フォーク
-0x00825d26 Fork
+0x00825d26 taken
 
 ; 0x00825d37 かくされちゃった
-0x00825d37 He hid me.
+0x00825d37 by Fork.
 
 ; 0x00825d4d んですって
-0x00825d4d What´s that?!
+0x00825d4d Get it
 
 ; 0x00825d58 とりかえしてあげてね
-0x00825d58 Take it back.
+0x00825d58 back!
 
 ; 0x00825d73 フォーク
 0x00825d73 Fork
 
 ; 0x00825d81 を　たおさないと
-0x00825d81 I´ve got to kill .
+0x00825d81 locked the
 
 ; 0x00825d92 トビラがひらかないみたいよ
-0x00825d92 The door won´t open.
+0x00825d92 door! Beat him to open
 
 ; 0x00825dad こまったときは　
-0x00825dad When things get bad
+0x00825dad it and get the
 
 ; 0x00825dc3 こうしゅうデンワ
-0x00825dc3 Koshudenwa
+0x00825dc3 Outing Shell!
 
 ; 0x00825ddc 使ってみたらどうかしら
-0x00825ddc Why don´t you try it?
+0x00825ddc Get it back!
 
 ; 0x00825df3 かいがらは　もうすぐそこに
-0x00825df3 It´s almost there.
+0x00825df3 It´s gotta be around
 
 ; 0x00825e0e あるはずよ　しんちょうに
-0x00825e0e There´s gotta be one.
+0x00825e0e here somewhere!
 
 ; 0x00825e27 さがしてみましょうね
-0x00825e27 Let´s look for it.
+0x00825e27 Lets look for it.
 
 ; 0x00825e3c シティの
-0x00825e3c City.
+0x00825e3c ㅤ
 
 ; 0x00825e4a ヤドカリタ
-0x00825e4a Hermita
+0x00825e4a ㅤ
 
 ; 0x00825e62 かいがら
-0x00825e62 Kagara
+0x00825e62 ㅤ
 
 ; 0x00825e73 とどけてあげましょう
-0x00825e73 Let´s get it over with.
+0x00825e73 Head to the City
 
 ; 0x00825e88 ワープじぞうを使えば　シティの
-0x00825e88 If you use Warp Jizo, you´ll be in the city.
+0x00825e88 to give Herman his Outing
 
 ; 0x00825ea7 すぐそばにワープできるわよ
-0x00825ea7 We can warp right next to you.
+0x00825ea7 Shell!
 
 ; 0x00825ec8 ムササビじゃんぷ
 0x00825ec8 Musabijampu
@@ -50154,37 +50144,37 @@
 0x00827f51 .. ..
 
 ; 0x00827f62 もっているアイテムを　わしが
-0x00827f62 I have an item for you.
+0x00827f62 I will explain any item
 
 ; 0x00827f7f せつめいしてやるのじゃ　今は
-0x00827f7f I´m going to make you pay.
+0x00827f7f you collect. You have
 
 ; 0x00827f9c なにももってないのじゃ
-0x00827f9c I have nothing.
+0x00827f9c nothing right now.
 
 ; 0x00827fb3 しゅうりキット
 0x00827fb3 Cucumber kit
 
 ; 0x00827fc2 ロブじいさんのぼんさいを
-0x00827fc2 Uncle Rob´s bonzai.
+0x00827fc2 Old Lobber needs this
 
 ; 0x00827fdb しゅうりするのに　ひつような
-0x00827fdb Like a cucumber.
+0x00827fdb Bonsai Kit to tend to his
 
 ; 0x00827ff8 どうぐなのじゃ
-0x00827ff8 What do you think?
+0x00827ff8 Bonsai.
 
 ; 0x00828007 ヤドカリタのかいがら
 0x00828007 Hermit crabs
 
 ; 0x0082801c ヤドカリタが　だいじにしている
-0x0082801c The hermit crabs are taking care of it.
+0x0082801c This is Herman`s beloved
 
 ; 0x0082803b おでかけようの　かいがらなのじゃ
-0x0082803b It´s time to go.
+0x0082803b Outing Shell. It`s
 
 ; 0x0082805c ファッショナブルなのじゃ
-0x0082805c It´s fashionable.
+0x0082805c quite fashionable.
 
 ; 0x00828075 たからばこ
 0x00828075 Tadabako
@@ -50615,5 +50605,3 @@
 ; 0x00828d0d シツレンの１つや２つ　よゆうで
 0x00828d0d A shitsuren or two.
 
-; 0x00828d2c のりこえるものじゃ
-0x00828d2c you have to overcome.
