@@ -22,12 +22,14 @@ replace_gfx save_obj  # "Save now?" window (used in ??)
 replace_gfx save_window_l  # "Save now?" window (used in stages)
 replace_gfx city1_obj_sub_l  # 1st city map ui elements
 replace_gfx fileselect_low_obj  # File menu on title screen
+replace_gfx city_in_l  # "[Back] To City" sign in stages
+replace_gfx pose_obj_l  # Pause menu
 
 NitroPacker pack -p "Densetsu no Stafy 4 (Japan)/Densetsu no Stafy 4 (English).json" -r "$OUTPUT_ROM"
 # alt.: dsrom build --config "Densetsu no Stafy 4 (Japan)/config.yaml" --rom "$OUTPUT_ROM"
 
 # patch text
-sed "s/'/´/g; s/'/´/g"  *_eng.txt > "/tmp/eng.txt"  # ensure supported chars
+sed "s/'/｀/g; s/´/｀/g"  *_eng.txt > "/tmp/eng.txt"  # ensure supported chars
 python ../../ezrominject.py *_jap.txt "/tmp/eng.txt" "$OUTPUT_ROM" --ascii-bios-hack
 #NOT WORKING: --ascii-mode
 

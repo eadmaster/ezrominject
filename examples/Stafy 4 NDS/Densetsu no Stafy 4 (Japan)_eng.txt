@@ -773,10 +773,10 @@
 0x000819cd Saving...
 
 ; 0x000819e4 でんげんをきったり
-0x000819e4 Don’t power off.
+0x000819e4 Do not power off
 
 ; 0x000819f7 ＤＳカードを　ぬいたりしないでね
-0x000819f7 Don’t pull out the DS card.
+0x000819f7 or pull out the DS Card.
 
 ; 0x00081a65 てきすとひょうじてすと
 ; 0x00081a65 Tekisutoyojitesuto
@@ -15771,8 +15771,9 @@
 ; 0x0023c3e9 ワープじぞう
 0x0023c3e9 Warp Jizo
 
+; TODO: fix skipped?
 ; 0x0023c097 だが
-0x0023c097 And...
+0x0023c097 And
 
 ; 0x0023c3fb わしらが　えらいということだけは
 0x0023c3fb don`t forget the info we

@@ -20,3 +20,20 @@
  10. if it works correctly, click "Extract" and save the modified tiles file `title_ue_ob_font.NCGR`.
      - Note: If the file was compressed, click "Pack" before "Extract", and answer "No" to keep the compression when exporting.
 
+
+## OAM Editor
+
+If the gfx has duplicated tiles, you may need to use the  OAM Editor:
+
+![tinkedsi_shot_oam_editor](tinkedsi_shot_oam_editor.png) 
+
+Press the OAM spinner at the top-left to cycle the tiles.
+ 
+For each title, you can:
+
+ - disable/hide the tile with the "Object disable" checkbox
+ - change its position with "Obj0" and "Obj1" spinners
+ - swap the title with another one in the same set via "Obj2" spinner.
+
+When done, click "Save" and remember to export the updated Cell file
+ that stores those infos (e.g. `title_ue_ob_font.NCER`)
