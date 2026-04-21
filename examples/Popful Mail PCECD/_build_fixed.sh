@@ -72,13 +72,12 @@ extract_gfx() {
     sfk partcopy "$OUTPUT_ROM" -fromto 0x2945A1 0x294852 gfx/menu_confirm_jap.bin -yes
     #TODO: sfk partcopy "$OUTPUT_ROM" -fromto 0x251280 ...  gfx/menu_equip_jap.bin -yes
     #TODO: sfk partcopy "$OUTPUT_ROM" -fromto 0x251e36 0x2525c5 gfx/menu_use_jap.bin -yes
+    #TODO: sfk partcopy "$OUTPUT_ROM" -fromto 0x1680400 0x gfx/_sound_test_menu_jap.bin -yes
     
     # portraits
     sfk partcopy "$OUTPUT_ROM" 0x245752 1490 gfx/portrait_mail_jap.bin -yes
     sfk partcopy "$OUTPUT_ROM" 0x245D32 1540 gfx/portrait_tatto_jap.bin -yes
     sfk partcopy "$OUTPUT_ROM" 0x246342 1677 gfx/portrait_gaw_jap.bin -yes
-    
-    #TODO: sfk partcopy "$OUTPUT_ROM" -fromto 0x1680400 0x gfx/_sound_test_menu_jap.bin -yes
 }
 
 replace_gfx() {
@@ -136,6 +135,21 @@ patch_gfx() {
     replace_gfx portrait_mail
     replace_gfx portrait_tatto
     replace_gfx portrait_gaw
+    
+    # cutscenes sub "Francoise Jewelers"
+    sfk setbytes "$OUTPUT_ROM" 0x1d000 0x$(sfk hexdump -raw gfx/cutscene_op_sub1_eng.bin) -yes
+    sfk setbytes "$OUTPUT_ROM" 0xff57 0xf8 -yes  # fix the quotes
+    sfk setbytes "$OUTPUT_ROM" 0xff75 0xf8 -yes  # fix the quotes
+    sfk setbytes "$OUTPUT_ROM" 0xff7a 0x08 -yes  # fix the quotes
+    # cutscenes sub letter "Tomorrow I shall come to you... Tear of Earmil"
+    sfk setbytes "$OUTPUT_ROM" 0x28600 0x$(sfk hexdump -raw gfx/cutscene_op_sub2_eng.bin) -yes
+    sfk setbytes "$OUTPUT_ROM" 0xffb8 0xe8a4  -yes  # fix the alignment
+    sfk setbytes "$OUTPUT_ROM" 0xffbe 0xfc54  -yes  # fix the alignment
+    sfk setbytes "$OUTPUT_ROM" 0xffc3 0x00  -yes  # fix the alignment
+    sfk setbytes "$OUTPUT_ROM" 0xffde 0x20  -yes  # fix the alignment
+    sfk setbytes "$OUTPUT_ROM" 0xfff5 0xfd38  -yes  # fix the alignment
+    sfk setbytes "$OUTPUT_ROM" 0xfffb 0xfc44  -yes  # fix the alignment
+    sfk setbytes "$OUTPUT_ROM" 0x7000 0x00e4a6  -yes  # fix the alignment
 }
 
 
