@@ -27,4 +27,6 @@ In chronological order:
  - [SomeUselessTranslations](https://www.youtube.com/@someuselesstranslations8418): Original script translation
  - [Kolbie5874](https://github.com/Kolbie5874/): Script editing and space optimization.
  - [eadmaster](https://github.com/eadmaster): Font hack and patching tools.
- - [Garhoogin](https://github.com/Garhoogin): [NitroPaint](https://github.com/Garhoogin/) gfx and font editor.
+ - [Garhoogin](https://github.com/Garhoogin): for [NitroPaint](https://github.com/Garhoogin/).
+ - [pleonex](https://github.com/pleonex/tinke) and [R-YaTian](https://github.com/R-YaTian) for [TinkeDS](https://github.com/R-YaTian/TinkeDSi).
+ 
