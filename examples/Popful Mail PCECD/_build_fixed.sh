@@ -130,6 +130,11 @@ patch_gfx() {
     replace_gfx menu_load
     replace_gfx menu_confirm
     
+    # menu options
+    if [ -f gfx/menu_options_eng.bin ]; then
+        sfk setbytes "$OUTPUT_ROM" 0xD9C00 0x$(sfk hexdump -raw gfx/menu_options_eng.bin) -yes
+    fi
+    
     replace_gfx portrait_mail
     replace_gfx portrait_tatto
     replace_gfx portrait_gaw

@@ -3,7 +3,7 @@
 ## Current status  🏗️
 
  - Only the dialogues of the 1st area were revised, still a lot of placeholder text.
- - Menus partially translated
+ - Most menus are translated.
  - **Only partially tested, there may be crashes!**
 
 
