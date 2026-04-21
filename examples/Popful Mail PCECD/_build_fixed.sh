@@ -82,6 +82,7 @@ extract_gfx() {
 
 replace_gfx() {
     FILEBASENAME=gfx/$1
+    [ ! -f ${FILEBASENAME}_jap.bin ] && return  # original file missing
     [ ! -f ${FILEBASENAME}_eng.bin ] && return  # replacement file missing
     ORIG_BLOCK_HEX=$(sfk hexdump -raw ${FILEBASENAME}_jap.bin)
     REPL_BLOCK_HEX=$(sfk hexdump -raw ${FILEBASENAME}_eng.bin)
@@ -129,27 +130,29 @@ patch_gfx() {
     replace_gfx menu_load
     replace_gfx menu_confirm
     
-    # increase pointer of load menu +10 bytes 
-    sfk replace "$OUTPUT_ROM" -binary /A502C983F01DA929A0B4442FB00160/A502C983F01DA933A0B4442FB00160/  -yes
-    
     replace_gfx portrait_mail
     replace_gfx portrait_tatto
     replace_gfx portrait_gaw
     
-    # cutscenes sub "Francoise Jewelers"
-    sfk setbytes "$OUTPUT_ROM" 0x1d000 0x$(sfk hexdump -raw gfx/cutscene_op_sub1_eng.bin) -yes
-    sfk setbytes "$OUTPUT_ROM" 0xff57 0xf8 -yes  # fix the quotes
-    sfk setbytes "$OUTPUT_ROM" 0xff75 0xf8 -yes  # fix the quotes
-    sfk setbytes "$OUTPUT_ROM" 0xff7a 0x08 -yes  # fix the quotes
-    # cutscenes sub letter "Tomorrow I shall come to you... Tear of Earmil"
-    sfk setbytes "$OUTPUT_ROM" 0x28600 0x$(sfk hexdump -raw gfx/cutscene_op_sub2_eng.bin) -yes
-    sfk setbytes "$OUTPUT_ROM" 0xffb8 0xe8a4  -yes  # fix the alignment
-    sfk setbytes "$OUTPUT_ROM" 0xffbe 0xfc54  -yes  # fix the alignment
-    sfk setbytes "$OUTPUT_ROM" 0xffc3 0x00  -yes  # fix the alignment
-    sfk setbytes "$OUTPUT_ROM" 0xffde 0x20  -yes  # fix the alignment
-    sfk setbytes "$OUTPUT_ROM" 0xfff5 0xfd38  -yes  # fix the alignment
-    sfk setbytes "$OUTPUT_ROM" 0xfffb 0xfc44  -yes  # fix the alignment
-    sfk setbytes "$OUTPUT_ROM" 0x7000 0x00e4a6  -yes  # fix the alignment
+    # cutscene sub "Francoise Jewelers"
+    if [ -f gfx/cutscene_op_sub1_eng.bin ]; then
+        sfk setbytes "$OUTPUT_ROM" 0x1d000 0x$(sfk hexdump -raw gfx/cutscene_op_sub1_eng.bin) -yes
+        sfk setbytes "$OUTPUT_ROM" 0xff57 0xf8 -yes  # fix the quotes
+        sfk setbytes "$OUTPUT_ROM" 0xff75 0xf8 -yes  # fix the quotes
+        sfk setbytes "$OUTPUT_ROM" 0xff7a 0x08 -yes  # fix the quotes
+    fi
+    
+    # cutscene sub letter "Tomorrow I shall come to you... Tear of Earmil"
+    if [ -f gfx/cutscene_op_sub2_eng.bin ]; then
+        sfk setbytes "$OUTPUT_ROM" 0x28600 0x$(sfk hexdump -raw gfx/cutscene_op_sub2_eng.bin) -yes
+        sfk setbytes "$OUTPUT_ROM" 0xffb8 0xe8a4  -yes  # fix the alignment
+        sfk setbytes "$OUTPUT_ROM" 0xffbe 0xfc54  -yes  # fix the alignment
+        sfk setbytes "$OUTPUT_ROM" 0xffc3 0x00  -yes  # fix the alignment
+        sfk setbytes "$OUTPUT_ROM" 0xffde 0x20  -yes  # fix the alignment
+        sfk setbytes "$OUTPUT_ROM" 0xfff5 0xfd38  -yes  # fix the alignment
+        sfk setbytes "$OUTPUT_ROM" 0xfffb 0xfc44  -yes  # fix the alignment
+        sfk setbytes "$OUTPUT_ROM" 0x10000 0x00e4a6  -yes  # fix the alignment
+    fi
 }
 
 

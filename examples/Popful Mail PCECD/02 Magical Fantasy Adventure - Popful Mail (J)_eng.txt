@@ -2014,7 +2014,7 @@
 0x00302116 That's rare.
 
 ; 0x00302129 ｦ$-いやぁ、本当に助かったよ。
-0x00302129 Oh, you really helped me out.
+0x0030212c Oh, you really helped me out.
 
 ; 0x00302147 さすが賞金稼ぎをしているだけのことはあるね。
 0x00302147 You know, you're a true bounty hunter.
@@ -2059,7 +2059,7 @@
 0x003022de There's a switch on the top floor of this tower.
 
 ; 0x003022a0 ｦ$2マテリアルを探しているんなら、この先へ行くつもりなんだろ？
-0x003022de If you're looking for Material, you gotta go further, right?
+0x003022a3 If you're looking for Material, you gotta go further, right?
 
 ; 0x003022de $3この塔の最上階に、スイッチが
 0x003022de On the top floor of this tower, there’s a 

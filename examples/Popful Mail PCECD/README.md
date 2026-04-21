@@ -25,6 +25,7 @@
 5. Download and select the corresponding `.xdelta` as Patch file:
    - `PopfulMail (Japan) (Track 02).bin.xdelta` (Jap dub)
    - `02 Magical Fantasy Adventure - Popful Mail (J).iso.xdelta` (Eng dub)
+      - Note: This is a rolling release: check frequently for the latest updates/improvements.
 6. Click "Apply patch" and save in the same folder without changing the filename (same as the input file with `" (patched)"` appended).
 7. Download and use the corresponding cue sheet in this folder to play the game:
    - `PopfulMail (English).cue` (Jap dub)
@@ -36,5 +37,5 @@
 In chronological order:
 
  - [Forrealsyall](https://github.com/Forrealsyall): original script translation
- - [eadmaster](https://github.com/eadmaster): text injection and other patching tools, script revision
+ - [eadmaster](https://github.com/eadmaster): text injection and other patching tools. Script editing and space optimization.
  - [Mentil](https://github.com/mentill): gfx hacking and compression reverse engineering
