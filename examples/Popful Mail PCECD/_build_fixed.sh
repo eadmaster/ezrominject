@@ -70,8 +70,10 @@ extract_gfx() {
     sfk partcopy "$OUTPUT_ROM" -fromto 0x2942ad 0x294429 gfx/menu_save_jap.bin -yes
     sfk partcopy "$OUTPUT_ROM" -fromto 0x294429 0x2945A1 gfx/menu_load_jap.bin -yes
     sfk partcopy "$OUTPUT_ROM" -fromto 0x2945A1 0x294852 gfx/menu_confirm_jap.bin -yes
-    #TODO: sfk partcopy "$OUTPUT_ROM" -fromto 0x251280 ...  gfx/menu_equip_jap.bin -yes
-    #TODO: sfk partcopy "$OUTPUT_ROM" -fromto 0x251e36 0x2525c5 gfx/menu_use_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" 0x25142C 1397  gfx/menu_equip_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" 0x251BBC 447   gfx/menu_equip_tilemap_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" 0x252228 1090  gfx/menu_use_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" 0x2529D0 64    gfx/menu_use_tilemap_jap.bin -yes
     #TODO: sfk partcopy "$OUTPUT_ROM" -fromto 0x1680400 0x gfx/_sound_test_menu_jap.bin -yes
     
     # portraits
@@ -119,6 +121,10 @@ patch_gfx() {
     replace_gfx location_treasury
     replace_gfx location_underground_maze
     replace_gfx location_sealed_palace
+
+    replace_gfx portrait_mail
+    replace_gfx portrait_tatto
+    replace_gfx portrait_gaw
     
     #truncate --reference=menu_pause_jap.bin menu_pause1_eng.bin  # fill with 0s to match the original block size
 
@@ -129,15 +135,15 @@ patch_gfx() {
     replace_gfx menu_save
     replace_gfx menu_load
     replace_gfx menu_confirm
+    replace_gfx menu_equip
+    replace_gfx menu_equip_tilemap
+    replace_gfx menu_use
+    replace_gfx menu_use_tilemap
     
-    # menu options
+    # options menu
     if [ -f gfx/menu_options_eng.bin ]; then
         sfk setbytes "$OUTPUT_ROM" 0xD9C00 0x$(sfk hexdump -raw gfx/menu_options_eng.bin) -yes
     fi
-    
-    replace_gfx portrait_mail
-    replace_gfx portrait_tatto
-    replace_gfx portrait_gaw
     
     # cutscene sub "Francoise Jewelers"
     if [ -f gfx/cutscene_op_sub1_eng.bin ]; then

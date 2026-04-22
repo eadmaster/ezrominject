@@ -262,8 +262,9 @@
 0x000dd4fe Not a Popful Mail file.
 
 
-;;; LOCATIONS
+;;; LOCATIONS (used in options menu)
 
+;; WORLDS:
 ; 0x000dd52d 「ジャングル　
 0x000dd52d Jungle
 
@@ -288,6 +289,7 @@
 ; 0x000dd592 「アルカザール城　
 0x000dd592 Kazyr Castle
 
+;; SUB-AREAS:
 ; 0x000dd5a7 エルフの森
 0x000dd5a7 Elf Forest
 
@@ -304,10 +306,11 @@
 0x000dd5ed Fossil Cave
 
 ; 0x000dd5fe 地下泉洞
-0x000dd5fe Spring Cave
+0x000dd5fe SpringCave
 
 ; 0x000dd60d 怪獣の巣
-0x000dd60d Monster’s Lair
+;0x000dd60d Monster’s Lair
+0x000dd60d MonstLair
 
 ; 0x000dd61c ゴルアデス
 0x000dd61c Golaides
@@ -316,37 +319,43 @@
 0x000dd62d Mines
 
 ; 0x000dd638 古代神殿
-0x000dd638 Ancient Temple
+;0x000dd638 Ancient Temple
+0x000dd638 AncTemple
 
 ; 0x000dd647 ツェイマー
 0x000dd647 Zeimar
 
 ; 0x000dd658 偽りの荒野
-0x000dd658 False Wilderness
+0x000dd658 FalseWilderness
 
 ; 0x000dd669 偽りの塔
-0x000dd669 Tower of Deception
+;0x000dd669 Tower of Deception
+0x000dd669 TowerDeception
 
 ; 0x000dd678 幻影城
-0x000dd678 Castle of Illusion
+;0x000dd678 Castle of Illusion
+0x000dd678 CastleIllusion
 
 ; 0x000dd685 船の墓場
-0x000dd685 Ship Graveyard
+0x000dd685 ShipGraveyard
 
 ; 0x000dd694 海底神殿
-0x000dd694 Underwater Temple
+;0x000dd694 Underwater Temple
+0x000dd694 UndTemple
 
 ; 0x000dd6a3 海底宮殿
-0x000dd6a3 Undersea Palace
+;0x000dd6a3 Undersea Palace
+0x000dd6a3 UndPalace
 
 ; 0x000dd6b2 異次元の街
 0x000dd6b2 Otherworld City
 
 ; 0x000dd6c3 組み立て工場
-0x000dd6c3 Assembly Plant
+;0x000dd6c3 Assembly Plant
 
 ; 0x000dd6d6 次元要塞
-0x000dd6d6 Dimensional Fortress
+;0x000dd6d6 Dimensional Fortress
+0x000dd6d6 D.Fortress
 
 ; 0x000dd6e5 氷山
 0x000dd6e5 Iceberg
@@ -358,21 +367,26 @@
 0x000dd701 Rap Ship
 
 ; 0x000dd712 水晶神殿
-0x000dd712 Crystal Temple
+;0x000dd712 Crystal Temple
+0x000dd712 CrTemple
 
 ; 0x000dd721 正面城壁
-0x000dd721 Front Gate
+0x000dd721 FrontGate
 
 ; 0x000dd730 宝物庫
 0x000dd730 Treasury
 
 ; 0x000dd73d 地下迷宮
-0x000dd73d Underground Maze
+;0x000dd73d Underground Maze
+0x000dd73d UndMaze
 
 ; 0x000dd74c 封玉宮
-0x000dd74c Sealed Palace
+;0x000dd74c Sealed Palace
+0x000dd74c SealPalace
 
 ;; end of locations
+
+
 
 ; 0x000dd759 ガイストレイス
 0x000dd759 Ulgar

@@ -20,10 +20,13 @@
  10. if it works correctly, click "Extract" and save the modified tiles file `title_ue_ob_font.NCGR`.
      - Note: If the file was compressed, click "Pack" before "Extract", and answer "No" to keep the compression when exporting.
 
+>[!TIP]
+> If there are shared tiles which should not be shared by the replacement gfx too, select "Add image" in "Tile import options".
+
 
 ## OAM Editor
 
-If the gfx has duplicated tiles, you may need to use the  OAM Editor:
+The OAM Editor allows more advanced corrections, use only if necessary.
 
 ![tinkedsi_shot_oam_editor](tinkedsi_shot_oam_editor.png) 
 
