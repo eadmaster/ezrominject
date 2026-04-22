@@ -347,16 +347,16 @@
 0x000808b3 Bring me three.
 
 ; 0x000809cb コンペイトウ
-0x000809cb Konpeito
+0x000809cb Heart Gem
 
 ; 0x000809dd を　ゲットしたよ！
-0x000809dd I got !
+0x000809dd ㅤ
 
 ; 0x000809f0 元気のさいだいが
-0x000809f0 I´m fine, but...
+0x000809f0 Your max HP
 
 ; 0x00080a01 １０ポイントふえたよ！
-0x00080a01 I got 10 points!
+0x00080a01 is increased by 10!
 
 ; 0x00080a24 ミタイオウノ　メッセージ　デス
 0x00080a24 Mitaiouno Message Death
@@ -386,16 +386,16 @@
 0x00080afe Let´s get it to Herman.
 
 ; 0x00080b34 たからばこ
-0x00080b34 Tadabako
+0x00080b34 Treasure
 
 ; 0x00080b44 をゲットしたよ
-0x00080b44 I got it.
+0x00080b44 I found it!
 
 ; 0x00080b53 シティにかえって　マテルに
-0x00080b53 Back to the city, back to Mater.
+0x00080b53 Head back to the City to
 
 ; 0x00080b6e 見せてあげよう！
-0x00080b6e I´ll show you!
+0x00080b6e show Matel!
 
 ; 0x00080b8b エリア４の　アイテムゲット
 0x00080b8b Got an item from Area 4
@@ -1070,478 +1070,478 @@
 0x00083182 Moe
 
 ; 0x0008318d あかねえトビラがあるだと？
-0x0008318d There´s a door?
+0x0008318d There`s a door and
 
 ; 0x000831a8 カギが　かかってるに
-0x000831a8 It´s locked.
+0x000831a8 it`s locked?
 
 ; 0x000831bd きまってるだろ
-0x000831bd It´s clear.
+0x000831bd ㅤ
 
 ; 0x000831e5 キョロスケトビラのまわりにあるマークを見ろよ
-0x000831e5 Look at the mark around the Moetobira.
+0x000831e5 Moe       You can see marks on it?
 
 ; 0x00083212 ふんふん　
-0x00083212 Hmm, hmm.
+0x00083212 Theres
 
 ; 0x00083222 スペード
-0x00083222 Spade
+0x00083222 Diamond
 
 ; 0x00083238 ダイヤ
-0x00083238 Daiya
+0x00083238 Spade
 
 ; 0x0008324d クラブ
 0x0008324d Club
 
 ; 0x00083261 ハート
-0x00083261 Hart
+0x00083261 Heart
 
 ; 0x0008326d のマークだな
-0x0008326d That´s the mark.
+0x0008326d shape?
 
 ; 0x00083293 キョロスケよし　どっかに
-0x00083293 Moe, go away.
+0x00083293 Moe       There should
 
 ; 0x000832b1 そのマークと
-0x000832b1 That mark.
+0x000832b1 be matching
 
 ; 0x000832be 同じモン
-0x000832be Same one.
+0x000832be marks
 
 ; 0x000832cc が　あるはずだ
-0x000832cc There´s gotta be a .
+0x000832cc around. Look 
 
 ; 0x000832db さがして　スピンでぶっこわせ
-0x000832db Look for him. Spin him.
+0x000832db and Spin into them.
 
 ; 0x00083311 キョロスケニセモノもあるかも
-0x00083311 Maybe there´s a Moe fake.
+0x00083311 Moe       Some might be
 
 ; 0x0008332e しれねーから　マークのガラを
-0x0008332e I don´t know what you´re talking about, so I´ll get Mark´s gara.
+0x0008332e fakes, so watch out! Spin
 
 ; 0x0008334b まちがえるんじゃねーぞ
-0x0008334b Don´t get me wrong.
+0x0008334b into the right ones!
 
 ; 0x0008337a キョロスケ
 0x0008337a Moe
 
 ; 0x00083385 トビラについてるのと同じ
-0x00083385 It´s like the one on the door.
+0x00083385 Match the door!
 
 ; 0x000833a4 スペード
-0x000833a4 Spade
+0x000833a4 Diamond
 
 ; 0x000833ba ダイヤ
-0x000833ba Daiya
+0x000833ba Spade
 
 ; 0x000833ce クラブ
 0x000833ce Club
 
 ; 0x000833e2 ハート
-0x000833e2 Hart
+0x000833e2 Heart
 
 ; 0x000833f1 マークをさがしてスピンでこわせ
-0x000833f1 Find Mark and make him spin.
+0x000833f1 Find and spin into them!
 
 ; 0x00083429 キョロスケそうすりゃ　トビラが
-0x00083429 Moe, if you do that, the portal will
+0x00083429 Moe       There might be some
 
 ; 0x00083448 あくはずだぞ　ニセモノもあるかも
-0x00083448 There´s gotta be a way out. Maybe it´s fake.
+0x00083448 fakes! So be careful! Spin
 
 ; 0x00083469 しれねーから　ちゅういしろよ
-0x00083469 I don´t know, so shut up.
+0x00083469 into the right ones!
 
 ; 0x0008349e キョロスケ
 0x0008349e Moe
 
 ; 0x000834a9 なんの用だよ　ヒマなのかオメェ
-0x000834a9 What do you want? You´re free.
+0x000834a9 What`s your problem? Bored?
 
 ; 0x000834c8 それとも　そんなにオレさまの
-0x000834c8 Or maybe it´s just me.
+0x000834c8 You wanna hear about
 
 ; 0x000834e5 こえが　ききたいのか？
-0x000834e5 You wanna hear the fear?
+0x000834e5 my screw-ups?
 
 ; 0x00083515 キョロスケオレさまに　ほれるとやけどするぜ
-0x00083515 I´ll burn you if you fall in love with me.
+0x00083515 Moe       Fall for me, you`ll get
 
 ; 0x00083540 ツミなオトコだな　オレさまも…
-0x00083540 You´re such a lucky man. I...
+0x00083540 burned. Real heartbreaker.
 
 ; 0x0008355f ふっ
-0x0008355f Heh.
+0x0008355f Heh
 
 ; 0x00083582 キョロスケ
 0x00083582 Moe
 
 ; 0x0008358d ああ！？　シャッターがおりてて
-0x0008358d Huh?! There´s a shutter.
+0x0008358d Whazat!? The shutter is
 
 ; 0x000835ac すすめないだって？　よく見ろ
-0x000835ac I don´t recommend it? Look closely.
+0x000835ac closed? Look around. You
 
 ; 0x000835c9 近くに
-0x000835c9 Close.
+0x000835c9 see a
 
 ; 0x000835d5 せきばん
-0x000835d5 Sekban
+0x000835d5 stone
 
 ; 0x000835e3 があるだろ？
-0x000835e3 There´s one, right?
+0x000835e3 slab?
 
 ; 0x00083609 キョロスケそのせきばんの　まえで
-0x00083609 Moe, in front of that sequin.
+0x00083609 Moe       Go in front of the
 
 ; 0x00083630 せきばんにかいてあるのと
-0x00083630 It´s the same as what´s in there.
+0x00083630 slab and copy the pose
 
 ; 0x00083649 同じポーズ
-0x00083649 Same pose
+0x00083649 you see
 
 ; 0x00083659 をするんだ
-0x00083659 Do it.
+0x00083659 on it.
 
 ; 0x0008367d キョロスケそうすりゃ　シャッターが
-0x0008367d Moe, if you do that, the shutter will...
+0x0008367d Moe       Once ya do that, it
 
 ; 0x000836a0 あくはずだぞ　あのシャッターだと
-0x000836a0 That shutter should open.
+0x000836a0 should open. It`s got 1 
 
 ; 0x000836c1 ランプが１つだろ？
-0x000836c1 One lamp?
+0x000836c1 lamp, right?
 
 ; 0x000836ed キョロスケなら　せきばんも１つのはずだぞ
-0x000836ed If you´re looking for Moe, he´s got to have one.
+0x000836ed Moe       That means there`s only 1
 
 ; 0x00083716 さっさと　さがせよ
-0x00083716 Go find him.
+0x00083716 slab around.
 
 ; 0x00083742 キョロスケアクションを　わすれたときは
-0x00083742 When I forget the Moe action,
+0x00083742 Moe       If you forget your
 
 ; 0x00083769 スタートボタンを押して
-0x00083769 Push the start button
+0x00083769 abilities, check the
 
 ; 0x00083780 ポーズメニューでカクニンだ！
-0x00083780 I´ll check the pose menu!
+0x00083780 Pause Menu!
 
 ; 0x000837b5 キョロスケ
 0x000837b5 Moe
 
 ; 0x000837c6 せきばんのまえで　かいてあるのと
-0x000837c6 It´s in front of the door.
+0x000837c6 Copy the pose shown on the
 
 ; 0x000837e7 同じポーズをとる
-0x000837e7 Make the same pose
+0x000837e7 stone tablet.
 
 ; 0x000837fd んだ
-0x000837fd What´s up?
+0x000837fd That
 
 ; 0x00083802 そうすりゃ　シャッターがあくぞ
-0x00083802 That´ll open the shutters.
+0x00083802 will open the shutter.
 
 ; 0x0008383a キョロスケシャッターについてる
-0x0008383a It´s on a Moe shutter.
+0x0008383a Moe       The number of
 
 ; 0x0008385e ランプのかずと
-0x0008385e Lamp Kazuto
+0x0008385e lamps matches
 
 ; 0x0008386d せきばんのかずは
-0x0008386d Sekibannokazuha
+0x0008386d the number of
 
 ; 0x0008387e いっしょ
-0x0008387e Together.
+0x0008387e stone
 
 ; 0x0008388c だからな！
-0x0008388c So!
+0x0008388c tablets!
 
 ; 0x000838af キョロスケ
 0x000838af Moe
 
 ; 0x000838ba ナニ？
-0x000838ba What? What?
+0x000838ba What?
 
 ; 0x000838c1 シャッターがあいただって？
-0x000838c1 Shattered?
+0x000838c1 The shutter opened?
 
 ; 0x000838dc よかったな　おめでとう…
-0x000838dc That´s good. Congratulations.
+0x000838dc Nice. Congrats...
 
 ; 0x0008390e キョロスケ…って　バッカヤロー
-0x0008390e Moe... Bastard.
+0x0008390e Moe       Not! Stop wasting
 
 ; 0x0008392d デンワしてこなくていいから
-0x0008392d You don´t have to call.
+0x0008392d time calling me and
 
 ; 0x00083948 早く　すすめっつーんだ！
-0x00083948 I´m telling you to hurry!
+0x00083948 get a move on!
 
 ; 0x0008397f キョロスケ
 0x0008397f Moe
 
 ; 0x0008398a そのシャッターだと　ランプが
-0x0008398a That´s the shutter.
+0x0008398a That shutter has 2 lamps
 
 ; 0x000839a7 ２つだから　
-0x000839a7 It´s two.
+0x000839a7 so you
 
 ; 0x000839b9 せきばん２つのまえで
-0x000839b9 Two sekiban.
+0x000839b9 gotta copy the pose
 
 ; 0x000839ce 同じポーズ
-0x000839ce Same pose
+0x000839ce on 2
 
 ; 0x000839de をしたら　あくはずだ
-0x000839de Then it´ll open up.
+0x000839de slabs.
 
 ; 0x00083a0c キョロスケボンボーンのヤロー…
-0x00083a0c Kyoros kebonborn...
+0x00083a0c Moe       Konk is about to
 
 ; 0x00083a2b 見つけたら　タダじゃ
-0x00083a2b If I find it, it´s free.
+0x00083a2b be in a world of
 
 ; 0x00083a40 おかねーからな！
-0x00083a40 I won´t!
+0x00083a40 pain!
 
 ; 0x00083a69 キョロスケ
 0x00083a69 Moe
 
 ; 0x00083a74 そのシャッターだと　ランプが
-0x00083a74 That´s the shutter.
+0x00083a74 You have to copy the pose
 
 ; 0x00083a91 ２つだから　
-0x00083a91 It´s two.
+0x00083a91 on 2
 
 ; 0x00083aa3 せきばん２つのまえで
-0x00083aa3 Two sekiban.
+0x00083aa3 stone slabs.
 
 ; 0x00083ab8 同じポーズ
-0x00083ab8 Same pose
+0x00083ab8 Then
 
 ; 0x00083ac8 をしたら　あくはずだ
-0x00083ac8 Then it´ll open up.
+0x00083ac8 it´ll open up.
 
 ; 0x00083af5 キョロスケ
 0x00083af5 Moe
 
 ; 0x00083b00 どうして　ただのデンワで
-0x00083b00 Why is it just a phone?
+0x00083b00 You think it`s strange
 
 ; 0x00083b19 そっちのようすを　てにとるように
-0x00083b19 Just like that.
+0x00083b19 that I know what`s going
 
 ; 0x00083b3a 知ってるか　ふしぎだろ？
-0x00083b3a You know, it´s weird, right?
+0x00083b3a on through a phone?
 
 ; 0x00083b6c キョロスケじつは　チョーこうせいのうな
-0x00083b6c The truth is, Moe is...
+0x00083b6c Moe       I`m actually using space
 
 ; 0x00083b93 じんこうえいせいを　使って
-0x00083b93 Use Jinkoeisei
+0x00083b93 tech to get live
 
 ; 0x00083bae オメェのえいぞうを　じゅしん…
-0x00083bae I´ll take care of you.
+0x00083bae footage of you...
 
 ; 0x00083be6 キョロスケ……って　んなワケあるかーー！！
-0x00083be6 Moe... No way!!
+0x00083be6 Moe       Don`t actually believe
 
 ; 0x00083c11 しんじんなよ！　ムダばなしは
-0x00083c11 Don´t be so cold! Don´t waste your time!
+0x00083c11 that! Cut the chat and
 
 ; 0x00083c2e いいから　早く行けよ！
-0x00083c2e Come on, get going!
+0x00083c2e get going!
 
 ; 0x00083c63 キョロスケ
 0x00083c63 Moe
 
 ; 0x00083c6e そのシャッターだと　ランプが
-0x00083c6e That´s the shutter.
+0x00083c6e That shutter has 3
 
 ; 0x00083c8b ３つだから　
-0x00083c8b It´s three.
+0x00083c8b lamps
 
 ; 0x00083c9d せきばん３つのまえで
-0x00083c9d In front of three sekiban
+0x00083c9d so you gotta copy
 
 ; 0x00083cb2 同じポーズ
-0x00083cb2 Same pose
+0x00083cb2 the pose
 
 ; 0x00083cc2 をしたら　あくはずだ
-0x00083cc2 Then it´ll open up.
+0x00083cc2 on 3 stone slabs.
 
 ; 0x00083cf0 キョロスケずっと下のほうにもあるから
-0x00083cf0 Moe, it´s way down there.
+0x00083cf0 Moe       There are some at the
 
 ; 0x00083d15 ちゅういしてさがせよ！
-0x00083d15 Look for it!
+0x00083d15 bottom, be careful!
 
 ; 0x00083d44 キョロスケ
 0x00083d44 Moe
 
 ; 0x00083d4f そのシャッターだと　ランプが
-0x00083d4f That´s the shutter.
+0x00083d4f That shutter has 3
 
 ; 0x00083d6c ３つだから　
-0x00083d6c It´s three.
+0x00083d6c lamps
 
 ; 0x00083d7e せきばん３つのまえで
-0x00083d7e In front of three sekiban
+0x00083d7e so you gotta copy
 
 ; 0x00083d93 同じポーズ
-0x00083d93 Same pose
+0x00083d93 the pose
 
 ; 0x00083da3 をしたら　あくはずだ
-0x00083da3 Then it´ll open up.
+0x00083da3 on 3 stone slabs.
 
 ; 0x00083dd0 キョロスケ
 0x00083dd0 Moe
 
 ; 0x00083ddb オレさまの　おとうとたちは
-0x00083ddb My dads
+0x00083ddb Wonder if my siblings
 
 ; 0x00083df6 元気でるすばん　してるかな…
-0x00083df6 I wonder if he´s doing well.
+0x00083df6 are doing alright watching
 
 ; 0x00083e13 しんぱいになってきたぞ
-0x00083e13 I´m starting to feel sad.
+0x00083e13 the house.
 
 ; 0x00083e48 キョロスケ
 0x00083e48 Moe
 
 ; 0x00083e53 そのシャッターだと　ランプが
-0x00083e53 That´s the shutter.
+0x00083e53 That shutter has 4
 
 ; 0x00083e70 ４つだから　
-0x00083e70 It´s four.
+0x00083e70 lamps
 
 ; 0x00083e82 せきばん４つのまえで
-0x00083e82 In front of 4 sekiban
+0x00083e82 so you gotta copy
 
 ; 0x00083e97 同じポーズ
-0x00083e97 Same pose
+0x00083e97 the pose
 
 ; 0x00083ea7 をしたら　あくはずだ
-0x00083ea7 Then it´ll open up.
+0x00083ea7 on 4 stone slabs.
 
 ; 0x00083ed5 キョロスケたぶん　もう少しで
-0x00083ed5 Moe, I think it´s almost time.
+0x00083ed5 Moe       Konk`s just past
 
 ; 0x00083ef2 ボンボーンのところにつくはずだ
-0x00083ef2 We´ll be at Bombourne´s.
+0x00083ef2 here! Give it your all,
 
 ; 0x00083f11 キアイ入れろよな！
-0x00083f11 Let´s put kiai in!
+0x00083f11 Starf!
 
 ; 0x00083f3c キョロスケ
 0x00083f3c Moe
 
 ; 0x00083f47 そのシャッターだと　ランプが
-0x00083f47 That´s the shutter.
+0x00083f47 That shutter has 4
 
 ; 0x00083f64 ４つだから　
-0x00083f64 It´s four.
+0x00083f64 lamps
 
 ; 0x00083f76 せきばん４つのまえで
-0x00083f76 In front of 4 sekiban
+0x00083f76 so you gotta copy
 
 ; 0x00083f8b 同じポーズ
-0x00083f8b Same pose
+0x00083f8b the pose
 
 ; 0x00083f9b をしたら　あくはずだ
-0x00083f9b Then it´ll open up.
+0x00083f9b on 4 stone slabs.
 
 ; 0x00083fc8 キョロスケ
 0x00083fc8 Moe
 
 ; 0x00083fd3 アクションは　ぜんぶカンペキに
-0x00083fd3 Everything´s perfect.
+0x00083fd3 Don`t forget your
 
 ; 0x00083ff2 使えるようにしとけよ！
-0x00083ff2 Make it usable!
+0x00083ff2 Abilities! You`ll
 
 ; 0x00084009 いざというときに　こまるからな
-0x00084009 We´ll be in trouble if we have to.
+0x00084009 need them to defeat Konk!
 
 ; 0x00084046 キョロスケ
 0x00084046 Moe
 
 ; 0x00084051 オイッ　そのブキミなトビラのおくに
-0x00084051 Hey, hey, hey, hey.
+0x00084051 Konk`s gotta be behind that
 
 ; 0x00084074 ボンボーンの　ヤローが
-0x00084074 It´s Bombourne.
+0x00084074 creepy looking door.
 
 ; 0x0008408b いるはずだ　じゅんびはいいか？
-0x0008408b He should be here. Are you ready?
+0x0008408b You ready?
 
 ; 0x000840c3 キョロスケ
 0x000840c3 Moe
 
 ; 0x000840d3 ボンボーンの　じゃくてんは
-0x000840d3 Bombourne´s Jammin´
+0x000840d3 His weak point is his
 
 ; 0x000840ee ムキダシになった　あたま
-0x000840ee My head´s all fuzzy.
+0x000840ee uncovered head. Hit it
 
 ; 0x0008410f スピンを　当ててやれ！
-0x0008410f Give him a spin!
+0x0008410f with a Star Spin!
 
 ; 0x0008413f キョロスケアイツが　
-0x0008413f Moeaits
+0x0008413f Moe       When he
 
 ; 0x00084159 あたまをひっこめてる
-0x00084159 He´s hiding his head.
+0x00084159 hides in his shell,
 
 ; 0x0008416e あいだは　スピンを当ててもムダ
-0x0008416e There´s no point in winning a spin between us.
+0x0008416e a Star Spin won`t work,
 
 ; 0x00084195 そんときは　ひたすらにげろ
-0x00084195 If that happens, just get out of here.
+0x00084195 just get away from him!
 
 ; 0x000841c9 キョロスケヘボヘボの　ヨワヨワヤローだから
-0x000841c9 It´s because you´re such a weakling.
+0x000841c9 Moe       He`s clumsy and weak, so
 
 ; 0x000841f4 こわがるひつようはねーぞ
-0x000841f4 There´s no need to be scared.
+0x000841f4 there`s nothin` to be
 
 ; 0x0008420d ばしっと　やっつけてやれ！
-0x0008420d Smash him!
+0x0008420d afraid of!
 
 ; 0x00084240 キョロスケ
 0x00084240 Moe
 
 ; 0x0008424b ボンボーンの
-0x0008424b Bonborn.
+0x0008424b Aim for
 
 ; 0x0008425d じゃくてんは
-0x0008425d Jadenha
+0x0008425d Konk`s head
 
 ; 0x0008426a あたま
-0x0008426a Atma
+0x0008426a and
 
 ; 0x00084279 あたまに　スピンを当ててやれ
-0x00084279 Give him a spin.
+0x00084279 hit em` with a Spin!
 
 ; 0x000842af キョロスケ
 0x000842af Moe
 
 ; 0x000842bf あたまが　見えないときは
-0x000842bf When I can´t see my head,
+0x000842bf If his head is hidden
 
 ; 0x000842d8 スピンを当ててもムダ
-0x000842d8 It´s pointless to hit a spin.
+0x000842d8 you can`t hit em`.
 
 ; 0x000842f5 にげまくれ！
-0x000842f5 Get out of here!
+0x000842f5 Just run!
 
 ; 0x0008431b キョロスケとっとと　たおして
-0x0008431b Moe, hurry up and calm down.
+0x0008431b Moe       Hurry and take
 
 ; 0x00084338 ようせいを　たすけ出すぞ！
-0x00084338 I´ll save you!
+0x00084338 em` down!
 
 ; 0x0008436b キョロスケ
 0x0008436b Moe
@@ -9827,43 +9827,43 @@
 0x000a8463 going!
 
 ; 0x000a8483 グッズ
-0x000a8483 Goods
+0x000a8483 Got
 
 ; 0x000a848f 『マーメイドふく』
-0x000a848f “Mermaidfuku.”
+0x000a848f Mermaid Outfit!
 
 ; 0x000a84aa ゲットしたよ！
-0x000a84aa Got it!
+0x000a84aa ㅤ
 
 ; 0x000a84c6 いたずらものの
-0x000a84c6 A prank.
+0x000a84c6 Looks like
 
 ; 0x000a84da 『アイツ』
-0x000a84da “He.”
+0x000a84da Konk
 
 ; 0x000a84ed パワーアップしてかえって来た！
-0x000a84ed It´s powered up!
+0x000a84ed is back and with a
 
 ; 0x000a850c こらしめちゃおう！
-0x000a850c Let´s do this!
+0x000a850c power up!
 
 ; 0x000a852c グッズ
-0x000a852c Goods
+0x000a852c Got
 
 ; 0x000a8538 『エビフリャー』
-0x000a8538 “Ebifrya.”
+0x000a8538 Fried Shrimp
 
 ; 0x000a8551 ゲットしたよ！
-0x000a8551 Got it!
+0x000a8551 costume!
 
 ; 0x000a856d あいのいずみの先には
-0x000a856d At the end of Ai no Izumi...
+0x000a856d What awaits us past
 
 ; 0x000a8582 どんなばしょがまっているのかな？
-0x000a8582 I wonder what she´s so upset about.
+0x000a8582 the Spring of Love? Let`s
 
 ; 0x000a85a3 たのしみだね！
-0x000a85a3 It´s fun!
+0x000a85a3 find out!
 
 ; 0x000a85bf グッズ
 0x000a85bf Goods
@@ -13298,166 +13298,166 @@
 0x001a4be3 ◆??
 
 ; 0x001a4bf3 「ボンボーンが　たおされたザマスね
-0x001a4bf3 「Bombourne´s down.
+0x001a4bf3 Konk`s defeated. *sigh*
 
 ; 0x001a4c16 　せっかくパワーアップさせて
-0x001a4c16 I went out of my way to power up
+0x001a4c16 What a waste of a
 
 ; 0x001a4c33 　やったのに　使えないヤツザマス」
-0x001a4c33 I tried, but I can´t use it.」
+0x001a4c33 power up...
 
 ; 0x001a4c6f ◆？？？
 0x001a4c6f ◆??
 
 ; 0x001a4c7f 「ふっ　まあいいザマス
-0x001a4c7f 「Heh. Well, fine.
+0x001a4c7f No matter. I`ll let
 
 ; 0x001a4c96 　しばらく　テンカイの王子は
-0x001a4c96 For a while, the Tenkai prince
+0x001a4c96 the Prince of Pufftop
 
 ; 0x001a4cb3 　泳がせておくザマス」
-0x001a4cb3 Let me swim.」
+0x001a4cb3 swim free for now.
 
 ; 0x001a4cee ◆？？？
 0x001a4cee ◆??
 
 ; 0x001a4cfe 「このモナムールストーンが
-0x001a4cfe 「This monamur stone
+0x001a4cfe As long as I have the Mon
 
 ; 0x001a4d19 　あるかぎり　ワタクシはムテキ
-0x001a4d19 As long as I´m alive, I´m a mutt.
+0x001a4d19 Amor Stone I`m invincible.
 
 ; 0x001a4d38 　ザマス」
-0x001a4d38 Zamasu」
+0x001a4d38 ㅤ
 
 ; 0x001a4d5c ◆？？？
 0x001a4d5c ◆??
 
 ; 0x001a4d6c 「ふふふ　モナムーよモナムーよ
-0x001a4d6c 「Heheheh. Monamu. Monamu.
+0x001a4d6c Mon Amor Stone within
 
 ; 0x001a4d8b 　モナムールストーンさん」
-0x001a4d8b Monamur Stone.」
+0x001a4d8b my thrall...
 
 ; 0x001a4dbf ◆？？？
 0x001a4dbf ◆??
 
 ; 0x001a4dcf 「セカイでいちばーん
-0x001a4dcf 「One in the world.
+0x001a4dcf Whos the fairest?
 
 ; 0x001a4de4 　うつくしいのは　だれザマスか？
-0x001a4de4 Who´s the good guy, Zamas?
+0x001a4de4 Me, of course,
 
 ; 0x001a4e05 　もちろん　ワタクシザマスよね？」
-0x001a4e05 Of course it´s me, right?」
+0x001a4e05 right?
 
 ; 0x001a4e89 ◆？？？
 0x001a4e89 ◆??
 
 ; 0x001a4e99 「な　なんですって！！！
-0x001a4e99 「Wh-What did you say?!
+0x001a4e99 Wh-what!? There
 
 ; 0x001a4eb2 　ワタクシよりも　うつくしいものが
-0x001a4eb2 Something better than me.
+0x001a4eb2 is something better than I?
 
 ; 0x001a4ed5 　あるなんて　ゆるせないザマス！」
-0x001a4ed5 I can´t forgive you!」
+0x001a4ed5 I will not stand for this!
 
 ; 0x001a4f11 ◆？？？
 0x001a4f11 ◆??
 
 ; 0x001a4f21 「チョキング！！
-0x001a4f21 「Choking!!
+0x001a4f21 Pincher!
 
 ; 0x001a4f32 　チョキングは　いるザマスか！？」
-0x001a4f32 Is the Choking here?!」
+0x001a4f32 Pen E. Pincher!
 
 ; 0x001a4fb6 ◆チョキング
-0x001a4fb6 ◆Choking
+0x001a4fb6 ◆Pincher
 
 ; 0x001a4fca 「女王さま
-0x001a4fca 「Queen
+0x001a4fca Queen.
 
 ; 0x001a4fd5 　オレを　およびだチョキン？」
-0x001a4fd5 Do you want me?」
+0x001a4fd5 You called for me-pinch?
 
 ; 0x001a500d ◆？？？
 0x001a500d ◆??
 
 ; 0x001a501d 「めいれいザマス！　いまいましい
-0x001a501d 「Meirei Zamasu! Damn.
+0x001a501d Chop down that eyesore of
 
 ; 0x001a503e 　サクラのはなを　ぶったぎって
-0x001a503e Sakura´s hanabata.
+0x001a503e a cherry blossom tree!
 
 ; 0x001a505d 　来るザマス！」
-0x001a505d It´s coming!」
+0x001a505d I order you!
 
 ; 0x001a5087 ◆？？？
 0x001a5087 ◆??
 
 ; 0x001a5097 「今こそ　モナムールストーンで
-0x001a5097 「Now´s the time.
+0x001a5097 Now is the time for you
 
 ; 0x001a50b6 　パワーアップさせてやった
-0x001a50b6 I powered him up
+0x001a50b6 to use the power up
 
 ; 0x001a50d1 　力を　使うザマス！」
-0x001a50d1 Use your power!」
+0x001a50d1 I gave you!
 
 ; 0x001a5101 ◆チョキング
-0x001a5101 ◆Choking
+0x001a5101 ◆Pincher
 
 ; 0x001a5115 「せいこうした　あかつきには
-0x001a5115 「There´s no such thing as red.
+0x001a5115 Once I do that, I want
 
 ; 0x001a5132 　おこづかいをアップしてチョキン
-0x001a5132 Up your allowance, chokin.
+0x001a5132 a higher pay rate-pinch.
 
 ; 0x001a5153 　ちょきんを　ふやすチョキン」
-0x001a5153 Chokin that makes you feel light.」
+0x001a5153 Gotta boost my savings!
 
 ; 0x001a518b ◆？？？
 0x001a518b ◆??
 
 ; 0x001a519b 「あいかわらず　がめついザマスね
-0x001a519b 「You´re as grim as ever.
+0x001a519b Ever the greedy thing.
 
 ; 0x001a51bc 　おこづかいなら　いくらでも
-0x001a51bc I´ll pay you as much as you want.
+0x001a51bc I´ll pay you whatever if
 
 ; 0x001a51d9 　あげるから　さっさと行くザマス！」
-0x001a51d9 I´ll give it to you. Let´s go!」
+0x001a51d9 you hurry up and go!
 
 ; 0x001a5217 ◆チョキング
-0x001a5217 ◆Choking
+0x001a5217 ◆Pincher
 
 ; 0x001a522b 「りょうかいチョキン
-0x001a522b 「Roger, Chokin.
+0x001a522b No one will be able
 
 ; 0x001a5240 　サクラのはなを　めちゃめちゃの
-0x001a5240 Sakura´s hana is a mess.
+0x001a5240 to recongize that tree
 
 ; 0x001a5261 　ぐちゃぐちゃにしてやるチョキン」
-0x001a5261 I´ll mess you up.」
+0x001a5261 when I`m done with it!
 
 ; 0x001a52da ◆？？？
 0x001a52da ◆??
 
 ; 0x001a52ea 「ふっふっふ
-0x001a52ea 「Fufufufu
+0x001a52ea Hm hm hm...
 
 ; 0x001a52f7 　これでセカイでいちばんの
-0x001a52f7 It´s the best in the world.
+0x001a52f7 Nothing in the WORLD
 
 ; 0x001a5312 　びじょは　ワタクシザマス！」
-0x001a5312 Bjyoha Watashizamasu!」
+0x001a5312 will compare to my beauty!
 
 ; 0x001a534a ◆？？？
 0x001a534a ◆??
 
 ; 0x001a5361 「ほーっほっほっほっほ！！！！」
-0x001a5361 「Hohohohoho!!!!」
+0x001a5361 OOOOHOHOHOHO!
 
 ; 0x001a53ea ◆デジール
 0x001a53ea ◆Dejir
@@ -14417,28 +14417,28 @@
 0x00239024 Fork!
 
 ; 0x0023902f １−３　あこがれのムササビじゃんぷ
-0x0023902f 1-3 I yearn for musabi.
+0x0023902f 1-3 The Glide Ability!
 
 ; 0x00239052 ムササビじゃんぷを　マスターして
-0x00239052 Master Musabijampu
+0x00239052 Master the Glide ability and
 
 ; 0x00239073 おたからをゲット！　たよりになる
-0x00239073 Get the ladle! I´m counting on you.
+0x00239073 get the treasure! Show Matel
 
 ; 0x00239094 ところを　見せてやろう
-0x00239094 I´ll show you.
+0x00239094 how cool you are!
 
 ; 0x002390ab １−４　ボンボーンをやっつけろ！
-0x002390ab 1-4, take out Bonborn!
+0x002390ab 1-4 Defeat Konk!
 
 ; 0x002390cc パワーアップしたボンボーンが
-0x002390cc A powered-up Bombourne
+0x002390cc A powered up Konk stole the
 
 ; 0x002390e9 スタフィーたちの　じゃまをするよ
-0x002390e9 I´ll get in your way, Staphy.
+0x002390e9 rose! Let`s go show him
 
 ; 0x0023910a ボンボーンを　こらしめよう！
-0x0023910a Let´s get the Bombourne!
+0x0023910a who`s boss!
 
 ; 0x00239127 ２−１　『ラブリーのおみせ』かいてん
 0x00239127 2-1, ´Lovely Show´.
@@ -16555,94 +16555,94 @@
 0x0023e2cc treasure…
 
 ; 0x0023e39e マテル
-0x0023e39e Mater
+0x0023e39e Matel
 
 ; 0x0023e3a5 あ！　みなさん！
 0x0023e3a5 Ah! Everyone!
 
 ; 0x0023e3b6 おあいできて　よかった！
-0x0023e3b6 I´m glad we got along!
+0x0023e3b6 I caught up to you!
 
 ; 0x0023e3e2 スタピー
-0x0023e3e2 Stapy
+0x0023e3e2 Starly
 
 ; 0x0023e3eb あれ？　アンタたしか
-0x0023e3eb Huh? You´re...
+0x0023e3eb Huh? Matel?
 
 ; 0x0023e400 テンカイで　おるすばんの
-0x0023e400 It´s tenkai.
+0x0023e400 I thought you were
 
 ; 0x0023e419 はずじゃ　なかったんか？
-0x0023e419 Wasn´t I supposed to?
+0x0023e419 staying in Pufftop?
 
 ; 0x0023e445 マテル
-0x0023e445 Mater
+0x0023e445 Matel
 
 ; 0x0023e44c ええ　でも　みなさんの
-0x0023e44c Yes, but yours.
+0x0023e44c Yes, I was. But
 
 ; 0x0023e463 おやくに　たちたくて
-0x0023e463 I wanted to make it quick.
+0x0023e463 I wanted to help
 
 ; 0x0023e478 ついて来てしまったんです
-0x0023e478 I followed you.
+0x0023e478 you all.
 
 ; 0x0023e4b2 スタピー
-0x0023e4b2 Stapy
+0x0023e4b2 Starly
 
 ; 0x0023e4c9 えらいケガしてたやん
-0x0023e4c9 He was really hurt.
+0x0023e4c9 You were hurt bad.
 
 ; 0x0023e4de だいじょうぶなん？
-0x0023e4de You okay?
+0x0023e4de Sure youre okay?
 
 ; 0x0023e512 マテル
-0x0023e512 Mater
+0x0023e512 Matel
 
 ; 0x0023e519 だいじょうぶです！　それに
-0x0023e519 I´ll be fine! And
+0x0023e519 I`m fine, yes! I
 
 ; 0x0023e534 ゆうしゃさまが　がんばっているのに
-0x0023e534 Yusha-sama is doing her best.
+0x0023e534 wanted to see the Great
 
 ; 0x0023e557 じっとしていられません！
-0x0023e557 I can´t sit still!
+0x0023e557 Hero save the Kingdom!
 
 ; 0x0023e59f キョロスケ
 0x0023e59f Moe
 
 ; 0x0023e5aa ちょ　ちょっとまて　じょうちゃん
-0x0023e5aa W-Wait a minute, little girl.
+0x0023e5aa When you say Great
 
 ; 0x0023e5cb ゆ　ゆうしゃさまって………
-0x0023e5cb Yuusha-sama...
+0x0023e5cb  Hero... you don`t
 
 ; 0x0023e5e6 まさか…………
-0x0023e5e6 No way.........
+0x0023e5e6  mean...
 
 ; 0x0023e608 マテル
-0x0023e608 Mater
+0x0023e608 Matel
 
 ; 0x0023e60f スタフィーさんに　きまっています！
-0x0023e60f Stuffy told me!
+0x0023e60f I`m referring to Mr. Starfy,
 
 ; 0x0023e632 ゆうしゃさまの　ごかつやくは
-0x0023e632 Yuusha-sama´s wish...
+0x0023e632 of course his heroic deeds
 
 ; 0x0023e64f アミー王国でもゆうめいです！
-0x0023e64f It´s yummy in the Kingdom of Ami!
+0x0023e64f are known far and wide!
 
 ; 0x0023e69b キョロスケ
 0x0023e69b Moe
 
 ; 0x0023e6a6 あ　あのな　じょうちゃん
-0x0023e6a6 Hey, Jo-chan.
+0x0023e6a6 Uh, listen you can`t
 
 ; 0x0023e6bf ウワサってのは　ほら
-0x0023e6bf Rumors, you know.
+0x0023e6bf believe every
 
 ; 0x0023e6d4 アテになんねえっつーか…
-0x0023e6d4 I don´t think I can count on you...
+0x0023e6d4 rumor ya hear...
 
 ; 0x0023e70e キョロスケ
 0x0023e70e Moe
@@ -16651,562 +16651,562 @@
 0x0023e719 He´s not that good.
 
 ; 0x0023e738 今までおぼえたアクションも
-0x0023e738 The action I´ve learned so far
+0x0023e738 He forgot all his
 
 ; 0x0023e753 ぜんぶわすれてるくらいだし…
-0x0023e753 It´s all forgotten...
+0x0023e753 abilities...
 
 ; 0x0023e791 マテル
-0x0023e791 Mater
+0x0023e791 Matel
 
 ; 0x0023e798 そんなこと　ありません！
-0x0023e798 That´s not true!
+0x0023e798 That`s not true!
 
 ; 0x0023e7b1 スタフィーさんは　ゆうしゃさま
-0x0023e7b1 Mr. Stuffy is Yusha.
+0x0023e7b1 Mr. Starfy is a hero,
 
 ; 0x0023e7d0 なんですから
-0x0023e7d0 That´s why
+0x0023e7d0 after all!
 
 ; 0x0023e7f0 マテル
-0x0023e7f0 Mater
+0x0023e7f0 Matel
 
 ; 0x0023e7f7 そうですよね？
-0x0023e7f7 Isn´t it?
+0x0023e7f7 Arent you,
 
 ; 0x0023e806 スタフィーさん！！
-0x0023e806 Stuffy!
+0x0023e806 Mr. Starfy?
 
 ; 0x0023e841 キョロスケ
 0x0023e841 Moe
 
 ; 0x0023e84c い　いやその……
-0x0023e84c N-No, uh...
+0x0023e84c Well, uh...
 
 ; 0x0023e87e スタピー
-0x0023e87e Stapy
+0x0023e87e Starly
 
 ; 0x0023e887 そやで！　うちのにいちゃんは
-0x0023e887 That´s right! My brother
+0x0023e887 That´s right! My Big Bro
 
 ; 0x0023e8a4 でんせつのゆうしゃさまや！
-0x0023e8a4 Yusha-sama of Densetsu!
+0x0023e8a4 is a legendary hero!
 
 ; 0x0023e8d2 スタピー
-0x0023e8d2 Stapy
+0x0023e8d2 Starly
 
 ; 0x0023e8db そのしょうこに　おとくいの
-0x0023e8db It´s a long time.
+0x0023e8db He`ll prove it, too!
 
 ; 0x0023e8fc 『ムササビじゃんぷ』で　おたからを
-0x0023e8fc “Musabijampu” otakara
+0x0023e8fc He`ll glide through the air
 
 ; 0x0023e91f とって来てくれる
-0x0023e91f I´ll go get it.
+0x0023e91f for treasure!
 
 ; 0x0023e935 そうや！
-0x0023e935 Yes!
+0x0023e935 ㅤ
 
 ; 0x0023e97b キョロスケ
 0x0023e97b Moe
 
 ; 0x0023e986 おっ　おい！　
-0x0023e986 Oh, hey!
+0x0023e986 What?
 
 ; 0x0023e995 スタピー！！？
-0x0023e995 Stapy?!
+0x0023e995 Starly?!
 
 ; 0x0023e9c5 スタピー
-0x0023e9c5 Stapy
+0x0023e9c5 Starly
 
 ; 0x0023e9ce ボソボソ……　あの
 0x0023e9ce *whisper* Um...
 
 ; 0x0023e9e1 じゅんすいな目ぇ　見てみいな
-0x0023e9e1 Look at those eyes.
+0x0023e9e1 Look at her eyes, she
 
 ; 0x0023e9fe にいちゃんを　しんじきっとる
-0x0023e9fe I´m sure you´ll believe in him.
+0x0023e9fe really likes Big Bro.
 
 ; 0x0023ea2e スタピー
-0x0023ea2e Stapy
+0x0023ea2e Starly
 
 ; 0x0023ea37 これで　にいちゃんが　タダの
-0x0023ea37 With this, Nii-chan´s free.
+0x0023ea37 If she really knew who
 
 ; 0x0023ea54 ヘボい　ヒョロい　ハナタレやって
-0x0023ea54 I´m sick. I´m sick. I´m sick.
+0x0023ea54 Big Bro was, she`d be
 
 ; 0x0023ea75 知ったら　がっかりするで
-0x0023ea75 I´d be disappointed if I knew.
+0x0023ea75 devastated!
 
 ; 0x0023eaaf キョロスケ
 0x0023eaaf Moe
 
 ; 0x0023eaba ボソボソ……たしかに　スタフィーが
-0x0023eaba *whisper* *whisper* *whisper* *whisper*
+0x0023eaba *whisper* You`re right I`d
 
 ; 0x0023eadd ただの　よわむしこぞうだって
-0x0023eadd It´s just a fray.
+0x0023eadd feel bad if she found out
 
 ; 0x0023eafa 知ったら　かわいそうだな
-0x0023eafa I´d feel bad if I knew.
+0x0023eafa Starfy was a wimp.
 
 ; 0x0023eb57 キョロスケ
 0x0023eb57 Moe
 
 ; 0x0023eb62 よしっ！　ゆうしゃスタフィー！
-0x0023eb62 Alright! Yusha Staffy!
+0x0023eb62 Alright! Mr. Hero! Get
 
 ; 0x0023eb81 たからものを　ゲットするんだ！
-0x0023eb81 Get the treasure!
+0x0023eb81 the treasure! It should
 
 ; 0x0023eba0 あさめしまえだろ？
-0x0023eba0 Asameshii, right?
+0x0023eba0 be easy, right?
 
 ; 0x0023ebc6 スタピー
-0x0023ebc6 Stapy
+0x0023ebc6 Starly
 
 ; 0x0023ebcf そや　にいちゃん！
-0x0023ebcf Hey, bro!
+0x0023ebcf Yeah, Big Bro!
 
 ; 0x0023ebe2 かっこいいとこ　見せたりや！
-0x0023ebe2 Show me your cool side!
+0x0023ebe2 Show how cool you are!
 
 ; 0x0023ec20 スタピー
-0x0023ec20 Stapy
+0x0023ec20 Starly
 
 ; 0x0023ec29 ボソボソ……いちおう
-0x0023ec29 *whisper* *whisper*
+0x0023ec29 *whisper* Just in
 
 ; 0x0023ec3e ムササビじゃんぷのカンバンは
-0x0023ec3e Musabijampu no kanban
+0x0023ec3e case we`ll put up a
 
 ; 0x0023ec5b たてといたったから
-0x0023ec5b It´s because I took it.
+0x0023ec5b sign for ya.
 
 ; 0x0023ec81 スタピー
-0x0023ec81 Stapy
+0x0023ec81 Starly
 
 ; 0x0023ec8a それ見て　しぬ気で
-0x0023ec8a Look at that. It´s so cold.
+0x0023ec8a Use it to
 
 ; 0x0023ec9d 思い出すんやで！
-0x0023ec9d Remember!
+0x0023ec9d remember.
 
 ; 0x0023ecae しゃんとしいや！？
-0x0023ecae Shame on you!?
+0x0023ecae Do it right!
 
 ; 0x0023ed4c スタピー
-0x0023ed4c Stapy
+0x0023ed4c Starly
 
 ; 0x0023ed55 おとくいの　
-0x0023ed55 The old man.
+0x0023ed55 Use your
 
 ; 0x0023ed67 ムササビじゃんぷ
-0x0023ed67 Musabijampu
+0x0023ed67 Glide ability
 
 ; 0x0023ed80 使って　たからものを
-0x0023ed80 I was using it.
+0x0023ed80 to go get the
 
 ; 0x0023ed95 とって来るんや！
-0x0023ed95 Go get it!
+0x0023ed95 treasure!
 
 ; 0x0023edb9 キョロスケ
 0x0023edb9 Moe
 
 ; 0x0023edc4 できねーとは　いわせねーぞ
-0x0023edc4 You can´t say you can´t.
+0x0023edc4 Don`t you dare say you
 
 ; 0x0023eddf ゆうしゃスタフィー！
-0x0023eddf Yusha Stuffy!
+0x0023eddf can`t, Starfy!
 
 ; 0x0023ee07 マテル
-0x0023ee07 Mater
+0x0023ee07 Matel
 
 ; 0x0023ee0e がんばってください！
-0x0023ee0e Good luck!
+0x0023ee0e Good luck,
 
 ; 0x0023ee23 ゆうしゃさま！
-0x0023ee23 Yuusha!
+0x0023ee23 Mr. Starfy!
 
 ; 0x0023eefc スタピー
-0x0023eefc Stapy
+0x0023eefc Starly
 
 ; 0x0023ef05 あっ！！　にいちゃん！
-0x0023ef05 Ah! Nii-chan!
+0x0023ef05 Ah! Starfy!
 
 ; 0x0023ef1c たからものは　とって来れた？
-0x0023ef1c Did you get anything?
+0x0023ef1c Did you get the treasure?
 
 ; 0x0023ef9e マテル
-0x0023ef9e Mater
+0x0023ef9e Matel
 
 ; 0x0023efa5 すごいわ！　やっぱり
 0x0023efa5 Wow! I knew it!
 
 ; 0x0023efba スタフィーさんは　いだいな
-0x0023efba Mr. Stuffy´s so nice.
+0x0023efba Mr. Starfy is the
 
 ; 0x0023efd5 ゆうしゃさまなんですね！
-0x0023efd5 You´re Yusha-sama!
+0x0023efd5 great hero!
 
 ; 0x0023f02b キョロスケ
 0x0023f02b Moe
 
 ; 0x0023f036 い…　いだいかどうかは
-0x0023f036 I... I don´t know if it´s okay.
+0x0023f036 I dunno about all
 
 ; 0x0023f04d おいといて　よくやったぞ！
-0x0023f04d Hey, hey, hey, hey, hey!
+0x0023f04d that. You did good
 
 ; 0x0023f068 スタフィー！
-0x0023f068 Stafy!
+0x0023f068 Starf!
 
 ; 0x0023f10b ワープじぞう
-0x0023f10b Warp.
+0x0023f10b Warp Jizo
 
 ; 0x0023f118 おぬし　
 0x0023f118 You
 
 ; 0x0023f126 『コンペイトウ』
-0x0023f126 “Kompeito.”
+0x0023f126 like Heart Gems?
 
 ; 0x0023f13c はスキか？
-0x0023f13c You like it?
+0x0023f13c Do you?
 
 ; 0x0023f147 わしは　えらいので
-0x0023f147 I´m very good.
+0x0023f147 In my greatness,
 
 ; 0x0023f15a コンペイトウが大スキじゃ
-0x0023f15a I love konpeito.
+0x0023f15a I adore them.
 
 ; 0x0023f19b ワープじぞう王
-0x0023f19b Warp Jizo
+0x0023f19b Warp Jizo King
 
 ; 0x0023f1aa えらい　わしらが
-0x0023f1aa Good. We´re here.
+0x0023f1aa We shall impart
 
 ; 0x0023f1bb おぬしに　いいことを
-0x0023f1bb Good luck to you.
+0x0023f1bb info that will be
 
 ; 0x0023f1d0 おしえてやろう
-0x0023f1d0 I´ll tell you.
+0x0023f1d0 useful.
 
 ; 0x0023f1f2 ワープじぞう
-0x0023f1f2 Warp.
+0x0023f1f2 Warp Jizo
 
 ; 0x0023f1ff あおいコンペイトウは
-0x0023f1ff Aoi konpeito
+0x0023f1ff These Heart Gems are
 
 ; 0x0023f214 パワーの　みなもとじゃ
-0x0023f214 At the base of the power.
+0x0023f214 a source of power.
 
 ; 0x0023f23e ワープじぞう王
-0x0023f23e Warp Jizo
+0x0023f23e Warp Jizo King
 
 ; 0x0023f253 あおいコンペイトウを
-0x0023f253 Aoi konpeito.
+0x0023f253 If you find one your
 
 ; 0x0023f268 てに入れれば　おぬしの
-0x0023f268 If you put it in, it´s yours.
+0x0023f268 maximum health will
 
 ; 0x0023f27f 元気が　ふえる
-0x0023f27f I´m full of energy.
+0x0023f27f increase.
 
 ; 0x0023f293 じゃろう
-0x0023f293 I´m sure it is.
+0x0023f293 ㅤ
 
 ; 0x0023f2af ワープじぞう
-0x0023f2af Warp.
+0x0023f2af Warp Jizo
 
 ; 0x0023f2bc コンペイトウを　たくさんあつめれば
-0x0023f2bc If you collect a lot of konpeito
+0x0023f2bc If you collect many of them
 
 ; 0x0023f2df それだけ　ぼうけんが
-0x0023f2df That´s all I´ve got.
+0x0023f2df your adventure will
 
 ; 0x0023f2f4 ラクになるのじゃ
-0x0023f2f4 Be at ease.
+0x0023f2f4 be easier.
 
 ; 0x0023f318 ワープじぞう王
-0x0023f318 Warp Jizo
+0x0023f318 Warp Jizo King
 
 ; 0x0023f327 だが　もちろん　わしらが
-0x0023f327 But of course we will.
+0x0023f327 But we are greater than
 
 ; 0x0023f340 コンペイトウより　えらいことは
-0x0023f340 Nothing better than a konpeito.
+0x0023f340 Heart Gems. Don`t
 
 ; 0x0023f35f わすれるな
-0x0023f35f Don´t forget.
+0x0023f35f forget.
 
 ; 0x0023f3f6 ワープじぞう
-0x0023f3f6 Warp.
+0x0023f3f6 Warp Jizo
 
 ; 0x0023f403 あおい　コンペイトウは
-0x0023f403 Hey, Konpeito.
+0x0023f403 The Heart Gems
 
 ; 0x0023f41a パワーの　みなもとじゃ
-0x0023f41a At the base of the power.
+0x0023f41a increase your maximum
 
 ; 0x0023f431 元気を　ふやすのじゃ
-0x0023f431 Be well.
+0x0023f431 health.
 
 ; 0x0023f459 ワープじぞう王
-0x0023f459 Warp Jizo
+0x0023f459 Warp Jizo King
 
 ; 0x0023f468 コンペイトウをあつめれば
-0x0023f468 If you gather konpeito
+0x0023f468 The more you gather
 
 ; 0x0023f481 あつめるほど　おぬしの
-0x0023f481 The more I gather...
+0x0023f481 the easier your
 
 ; 0x0023f498 ぼうけんはラクになるのじゃ
-0x0023f498 Boken will be easier.
+0x0023f498 adventure will become.
 
 ; 0x0023f4c6 ワープじぞう
-0x0023f4c6 Warp.
+0x0023f4c6 Warp Jizo
 
 ; 0x0023f4d3 コンペイトウは　ステージの
-0x0023f4d3 Konpeito´s on stage.
+0x0023f4d3 You can find them
 
 ; 0x0023f4ee あちこちに
-0x0023f4ee Here and there
+0x0023f4ee scattered
 
 ; 0x0023f4f9 ねむっているのじゃ
-0x0023f4f9 I´m tired.
+0x0023f4f9 in stages.
 
 ; 0x0023f51f ワープじぞう王
-0x0023f51f Warp Jizo
+0x0023f51f Warp Jizo King
 
 ; 0x0023f52e こんなステキなじょうほうを
-0x0023f52e Such a wonderful girl.
+0x0023f52e But don`t forget it was
 
 ; 0x0023f549 知っている　わしらが
-0x0023f549 I know. I know.
+0x0023f549 WE who told you
 
 ; 0x0023f55e えらいということをわすれるな
-0x0023f55e Don´t forget that it´s great.
+0x0023f55e about this.
 
 ; 0x0023f5f3 ロブじいさん
-0x0023f5f3 Uncle Rob.
+0x0023f5f3 Old Lobber
 
 ; 0x0023f600 モナムールストーンには
-0x0023f600 Monamur stone
+0x0023f600 Incredible power
 
 ; 0x0023f617 きょだいなパワーが
-0x0023f617 It´s a strange power
+0x0023f617 is in the Mon
 
 ; 0x0023f62a ひめられておる
-0x0023f62a I´m being held back.
+0x0023f62a Amor Stone.
 
 ; 0x0023f64c ロブじいさん
-0x0023f64c Uncle Rob.
+0x0023f64c Old Lobber
 
 ; 0x0023f659 ぬすんだハンニンには
-0x0023f659 To a sloppy criminal
+0x0023f659 No doubt in my mind
 
 ; 0x0023f66e おそろしいたくらみがあるに
-0x0023f66e There´s a dark side to it.
+0x0023f66e whoever stole it is up
 
 ; 0x0023f689 ちがいないぞ
-0x0023f689 You´re right.
+0x0023f689 to no good.
 
 ; 0x0023f707 ロブじいさん
-0x0023f707 Uncle Rob.
+0x0023f707 Old Lobber
 
 ; 0x0023f714 もし　とちゅうで
-0x0023f714 What if, uh,
+0x0023f714 If you ever get
 
 ; 0x0023f725 いきづまったら　ポーズメニューの
-0x0023f725 If it gets out of hand, I´ll go to the pose menu.
+0x0023f725 confused, check the
 
 ; 0x0023f74c 『ヒント＆アイテム』
-0x0023f74c [Hint & Item]
+0x0023f74c Hints & Items
 
 ; 0x0023f766 がめんで
-0x0023f766 Gamende
+0x0023f766 screen.
 
 ; 0x0023f782 ロブじいさん
-0x0023f782 Uncle Rob.
+0x0023f782 Old Lobber
 
 ; 0x0023f78f ヒントを　かくにんしてみると
-0x0023f78f Give me a hint.
+0x0023f78f It`ll give you hints that
 
 ; 0x0023f7ac いいかもしれんぞ
-0x0023f7ac It might be good.
+0x0023f7ac may be helpful.
 
 ; 0x0023f84f ヤドカリタ
-0x0023f84f Hermita
+0x0023f84f Herman
 
 ; 0x0023f85a ねーねー　やっぱステキでしょー？
-0x0023f85a Hey, hey, isn´t it great?
+0x0023f85a Isn`t my shell lovely?
 
 ; 0x0023f87b おしゃれなアミー王国に来るんだから
-0x0023f87b We´re coming to the fashionable Kingdom of Ami.
+0x0023f87b I spent a lot of money on it!
 
 ; 0x0023f89e ちょっとふんぱつしちゃった☆
-0x0023f89e I´m a little flustered☆
+0x0023f89e It`s quite fashionable☆
 
 ; 0x0023f8ce ヤドカリタ
-0x0023f8ce Hermita
+0x0023f8ce Herman
 
 ; 0x0023f8d9 うらやましそうな目したって
-0x0023f8d9 He said he was jealous.
+0x0023f8d9 You`re jealous aren`t
 
 ; 0x0023f8f4 ダメだよ！
-0x0023f8f4 No! No!
+0x0023f8f4 you?
 
 ; 0x0023f8ff あげないからね！
-0x0023f8ff I won´t give you any!
+0x0023f8ff It`s mine!
 
 ; 0x0023fa4f ロブじいさん
-0x0023fa4f Uncle Rob.
+0x0023fa4f Old Lobber
 
 ; 0x0023fa5c た　たいへんじゃ！
-0x0023fa5c T-This is bad!
+0x0023fa5c You must go to the
 
 ; 0x0023fa75 『はじまりの木』
-0x0023fa75 “The Beginning Tree”
+0x0023fa75 Tree of Origin
 
 ; 0x0023fa8e 行ってくれ！
-0x0023fa8e Go on!
+0x0023fa8e posthaste!
 
 ; 0x0023faae ロブじいさん
-0x0023faae Uncle Rob.
+0x0023faae Old Lobber
 
 ; 0x0023fabb 今　
-0x0023fabb Now.
+0x0023fabb ㅤ
 
 ; 0x0023fac5 ラブリー
 0x0023fac5 Lovely
 
 ; 0x0023fad3 たちから
-0x0023fad3 Tachikara
+0x0023fad3 and
 
 ; 0x0023fadc れんらくがあったのじゃ！
-0x0023fadc There was Renraku!
+0x0023fadc friends said that
 
 ; 0x0023faf5 なにか　おきたらしい！
-0x0023faf5 Looks like he´s here!
+0x0023faf5 bad things happened!
 
 ; 0x0023fb1f キョロスケ
 0x0023fb1f Moe
 
 ; 0x0023fb2a ラブリーって　あのオカ……いや
-0x0023fb2a Lovely? That idiot... No
+0x0023fb2a Lovely? That weird guy
 
 ; 0x0023fb49 しゃべりかたが　コセイてきな
-0x0023fb49 The way you talk, it´s scary.
+0x0023fb49 with the unique way of 
 
 ; 0x0023fb66 おにいさんだろ？
-0x0023fb66 Onii-san, right?
+0x0023fb66 speakin`?
 
 ; 0x0023fb8a ロブじいさん
-0x0023fb8a Uncle Rob.
+0x0023fb8a Old Lobber
 
 ; 0x0023fb97 そうじゃ！　くわしくは
-0x0023fb97 Yes! I don´t know.
+0x0023fb97 Yes! I don`t know
 
 ; 0x0023fbae 分からんかったが…　とにかく
-0x0023fbae I don´t know, but...
+0x0023fbae why but you must go to
 
 ; 0x0023fbcb はじまりの木にいそげ！
-0x0023fbcb To the tree of beginnings!
+0x0023fbcb the Tree of Origin!
 
 ; 0x0023fbf5 スタピー
-0x0023fbf5 Stapy
+0x0023fbf5 Starly
 
 ; 0x0023fbfe まってえな　はじまりの木って
-0x0023fbfe Wait a minute. The tree of beginnings.
+0x0023fbfe Where is this Tree of
 
 ; 0x0023fc1b どこなんや？
-0x0023fc1b Where is it?
+0x0023fc1b Origin?
 
 ; 0x0023fc28 すぐ行けるキョリなん？
-0x0023fc28 It´s easy to get there.
+0x0023fc28 How do we get there?
 
 ; 0x0023fc60 ロブじいさん
-0x0023fc60 Uncle Rob.
+0x0023fc60 Old Lobber
 
 ; 0x0023fc6d いや　ちょっとだけとおいが
-0x0023fc6d No, just a little.
+0x0023fc6d It`s far, but this rose
 
 ; 0x0023fc88 このバラが　なんとか
-0x0023fc88 This rose somehow.
+0x0023fc88 should help you
 
 ; 0x0023fc9d してくれるはずじゃ
-0x0023fc9d You´re supposed to.
+0x0023fc9d get there.
 
 ; 0x0023fcc3 ロブじいさん
-0x0023fcc3 Uncle Rob.
+0x0023fcc3 Old Lobber
 
 ; 0x0023fcd0 このバラには
 0x0023fcd0 These roses
 
 ; 0x0023fce2 『あいのいずみ』
-0x0023fce2 “Ainoizumi.”
+0x0023fce2 have the Spring
 
 ; 0x0023fcfb ようせいさんが
-0x0023fcfb Yoseisan
+0x0023fcfb of Love fairy
 
 ; 0x0023fd0a ねむっておるのじゃ
-0x0023fd0a I´m tired.
+0x0023fd0a inside.
 
 ; 0x0023fd30 ロブじいさん
-0x0023fd30 Uncle Rob.
+0x0023fd30 Old Lobber
 
 ; 0x0023fd43 あいのいずみを　使えば
-0x0023fd43 Use Aino Izumi
+0x0023fd43 You can use the rose                              
 
 ; 0x0023fd5a とおくのシティまでワープ
-0x0023fd5a Warp to the city.
+0x0023fd5a to warp to distant
 
 ; 0x0023fd79 できるのじゃ
-0x0023fd79 I can do it.
+0x0023fd79 cities.
 
 ; 0x0023fd99 ロブじいさん
-0x0023fd99 Uncle Rob.
+0x0023fd99 Old Lobber
 
 ; 0x0023fda6 もちろん　はじまりの木までも
-0x0023fda6 Of course, even the Beginning Tree.
+0x0023fda6 Yes, even to the Tree
 
 ; 0x0023fdc3 ひとっとびじゃ
-0x0023fdc3 Once.
+0x0023fdc3 of Origin.
 
 ; 0x0023fde5 スタピー
-0x0023fde5 Stapy
+0x0023fde5 Starly
 
 ; 0x0023fdee うわーっ！　すごいやん！
-0x0023fdee Wow! That´s amazing!
+0x0023fdee Wow! Thats amazing!
 
 ; 0x0023fe07 なあなあ　ようせいさん
-0x0023fe07 Hey, Yosei.
+0x0023fe07 Can we wake the
 
 ; 0x0023fe1e おこしてえな！
-0x0023fe1e Get up!
+0x0023fe1e fairy up?!
 
 ; 0x0023fe40 ロブじいさん
-0x0023fe40 Uncle Rob.
+0x0023fe40 Old Lobber
 
 ; 0x0023fe4d まてまて　ようせいさんは
-0x0023fe4d Hold on, Yosei-san.
+0x0023fe4d Hold on, Starly,
 
 ; 0x0023fe66 デリケートなのじゃ
-0x0023fe66 It´s delicate.
+0x0023fe66 it`s delicate, so
 
 ; 0x0023fe79 そーっとおこさんと……
-0x0023fe79 If I don´t wake up...
+0x0023fe79 wake them up nice...
 
 ; 0x0023feaa ？？？
 0x0023feaa ???
 
 ; 0x0023feb1 それをこっちに
-0x0023feb1 I´ll take it.
+0x0023feb1 Ill take it!
 
 ; 0x0023fec0 よこせボーーン！！
-0x0023fec0 Give it to me, boon!
+0x0023fec0 KONK!
 
 ; 0x0024004d キョロスケ
 0x0024004d Moe
@@ -17215,160 +17215,160 @@
 0x00240058 You...
 
 ; 0x00240066 ボンボーン
-0x00240066 Bonborn
+0x00240066 Konk
 
 ; 0x00240076 ！！
-0x00240076 !
+0x00240076 ?!
 
 ; 0x0024007b ………だよな？　なんだその
-0x0024007b ...Right? What´s that?
+0x0024007b What`s with that
 
 ; 0x00240096 アクシュミなすがたは！
-0x00240096 Aksumi nasugata!
+0x00240096 awful outfit?!
 
 ; 0x002400ce ボンボーン
-0x002400ce Bonborn
+0x002400ce Konk
 
 ; 0x002400d9 ふっふっふ　イダイな
-0x002400d9 Heh-heh-heh-heh. Nice.
+0x002400d9 Heh heh heh.
 
 ; 0x002400ee 女王さまに　パワーアップして
-0x002400ee Power up the queen.
+0x002400ee The Queen gave me a
 
 ; 0x0024010b もらったボーン！
-0x0024010b I got it, born!
+0x0024010b power up KONK!
 
 ; 0x0024013d ボンボーン
-0x0024013d Bonborn
+0x0024013d Konk
 
 ; 0x00240148 しかも　このバラをうばってくれば
-0x00240148 What´s more, if you take this rose,
+0x00240148 She said she`d make Ruby my
 
 ; 0x00240169 ハデヒラリを　およめさんに
-0x00240169 I´d like you to tell Oyome-san about it.
+0x00240169 bride for this rose!
 
 ; 0x00240184 してくれるボーン
-0x00240184 You´ll do it, Bourne.
+0x00240184 KONK!
 
 ; 0x002401a8 キョロスケ
 0x002401a8 Moe
 
 ; 0x002401b3 ば　バッカヤロー！！　
-0x002401b3 Idiot!!
+0x002401b3 What?! You`re
 
 ; 0x002401ca ハデヒラリさんは
-0x002401ca Hadehirari
+0x002401ca crazy, Ms Ruby
 
 ; 0x002401db オレさまの　およめさ……
-0x002401db My wish...
+0x002401db is gonna be MY-!
 
 ; 0x00240207 スタピー
-0x00240207 Stapy
+0x00240207 Starly
 
 ; 0x00240210 うっさい　ハマグリ！！
-0x00240210 Shut up, clam!
+0x00240210 Shut up, Clammy!
 
 ; 0x00240227 おい　マキガイ！
-0x00240227 Hey, Makigai!
+0x00240227 Hey Snail Boy!
 
 ; 0x00240238 バラをかえすんや！！
-0x00240238 Give back the roses!!
+0x00240238 Give back the rose!
 
 ; 0x00240260 ボンボーン
-0x00240260 Bonborn
+0x00240260 Konk
 
 ; 0x0024026b ふっふっふ　
-0x0024026b Fufufufu
+0x0024026b Heh!
 
 ; 0x00240278 くやしかったら
-0x00240278 If it´s annoying
+0x00240278 If you want
 
 ; 0x00240287 おいかけて来るボーン！！
-0x00240287 Come on, Bourne!
+0x00240287 it, come and get it!
 
 ; 0x002402ef キョロスケ
 0x002402ef Moe
 
 ; 0x002402fa くっそ〜〜〜　あのヤロー…！
-0x002402fa Damn it! That bastard!
+0x002402fa ARGH! Ms. Ruby is
 
 ; 0x00240317 ハデヒラリさんは　オレさまの
-0x00240317 Mr. Hadehirari is my
+0x00240317 gonna be MY wife!
 
 ; 0x00240334 およめさんなのに〜〜！！
-0x00240334 Even though I´m Oyome-san!!
+0x00240334 YOU HEAR ME?!
 
 ; 0x00240367 スタピー
-0x00240367 Stapy
+0x00240367 Starly
 
 ; 0x00240370 って　ちがうやろコラ！
-0x00240370 Hey, that´s not it!
+0x00240370 Hey, not now Clammy!
 
 ; 0x00240387 にいちゃん！　ようせいさんのバラが
-0x00240387 Nii-chan! Yosei-san´s rose
+0x00240387 Big Bro, you have to get
 
 ; 0x002403aa とられてもたで！
-0x002403aa I was taken!
+0x002403aa the rose!
 
 ; 0x002403ce ロブじいさん
-0x002403ce Uncle Rob.
+0x002403ce Old Lobber
 
 ; 0x002403db たいへんなことになってしまった…
-0x002403db Things got really bad...
+0x002403db This is quite the situation.
 
 ; 0x002403fc ボンボーンをやっつけて
-0x002403fc Kill the Bombourne.
+0x002403fc Defeat Konk and get
 
 ; 0x00240413 バラをとりかえすのじゃ！
-0x00240413 Take back the rose!
+0x00240413 the rose back!
 
 ; 0x002404b0 ロブじいさん
-0x002404b0 Uncle Rob.
+0x002404b0 Old Lobber
 
 ; 0x002404bd たいへんじゃ　
-0x002404bd It´s not easy.
+0x002404bd Oh no!
 
 ; 0x002404d1 あいのいずみ
-0x002404d1 Ainoizumi
+0x002404d1 The rose
 
 ; 0x002404e6 ようせいのすむ　バラが
-0x002404e6 A rose.
+0x002404e6 was stolen!
 
 ; 0x002404fd うばわれてしまった！
-0x002404fd He´s found out!
+0x002404fd Konk took it!
 
 ; 0x00240525 ロブじいさん
-0x00240525 Uncle Rob.
+0x00240525 Old Lobber
 
 ; 0x00240532 ボンボーンを　やっつけて
-0x00240532 Take out Bonborn.
+0x00240532 Defeat Konk and
 
 ; 0x0024054b バラをとりかえすのじゃ！
-0x0024054b Take back the rose!
+0x0024054b take back the rose!
 
 ; 0x00240577 キョロスケ
 0x00240577 Moe
 
 ; 0x00240582 ボンボーンめ〜！
-0x00240582 Damn Bonborn!
+0x00240582 Hey, Konk!
 
 ; 0x00240593 ハデヒラリさんは　オレさまの
-0x00240593 Mr. Hadehirari is my
+0x00240593 Ms. Ruby`s supposed to
 
 ; 0x002405b0 およめさんだっつーの！
-0x002405b0 Oyome-san!
+0x002405b0 be my bride!
 
 ; 0x002405da スタピー
-0x002405da Stapy
+0x002405da Starly
 
 ; 0x002405e3 あのマキガイ　なんやまえより
-0x002405e3 That maniac.
+0x002405e3 That guy powered up, he`s
 
 ; 0x00240600 パワーアップしとったな
-0x00240600 It´s powered up.
+0x00240600 tougher than before!
 
 ; 0x00240617 気ぃつけや　にいちゃん！
-0x00240617 Careful, bro!
+0x00240617 Careful, Big Bro!
 
 ; 0x002406ba ロブじいさん
 0x002406ba Uncle Rob.
@@ -17407,247 +17407,247 @@
 0x002407c1 Touch it.
 
 ; 0x0024085e マテル
-0x0024085e Mater
+0x0024085e Matel
 
 ; 0x00240865 スタフィーさんは
-0x00240865 Mr. Stuffy
+0x00240865 Have you heard
 
 ; 0x0024087c あいのいずみ
-0x0024087c Ainoizumi
+0x0024087c of the
 
 ; 0x0024088e って　
-0x0024088e Wait.
+0x0024088e ㅤ
 
 ; 0x00240895 ごぞんじですか？
-0x00240895 Are you sure?
+0x00240895 Spring of Love?
 
 ; 0x002408b9 マテル
-0x002408b9 Mater
+0x002408b9 Matel
 
 ; 0x002408c0 アミー王国のシティを　いっしゅんで
-0x002408c0 Let´s go to the city of Amy Kingdom.
+0x002408c0 It`s a sacred fountain that
 
 ; 0x002408e3 行ったり来たりできる
-0x002408e3 I can come and go.
+0x002408e3 lets you travel to
 
 ; 0x002408f8 しんせいな　いずみなんです
-0x002408f8 I´m Izumi.
+0x002408f8 other Cities.
 
 ; 0x00240926 マテル
-0x00240926 Mater
+0x00240926 Matel
 
 ; 0x0024092d 私は　見たことがありませんが
-0x0024092d I´ve never seen it.
+0x0024092d I heard there is a fairy
 
 ; 0x0024094a あいのいずみは　ようせいさんが
-0x0024094a Izumi Aino is Yosei-san.
+0x0024094a that protects it. But I`ve
 
 ; 0x00240969 まもっているそうです
-0x00240969 They´re protecting it.
+0x00240969 never seen it.
 
 ; 0x00240991 マテル
-0x00240991 Mater
+0x00240991 Matel
 
 ; 0x00240998 きっと　かわいらしい
-0x00240998 I bet it´s cute.
+0x00240998 I bet they`re the
 
 ; 0x002409ad ようせいなんでしょうね
-0x002409ad I´m sure it´s all good.
+0x002409ad cutest little thing.
 
 ; 0x00240a56 ヤドカリタ
-0x00240a56 Hermita
+0x00240a56 Herman
 
 ; 0x00240a67 テキを　れんぞくして
-0x00240a67 I´m sorry. I´m sorry.
+0x00240a67 Beating foes in a
 
 ; 0x00240a7c たおすと　しんじゅが
-0x00240a7c Taosto shinjuga
+0x00240a7c row nets
 
 ; 0x00240a91 とれる
-0x00240a91 I can get it.
+0x00240a91 you
 
 ; 0x00240a9d って　もう知ってるー？
-0x00240a9d Hey, you already know?
+0x00240a9d pearls, got it?
 
 ; 0x00240ac7 ヤドカリタ
-0x00240ac7 Hermita
+0x00240ac7 Herman
 
 ; 0x00240ad2 たくさん　テンポよくたおすと
-0x00240ad2 If you slow down a lot
+0x00240ad2 If you do it fast enough
 
 ; 0x00240aef おっきーな　しんじゅが
-0x00240aef It´s so big!
+0x00240aef you can even get some
 
 ; 0x00240b06 とれるんだよー
-0x00240b06 I can get it!
+0x00240b06 Big Pearls!
 
 ; 0x00240b28 ヤドカリタ
-0x00240b28 Hermita
+0x00240b28 Herman
 
 ; 0x00240b39 おっきなしんじゅは　フツウの
-0x00240b39 It´s a normal thing to do.
+0x00240b39 Big Pearls are worth 5 of
 
 ; 0x00240b56 しんじゅ５コぶん
-0x00240b56 5 shinju
+0x00240b56 the normal
 
 ; 0x00240b6c の　かちが
-0x00240b6c No click
+0x00240b6c ones!
 
 ; 0x00240b77 あるんだよー　ゴージャスぅ☆
-0x00240b77 It´s gorgeous☆
+0x00240b77 Isn`t that just gorgeous?☆
 
 ; 0x00240bf5 ワープじぞう
-0x00240bf5 Warp.
+0x00240bf5 Warp Jizo
 
 ; 0x00240c02 アクションをわすれたときは
-0x00240c02 When you forget an action
+0x00240c02 If you forget Abilities
 
 ; 0x00240c1d ポーズメニューの
-0x00240c1d The pose menu.
+0x00240c1d you can check
 
 ; 0x00240c33 『アクション』
-0x00240c33 Act "
+0x00240c33 Abilities
 
 ; 0x00240c4a カクニンするのじゃ
-0x00240c4a I´m going to check.
+0x00240c4a in Pause Menu.
 
 ; 0x00240c70 ワープじぞう王
-0x00240c70 Warp Jizo
+0x00240c70 Warp Jizo King
 
 ; 0x00240c7f グッズのきせかえや　アイテムの
-0x00240c7f It´s about changing the goods and the items.
+0x00240c7f You can wear Stuff and get
 
 ; 0x00240c9e カクニンもポーズメニューで
-0x00240c9e Kakunin also had a pose menu
+0x00240c9e hints for your adventure
 
 ; 0x00240cb9 できるのじゃ
-0x00240cb9 I can do it.
+0x00240cb9 as well.
 
 ; 0x00240cd9 ワープじぞう
-0x00240cd9 Warp.
+0x00240cd9 Warp Jizo
 
 ; 0x00240ce6 わしらは　えらいので　アクションを
-0x00240ce6 We´re good, so let´s take action.
+0x00240ce6 We`re too great to forget
 
 ; 0x00240d09 わすれたりはせんが　おぬしは
-0x00240d09 I won´t forget you.
+0x00240d09 Abilities but you must make
 
 ; 0x00240d26 しっかりおぼえておくのじゃ
-0x00240d26 Remember this well.
+0x00240d26 sure to remember yours.
 
 ; 0x00240d54 ワープじぞう王
-0x00240d54 Warp Jizo
+0x00240d54 Warp Jizo King
 
 ; 0x00240d63 わしらは　とてもえらいので
-0x00240d63 We´re so good.
+0x00240d63 O forgetful king.
 
 ; 0x00240d7e わすれんぼう大王な　おぬしに
-0x00240d7e To the great king who forgets.
+0x00240d7e Aren`t we just so kind
 
 ; 0x00240d9b しんせつにおしえてやるのじゃ
-0x00240d9b I´ll teach you the secret.
+0x00240d9b to remind you?
 
 ; 0x00240e3c ロブじいさん
-0x00240e3c Uncle Rob.
+0x00240e3c Old Lobber
 
 ; 0x00240e49 おお　バラを
-0x00240e49 Oh, rose.
+0x00240e49 Oh, you got
 
 ; 0x00240e56 とりかえせたようじゃな
-0x00240e56 Looks like we got it back.
+0x00240e56 the rose back. You
 
 ; 0x00240e6d よくがんばったのう
-0x00240e6d You did well.
+0x00240e6d did a great job.
 
 ; 0x00240e93 ロブじいさん
-0x00240e93 Uncle Rob.
+0x00240e93 Old Lobber
 
 ; 0x00240ea0 シティに　あいのいずみが
-0x00240ea0 Aino Izumi´s in the city.
+0x00240ea0 The Spring of Love is
 
 ; 0x00240eb9 できたようじゃ　タッチすると
-0x00240eb9 I´ll touch it.
+0x00240eb9 now in the City. Tap it to
 
 ; 0x00240ed6 つぎの　シティへ行けるぞ
-0x00240ed6 We can go to the next city.
+0x00240ed6 travel to next City.
 
 ; 0x00240f02 ロブじいさん
-0x00240f02 Uncle Rob.
+0x00240f02 Old Lobber
 
 ; 0x00240f0f やりのこしたことがないか
-0x00240f0f Don´t you have anything to do?
+0x00240f0f Before you tap it, make
 
 ; 0x00240f28 ちゃんと　カクニンしてから
-0x00240f28 Make sure you check it out.
+0x00240f28 sure you haven`t left
 
 ; 0x00240f43 タッチするんじゃぞ
-0x00240f43 Touch it.
+0x00240f43 anything undone.
 
 ; 0x00241081 スタピー
-0x00241081 Stapy
+0x00241081 Starly
 
 ; 0x0024108a お〜い　ようせいさん！
-0x0024108a Hey, Yosei!
+0x0024108a Hey faaairyyy~!
 
 ; 0x002410a1 ワルモノは　ウチらが
-0x002410a1 We´ll be the bad guys.
+0x002410a1 We beat the bad
 
 ; 0x002410b6 やっつけたったでー
-0x002410b6 I got him!
+0x002410b6 guuuuy~!
 
 ; 0x002410dc キョロスケ
 0x002410dc Moe
 
 ; 0x002410e7 こわがらなくっていいぞ
-0x002410e7 You don´t have to be scared.
+0x002410e7 There`s no enemy,
 
 ; 0x002410fe だいじょうぶだから　出て来いよ
-0x002410fe It´s okay. Come out.
+0x002410fe you can come on out.
 
 ; 0x00241238 ？？？
 0x00241238 ???
 
 ; 0x0024123f そいやーーっ！！！
-0x0024123f Oh yeah!!!
+0x0024123f HAAAAH!!!
 
 ; 0x0024128f ？？？
 0x0024128f ???
 
 ; 0x00241296 やあ！　キミがテンカイの王子
-0x00241296 Hey! You´re the prince of Tenkai!
+0x00241296 Hey! You´re the prince of
 
 ; 0x002412b3 スタフィーだね？
-0x002412b3 Stuffy, huh?
+0x002412b3 Pufftop, Starfy
 
 ; 0x002412c4 いいあせ　かいてるかい？
-0x002412c4 Are you busy?
+0x002412c4 aren`t you?
 
 ; 0x0024131a キョロスケ
 0x0024131a Moe
 
 ; 0x00241325 なっ…！　なんだオメェ！？
-0x00241325 Wha...! What´s with you!?
+0x00241325 Wha! What´s with you!?
 
 ; 0x00241340 さては　ワルモノだな！　ようせいを
-0x00241340 Now that´s a bad idea!
+0x00241340 Who the heck are you!?
 
 ; 0x00241363 どこにやったんだ！！
-0x00241363 Where´d you put it?!
+0x00241363 Are you a bad guy?
 
 ; 0x0024138b ラブウィズミー
-0x0024138b Lovewizumi
+0x0024138b Lovewizmi
 
 ; 0x0024139a ジョークがうまいね！
-0x0024139a That´s a good joke!
+0x0024139a Thats a good joke!
 
 ; 0x002413af ボクこそ　あいのいずみのようせい
-0x002413af I´m like Izumi Ai.
+0x002413af I am the fairy
 
 ; 0x002413d6 ラブウィズミー
-0x002413d6 Lovewizumi
+0x002413d6 Lovewizmi!
 
 ; 0x002413ea さっ！
-0x002413ea Now!
+0x002413ea ㅤ
 
 ; 0x00241412 キョロスケ
 0x00241412 Moe
@@ -17659,313 +17659,313 @@
 0x0024142c ...
 
 ; 0x00241445 …………かえるか　スタフィー
-0x00241445 ...Let´s go home, Stuffy.
+0x00241445 ...Let´s go, Starfy.
 
 ; 0x00241475 ラブウィズミー
-0x00241475 Lovewizumi
+0x00241475 Lovewizmi
 
 ; 0x00241484 てれやさんだな　シャイボーイ！
-0x00241484 You´re a shy boy!
+0x00241484 Youre a shy boy! I`ll take
 
 ; 0x002414a3 キミたちを
-0x002414a3 You guys.
+0x002414a3 you guys
 
 ; 0x002414b3 『はじまりの木』
-0x002414b3 “The Beginning Tree”
+0x002414b3 to the Tree
 
 ; 0x002414cc おくってあげよう！
-0x002414cc I´ll send it to you!
+0x002414cc of Origin!
 
 ; 0x002414f2 ラブウィズミー
-0x002414f2 Lovewizumi
+0x002414f2 Lovewizmi
 
 ; 0x00241501 あいのいずみを　使えば
-0x00241501 Use Aino Izumi
+0x00241501 Warp to far places
 
 ; 0x00241518 とおくのシティまで
-0x00241518 To the city.
+0x00241518 with the Spring
 
 ; 0x0024152b ひとっとびさ！！
-0x0024152b Just once!!
+0x0024152b of Love!
 
 ; 0x0024154f ラブウィズミー
-0x0024154f Lovewizumi
+0x0024154f Lovewizmi
 
 ; 0x0024155e し・か・も！！　トクベツに
-0x0024155e I can´t believe it!
+0x0024155e You can go on my
 
 ; 0x0024157f 『ラブロード』
-0x0024157f “Lovelord”
+0x0024157f Love Road!
 
 ; 0x00241596 とおらせてあげるよ
-0x00241596 I´ll let you go.
+0x00241596 My treat!
 
 ; 0x002415ca スタピー
-0x002415ca Stapy
+0x002415ca Starly
 
 ; 0x002415d3 らぶろーど…って
-0x002415d3 Loverodo...
+0x002415d3 Love Road?
 
 ; 0x002415e4 むねやけしそうやな……
-0x002415e4 You look like you´re going crazy...
+0x002415e4 Sounds crazy. What
 
 ; 0x002415fb なんなんや　ソレ
-0x002415fb What´s that?
+0x002415fb is it?
 
 ; 0x0024161f ラブウィズミー
-0x0024161f Lovewizumi
+0x0024161f Lovewizmi
 
 ; 0x0024162e シティにある　あいのいずみどうしを
-0x0024162e The Aino Izumi Doshi in the City.
+0x0024162e Love Roads are pearl filled paths
 
 ; 0x00241651 つなぐ　みちのことだよ　しんじゅが
-0x00241651 I´m talking about Michi.
+0x00241651 that link together to other
 
 ; 0x00241674 たくさん　ねむってるのさ
-0x00241674 I sleep a lot.
+0x00241674 Cities.
 
 ; 0x002416a0 キョロスケ
 0x002416a0 Moe
 
 ; 0x002416ab おおっ！　しんじゅか！
-0x002416ab Oh! Shinju!
+0x002416ab Did you say pearls!?
 
 ; 0x002416c2 おいっ　オメェ
-0x002416c2 Hey, you
+0x002416c2 Hurry up and
 
 ; 0x002416d1 早くつれてけよ！
-0x002416d1 Hurry up and get me!
+0x002416d1 take us there!
 
 ; 0x002416f5 ラブウィズミー
-0x002416f5 Lovewizumi
+0x002416f5 Lovewizmi
 
 ; 0x00241704 せっかちさんだな　ボーイは！
-0x00241704 You´re so impatient, boy!
+0x00241704 Youre so impatient, boy!
 
 ; 0x00241721 ここからが　じゅうような
-0x00241721 This is where it´s gonna be.
+0x00241721 I have to explain some
 
 ; 0x0024173a ところなんだ
-0x0024173a By the way.
+0x0024173a things.
 
 ; 0x0024175a ラブウィズミー
-0x0024175a Lovewizumi
+0x0024175a Lovewizmi
 
 ; 0x00241769 ラブロードでは　
-0x00241769 In lovelord
+0x00241769 You`re gonna
 
 ; 0x0024177f タッチペンの
-0x0024177f Touch pen.
+0x0024177f use Stylus
 
 ; 0x0024178c そうさ
-0x0024178c Yeah, it is.
+0x0024178c to
 
 ; 0x00241798 になるよ！
-0x00241798 I´ll be!
+0x00241798 travel!
 
 ; 0x002417b6 ラブウィズミー
-0x002417b6 Lovewizumi
+0x002417b6 Lovewizmi
 
 ; 0x002417c5 がめんをタッチして
-0x002417c5 Touch the noodles
+0x002417c5 Touch to place a
 
 ; 0x002417dd 『ラブポインタ』
-0x002417dd Love pointer.
+0x002417dd Love Pointer!
 
 ; 0x002417f5 を　おいて　すすむほうこうを
-0x002417f5 Leave me alone. I´ll take care of it.
+0x002417f5 Do that and you will start
 
 ; 0x00241812 きめるんだ！
-0x00241812 I´m gonna do it!
+0x00241812 moving!
 
 ; 0x00241832 ラブウィズミー
-0x00241832 Lovewizumi
+0x00241832 Lovewizmi
 
 ; 0x00241841 おけるラブポインタの　かずは
-0x00241841 Kazuha the Love Pointer
+0x00241841 You only have a certain
 
 ; 0x0024185e きまってるから　ゴールまで
-0x0024185e Because it´s clear.
+0x0024185e amount of them, use
 
 ; 0x00241879 ちゃんとつけるように
-0x00241879 Make sure you put it on.
+0x00241879 them wisely!
 
 ; 0x002418a1 ラブウィズミー
-0x002418a1 Lovewizumi
+0x002418a1 Lovewizmi
 
 ; 0x002418b0 のこりを　かんがえながら
-0x002418b0 While thinking about the lump.
+0x002418b0 Keep track of how many
 
 ; 0x002418c9 すすまなくちゃいけないよ！
-0x002418c9 I have to apologize!
+0x002418c9 you have as you travel
 
 ; 0x002418e4 そ・れ・に！
-0x002418e4 To that!
+0x002418e4 the road!
 
 ; 0x00241904 ラブウィズミー
-0x00241904 Lovewizumi
+0x00241904 Lovewizmi
 
 ; 0x00241913 ゴールできたら　あまった
-0x00241913 When the goal is complete, it´s over.
+0x00241913 I`ll turn extra Love
 
 ; 0x0024192c ラブポインタは　しんじゅにして
-0x0024192c Love pointers.
+0x0024192c Pointers into pearls at
 
 ; 0x0024194b プレゼントしてあげよう！
-0x0024194b I´ll give you a present!
+0x0024194b the goal! My treat~!
 
 ; 0x00241977 ラブウィズミー
-0x00241977 Lovewizumi
+0x00241977 Lovewizmi
 
 ; 0x00241986 ラブポインタの　のこりは
-0x00241986 The Love Pointer’s saw
+0x00241986 See how many you have
 
 ; 0x0024199f がめんの　左下をカクニン
-0x0024199f Gamenno Kakunin in the lower left.
+0x0024199f in the bottom left
 
 ; 0x002419b8 してくれよ！
-0x002419b8 Do it! Do it!
+0x002419b8 screen!
 
 ; 0x002419d8 ラブウィズミー
-0x002419d8 Lovewizumi
+0x002419d8 Lovewizmi
 
 ; 0x002419e7 おおっと　それからトゲに
-0x002419e7 Oops, and then the spikes.
+0x002419e7 If you hit a spike or
 
 ; 0x00241a00 当たったり　かべにはさまれると
-0x00241a00 You can hit it, you can get on the wall.
+0x00241a00 get squished, it`s the end
 
 ; 0x00241a1f ジ・エンドさ　気をつけたまえ
-0x00241a1f The End. Watch out.
+0x00241a1f for you! Be careful!
 
 ; 0x00241a4f スタピー
-0x00241a4f Stapy
+0x00241a4f Starly
 
 ; 0x00241a58 なんや
-0x00241a58 What is it?
+0x00241a58 This
 
 ; 0x00241a5f むずかしそやね…
-0x00241a5f It´s going to be hard.
+0x00241a5f all sounds
 
 ; 0x00241a70 だいじょうぶやろか？
-0x00241a70 Should I be okay?
+0x00241a70 hard.
 
 ; 0x00241a98 ラブウィズミー
-0x00241a98 Lovewizumi
+0x00241a98 Lovewizmi
 
 ; 0x00241aa7 じゃあトクベツに
-0x00241aa7 Okay, let´s go.
+0x00241aa7 Why don`t I
 
 ; 0x00241ab8 トレーニング　させてあげるよ！
-0x00241ab8 I´ll train you!
+0x00241ab8 train you then!
 
 ; 0x00241af5 ラブウィズミー
-0x00241af5 Lovewizumi
+0x00241af5 Lovewizmi
 
 ; 0x00241b04 れんしゅうするかい？」
-0x00241b04 Should we renshu?」
+0x00241b04 Should we train?」
 
 ; 0x00241b1b 　　　ほんばんへ行く
-0x00241b1b Go to Honban
+0x00241b1b 　　　No training.
 
 ; 0x00241b30 　　　れんしゅうする
-0x00241b30 Renshuu
+0x00241b30 　　　Sure.
 
 ; 0x00241b69 ラブウィズミー
-0x00241b69 Lovewizumi
+0x00241b69 Lovewizmi
 
 ; 0x00241b78 オオッケエエエイ！　キミは
-0x00241b78 Okay! You´re...
+0x00241b78 Okay! Thats some bravery
 
 ; 0x00241b93 プロテインのように
-0x00241b93 Like protein
+0x00241b93 right there!
 
 ; 0x00241ba6 ゆうかんだね！
-0x00241ba6 It´s Yuka!
+0x00241ba6 Lets do it!
 
 ; 0x00241bc8 ラブウィズミー
-0x00241bc8 Lovewizumi
+0x00241bc8 Lovewizmi
 
 ; 0x00241bd7 もし　とちゅうで力つきても
-0x00241bd7 Even if you´re strong enough.
+0x00241bd7 If you run out of energy
 
 ; 0x00241bf2 ボクがちゃんと　はじまりの木に
-0x00241bf2 I´ll make sure I´m in the starting tree.
+0x00241bf2 I`ll take you to the Tree
 
 ; 0x00241c11 つれて行ってあげるからね！
-0x00241c11 I´ll take you there!
+0x00241c11 of Origin myself!
 
 ; 0x00241c3f ラブウィズミー
-0x00241c3f Lovewizumi
+0x00241c3f Lovewizmi
 
 ; 0x00241c4e それじゃ　レッツマッスル！
-0x00241c4e Let´s go, Muscle!
+0x00241c4e Without further ado~!
 
 ; 0x00241c69 ボクのむねへ　とびこんで
-0x00241c69 Jumped into my arms.
+0x00241c69 Come! Jump into my
 
 ; 0x00241c82 おいで！！！！
-0x00241c82 Come on!!!
+0x00241c82 open arms!
 
 ; 0x00241cbb ラブウィズミー
-0x00241cbb Lovewizumi
+0x00241cbb Lovewizmi
 
 ; 0x00241cca オッケエィ！　トレーニングから
 0x00241cca Okay! Let´s start training.
 
 ; 0x00241ce9 もどってきたら　また
-0x00241ce9 I´ll see you when I get back.
+0x00241ce9 Afterwards come
 
 ; 0x00241cfe ボクに　はなしかけるんだ！
-0x00241cfe Let me go!
+0x00241cfe back and talk to me!
 
 ; 0x00241d2c ラブウィズミー
-0x00241d2c Lovewizumi
+0x00241d2c Lovewizmi
 
 ; 0x00241d3b れんしゅうようの　ラブロードで
-0x00241d3b It´s a love road.
+0x00241d3b Any pearls collected in
 
 ; 0x00241d5a ゲットした　しんじゅは　あとで
-0x00241d5a I got the shinju later
+0x00241d5a practice will be returned
 
 ; 0x00241d79 かえしてもらうよ！
-0x00241d79 I´ll get it back!
+0x00241d79 back to me!
 
 ; 0x00241d9f ラブウィズミー
-0x00241d9f Lovewizumi
+0x00241d9f Lovewizmi
 
 ; 0x00241dae やめたくなったら
-0x00241dae If you want to quit
+0x00241dae To quit
 
 ; 0x00241dbf Bボタンを
-0x00241dbf Hold B.
+0x00241dbf Press.
 
 ; 0x00241dc9 押したまえ！　トレーニングの
-0x00241dc9 Push! Push!
+0x00241dc9 That will stop the
 
 ; 0x00241de6 しゅうりょうだ！
-0x00241de6 Shuuryo!
+0x00241de6 training!
 
 ; 0x00241e0a ラブウィズミー
-0x00241e0a Lovewizumi
+0x00241e0a Lovewizmi
 
 ; 0x00241e19 それじゃ
-0x00241e19 Well then.
+0x00241e19 Well?
 
 ; 0x00241e22 レッツトレーニング！！！
-0x00241e22 Let´s train!
+0x00241e22 Let`s train!
 
 ; 0x00241f27 ラブウィズミー
-0x00241f27 Lovewizumi
+0x00241f27 Lovewizmi
 
 ; 0x00241f36 ラブロードでは　タッチの
-0x00241f36 In Lovelord, touch.
+0x00241f36 The Love Road uses the
 
 ; 0x00241f4f そうさになるよ！
-0x00241f4f You´ll be right!
+0x00241f4f Stylus! Ready
 
 ; 0x00241f60 タッチのじゅんびはいい？
-0x00241f60 How about a touch jumbi?
+0x00241f60 your touch screen!
 
 ; 0x00241f97 ラブウィズミー
 0x00241f97 Lovewizumi
@@ -17974,34 +17974,34 @@
 0x00241fa6 Shall we get going?」
 
 ; 0x00241fc5 　　　れんしゅうする
-0x00241fc5 Renshuu
+0x00241fc5 　　　Practice.
 
 ; 0x00241fda 　　　ほんばんへ行く
-0x00241fda Go to Honban
+0x00241fda 　　　Real thing.
 
 ; 0x00242013 ラブウィズミー
-0x00242013 Lovewizumi
+0x00242013 Lovewizmi
 
 ; 0x00242022 アメイジング！
 0x00242022 Amazing!
 
 ; 0x00242031 しんちょうなキミもステキだ！
-0x00242031 Don´t worry, you´re wonderful too!
+0x00242031 Taking it slow suits
 
 ; 0x0024204e じゃあ　レッツトレーニング！
-0x0024204e Then let´s train!
+0x0024204e you! Let`s train!
 
 ; 0x00242095 ラブウィズミー
-0x00242095 Lovewizumi
+0x00242095 Lovewizmi
 
 ; 0x002420a4 オッケェエエイ！　さあボクの
-0x002420a4 Okay!
+0x002420a4 Okaaaay!
 
 ; 0x002420c1 ムネにとびこんでおいで！
-0x002420c1 Get in the chest!
+0x002420c1 Come on, jump into
 
 ; 0x002420da あつく　そしてはげしく！
-0x002420da Hot and bald!
+0x002420da my arms!
 
 ; 0x002421f7 ラブリー
 0x002421f7 Lovely
@@ -40757,7 +40757,7 @@
 0x003668f3 Taisoku
 
 ; 0x00366900 エビフリャー
-0x00366900 Ebifrya
+0x00366900 Fried Shrimp
 
 ; 0x0036690d ひなまつり
 0x0036690d Hinamatsuri
@@ -40778,7 +40778,7 @@
 0x0036694a Namahage Sorry
 
 ; 0x00366959 マーメイドふく
-0x00366959 Marmaifuku
+0x00366959 Mermaid Outfit
 
 ; 0x00366968 ティラノザウルス
 0x00366968 Tyranosaurus
@@ -42677,7 +42677,7 @@
 0x004a38e7 Star Spin
 
 ; 0x004a38fe ムササビじゃんぷ
-0x004a38fe Musabijampu
+0x004a38fe Glide
 
 ; 0x004a390f スピンアタックレベル２
 0x004a390f Spin Attack Level 2
@@ -42986,13 +42986,13 @@
 0x004a4214 Don`t overuse it!
 
 ; 0x004a4233 じゃんぷじゃとどかないばしょも
-0x004a4233 It won´t stop at jampu.
+0x004a4233 This Ability reaches places
 
 ; 0x004a4252 かんたんに　とびこせるワザやで
-0x004a4252 It´s a simple move.
+0x004a4252 jumps can`t! Remember,
 
 ; 0x004a4271 にいちゃん　しっかりおぼえや！！
-0x004a4271 Remember this, bro!
+0x004a4271 Big Bro!
 
 ; 0x004a4292 スピンアタックをきょうりょくに
 0x004a4292 Spin Attack
@@ -49080,52 +49080,52 @@
 0x00825ea7 Shell!
 
 ; 0x00825ec8 ムササビじゃんぷ
-0x00825ec8 Musabijampu
+0x00825ec8 Master the
 
 ; 0x00825ede を　マスターして
-0x00825ede Master.
+0x00825ede Glide Ability
 
 ; 0x00825ef5 たからもの
-0x00825ef5 Tadamono
+0x00825ef5 and get
 
 ; 0x00825f05 を　とって来てあげて
-0x00825f05 Go get 2 .
+0x00825f05 the treasure!
 
 ; 0x00825f1a マテルのきたいを　うらぎったら
-0x00825f1a If you´re jealous of Mater´s wish,
+0x00825f1a Don`t let Matel down!
 
 ; 0x00825f39 かわいそうよ
-0x00825f39 Poor thing.
+0x00825f39 ㅤ
 
 ; 0x00825f4c たからもの
-0x00825f4c Tadamono
+0x00825f4c Bring the 
 
 ; 0x00825f5c を　シティの
-0x00825f5c The city.
+0x00825f5c treasure
 
 ; 0x00825f6f マテル
-0x00825f6f Mater
+0x00825f6f to
 
 ; 0x00825f7b に　見せてあげましょう
-0x00825f7b Let me show you.
+0x00825f7b the City! I bet Matel
 
 ; 0x00825f92 きっと　よろこぶわよ！
-0x00825f92 I´m sure you´ll love it!
+0x00825f92 will be proud!
 
 ; 0x00825faf ボンボーン
-0x00825faf Bonborn
+0x00825faf Chase
 
 ; 0x00825fbf を　おいかけて
-0x00825fbf Hey, come on.
+0x00825fbf after Konk
 
 ; 0x00825fce こらしめてやりましょう！
-0x00825fce Let´s make him pay!
+0x00825fce and teach him a lesson!
 
 ; 0x00825fed こまったらこうしゅうデンワ
-0x00825fed Kokora Koshu Denwa
+0x00825fed Use a Pay Phone if you
 
 ; 0x00826010 使ってみてね
-0x00826010 Try it.
+0x00826010 feel stuck.
 
 ; 0x00826023 ラブリー
 0x00826023 Lovely
@@ -50190,10 +50190,10 @@
 0x00828075 Tadabako
 
 ; 0x00828080 なにが　入っておるのかは
-0x00828080 I don´t know what´s in it.
+0x00828080 What`s inside is a
 
 ; 0x00828099 ヒミツなのじゃ　でも
-0x00828099 It´s a secret, but
+0x00828099 secret. Of course,
 
 ; 0x008280ae えらいわしは知っておるのじゃ
 0x008280ae I know what it is.
