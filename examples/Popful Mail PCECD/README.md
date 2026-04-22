@@ -3,13 +3,13 @@
 ## Current status  🏗️
 
  - Only the dialogues of the 1st area were revised, still a lot of placeholder text.
- - Most menus are translated.
+ - Almost all menus are translated.
  - **Only partially tested, there may be crashes!**
 
 
 ## Preview  👀
 
-![shot](demo1.png)  ![shot](demo2.png)  ![shot](demo3.png)
+![shot](demo1.png)  ![shot](demo2.png)  ![shot](demo3.png)  ![shot](demo4.png)
 
 
 ## Patch instructions  🩹

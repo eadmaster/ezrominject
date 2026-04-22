@@ -24,6 +24,15 @@ replace_gfx city1_obj_sub_l  # 1st city map ui elements
 replace_gfx fileselect_low_obj  # File menu on title screen
 replace_gfx city_in_l  # "[Back] To City" sign in stages
 replace_gfx pose_obj_l  # Pause menu
+replace_gfx fukidashi_00_l  # Press Button X
+replace_gfx gameover_obj_1  # Game Over menu: Retry / Quit
+
+# replace boss speech stored as gfx
+cd gfx
+for f in bossmess_*_l.NCGR bossmess_*_l.NCER; do
+    cp -fv "$f" "../Densetsu no Stafy 4 (Japan)/data/Boss/"
+done
+cd ..
 
 NitroPacker pack -p "Densetsu no Stafy 4 (Japan)/Densetsu no Stafy 4 (English).json" -r "$OUTPUT_ROM"
 # alt.: dsrom build --config "Densetsu no Stafy 4 (Japan)/config.yaml" --rom "$OUTPUT_ROM"
