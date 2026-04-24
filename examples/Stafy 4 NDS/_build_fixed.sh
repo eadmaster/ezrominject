@@ -34,11 +34,20 @@ for f in bossmess_*_l.NCGR bossmess_*_l.NCER; do
 done
 cd ..
 
+# replace King Warp Jizou prompts
+# TODO: try reusing the same file with other stages too
+cd gfx
+for f in jizou_st*_l.NCGR jizou_st*_l.NCER; do
+    NUMBER=$(echo "$f" | cut -d'_' -f2 | sed 's/st//')  # get stage number
+    cp -fv "$f" "../Densetsu no Stafy 4 (Japan)/data/Stage$NUMBER/"
+done
+cd ..
+
 NitroPacker pack -p "Densetsu no Stafy 4 (Japan)/Densetsu no Stafy 4 (English).json" -r "$OUTPUT_ROM"
 # alt.: dsrom build --config "Densetsu no Stafy 4 (Japan)/config.yaml" --rom "$OUTPUT_ROM"
 
 # patch text
-sed "s/'/｀/g; s/´/｀/g"  *_eng.txt > "/tmp/eng.txt"  # ensure supported chars
+sed "s/'/｀/g; s/-/ー/g"  *_eng.txt > "/tmp/eng.txt"  # ensure supported chars
 python ../../ezrominject.py *_jap.txt "/tmp/eng.txt" "$OUTPUT_ROM" --ascii-bios-hack
 #NOT WORKING: --ascii-mode
 

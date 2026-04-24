@@ -8,7 +8,7 @@
 
 ## Preview  👀
 
-![shot](demo1.png)  ![shot](demo2.png)  ![shot](demo3.png)
+![shot](demo1.png)  ![shot](demo2.png)  ![shot](demo3.png)   ![shot](demo4.png)
 
 
 ## Patch instructions  🩹
@@ -25,7 +25,7 @@
 In chronological order:
 
  - [SomeUselessTranslations](https://www.youtube.com/@someuselesstranslations8418): Original script translation
- - [Kolbie5874](https://github.com/Kolbie5874/): Script editing and space optimization.
+ - [Kolbie5874](https://github.com/Kolbie5874/): Script editing and space optimization, playtesting.
  - [eadmaster](https://github.com/eadmaster): Font hack and patching tools.
  - [Garhoogin](https://github.com/Garhoogin): for [NitroPaint](https://github.com/Garhoogin/NitroPaint).
  - [pleonex](https://github.com/pleonex/tinke) and [R-YaTian](https://github.com/R-YaTian) for [TinkeDS](https://github.com/R-YaTian/TinkeDSi).
