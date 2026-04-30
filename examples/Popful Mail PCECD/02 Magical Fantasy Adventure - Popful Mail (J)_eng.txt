@@ -11,7 +11,37 @@
 
 ; items in submenu  (only 1st occurrence, will be duplicated in _build.sh)
 ; 0x00f3e6a3 　　　　　　　　ショートソード　ロングソード　　ファルシオン　　フレイムソード　ライトセイバー　ファイア　　　　ファイアＤＸ　　サンダー　　　　ホーミング　　　フォース　　　　ファイアボール　テイルアタック　アックス　　　　アイアンクロー　ファイアブレス　レザーアーマー　チェーンメイル　プレートメイル　ミスリルアーマーゴールドアーマーレッドローブ　　ブルーローブ　　イエローローブ　シルバーローブ　ゴールドローブ　レザーアーマー　チェーンメイル　プレートメイル　ミスリルアーマーゴールドアーマーウッドシールド　スモールシールドラージシールド　ミスリルシールドゴールドシールドブロンズミラー　メタルミラー　　プラチナミラー　ミスリルミラー　ゴールドミラー　ウッドシールド　スモールシールドラージシールド　ミスリルシールドゴールドシールド無敵　　　９９個ヘルメット９９個スパイクブーツ　石靴　　　　　　つるはし　　　　ダガー　　　　　ブーメラン　　　オレンジ　　９個チェリー　　９個リンゴ　　　９個　　　　　　　　金塊　　　　９個エリクサー　９個魔法瓶　　　　　爆弾　　　　　　はしご　　　　　カギ　　　　　　牢屋の鍵　　　　細工物　　　　　クリスタル　　　クリスタル　　　クリスタル　　　クリスタル　　　宝玉　　　　　　　　ＤＸ
-0x00f3e6a3                 Short Sword     Long Sword      Falchion        Flame Sword     Light Saber     Fire            Fire DX         Thunder         Homing          Force           Fireball        Tail Attack     Axe             Iron Claw       Fire Breath     Leather Mail    Chain Mail      Plate Mail      Silver Mail     Gold Mail       Red Robe        Blue Robe       Yellow Robe     Silver Robe     Gold Robe       Leather Mail    Chain Mail      Plate Mail      Silver Mail     Gold Mail       Wood Shield     Small Shield    Large Shield    Silver Shield   Gold Shield     Bronze Mirror   Metal Mirror    Platinum Mirror Silver Mirror   Gold Mirror     Wood Shield     Small Shield    Large Shield    Silver Shield   Gold Shield     Invincible99x Helmet    99x Spike Boots     Stone Shoes     Pickaxe         Dagger          Boomerang       Orange      9x Cherry      9x Apple       9x                 Gold Bar    9x Elixir      9x Magic Bottle    Bomb            Ladder          Key             Jail Key        Ornament        Crystal         Crystal         Crystal         Crystal         Jewel           DX
+0x00f3e6a3                 Short Sword     Long Sword      Falchion        Flame Sword     Light Saber     Fire            Fire DX         Thunder         Homing          Force           Fireball        Tail Attack     Axe             Iron Claw       Fire Breath     Leather Mail    Chain Mail      Plate Mail      Silver Mail     Gold Mail       Red Robe        Blue Robe       Yellow Robe     Silver Robe     Gold Robe       Leather Mail    Chain Mail      Plate Mail      Silver Mail     Gold Mail       Wood Shield     Small Shield    Large Shield    Silver Shield   Gold Shield     Bronze Mirror   Metal Mirror    Platinum Mirror Silver Mirror   Gold Mirror     Wood Shield     Small Shield    Large Shield    Silver Shield   Gold Shield     Invincible99x Helmet    99x Spike Boots     Stone Shoes     Pickaxe         Dagger          Boomerang       Orange      9x Cherry      9x Apple       9x                 Gold Bar    9x Elixir      9x Thermos         Bomb            Ladder          Key             Jail Key        Ornament        Crystal         Crystal         Crystal         Crystal         Jewel           DX
+
+; other items in submenu (only 1st occurrence, will be duplicated in _build.sh)
+; 0x00236d04 アイアンソード　
+0x00236d04 Ironsword
+;0x00236d15 プラズマブレード　
+0x00236d15 Plasma Blade 
+;0x00236D26 ウォータービーム
+0x00236D26 Water Beam
+;0x00236D37 ロッククラッシュ
+0x00236D37 Rock Crush 
+;0x00236D48 アイアンアーマー
+0x00236D48 Iron Armor
+;0x00236d59 プラズマアーマー
+0x00236d59 Plasma Armor
+;0x00236D6A アクアローブ　　
+0x00236D6A Aqua Robe
+;0x00236D7B バトルアーマー　
+0x00236D7B Battle Armor
+;0x00236D8C アイアンシールド
+0x00236D8C Iron Shield
+;0x00236d9d プラズマシールド
+0x00236d9d Plasma Shield
+;0x00236DAE ウォーターミラー
+0x00236DAE Water Mirror
+;0x00236DBF バトルシールド　
+0x00236DBF Battle Shield
+;0x00236DD2 煬ｶ影の腕輪　　
+0x00236DD2 Shadow Bracelet 
+;0x00236de1 傷薬　　　　　　飲み薬　　　　　回復剤　　　　　薬の貝殻　　　　回復の貝殻　　　治癒の貝殻　　　薬　　　　　　　回復の薬　　　　治癒の薬
+0x00236de1 Wound Med       Oral Med        Heal Med        Med Shell       Heal Shell      Cure Shell      Medicine        Heal Med        Cure Med
 
 ;shop menu1
 ; 0x002351b6 買う
@@ -57,7 +87,7 @@
 ; 0x0023555a アイアンクロー　鋭い爪で敵を切り刻む。
 0x0023555a Iron Claw       Slice foes with sharp claws.
 ; 0x00235582 ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x00235582 Firebreath      Release massive power stored within.
+0x00235582 Fire Breath     Release massive power stored within.
 ; 0x002355bc レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x002355bc Leather Mail    Layered horse leather. Low defense.
 ; 0x002355fe チェーンメイル　鎖で編まれていて丈夫にできている役にたつだろう。
@@ -124,13 +154,7 @@
 0x00235b7c Elixir          Resurrect when dead.
 ; 0x00235b96 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00235b96 Boomerang DX    Powered-up Boomerang.
-; 0x00236d04 アイアンソード　
-0x00236d04 Ironsword
-; 0x00236d15 プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-;0x00236d15 Plasma Blade P Water Beam P Rock Crash@Iron Armor
-; 0x00236d59 プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-;0x00236d59 Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
-;TODO: 0x0030c291 傷薬　　　　　　飲み薬　　　　　回復剤　　　　　薬の貝殻　　　　回復の貝殻　　　治癒の貝殻　　　薬　　　　　　　回復の薬　　　　治癒の薬　　　　
+
 
 ;shop menu2
 ; 0x0024d019 いらっしゃいませご用件は？　　　
@@ -348,10 +372,11 @@
 0x000dd6a3 UndPalace
 
 ; 0x000dd6b2 異次元の街
-0x000dd6b2 Otherworld City
+;0x000dd6b2 Otherworld City
+0x000dd6b2 OthCity
 
 ; 0x000dd6c3 組み立て工場
-;0x000dd6c3 Assembly Plant
+0x000dd6c3 Assembly Plant
 
 ; 0x000dd6d6 次元要塞
 ;0x000dd6d6 Dimensional Fortress
@@ -470,7 +495,7 @@
 0x00285594 Iron Claw       Slice foes with sharp claws.
 
 ; 0x002855bc ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x002855bc Firebreath      Release massive power stored within.
+0x002855bc Fire Breath     Release massive power stored within.
 
 ; 0x002855f6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x002855f6 Leather Mail    Layered horse leather. Low defense.
@@ -567,15 +592,6 @@
 
 ; 0x00285bd0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00285bd0 Boomerang DX    Powered-up Boomerang.
-
-; 0x00286d19 アイアンソード　
-0x00286d19 Ironsword
-
-; 0x00286d2a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00286d2a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00286d6e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00286d6e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 
 ; 0x0029d019 いらっしゃいませご用件は？　　　
@@ -1491,7 +1507,7 @@
 0x002d5594 Iron Claw       Slice foes with sharp claws.
 
 ; 0x002d55bc ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x002d55bc Firebreath      Release massive power stored within.
+0x002d55bc Fire Breath     Release massive power stored within.
 
 ; 0x002d55f6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x002d55f6 Leather Mail    Layered horse leather. Low defense.
@@ -1592,14 +1608,6 @@
 ; 0x002d5bd0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x002d5bd0 Boomerang DX    Powered-up Boomerang.
 
-; 0x002d6d19 アイアンソード　
-0x002d6d19 Ironsword
-
-; 0x002d6d2a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x002d6d2a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x002d6d6e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x002d6d6e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x002ed019 いらっしゃいませご用件は？　　　
 0x002ed019 Welcome. How can I help?
@@ -2190,7 +2198,7 @@
 0x00325594 Iron Claw       Slice foes with sharp claws.
 
 ; 0x003255bc ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x003255bc Firebreath      Release massive power stored within.
+0x003255bc Fire Breath     Release massive power stored within.
 
 ; 0x003255f6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x003255f6 Leather Mail    Layered horse leather. Low defense.
@@ -2291,14 +2299,6 @@
 ; 0x00325bd0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00325bd0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00326d49 アイアンソード　
-0x00326d49 Ironsword
-
-; 0x00326d5a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00326d5a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00326d9e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00326d9e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x0033d019 いらっしゃいませご用件は？　　　
 0x0033d019 Welcome. How can I help?
@@ -2566,7 +2566,7 @@
 0x003d5594 Iron Claw       Slice foes with sharp claws.
 
 ; 0x003d55bc ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x003d55bc Firebreath      Release massive power stored within.
+0x003d55bc Fire Breath     Release massive power stored within.
 
 ; 0x003d55f6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x003d55f6 Leather Mail    Layered horse leather. Low defense.
@@ -2667,14 +2667,7 @@
 ; 0x003d5bd0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x003d5bd0 Boomerang DX    Powered-up Boomerang.
 
-; 0x003d6d19 アイアンソード　
-0x003d6d19 Ironsword
 
-; 0x003d6d2a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x003d6d2a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x003d6d6e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x003d6d6e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x003ed019 おう、何の用だい
 0x003ed019 Need something?
@@ -3497,7 +3490,7 @@
 0x00425594 Iron Claw       Slice foes with sharp claws.
 
 ; 0x004255bc ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x004255bc Firebreath      Release massive power stored within.
+0x004255bc Fire Breath     Release massive power stored within.
 
 ; 0x004255f6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x004255f6 Leather Mail    Layered horse leather. Low defense.
@@ -3598,14 +3591,6 @@
 ; 0x00425bd0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00425bd0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00426d19 アイアンソード　
-0x00426d19 Ironsword
-
-; 0x00426d2a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00426d2a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00426d6e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00426d6e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x0043d019 おう、何の用だい
 0x0043d019 Need something?
@@ -4115,7 +4100,7 @@
 0x00475594 Iron Claw       Slice foes with sharp claws.
 
 ; 0x004755bc ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x004755bc Firebreath      Release massive power stored within.
+0x004755bc Fire Breath     Release massive power stored within.
 
 ; 0x004755f6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x004755f6 Leather Mail    Layered horse leather. Low defense.
@@ -4216,14 +4201,6 @@
 ; 0x00475bd0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00475bd0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00476d19 アイアンソード　
-0x00476d19 Ironsword
-
-; 0x00476d2a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00476d2a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00476d6e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00476d6e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x0048d019 おう、何の用だい
 0x0048d019 Need something?
@@ -4511,7 +4488,7 @@
 0x004c5594 Iron Claw       Slice foes with sharp claws.
 
 ; 0x004c55bc ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x004c55bc Firebreath      Release massive power stored within.
+0x004c55bc Fire Breath     Release massive power stored within.
 
 ; 0x004c55f6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x004c55f6 Leather Mail    Layered horse leather. Low defense.
@@ -4612,14 +4589,6 @@
 ; 0x004c5bd0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x004c5bd0 Boomerang DX    Powered-up Boomerang.
 
-; 0x004c6d49 アイアンソード　
-0x004c6d49 Ironsword
-
-; 0x004c6d5a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x004c6d5a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x004c6d9e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x004c6d9e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x004dd019 おう、何の用だい
 0x004dd019 Need something?
@@ -5421,7 +5390,7 @@
 0x00515594 Iron Claw       Slice foes with sharp claws.
 
 ; 0x005155bc ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x005155bc Firebreath      Release massive power stored within.
+0x005155bc Fire Breath     Release massive power stored within.
 
 ; 0x005155f6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x005155f6 Leather Mail    Layered horse leather. Low defense.
@@ -5522,14 +5491,7 @@
 ; 0x00515bd0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00515bd0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00516d19 アイアンソード　
-0x00516d19 Ironsword
 
-; 0x00516d2a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00516d2a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00516d6e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00516d6e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x0052d019 おう、何の用だい
 0x0052d019 Need something?
@@ -5892,7 +5854,7 @@
 0x00625594 Iron Claw       Slice foes with sharp claws.
 
 ; 0x006255bc ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x006255bc Firebreath      Release massive power stored within.
+0x006255bc Fire Breath     Release massive power stored within.
 
 ; 0x006255f6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x006255f6 Leather Mail    Layered horse leather. Low defense.
@@ -5990,14 +5952,6 @@
 ; 0x00625bd0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00625bd0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00626d19 アイアンソード　
-0x00626d19 Ironsword
-
-; 0x00626d2a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00626d2a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00626d6e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00626d6e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x0063d019 いらっしゃいませご用件は？　　　
 0x0063d019 Welcome. How can I help?
@@ -6189,7 +6143,7 @@
 0x00651ddf Take this along.
 
 ; 0x00651dfc 　　魔法瓶をもらいました。(
-0x00651dfc I got a thermos.
+0x00651dfc I got a Thermos.
 
 ; 0x00651e21 ﾑｮえっ、あれじゃたりなかったの
 0x00651e21 Huh? That wasn't it?
@@ -6524,13 +6478,13 @@
 0x006529d9 Then it's fine.
 
 ; 0x006529ea 魔法瓶持っているから。
-0x006529ea I have a thermos.
+0x006529ea I have a Thermos.
 
 ; 0x00652a05 それなら大丈夫です。
 0x00652a05 That's fine.
 
 ; 0x00652a1a 魔法瓶持っていますから。
-0x00652a1a I have a thermos.
+0x00652a1a I have a Thermos.
 
 ; 0x00652a37 入れ物なら、ここにあるガウ。
 0x00652a37 If you're looking for a container, it's right here.
@@ -7773,7 +7727,7 @@
 0x00675594 Iron Claw       Slice foes with sharp claws.
 
 ; 0x006755bc ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x006755bc Firebreath      Release massive power stored within.
+0x006755bc Fire Breath     Release massive power stored within.
 
 ; 0x006755f6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x006755f6 Leather Mail    Layered horse leather. Low defense.
@@ -7874,14 +7828,7 @@
 ; 0x00675bd0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00675bd0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00676d19 アイアンソード　
-0x00676d19 Ironsword
 
-; 0x00676d2a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00676d2a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00676d6e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00676d6e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x0068d019 いらっしゃいませご用件は？　　　
 0x0068d019 Welcome. How can I help?
@@ -9436,7 +9383,7 @@
 0x006c5594 Iron Claw       Slice foes with sharp claws.
 
 ; 0x006c55bc ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x006c55bc Firebreath      Release massive power stored within.
+0x006c55bc Fire Breath     Release massive power stored within.
 
 ; 0x006c55f6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x006c55f6 Leather Mail    Layered horse leather. Low defense.
@@ -9537,14 +9484,7 @@
 ; 0x006c5bd0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x006c5bd0 Boomerang DX    Powered-up Boomerang.
 
-; 0x006c6d49 アイアンソード　
-0x006c6d49 Ironsword
 
-; 0x006c6d5a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x006c6d5a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x006c6d9e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x006c6d9e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x006dd019 いらっしゃいませご用件は？　　　
 0x006dd019 Welcome. How can I help?
@@ -9805,7 +9745,7 @@
 0x0082137c Iron Claw       Slice foes with sharp claws.
 
 ; 0x008213a4 ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x008213a4 Firebreath      Release massive power stored within.
+0x008213a4 Fire Breath     Release massive power stored within.
 
 ; 0x008213de レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x008213de Leather Mail    Layered horse leather. Low defense.
@@ -9964,7 +9904,7 @@
 0x00835584 Iron Claw       Slice foes with sharp claws.
 
 ; 0x008355ac ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x008355ac Firebreath      Release massive power stored within.
+0x008355ac Fire Breath     Release massive power stored within.
 
 ; 0x008355e6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x008355e6 Leather Mail    Layered horse leather. Low defense.
@@ -10065,14 +10005,7 @@
 ; 0x00835bc0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00835bc0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00836d39 アイアンソード　
-0x00836d39 Ironsword
 
-; 0x00836d4a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00836d4a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00836d8e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00836d8e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x0084d019 薬をお持ちに　　なりますか？　　
 0x0084d019 Would you like some medicine?
@@ -10162,7 +10095,7 @@
 0x0086148a Yeah, it is.
 
 ; 0x00861493 メイル、大丈夫だったガウか？
-0x00861493 Meile, are you okay, gaw?
+0x00861493 Mail, are you okay, gaw?
 
 ; 0x008614b1 なーに、この変なの
 0x008614b1 What's with this weirdo?
@@ -10528,7 +10461,7 @@
 0x00885584 Iron Claw       Slice foes with sharp claws.
 
 ; 0x008855ac ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x008855ac Firebreath      Release massive power stored within.
+0x008855ac Fire Breath     Release massive power stored within.
 
 ; 0x008855e6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x008855e6 Leather Mail    Layered horse leather. Low defense.
@@ -10629,14 +10562,7 @@
 ; 0x00885bc0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00885bc0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00886d39 アイアンソード　
-0x00886d39 Ironsword
 
-; 0x00886d4a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00886d4a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00886d8e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00886d8e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x0089d019 薬をお持ちに　　なりますか？　　
 0x0089d019 Would you like some medicine?
@@ -10882,7 +10808,7 @@
 0x008b1b02 I think you should.
 
 ; 0x008b1b1d 洵ベルクフリトに支配されて
-0x008b1b1d -Be controlled by Belkfried.
+0x008b1b1d Be controlled by Belkfried.
 
 ; 0x008b1b38 しまった、この世界はもう
 0x008b1b38 Crap, this world's gone.
@@ -10890,20 +10816,21 @@
 ; 0x008b1b51 終わりさ…。
 0x008b1b51 It's over.
 
+; TODO: fix crash
 ; 0x008b1b5e 別の世界でよみがえった魔神が、幻影世界まで支配する
-0x008b1b5e An Archdemon resurrected in another world, ruling even the illusory world
+;0x008b1b5e An Archdemon resurrected in another world, ruling even the illusory world
 
-; 0x008b1b91 なんて…。"!
-0x008b1b91 What...!
+; 0x008b1b91 なんて…。
+;0x008b1b91 What...!
 
 ; 0x008b1b9f 別の世界でよみがえった魔神が、幻影世界まで支配する
-0x008b1b9f An Archdemon resurrected in another world, ruling even the illusory world
+;0x008b1b9f An Archdemon resurrected in another world, ruling even the illusory world
 
 ; 0x008b1bd2 なんて…。
-0x008b1bd2 How...
+;0x008b1bd2 How...
 
 ; 0x008b1be6 !@ﾑｬあなたが別の世界から来た
-0x008b1be6 You came from another world
+;0x008b1be6 You came from another world
 
 ; 0x008b1c03 怪獣さんね。
 0x008b1c03 It's a monster.
@@ -10929,7 +10856,7 @@
 ; 0x008b1c92 街のみんながさがしているけど、見つからないのよ。
 0x008b1c92 Everyone's looking for it, but I can't find it.
 
-; 0x008b1cc3 心配ね…。"!@
+; 0x008b1cc3 心配ね…。
 0x008b1cc3 I'm worried...!
 
 ; 0x008b1cd1 街のみんながさがしているけど、見つからないのよ。
@@ -11198,7 +11125,7 @@
 0x008e5584 Iron Claw       Slice foes with sharp claws.
 
 ; 0x008e55ac ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x008e55ac Firebreath      Release massive power stored within.
+0x008e55ac Fire Breath     Release massive power stored within.
 
 ; 0x008e55e6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x008e55e6 Leather Mail    Layered horse leather. Low defense.
@@ -11299,14 +11226,7 @@
 ; 0x008e5bc0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x008e5bc0 Boomerang DX    Powered-up Boomerang.
 
-; 0x008e6d39 アイアンソード　
-0x008e6d39 Ironsword
 
-; 0x008e6d4a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x008e6d4a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x008e6d8e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x008e6d8e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x008fd019 薬をお持ちに　　なりますか？　　
 0x008fd019 Would you like some medicine?
@@ -11435,7 +11355,7 @@
 0x00911778 I can't trust you.
 
 ; 0x0091178d $"メイル、クリスタルって知ってるガウか？
-0x0091178d Meile, do you know what crystal is?
+0x0091178d Mail, do you know what crystal is?
 
 ; 0x009117b6 $#ブラッキィ、ミスリル欲しい
 0x009117b6 I want silver.
@@ -11447,7 +11367,7 @@
 0x009117dc Tatto, who's Master Gaw?
 
 ; 0x009117fa $%知らない！
-0x009117fa $% I don't know!
+0x009117fa I don't know!
 
 ; 0x00911808 X･$&欲しくない！
 0x00911808 I don't want it!
@@ -11564,7 +11484,7 @@
 0x0096d778 I can't trust you.
 
 ; 0x0096d78d $"メイル、クリスタルって知ってるガウか？
-0x0096d78d Meile, do you know what crystal is?
+0x0096d78d Mail, do you know what crystal is?
 
 ; 0x0096d7b6 $#ブラッキィ、ミスリル欲しい
 0x0096d7b6 I want silver.
@@ -11690,7 +11610,7 @@
 0x00995584 Iron Claw       Slice foes with sharp claws.
 
 ; 0x009955ac ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x009955ac Firebreath      Release massive power stored within.
+0x009955ac Fire Breath     Release massive power stored within.
 
 ; 0x009955e6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x009955e6 Leather Mail    Layered horse leather. Low defense.
@@ -11791,14 +11711,7 @@
 ; 0x00995bc0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00995bc0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00996d39 アイアンソード　
-0x00996d39 Ironsword
 
-; 0x00996d4a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00996d4a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00996d8e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00996d8e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x009ad019 回復の貝殻は　　いりませんか？　
 0x009ad019 Do you need a recovery shell?
@@ -12311,7 +12224,7 @@
 0x009e5584 Iron Claw       Slice foes with sharp claws.
 
 ; 0x009e55ac ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x009e55ac Firebreath      Release massive power stored within.
+0x009e55ac Fire Breath     Release massive power stored within.
 
 ; 0x009e55e6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x009e55e6 Leather Mail    Layered horse leather. Low defense.
@@ -12412,14 +12325,6 @@
 ; 0x009e5bc0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x009e5bc0 Boomerang DX    Powered-up Boomerang.
 
-; 0x009e6d39 アイアンソード　
-0x009e6d39 Ironsword
-
-; 0x009e6d4a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x009e6d4a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x009e6d8e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x009e6d8e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x009fd019 回復の貝殻は　　いりませんか？　
 0x009fd019 Do you need a recovery shell?
@@ -12722,7 +12627,7 @@
 0x00a35584 Iron Claw       Slice foes with sharp claws.
 
 ; 0x00a355ac ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x00a355ac Firebreath      Release massive power stored within.
+0x00a355ac Fire Breath     Release massive power stored within.
 
 ; 0x00a355e6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x00a355e6 Leather Mail    Layered horse leather. Low defense.
@@ -12820,14 +12725,7 @@
 ; 0x00a35bc0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00a35bc0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00a36d39 アイアンソード　
-0x00a36d39 Ironsword
 
-; 0x00a36d4a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00a36d4a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00a36d8e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00a36d8e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x00a4d019 回復の貝殻は　　いりませんか？　
 0x00a4d019 Do you need a recovery shell?
@@ -13049,7 +12947,7 @@
 0x00af5584 Iron Claw       Slice foes with sharp claws.
 
 ; 0x00af55ac ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x00af55ac Firebreath      Release massive power stored within.
+0x00af55ac Fire Breath     Release massive power stored within.
 
 ; 0x00af55e6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x00af55e6 Leather Mail    Layered horse leather. Low defense.
@@ -13147,14 +13045,7 @@
 ; 0x00af5bc0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00af5bc0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00af6d39 アイアンソード　
-0x00af6d39 Ironsword
 
-; 0x00af6d4a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00af6d4a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00af6d8e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00af6d8e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x00b0d019 どの薬を　　　　もっていく？　　
 0x00b0d019 Which medicine do you want?
@@ -13781,7 +13672,7 @@
 0x00b45584 Iron Claw       Slice foes with sharp claws.
 
 ; 0x00b455ac ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x00b455ac Firebreath      Release massive power stored within.
+0x00b455ac Fire Breath     Release massive power stored within.
 
 ; 0x00b455e6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x00b455e6 Leather Mail    Layered horse leather. Low defense.
@@ -13882,14 +13773,7 @@
 ; 0x00b45bc0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00b45bc0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00b46d39 アイアンソード　
-0x00b46d39 Ironsword
 
-; 0x00b46d4a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00b46d4a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00b46d8e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00b46d8e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x00b5d019 どの薬を　　　　もっていく？　　
 0x00b5d019 Which medicine do you want?
@@ -14168,7 +14052,7 @@
 0x00b95584 Iron Claw       Slice foes with sharp claws.
 
 ; 0x00b955ac ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x00b955ac Firebreath      Release massive power stored within.
+0x00b955ac Fire Breath     Release massive power stored within.
 
 ; 0x00b955e6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x00b955e6 Leather Mail    Layered horse leather. Low defense.
@@ -14269,14 +14153,6 @@
 ; 0x00b95bc0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00b95bc0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00b96d39 アイアンソード　
-0x00b96d39 Ironsword
-
-; 0x00b96d4a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00b96d4a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00b96d8e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00b96d8e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x00bad019 どの薬を　　　　もっていく？　　
 0x00bad019 Which medicine do you want?
@@ -14666,16 +14542,9 @@
 0x00bc224e Please hurry!!
 
 ; 0x00bc2261 メイルさん。
-0x00bc2261 Meile.
+0x00bc2261 Mail.
 
-; 0x00c82813 アイアンソード　
-0x00c82813 Ironsword
 
-; 0x00c82824 プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00c82824 Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00c82868 プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00c82868 Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x00cb3db9 メイル
 0x00cb3db9 Mail
@@ -14744,7 +14613,7 @@
 0x00cb5594 Iron Claw       Slice foes with sharp claws.
 
 ; 0x00cb55bc ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x00cb55bc Firebreath      Release massive power stored within.
+0x00cb55bc Fire Breath     Release massive power stored within.
 
 ; 0x00cb55f6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x00cb55f6 Leather Mail    Layered horse leather. Low defense.
@@ -14845,17 +14714,10 @@
 ; 0x00cb5bd0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00cb5bd0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00cb6d19 アイアンソード　
-0x00cb6d19 Ironsword
 
-; 0x00cb6d2a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00cb6d2a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00cb6d6e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00cb6d6e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x00ccd01b いらっしゃい　　何にする？　　　
-0x00ccd01b Come on. What do you want?
+0x00ccd01b Hi! What'll it be?
 
 ; 0x00ccd03c 　買う
 0x00ccd03c Buy
@@ -14885,7 +14747,7 @@
 0x00ccd099 Info
 
 ; 0x00ccd0a5 どれを買う？
-0x00ccd0a5 Which would you like?
+0x00ccd0a5 Which one?
 
 ; 0x00ccd0b3 　でいい？　　　
 0x00ccd0b3 Okay?
@@ -15332,7 +15194,7 @@
 0x00ce2323 Ahh, it's getting colder.
 
 ; 0x00ce234c Rｳ‾ｳｰｳメイル、君は寒くないのかい？
-0x00ce234c Aren't you cold, Mail?
+0x00ce2352 Aren't you cold, Mail?
 
 ; 0x00ce236f そんな格好で。
 0x00ce236f In that outfit.
@@ -15758,7 +15620,7 @@
 0x00d05594 Iron Claw       Slice foes with sharp claws.
 
 ; 0x00d055bc ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x00d055bc Firebreath      Release massive power stored within.
+0x00d055bc Fire Breath     Release massive power stored within.
 
 ; 0x00d055f6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x00d055f6 Leather Mail    Layered horse leather. Low defense.
@@ -15859,17 +15721,10 @@
 ; 0x00d05bd0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00d05bd0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00d06d19 アイアンソード　
-0x00d06d19 Ironsword
 
-; 0x00d06d2a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00d06d2a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00d06d6e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00d06d6e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x00d1d01b いらっしゃい　　何にする？　　　
-0x00d1d01b Come on. What do you want?
+0x00d1d01b Hi! What'll it be?
 
 ; 0x00d1d03c 　買う
 0x00d1d03c Buy
@@ -15899,7 +15754,7 @@
 0x00d1d099 Info
 
 ; 0x00d1d0a5 どれを買う？
-0x00d1d0a5 Which would you like?
+0x00d1d0a5 Which one?
 
 ; 0x00d1d0b3 　でいい？　　　
 0x00d1d0b3 Okay?
@@ -16901,7 +16756,7 @@
 0x00d33777 You're back?
 
 ; 0x00d33784 $翼Nリスタルは、あきらめたほうがいいんじゃないかしら。
-0x00d33784 think it would be better if Ristal gave up.
+0x00d33788 think it would be better if Ristal gave up.
 
 ; 0x00d337bc 逾馬鹿な！この私が負けるなんて…何かの間違いよ。
 0x00d337bc Impossible! To think I'd lose... There must be some mistake.
@@ -16988,7 +16843,7 @@
 0x00d55594 Iron Claw       Slice foes with sharp claws.
 
 ; 0x00d555bc ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x00d555bc Firebreath      Release massive power stored within.
+0x00d555bc Fire Breath     Release massive power stored within.
 
 ; 0x00d555f6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x00d555f6 Leather Mail    Layered horse leather. Low defense.
@@ -17086,17 +16941,10 @@
 ; 0x00d55bd0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00d55bd0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00d56d19 アイアンソード　
-0x00d56d19 Ironsword
 
-; 0x00d56d2a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00d56d2a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00d56d6e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00d56d6e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x00d6d01b いらっしゃい　　何にする？　　　
-0x00d6d01b Come on. What do you want?
+0x00d6d01b Hi! What'll it be?
 
 ; 0x00d6d03c 　買う
 0x00d6d03c Buy
@@ -17126,7 +16974,7 @@
 0x00d6d099 Info
 
 ; 0x00d6d0a5 どれを買う？
-0x00d6d0a5 Which would you like?
+0x00d6d0a5 Which one?
 
 ; 0x00d6d0b3 　でいい？　　　
 0x00d6d0b3 Okay?
@@ -17537,7 +17385,7 @@
 0x00da5594 Iron Claw       Slice foes with sharp claws.
 
 ; 0x00da55bc ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x00da55bc Firebreath      Release massive power stored within.
+0x00da55bc Fire Breath     Release massive power stored within.
 
 ; 0x00da55f6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x00da55f6 Leather Mail    Layered horse leather. Low defense.
@@ -17635,17 +17483,10 @@
 ; 0x00da5bd0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00da5bd0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00da6d49 アイアンソード　
-0x00da6d49 Ironsword
 
-; 0x00da6d5a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00da6d5a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00da6d9e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00da6d9e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x00dbd01b いらっしゃい　　何にする？　　　
-0x00dbd01b Come on. What do you want?
+0x00dbd01b Hi! What'll it be?
 
 ; 0x00dbd03c 　買う
 0x00dbd03c Buy
@@ -17675,7 +17516,7 @@
 0x00dbd099 Info
 
 ; 0x00dbd0a5 どれを買う？
-0x00dbd0a5 Which would you like?
+0x00dbd0a5 Which one?
 
 ; 0x00dbd0b3 　でいい？　　　
 0x00dbd0b3 Okay?
@@ -18062,7 +17903,7 @@
 0x00e11578 Iron Claw       Slice foes with sharp claws.
 
 ; 0x00e115a0 ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x00e115a0 Firebreath      Release massive power stored within.
+0x00e115a0 Fire Breath     Release massive power stored within.
 
 ; 0x00e115da レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x00e115da Leather Mail    Layered horse leather. Low defense.
@@ -18163,14 +18004,7 @@
 ; 0x00e11bb4 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00e11bb4 Boomerang DX    Powered-up Boomerang.
 
-; 0x00e12d22 アイアンソード　
-0x00e12d22 Ironsword
 
-; 0x00e12d33 プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00e12d33 Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00e12d77 プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00e12d77 Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x00e3d372 ブラッキィ
 0x00e3d372 Blacky
@@ -18533,7 +18367,7 @@
 0x00e55594 Iron Claw       Slice foes with sharp claws.
 
 ; 0x00e555bc ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x00e555bc Firebreath      Release massive power stored within.
+0x00e555bc Fire Breath     Release massive power stored within.
 
 ; 0x00e555f6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x00e555f6 Leather Mail    Layered horse leather. Low defense.
@@ -18634,14 +18468,7 @@
 ; 0x00e55bd0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00e55bd0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00e56d19 アイアンソード　
-0x00e56d19 Ironsword
 
-; 0x00e56d2a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00e56d2a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00e56d6e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00e56d6e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x00e6d019 いらっしゃいませご用件は？　　　
 0x00e6d019 Welcome. How can I help?
@@ -18803,7 +18630,7 @@
 0x00ea5594 Iron Claw       Slice foes with sharp claws.
 
 ; 0x00ea55bc ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x00ea55bc Firebreath      Release massive power stored within.
+0x00ea55bc Fire Breath     Release massive power stored within.
 
 ; 0x00ea55f6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x00ea55f6 Leather Mail    Layered horse leather. Low defense.
@@ -18901,14 +18728,6 @@
 ; 0x00ea5bd0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00ea5bd0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00ea6d19 アイアンソード　
-0x00ea6d19 Ironsword
-
-; 0x00ea6d2a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00ea6d2a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00ea6d6e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00ea6d6e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x00ebd019 いらっしゃいませご用件は？　　　
 0x00ebd019 Welcome. How can I help?
@@ -19064,7 +18883,7 @@
 0x00ef5594 Iron Claw       Slice foes with sharp claws.
 
 ; 0x00ef55bc ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x00ef55bc Firebreath      Release massive power stored within.
+0x00ef55bc Fire Breath     Release massive power stored within.
 
 ; 0x00ef55f6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x00ef55f6 Leather Mail    Layered horse leather. Low defense.
@@ -19162,14 +18981,6 @@
 ; 0x00ef5bd0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00ef5bd0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00ef6d19 アイアンソード　
-0x00ef6d19 Ironsword
-
-; 0x00ef6d2a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00ef6d2a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00ef6d6e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00ef6d6e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x00f0d019 いらっしゃいませご用件は？　　　
 0x00f0d019 Welcome. How can I help?
@@ -19562,7 +19373,7 @@
 0x00f45594 Iron Claw       Slice foes with sharp claws.
 
 ; 0x00f455bc ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x00f455bc Firebreath      Release massive power stored within.
+0x00f455bc Fire Breath     Release massive power stored within.
 
 ; 0x00f455f6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x00f455f6 Leather Mail    Layered horse leather. Low defense.
@@ -19663,14 +19474,6 @@
 ; 0x00f45bd0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00f45bd0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00f46d49 アイアンソード　
-0x00f46d49 Ironsword
-
-; 0x00f46d5a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00f46d5a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00f46d9e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00f46d9e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x00f5d019 いらっしゃいませご用件は？　　　
 0x00f5d019 Welcome. How can I help?
@@ -20060,7 +19863,7 @@
 0x00f95594 Iron Claw       Slice foes with sharp claws.
 
 ; 0x00f955bc ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x00f955bc Firebreath      Release massive power stored within.
+0x00f955bc Fire Breath     Release massive power stored within.
 
 ; 0x00f955f6 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x00f955f6 Leather Mail    Layered horse leather. Low defense.
@@ -20161,14 +19964,6 @@
 ; 0x00f95bd0 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x00f95bd0 Boomerang DX    Powered-up Boomerang.
 
-; 0x00f96d49 アイアンソード　
-0x00f96d49 Ironsword
-
-; 0x00f96d5a プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x00f96d5a Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x00f96d9e プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x00f96d9e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x00fad019 いらっしゃいませご用件は？　　　
 0x00fad019 Welcome. How can I help?
@@ -20399,7 +20194,7 @@
 0x01005587 Iron Claw       Slice foes with sharp claws.
 
 ; 0x010055af ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x010055af Firebreath      Release massive power stored within.
+0x010055af Fire Breath     Release massive power stored within.
 
 ; 0x010055e9 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x010055e9 Leather Mail    Layered horse leather. Low defense.
@@ -20500,14 +20295,6 @@
 ; 0x01005bc3 ブーメランＤＸ　ブーメランのパワーアップ型。
 0x01005bc3 Boomerang DX    Powered-up Boomerang.
 
-; 0x01006d31 アイアンソード　
-0x01006d31 Ironsword
-
-; 0x01006d42 プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x01006d42 Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x01006d86 プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x01006d86 Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x0101d019 いらっしゃいませご用件は？　　　
 0x0101d019 Welcome. How can I help?
@@ -20816,7 +20603,7 @@
 0x010c156e Iron Claw       Slice foes with sharp claws.
 
 ; 0x010c1596 ファイアブレス　体内にためた力を一気に放つ。　　威力絶大
-0x010c1596 Firebreath      Release massive power stored within.
+0x010c1596 Fire Breath     Release massive power stored within.
 
 ; 0x010c15d0 レザーアーマー　馬の革を何枚も重ねてある。　　　防御能力は低い。
 0x010c15d0 Leather Mail    Layered horse leather. Low defense.
@@ -20917,14 +20704,7 @@
 ; 0x010c1baa ブーメランＤＸ　ブーメランのパワーアップ型。
 0x010c1baa Boomerang DX    Powered-up Boomerang.
 
-; 0x010c2d18 アイアンソード　
-0x010c2d18 Ironsword
 
-; 0x010c2d29 プラズマブレードPウォータービームPロッククラッシュ@アイアンアーマー
-0x010c2d29 Plasma Blade P Water Beam P Rock Crash@Iron Armor
-
-; 0x010c2d6d プラズマアーマーPアクアローブ　　Pバトルアーマー　@アイアンシールド
-0x010c2d6d Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x010ed14d ベルクフリト
 0x010ed14d Morgal

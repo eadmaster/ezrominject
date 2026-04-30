@@ -15,6 +15,7 @@ repeat_block() {
 
 patch_repeated_blocks() {
     repeat_block 0x22e782  0xf3e6a3  1128  "$1"  # items in submenu 
+    repeat_block 0x286D19  0x236d04  363  "$1"  # other items in submenu 
 
     #repeat_block 0x2851f0 0x2351b6   72  "$OUTPUT_ROM"  # shop menu1
     #repeat_block 0x2852ae 0x235274 2382  "$OUTPUT_ROM"  # shop items
@@ -63,6 +64,7 @@ extract_gfx() {
     sfk partcopy "$OUTPUT_ROM" -fromto 0x1061651 0x10616D1 gfx/location_sealed_palace_jap.bin -yes
     
     # menus
+    #sfk partcopy "$OUTPUT_ROM" 0xed767 968 gfx/menu_main_jap.bin -yes    # main menu
     sfk partcopy "$OUTPUT_ROM" -fromto 0x2e3afd 0x2e3d02 gfx/menu_pause1_jap.bin -yes  # multi char overworld ver.
     sfk partcopy "$OUTPUT_ROM" -fromto 0x2e3d02 0x2e3ef0 gfx/menu_pause2_jap.bin -yes  # single char overworld ver.
     sfk partcopy "$OUTPUT_ROM" -fromto 0x2e3ef0 0x2e40e3 gfx/menu_pause3_jap.bin -yes  # multi-char underworld ver.
@@ -139,7 +141,7 @@ patch_gfx() {
     replace_gfx menu_equip_tilemap
     replace_gfx menu_use
     replace_gfx menu_use_tilemap
-    
+        
     # options menu
     if [ -f gfx/menu_options_eng.bin ]; then
         sfk setbytes "$OUTPUT_ROM" 0xD9C00 0x$(sfk hexdump -raw gfx/menu_options_eng.bin) -yes

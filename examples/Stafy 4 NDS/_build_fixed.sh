@@ -8,9 +8,9 @@ replace_gfx() {
     [ -f gfx/$1.NCER ] && cp -fv gfx/$1.NCER  "Densetsu no Stafy 4 (Japan)/data/Cell/$1.NCER"
 }
 
-# repack with custom font and gfx with NitroPacker https://github.com/haroohie-club/NitroPacker
+# extract rom with NitroPacker https://github.com/haroohie-club/NitroPacker
 [ ! -d "Densetsu no Stafy 4 (Japan)" ] && NitroPacker unpack -r "$INPUT_ROM" -o "Densetsu no Stafy 4 (Japan)" -p "Densetsu no Stafy 4 (English)"
-# alt.: repack with custom font and gfx with dsrom https://github.com/AetiasHax/ds-rom
+# alt.: with dsrom https://github.com/AetiasHax/ds-rom
 #[ ! -d "Densetsu no Stafy 4 (Japan)" ] && dsrom extract --rom "$INPUT_ROM" --path "Densetsu no Stafy 4 (Japan)"
 
 cp Font/stafy4_13b2_full_bmp_comb_clean.bin  "Densetsu no Stafy 4 (Japan)/data/Font/stafy4_13b2_full_bmp.bin"
@@ -18,8 +18,8 @@ cp Font/stafy4_13b2_2_bmp_comb_clean.bin  "Densetsu no Stafy 4 (Japan)/data/Font
 
 replace_gfx title_ue_ob_font  # "Press Start!" on title screen
 replace_gfx title_sita_ob_font  # "Start" on title screen
-replace_gfx save_obj  # "Save now?" window (used in ??)
 replace_gfx save_window_l  # "Save now?" window (used in stages)
+replace_gfx save_obj  # "Save now?" window (autosave after bosses)
 replace_gfx city1_obj_sub_l  # 1st city map ui elements
 replace_gfx fileselect_low_obj  # File menu on title screen
 replace_gfx city_in_l  # "[Back] To City" sign in stages
@@ -43,6 +43,7 @@ for f in jizou_st*_l.NCGR jizou_st*_l.NCER; do
 done
 cd ..
 
+# repack with custom font and gfx with NitroPacker https://github.com/haroohie-club/NitroPacker
 NitroPacker pack -p "Densetsu no Stafy 4 (Japan)/Densetsu no Stafy 4 (English).json" -r "$OUTPUT_ROM"
 # alt.: dsrom build --config "Densetsu no Stafy 4 (Japan)/config.yaml" --rom "$OUTPUT_ROM"
 

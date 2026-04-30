@@ -371,7 +371,7 @@ def run_injection(jap_path, eng_path, rom_path):
         if len(text)==0:
             continue
                 
-        if len(text)>=6 and has_no_kanas(text):
+        if len(text)>=8 and has_no_kanas(text):
             # prolly not text
             print("skipped control line: " + text)
             continue
@@ -439,6 +439,7 @@ def run_injection(jap_path, eng_path, rom_path):
         eng_text = eng_text.replace("~", "〜")
         eng_text = eng_text.replace(".", "。")
         eng_text = eng_text.replace("\'", "’")
+        #eng_text = eng_text.replace("\'", "´")
         eng_text = eng_text.replace("\"", "”")
         #eng_text = eng_text.replace(" ", "　")  # double-width space
         #eng_text = eng_text.replace(", ", ",")
