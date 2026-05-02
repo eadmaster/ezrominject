@@ -835,13 +835,13 @@
 0x002b1bc6 a mech stole them.
 
 ; 0x002b1be4 巨大な魔物ってもしかして
-0x002b1be4 He said he made a lot of them, 
+0x002b1be4 throwing all those bombs?
 
 ; 0x002b1bfd この森の出口の近くにいた、
-0x002b1bfd but then some lunatic in a mech stole them.
+0x002b1bfd Near the forest exit,
 
 ; 0x002b1c18 あの爆弾を投げる奴かな？
-0x002b1c18 Could it be the one 
+0x002b1c18 Could it be the one
 
 ; 0x002b1c32 巨大な魔物ってもしかして
 0x002b1c32 throwing all those bombs?
@@ -925,10 +925,10 @@
 0x002b1ed2 the monsters.
 
 ; 0x002b1ee1 僕らが、ふがいないばっかり
-0x002b1ee1 We just weren’t good enough…
+0x002b1ee1 We just were not good enough…
 
 ; 0x002b1efc に…。
-;0x002b1efc N...
+0x002b1efc N...
 
 ; 0x002b1f05 ･そこの穴を通れば、上へ、行けるようになっている。
 0x002b1f05 If you go through that hole, you can go up.
@@ -961,7 +961,7 @@
 0x002b1fd6 a monster,
 
 ; 0x002b1fe1 落ちてくるとは思わなかったよ。
-0x002b1fe1 I didn’t expect to fall.
+0x002b1fe1 I didn’t expect would fall.
 
 ; 0x002b200a ｰ竺竺えっ、ブラッキィが抜け出し
 0x002b200f Huh? Blacky ran away.
@@ -1011,17 +1011,17 @@
 ; 0x002b216f 所の木の上に、隠れているわ。
 0x002b216f he’s hiding in a tree.
 
-; 0x002b218f 奮OｯOｯまた、ブラッキィが、いなく
-0x002b218f Also, Blacky is gone.
+; 0x002b2195 また、ブラッキィが、いなく
+0x002b2195 Ah, so Blacky is gone
 
 ; 0x002b21b0 なっちゃったよ。
-0x002b21b0 It's happened.
+0x002b21b0 again, huh?
 
 ; 0x002b21c1 あいつには、ホント手を
-0x002b21c1 I'll do something to him.
+0x002b21c1 That guy is a real 
 
 ; 0x002b21d8 やくよな。
-0x002b21d8 Hurry up.
+0x002b21d8 handful…
 
 ; 0x002b21ef ｰやぁブラッキィを、助けて
 0x002b21ef Hey, I rescued
@@ -1030,10 +1030,10 @@
 0x002b2209 Blacky.
 
 ; 0x002b2212 まったく、人騒がせなヤツ
-0x002b2212 He's quite the troublemaker,
+0x002b2212 He's such a troublemaker
 
 ; 0x002b222b だよな。
-0x002b222b isn't he?
+0x002b222b ...
 
 ; 0x002b223e ･やぁ、こんなジャングル奥地の
 0x002b223e It's rare to have visitors
@@ -1288,7 +1288,7 @@
 0x002b2a89 Hey, what are you doing here?
 
 ; 0x002b2ab7 あたしはこの国の賞金首になっているマテリアルって魔導師を
-0x002b2ab7 I'm a sorcerer named Material
+0x002b2ab7 I'm a mage named Material
 
 ; 0x002b2af0 捕まえにきたの。
 0x002b2af0 I’m here to catch you.
@@ -1375,7 +1375,7 @@
 0x002b2d3c Tower, Right away.
 
 ; 0x002b2d4b $ どうもありがとう。
-0x002b2d4b Thank you very  much.
+0x002b2d4b Thank you very much.
 
 ; 0x002b2d60 えーと…、君、名前は？
 0x002b2d60 What is your name?
@@ -1396,7 +1396,7 @@
 0x002b2dcd mage.
 
 ; 0x002b2dd8 $#まだ、修業中の身だけどね。
-0x002b2dd8 Although I'm still in training.
+0x002b2dd8 Although still in training.
 
 ; 0x002b2df5 じゃあメイル、機会があったら
 0x002b2df5 Well, Mail, let's hope we
@@ -1876,8 +1876,8 @@
 ; 0x00301bd6 魔物から手に入れたカギを使うと牢屋の扉が開いた。
 0x00301bd6 Using the key, the prison door opened.
 
-; 0x00301c10 5$7ねぇねぇ、
-0x00301c10 Hey, you!
+; 0x00301c13 ねぇねぇ、
+0x00301c13 Hey you!
 
 ; 0x00301c1e あなた、ちょっと聞いてよ。
 0x00301c1e Listen to this...
@@ -1898,7 +1898,7 @@
 0x00301c9b him bring any gold home.
 
 ; 0x00301cb6 $:そのくせ、
-0x00301cb6 He doesn’t 
+0x00301cb6 He doesnt 
 
 ; 0x00301cc3 ろくに働きもしないから、
 0x00301cc3 work much.. He’s desperately 
@@ -1907,7 +1907,7 @@
 0x00301cdc searching for gold and their money is tight.
 
 ; 0x00301cf9 $;もう、気の毒でしょうがないわ。
-0x00301cf9 Why, I feel sorry for poor Mifi..
+0x00301cf9 I feel sorry for poor Mifi..
 
 ; 0x00301d1a ねぇねぇ、ちょっとあなた、
 0x00301d1a Hey, you!
@@ -1927,6 +1927,7 @@
 ; 0x00301d89 なんかよくわからない３人組が
 0x00301d89 him bring any gold home.
 
+;TODO: revise
 ; 0x00301da6 だんなさんをあわれに思って、
 0x00301da6 I felt sorry for Dana-san,
 
@@ -1937,103 +1938,103 @@
 0x00301dd6 But,
 
 ; 0x00301ddd あんなにミフィさん喜んでるし、かわいそうだから、だまってる
-0x00301ddd Mifi-san's so happy, and I feel sorry for her, so she's quiet.
+0x00301ddd Mifi is so happy, and I feel sorry for her, so I'll 
 
 ; 0x00301e18 ことにするわ。
-0x00301e18 I'll leave it be.
+0x00301e18 keep quiet about it.
 
 ; 0x00301e29 ミフィ
 0x00301e29 Mifi
 
-; 0x00301e35 舒私も、マリオネット強盗団に
-0x00301e35 My precious ring was stolen 
+; 0x00301e37 私も、マリオネット強盗団に
+0x00301e37 My precious ring was stolen 
 
 ; 0x00301e52 大事な指輪を盗まれたの。
-0x00301e52 by the Marionette Robbery gang.
+0x00301e52 by the Marionette gang.
 
 ; 0x00301e6b あれは、主人との大切な
-0x00301e6b That was my precious 
+0x00301e6b That was the engagement
 
 ; 0x00301e82 婚約指輪なのに…。 
-0x00301e82 engagement ring I got from my husband…
+0x00301e82 ring from my husband…
 
 ; 0x00301e98 長いこと鉱山で金塊探しを
-0x00301e98 I spent a long time looking for gold in the mine.
+0x00301e98 My husband has finally 
 
 ; 0x00301eb1 していた主人が、ついに金塊を
-0x00301eb1 The master who’d been doing it finally got the gold
+0x00301eb1 found some gold in the mines
 
 ; 0x00301ece 見つけて帰ってくるそうなの。
-0x00301ece They'll find him and come back.
+0x00301ece and is coming home.
 
 ; 0x00301eeb これでやっと、貧しい生活から
-0x00301eeb Now I'm finally out of poverty.
+0x00301eeb Now our impoverished life
 
 ; 0x00301f08 さよなら出来るわ。
-0x00301f08 I can say goodbye.
+0x00301f08 is finally over.
 
 ; 0x00301f1b あぁ…、
 0x00301f1b Ah...
 
 ; 0x00301f24 はやく帰ってこないかしら。
-0x00301f24 I wonder if he'll be back soon.
+0x00301f24 I wonder when he'll come home.
 
 ; 0x00301f41 ミフィ
 0x00301f41 Mifi
 
 ; 0x00301f4a ああ、どうしたらいいのかしら。主人に、会わす顔がないわ。
-0x00301f4a Ah, what should I do? I don't have the face to see my husband.
+0x00301f4a Ah, what should I do? I can't face my husband.
 
 ; 0x00301f85 ｦ我々も、ナモと一緒に強盗団を
-0x00301f85 Also, together with Namo, the gang of robbers
+0x00301f85 We would also like to go with 
 
 ; 0x00301fa3 捕まえにいきたいのだが、
-0x00301fa3 I want to go catch him, but...
+0x00301fa3 Namo to catch the robbers.
 
 ; 0x00301fbc ここを離れると村の方が
-0x00301fbc If we leave here, the village will be better off
+0x00301fbc But if we leave the village
 
 ; 0x00301fd3 危ないので…。
-0x00301fd3 It's dangerous.
+0x00301fd3 would be in danger.
 
 ; 0x00301fe2 できれば、君に連中を捕まえて
-0x00301fe2 If possible, I'd like you to get them.
+0x00301fe2 If possible I'd like you 
 
 ; 0x00301fff ほしいのだが…。
-0x00301fff I want it...
+0x00301fff to catch them...
 
-; 0x00302015 ｰ芦豌ナモを助けてくれて感謝して
-0x00302015 Thank you for saving Namo.
+; 0x0030201A ナモを助けてくれて感謝して
+0x0030201A Thank you for helping 
 
 ; 0x00302035 いる。
-0x00302035 I'm here.
+0x00302035 Namo.
 
 ; 0x0030203c その君の勇気と強さをみこんで、頼みたいのだが、
-0x0030203c In light of your courage and strength, I'd like to ask you,
+0x0030203c Seeing your strength and courage makes me wonder,
 
 ; 0x0030206b 我々に協力してはくれまいか？
-0x0030206b Can you help us?
+0x0030206b would you help us?
 
 ; 0x00302088 マリオネット強盗団を我々の
-0x00302088 Marionette robbery.
+0x00302088 Our comrades went to take 
 
 ; 0x003020a3 同志が倒しにいったまま
-0x003020a3 My comrade went to defeat him
+0x003020a3 down the Marionette Gang
 
 ; 0x003020ba 戻ってこない…。
-0x003020ba He won't come back...
+0x003020ba but they haven't come back...
 
 ; 0x003020cb いったいどうしたんだろう。
-0x003020cb What on earth was going on?
+0x003020cb What could have happened?
 
 ; 0x003020e6 古代の洞窟にいる怪獣が、
-0x003020e6 A monster in an ancient cave
+0x003020e6 It's unusual for a monster from an ancient cave
 
 ; 0x003020ff ジャングルに来るなんて
-0x003020ff To come to the jungle.
+0x003020ff to come out into
 
 ; 0x00302116 めずらしいなぁ。
-0x00302116 That's rare.
+0x00302116 the jungle.
 
 ; 0x00302129 ｦ$-いやぁ、本当に助かったよ。
 0x0030212c Oh, you really helped me out.
@@ -2060,13 +2061,13 @@
 0x003021e9 be patient...
 
 ; 0x003021f6 $0あっ、そうだ。
-0x003021f6 Aha. I should thank you for saving me.
+0x003021f6 I should thank you for saving me.
 
 ; 0x00302207 助けてくれたお礼をしないとね。そんな装備じゃ、魔物との戦いがつらいだろう。
 0x00302207 It must be hard to fight monsters with shoddy equipment like that.
 
 ; 0x00302252 $1このお金で、防具でも買って
-0x00302252 Here's some cash to buy
+0x00302252 Here's some cash to buy some
 
 ; 0x0030226f くるといい。
 0x0030226f better armor.
@@ -2077,14 +2078,11 @@
 ; 0x00302291 をもらった。
 0x00302291 received.
 
-; 0x003022de $3この塔の最上階に、スイッチが
-0x003022de There's a switch on the top floor of this tower.
-
 ; 0x003022a0 ｦ$2マテリアルを探しているんなら、この先へ行くつもりなんだろ？
 0x003022a3 If you're looking for Material, you gotta go further, right?
 
 ; 0x003022de $3この塔の最上階に、スイッチが
-0x003022de On the top floor of this tower, there’s a 
+0x003022de On the top floor there’s a 
 
 ; 0x003022fd ある。
 0x003022fd switch.
@@ -2108,16 +2106,16 @@
 0x00302395 Be careful.
 
 ; 0x003023ac ｦ絶対、マテリアルを捕まえて
-0x003023ac I'll definitely catch the material.
+0x003023ac I'll definitely catch 
 
 ; 0x003023c8 くれよ。
-0x003023c8 Give me one.
+0x003023c8 Material.
 
 ; 0x003023d1 俺もがんばるからな。
 0x003023d1 I'll do my best.
 
 ; 0x003023eb 開かれた扉を再び閉じた。
-0x003023eb I close the open door again.
+0x003023eb Door closed again.
 
 ; 0x00302409 閉ざされた扉を開けた。
 0x00302409 Locked door is now open.
@@ -2343,7 +2341,7 @@
 0x0033d120 Not enough money.
 
 ; 0x0033d134 ありがとうございました。
-0x0033d134 Thank you very  much.
+0x0033d134 Thank you very much.
 
 ; 0x0033d14e 何を売っていただけますか？
 0x0033d14e What will you   sell me?
@@ -2391,10 +2389,10 @@
 0x0035137d Ah!
 
 ; 0x00351387 ん？　もしかして
-0x00351387 Huh? Wait, you're... 
+0x00351387 Wait, you're... 
 
 ; 0x003513a6 おまえが賞金首の魔導師だな！！
-0x003513a6 you're Material, aren't you?
+0x003513a6 You're Material, aren't you?
 
 ; 0x003513c7 魔導師
 0x003513c7 Mage
@@ -2411,8 +2409,8 @@
 ; 0x0035144c お前がタットの師匠ね。
 0x0035144c you are Tatto's master. 
 
-; 0x00351464 ﾝ｢$Aほう、タットを知っとるのか。
-0x00351464 Oh, so you know Tatto?
+; 0x00351468 ほう、タットを知っとるのか。
+0x00351468 Oh, so you know Tatto?
 
 ; 0x00351485 やつめ、弟子のくせにわしに
 0x00351485 That bastard, he's my disciple.
@@ -2670,7 +2668,7 @@
 
 
 ; 0x003ed019 おう、何の用だい
-0x003ed019 Need something?
+0x003ed019 What you want?
 
 ; 0x003ed02a 　買う
 0x003ed02a Buy
@@ -2902,7 +2900,7 @@
 0x00401b1e Buy
 
 ; 0x00401b28 買わない
-0x00401b28 Don't buy it.
+0x00401b28 Don't buy
 
 ; 0x00401b33 *さっきは、どうもありがとう。
 0x00401b33 Thanks a lot for before.
@@ -3004,7 +3002,7 @@
 0x00401e39 Received shield.
 
 ; 0x00401e4b iｦところで、この先に出口が
-0x00401e4b There’s an exit up ahead
+0x00401e4b There is an exit up ahead
 
 ; 0x00401e66 あるんだが、この岩が邪魔で
 0x00401e66 but I cannot go any further 
@@ -3091,7 +3089,7 @@
 0x00402121 If only I had something to 
 
 ; 0x0040213c いいんだけど…。
-0x0040213c break down the rocks with...
+0x0040213c break down rocks with...
 
 ; 0x0040214f この洞窟には、出口が２か所
 0x0040214f There are two exits to this 
@@ -3129,17 +3127,17 @@
 ; 0x00402291 $!助けてくれよ！
 0x00402291 Help!
 
-; 0x004022a5 iｦ$,おーい！
-0x004022a5 HEY!!
+; 0x004022a9 おーい！
+0x004022a9 HEY!!
 
 ; 0x004022b2 早く助けてくれ！！
-0x004022b2 HURRY UP AND SAVE ME ALREADY!!”
+0x004022b2 HURRY UP SAVE ME ALREADY!!”
 
 ; 0x004022cd $-ちょっと待ってよ。
 0x004022cd Hold on a second!
 
 ; 0x004022e2 助けてあげたいのは、
-0x004022e2 I really wanna help you, but..
+0x004022e2 I really wanna help
 
 ; 0x004022f7 やまやまだけど、
 0x004022f7 you, but..
@@ -3151,7 +3149,7 @@
 0x0040231f break this rock wall..
 
 ; 0x00402334 $/あ、そうそう。
-0x00402334 Oh yeah, I was 
+0x00402334 Yeah, I was 
 
 ; 0x00402345 この洞窟をうろうろしてたら
 0x00402345 exploring the cave and I 
@@ -3177,8 +3175,8 @@
 ; 0x0040246c 逃げちゃったんです。
 0x0040246c I ran away.
 
-; 0x00402485 iｦ$1そりゃあそうだ。
-0x00402489 Yeah, that’s right.
+; 0x00402485 そりゃあそうだ。
+0x00402489 That’s right.
 
 ; 0x0040249a 怪獣たちは、侵入者をえらく
 0x0040249a The monsters here really 
@@ -3210,8 +3208,8 @@
 ; 0x004025a3 あたりですけど。
 0x004025a3 It's around here.
 
-; 0x004025b8 iｦ$4そうか…。
-0x004025b8 I see...
+; 0x004025b8 そうか…。
+0x004025bc I see...
 
 ; 0x004025c7 怪獣たちは、横穴みたいな
 0x004025c7 So, the monster ran into 
@@ -3220,7 +3218,7 @@
 0x004025e0 some kinda sidehole?
 
 ; 0x004025f5 $5多分、そこが怪獣の巣なんだ。
-0x004025f5 That’s where the monsters live.
+0x004025f5 That’s where they live.
 
 ; 0x00402614 そこへ行けば、何かあるかも
 0x00402614 If we go there we might find 
@@ -3285,17 +3283,20 @@
 ; 0x0040282e 0ｸ穴がふさがんなきゃいいけど。
 0x0040282e I hope the hole doesn't get blocked.
 
-; 0x00402850 iｦ$Gあぁ、助かった。　ありがとう。ツルハシなんて、
-0x00402850 Gaw, you saved me. Thanks. A pickaxe,
+; 0x00402854 あぁ、助かった。　ありがとう。ツルハシなんて、
+0x00402854 You’ve saved me. Thanks! I had no idea
 
 ; 0x00402883 そんないいものがあったんだ。
-0x00402883 I didn't know there was such a good one.
+0x00402883 they had such a nice pickaxe.
 
 ; 0x004028a0 $Hちょっと、貸してくんない？
-0x004028a0 Can you lend it to me for a second?
+0x004028a0 Could I borrow that?
 
-; 0x004028d7 $Lあ゛〜！
-0x004028d7 Ahhhhh!
+; 0x004028ce あ゛〜！
+0x004028ce Ahhhhh!
+
+; 0x004028d9 あ゛〜！
+0x004028d9 Ahhhhh!
 
 ; 0x004028ec ブラッキィ！
 0x004028ec Blacky!
@@ -3313,10 +3314,10 @@
 0x00402935 Don’t run away like that.
 
 ; 0x0040294c 別に取って食おうってわけじゃ
-0x0040294c It's not like I'm going to eat it.
+0x0040294c It's not like I'm going to 
 
 ; 0x00402969 ないんだから。
-0x00402969 I don't have it.
+0x00402969 eat you.
 
 ; 0x0040297a 怪獣
 0x0040297a Monster
@@ -3400,25 +3401,25 @@
 0x00402b8d Hurry up and help!!
 
 ; 0x00402ba8 さっき、
-0x00402ba8 Before,
+0x00402ba8 I need 
 
 ; 0x00402bb1 つるはしを手にいれたっけ
-0x00402bb1 Did I get a pickaxe?
+0x00402bb1 to equip the pickaxe.
 
 ; 0x00402bcb さっき、
-0x00402bcb Before,
+0x00402bcb I need 
 
 ; 0x00402bd4 つるはしを手にいれたっけ
-0x00402bd4 Did I get a pickaxe?
+0x00402bd4 to equip the pickaxe.
 
 ; 0x00402bee 鍵を持っていない。
-0x00402bee I don't have a key.
+0x00402bee I need the key.
 
 ; 0x00402c09 これを使えば、助けられるわね。
-0x00402c09 If I use this, I can help.
+0x00402c09 This will help.
 
 ; 0x00402c29 これを使って、助けよう。
-0x00402c29 I'll use this to help.
+0x00402c29 This will help.
 
 ; 0x00423db9 メイル
 0x00423db9 Mail
@@ -3593,7 +3594,7 @@
 
 
 ; 0x0043d019 おう、何の用だい
-0x0043d019 Need something?
+0x0043d019 What you want?
 
 ; 0x0043d02a 　買う
 0x0043d02a Buy
@@ -3652,6 +3653,8 @@
 ; 0x0043d1b8 どこにも異常は　ないようだな。
 0x0043d1b8 Nothing to heal.
 
+
+
 ; 0x0043d1d8 気をつけてな‥。
 0x0043d1d8 Be careful...
 
@@ -3659,157 +3662,157 @@
 0x0045147c Monster
 
 ; 0x0045148f z､ようよう、そこの
-0x0045148f Z, hey there.
+0x0045148f Hey, hey, down 
 
 ; 0x004514a8 ねぇちゃん。
-0x004514a8 Sis.
+0x004514a8 there. 
 
 ; 0x004514b6 ﾅ､にぃちゃん。
-0x004514b6 Big bro.
+0x004514b6 Listen to me 
 
 ; 0x004514c5 ちょっと聞いてくれよ。
-0x004514c5 Just listen to me.
+0x004514c5 for a second.
 
 ; 0x004514dc この洞窟にはよ、魔神軍率いる
-0x004514dc In this cave, led by the Archdemon Army.
+0x004514dc In this cave there are monsters
 
 ; 0x004514f9 モンスターと、古くから
-0x004514f9 Monsters and ancient times
+0x004514f9 led by the evil Monster
 
 ; 0x00451510 この洞窟に住んでいる俺たち
-0x00451510 We live in this cave
+0x00451510 Army as well as us normal 
 
 ; 0x0045152b 怪獣がいるんだ。
-0x0045152b There's a monster.
+0x0045152b monsters who have lived here forever.
 
 ; 0x0045153c 魔神軍のモンスターは、早く
-0x0045153c Monsters in the Archdemon’s Army, quickly.
+0x0045153c The Monster Army is so eager 
 
 ; 0x00451557 俺たちをこの洞窟から
-0x00451557 Take us from this cave.
+0x00451557 to get us out of this
 
 ; 0x0045156c 追い出そうとやっきになって、
-0x0045156c I was desperate to kick her out,
+0x0045156c cave that they began 
 
 ; 0x00451589 おそってくるんだ。
-0x00451589 I'll be late.
+0x00451589 threatening us!
 
 ; 0x0045159c だから、俺たちも精鋭を集めて
-0x0045159c That’s why we’ve gathered elites, too
+0x0045159c So we gathered our strongest
 
 ; 0x004515b9 戦おうと決めたんだ。
-0x004515b9 I decided to fight.
+0x004515b9 warriors to fight back!
 
 ; 0x004515ce けど、いままでのんびり暮らしてきた俺たちの仲間に、まともに
-0x004515ce But to our friends, who have been living a carefree life up until now, it’s true
+0x004515ce But, our lives have always been peaceful.. Very few 
 
 ; 0x00451609 戦える者なんてごくわずかさ。
-0x00451609 Very few can fight.
+0x00451609 of our people can fight.
 
 ; 0x00451626 だから、俺たちがやられるのも
-0x00451626 That’s why we’re being done for
+0x00451626 So it is just a matter of time
 
 ; 0x00451643 時間の問題かもな。
-0x00451643 Maybe it's just a matter of time.
+0x00451643 before they get us…
 
 ; 0x00451656 まったく、困ったもんだよねぇ。おっと、他人事みたいなこと
-0x00451656 Geez, what a bother. Whoops, it's like it's someone else's problem.
+0x00451656 Oops! I’m sorry, I shouldn’t talk about it as if 
 
 ; 0x0045168f 言っちゃいけないよね。
-0x0045168f I shouldn't say it.
+0x0045168f it’s your problem too…
 
 ; 0x004516a6 え？
-0x004516a6 Eh?
+0x004516a6 What? 
 
 ; 0x004516ab 怪獣は、よそ者を嫌うんじゃ
-0x004516ab Monster hates outsiders.
+0x004516ab Don’t monsters like us 
 
 ; 0x004516c6 なかったのかって？
-0x004516c6 Didn't he?
+0x004516c6 hate outsiders?
 
 ; 0x004516d9 それは、ごく一部の
-0x004516d9 That's a small part of it.
+0x004516d9 Only a small minority 
 
 ; 0x004516ec 奴等だけだよ。
-0x004516ec Only them.
+0x004516ec of us do.
 
 ; 0x004516fb ここにいる奴等は
-0x004516fb They're here.
+0x004516fb Everyone here is 
 
 ; 0x0045170c みんな人見知りしない
-0x0045170c Nobody's shy.
+0x0045170c kind, welcoming and 
 
 ; 0x00451721 イイ奴等ばかりさ。
-0x00451721 They're all good.
+0x00451721 not at all shy.
 
 ; 0x00451734 ゴルアデスが死んで、心配の種がひとつ減ったよ。
-0x00451734 With Goradus dead, there's one less source of worry.
+0x00451734 With Golaides dead, there's one less source of worry.
 
 ; 0x00451764 z､何だと！！
-0x00451764 Z, what did you say?!
+0x00451764 What?!
 
 ; 0x00451771 仲間が、モンスター軍に
-0x00451771 My friends, to the monster army.
+0x00451771 My friends are held 
 
 ; 0x00451788 捕まっているだと！
-0x00451788 He's been caught!
+0x00451788 captive by the 
 
 ; 0x0045179b 本当かそれは！？
-0x0045179b Is it true?!
+0x0045179b monsters?!
 
 ; 0x004517b4 本当よ。
-0x004517b4 Really.
+0x004517b4 Yes.
 
 ; 0x004517bd なんかすごく深い穴に落されて、出られないみたいよ。
-0x004517bd I feel like I've fallen into a really deep hole and can't get out.
+0x004517bd They fallen into a deep hole and can't get out.
 
 ; 0x004517f0 だから、早く助けにいって
-0x004517f0 That's why I have to go help her.
+0x004517f0 That's why I have to go 
 
 ; 0x00451809 あげなさいよ。
-0x00451809 Give it up.
+0x00451809 help them.
 
 ; 0x0045181c はい。
 0x0045181c Yes.
 
 ; 0x00451823 彼らはモンスター軍によって、
-0x00451823 By the monster army,
+0x00451823 They have been thrown into 
 
 ; 0x00451840 深い穴に落され、
-0x00451840 She’d fallen into a deep hole
+0x00451840 a deep hole and
 
 ; 0x00451851 出られないようです。
-0x00451851 I can't get out.
+0x00451851 can't get out.
 
 ; 0x00451866 だから、早く助けにいって
-0x00451866 That's why I have to go help her.
+0x00451866 So please go and help 
 
 ; 0x0045187f あげて下さい！
-0x0045187f Give it to me!
+0x0045187f them quickly!
 
 ; 0x0045188f z､助けに行ってやりたいが、
-0x0045188f I-I'd like to go help, but...
+0x0045188f I want to go and help, 
 
 ; 0x004518aa それはできない。
-0x004518aa I can't do it.
+0x004518aa but I can't.
 
 ; 0x004518bb 今の我々の力では、何匹いようとモンスター軍には勝てない。
-0x004518bb With our current strength, no matter how many there are, we can’t beat the monster army
+0x004518bb With our current strength we can’t defeat the monsters.
 
 ; 0x004518f4 今、精鋭たちがモンスター軍との戦いに出ていってしまったのだ。だから、彼らが戻るまでは、
-0x004518f4 Right now, the elites were out fighting the monster army, so until they returned,
+0x004518f4 Our elite troops have gone out to fight. So there's nothing we can
 
 ; 0x0045194b どうすることもできない。
-0x0045194b I can't do anything.
+0x0045194b do until they return.
 
 ; 0x00451965 z､おいおい、やめてくれよ。
-0x00451965 Hey, stop it.
+0x00451965 Wait, stop! That fish 
 
 ; 0x00451980 その魚は、
-0x00451980 The fish,
+0x00451980 will be 
 
 ; 0x0045198b 今日の晩飯なんだから。
-0x0045198b It's dinnertime.
+0x0045198b MY dinner tonight.
 
 ; 0x004519a8 ^ｫああ…。
 0x004519a8 Aah...
@@ -3824,22 +3827,22 @@
 0x004519dc Scary...
 
 ; 0x004519eb Mｪモンスター軍が攻めてきたら、
-0x004519eb If the Memonster Army attacks,
+0x004519eb If the Monster Army attacks
 
 ; 0x00451a0a 俺たちもおしまいだな。
-0x00451a0a We're done for too.
+0x00451a0a us, we’re finished…
 
 ; 0x00451a21 きっと、やつらのエサにされて
-0x00451a21 I'm sure they'll feed me.
+0x00451a21 They’ll probably use us as bait.
 
 ; 0x00451a3e しまうだろう。
-0x00451a3e I'll put it away.
+0x00451a3e as bait.
 
 ; 0x00451a4d ゴルアデスを、倒した奴がいる
-0x00451a4d Someone defeated Goradus.
+0x00451a4d I hear someone defeated 
 
 ; 0x00451a6a らしいな。
-0x00451a6a I guess so.
+0x00451a6a Golaides.
 
 ; 0x00451a75 なんだか、俺も燃えてきたよ。
 0x00451a75 I'm getting fired up too.
@@ -3851,10 +3854,10 @@
 0x00451ad4 Fresh fish really is good. I'll go get it again.
 
 ; 0x00451b16 <ｫお礼の品は、
-0x00451b16 Oh, the thank-you gift...
+0x00451b16 The guy down
 
 ; 0x00451b25 下の奴が持っているよ。
-0x00451b25 The guy downstairs has it.
+0x00451b25 stairs has a gift for you.
 
 ; 0x00451b3f 怪獣
 0x00451b3f Monster
@@ -3863,64 +3866,64 @@
 0x00451b46 Thanks for earlier.
 
 ; 0x00451b5e ゴルアデスが死んだから、みんな少しは安心したみたいだ。
-0x00451b5e With Goradus dead, everyone seems a little relieved.
+0x00451b5e With Golaides dead, everyone seems a little relieved.
 
 ; 0x00451ba0 z､やぁ、あなたでしたか。
-0x00451ba0 hi, it's you.
+0x00451ba0 Hey, it’s you!
 
 ; 0x00451bb9 これはささやかなお礼ですが、
-0x00451bb9 This is a small token of my gratitude,
+0x00451bb9 Here’s a small token of my appreciation, 
 
 ; 0x00451bd6 うけとって下さい。
-0x00451bd6 Please accept.
+0x00451bd6 please accept it.
 
 ; 0x00451bec リンゴ
 0x00451bec Apple
 
 ; 0x00451bf4 を、もらいました。
-0x00451bf4 I got it.
+0x00451bf4 Received.
 
 ; 0x00451c26 下の方から声が聞こえてきた。
-0x00451c26 A voice came from below.
+0x00451c26 Voices can be heard from below.
 
 ; 0x00451c44 z､た、助けてくれー！！
-0x00451c44 Z-Help!
+0x00451c44 P-please help me!!
 
 ; 0x00451c5b モンスター軍に捕まって、
 0x00451c5b The monster army caught me,
 
 ; 0x00451c74 この穴に落されてしまったんだ。
-0x00451c74 I fell into this hole.
+0x00451c74 and threw me down this hole.
 
 ; 0x00451c9b あんたたち怪獣なら、
-0x00451c9b You monster,
+0x00451c9b You're a monster, you
 
 ; 0x00451cb0 飛べるはずでしょ？
-0x00451cb0 You should be able to fly.
+0x00451cb0 should be able to fly, right?
 
 ; 0x00451cc7 あれっ…、確か怪獣は、
-0x00451cc7 Huh...? I think the monster...
+0x00451cc7 But I thought monsters
 
 ; 0x00451cde 飛べるんじゃ…？
-0x00451cde Can't you fly?
+0x00451cde could fly?
 
 ; 0x00451cf3 z､ああ…、飛べるには飛べるが、
-0x00451cf3 Z, yeah... I can fly if I want, but
+0x00451cf3 Yeah we can but... not so high.
 
 ; 0x00451d12 穴が深くてとどかないんだ。
-0x00451d12 The hole's too deep to reach.
+0x00451d12 The hole is too deep to fly out of.
 
 ; 0x00451d2d あいつらは、それを知ってて
-0x00451d2d They knew it.
+0x00451d2d They knew that, so they 
 
 ; 0x00451d48 こんな深い穴に、俺たちを
-0x00451d48 We’re in such a deep hole
+0x00451d48 dropped me down this  
 
 ; 0x00451d61 落しやがった！！
-0x00451d61 He dropped it!
+0x00451d61 deep hole!
 
 ; 0x00451d72 頼むから助けてくれー！！
-0x00451d72 Please help me!!
+0x00451d72 Please help!!
 
 ; 0x00451d99 ﾎｭ待ってなさいって。
 0x00451d99 Whoa, wait up.
@@ -3929,13 +3932,13 @@
 0x00451dae I'll save you now.
 
 ; 0x00451dcc ﾎｭといっても、こんな深い穴じゃあ
-0x00451dcc That said, with a hole this deep,
+0x00451dcc I wish I had a rope or something 
 
 ; 0x00451dee ロープかなんか、
-0x00451dee Ropes or something,
+0x00451dee for such a deep 
 
 ; 0x00451dff あればいいけど…。
-0x00451dff I hope so...
+0x00451dff hole…
 
 ; 0x00451e12 ちょっと、待って下さいね。
 0x00451e12 Wait a minute.
@@ -3944,49 +3947,52 @@
 0x00451e2d I'll save you now.
 
 ; 0x00451e41 z､早く助けてくれー！！
-0x00451e41 Z-Hurry up and save me!!
+0x00451e41 Please help me soon!!
 
 ; 0x00451e5a ハラがへって、死にそうだガウ。
-0x00451e5a I'm starving. I'm dying.
+0x00451e5a I’m so hungry I’m dying!
 
+; If Mail checks the hole:
 ; 0x00451e81 あらー…。
 0x00451e81 Ohhh...
 
 ; 0x00451e8c こんな所に落ちたらとても
-0x00451e8c If you fall in a place like this
+0x00451e8c If I fell down there I’d 
 
 ; 0x00451ea5 登ってこれないわね。
-0x00451ea5 I can't climb it.
+0x00451ea5 never make it back up.
 
 ; 0x00451eba 仕方ないわね、あきらめなさい。じゃあね！
-0x00451eba Oh well, just give up. See you!
+0x00451eba It can’t be helped, I give up. Bye!
+
+;If Tatto checks the hole
 
 ; 0x00451ee4 こ、こんな深い穴に落されて
-0x00451ee4 I-I fell into such a deep hole
+0x00451ee4 If I fell down there I’d 
 
 ; 0x00451eff しまったのか。
-0x00451eff Did I do it?
+0x00451eff also need to 
 
 ; 0x00451f0e 早く助けを呼ばなければ！！
-0x00451f0e I have to get help!!
+0x00451f0e call for help!!
 
 ; 0x00451f2c ハシゴを、降ろしました。
-0x00451f2c I lowered the ladder.
+0x00451f2c The ladder was lowered.
 
 ; 0x00451f46 z､あ、ありがとう。
-0x00451f46 Th-Thank you.
+0x00451f46 Oh, Thank you!
 
 ; 0x00451f59 これでやっと、村へ帰れるよ。
-0x00451f59 Now I can finally return to the village.
+0x00451f59 Now I can finally return 
 
 ; 0x00451f76 今度あなた方が、村へよった時はぜひお礼をさせてください。
-0x00451f76 Next time you go to the village, please let me thank you.
+0x00451f76 to my village. Next time you come by, please let
 
 ; 0x00451faf では、早く帰って村のみんなを
-0x00451faf Well then, hurry home and take care of everyone in the village
+0x00451faf me thank you for your 
 
 ; 0x00451fcc 安心させてあげたいので。
-0x00451fcc I want to reassure you.
+0x00451fcc kindness. 
 
 ; 0x00451ff1 ねぇ、ところでさぁ。この洞窟のもっと上へ行きたいんだけど、
 0x00451ff1 Hey, by the way, I'd like to go further up this cave,
@@ -3995,43 +4001,43 @@
 0x0045202c What should I do?
 
 ; 0x0045204b いやぁどうもすいません。ところでこの洞窟のもっと上へ行くにはどう行ったらいいんでしょうか
-0x0045204b Oh, I'm sorry. By the way, how do we get to the top of this cave?
+0x0045204b By the way, I want to go higher up in this cave, but how do I get there?
 
-; 0x004520a8 z､$Nああ、地下泉洞とか怪獣の巣へ
-0x004520a8 Ah, to underground spring caves and monster nests.
+; 0x004520ac ああ、地下泉洞とか怪獣の巣へ
+0x004520ac You want to go to the Underground
 
 ; 0x004520c9 行きたいんだね。それなら、
-0x004520c9 You want to go, don't you?
+0x004520c9 Cave or the Monster's Lair?
 
 ; 0x004520e4 風穴の入口に通じる扉があるよ
-0x004520e4 There's a door at the entrance to the hole.
+0x004520e4 There is a door through 
 
 ; 0x00452101 $Oただ、カギがかかっている
-0x00452101 It's locked.
+0x00452101 the Wind Cave entrance. 
 
 ; 0x0045211c けどね。　でも、大丈夫さ。
-0x0045211c But it's okay.
+0x0045211c But it is locked.
 
 ; 0x00452137 $Pそこに食用の魚が入っている池があるよね。
-0x00452137 There's a pond with edible fish in it.
+0x00452137 You know the pond over there that we fish from?
 
 ; 0x00452162 $Qそこの水が流れ出ている所から
-0x00452162 That's where the water flows out.
+0x00452162 If you go where the water flows out
 
 ; 0x00452181 入ると、中にカギがあるはず
-0x00452181 If you go in, you'll find a key inside.
+0x00452181 you’ll find a bunch of 
 
 ; 0x0045219c だよ。
-0x0045219c Yeah.
+0x0045219c chests.
 
 ; 0x004521a3 $Rそれを使えば、扉を開けることができるよ。
-0x004521a3 You can open the door with it.
+0x004521a3 That’s where we store the key.
 
 ; 0x004521d6 $Sありがとう。
-0x004521d6 Thanks,
+0x004521d6 Thanks.
 
 ; 0x004521e6 $Zありがとうございます。
-0x004521e6 Thank you,
+0x004521e6 Thank you!
 
 ; 0x00473db9 メイル
 0x00473db9 Mail
@@ -4203,7 +4209,7 @@
 
 
 ; 0x0048d019 おう、何の用だい
-0x0048d019 Need something?
+0x0048d019 What you want?
 
 ; 0x0048d02a 　買う
 0x0048d02a Buy
@@ -4269,37 +4275,37 @@
 0x004a1379 Monster
 
 ; 0x004a1390 ねぇ、あんたマテリアルっていう魔導師のこと知らない？
-0x004a1390 Hey, do you know a Sorcerer named Material?
+0x004a1390 Hey, do you know a Mage named Material?
 
 ; 0x004a13c5 さっき見つけたんだけどいきなり消えてしまって…。
 0x004a13c5 I just found it, but it suddenly disappeared...
 
 ; 0x004a13fa あのー、マテリアルという
-0x004a13fa Um, Material.
+0x004a13fa Um, have you heard of
 
 ; 0x004a1413 魔導師のこと知りませんか？
-0x004a1413 You don't know about Sorcerers?
+0x004a1413 a mage named Material?
 
 ; 0x004a142e 僕のお師匠様なんですけど…。
-0x004a142e It's my master.
+0x004a142e He is my master.
 
 ; 0x004a144f w｣$¥マテリアル？
 0x004a144f Material?
 
 ; 0x004a1460 $]ああ、あのじじいのことかな？
-0x004a1460 Oh, that old man?
+0x004a1460 Oh, that old guy. He was 
 
 ; 0x004a147f それなら、よその村の精鋭たちがモンスター軍と戦っている時に
-0x004a147f In that case, when the elites of other villages are fighting the monster army
+0x004a147f discovered by an elite fighter of another village while
 
 ; 0x004a14ba 見つけたとか言ってたな。
-0x004a14ba He said he found it.
+0x004a14ba fending off the Monster Army.
 
 ; 0x004a14d3 $^なんでもそいつは、この洞窟に
 0x004a14d3 He's in this cave.
 
 ; 0x004a14f2 古くから眠るゴルアデスという
-0x004a14f2 It's called Goradus, which sleeps since ancient times.
+0x004a14f2 It's called Golaides, which sleeps since ancient times.
 
 ; 0x004a150f 巨大な魔物を利用して、何か
 0x004a150f Something, using a giant monster.
@@ -4314,34 +4320,34 @@
 0x004a155a Very, very dangerous
 
 ; 0x004a1577 ことなんで、その魔導師は、
-0x004a1577 And so, the Sorcerer...
+0x004a1577 And so, the Mage...
 
 ; 0x004a1592 捕まえたと言っていた。
 0x004a1592 He said he caught it.
 
 ; 0x004a15b1 $`その精鋭たちがいる村って
-0x004a15b1 The village where those elites are
+0x004a15b1 So, where is this village 
 
 ; 0x004a15cc いうのはどこにあんのよ！？
-0x004a15cc Where's that coming from!?
+0x004a15cc where the elites live?
 
 ; 0x004a15eb $hそれじゃあ、お師匠様はそこに
-0x004a15eb Well then, Master, there you go.
+0x004a15eb Oh, so that’s where my master 
 
 ; 0x004a160a いるんですね？
-0x004a160a You're here?
+0x004a160a is! In that case, 
 
 ; 0x004a1619 その村はどこにあるんですか？
-0x004a1619 Where's the village?
+0x004a1619 where would the village be?
 
 ; 0x004a1637 w｣$aああ。　彼らの村は、ここより
-0x004a1637 Their village is here.
+0x004a1637 Their village is over in a different 
 
 ; 0x004a1658 もっと上に行った所の洞窟に
-0x004a1658 Into a cave just up ahead
+0x004a1658 part of the caves, further 
 
 ; 0x004a1673 あるよ。
-0x004a1673 I do.
+0x004a1673 up the path.
 
 ; 0x004a167c $bただ…、
 0x004a167c Just...
@@ -4365,10 +4371,10 @@
 0x004a1709 There must be a monster army.
 
 ; 0x004a1725 w｣洞窟内には、危険な魔物が
-0x004a1725 “W” Inside the cave, dangerous monsters
+0x004a1725 Inside the cave there are
 
 ; 0x004a1740 たくさんいるからな。
-0x004a1740 There's a lot of them.
+0x004a1740 lot of dangerous monsters.
 
 ; 0x004a1755 気をつけていくんだぞ。
 0x004a1755 Take care.
@@ -4591,7 +4597,7 @@
 
 
 ; 0x004dd019 おう、何の用だい
-0x004dd019 Need something?
+0x004dd019 What you want?
 
 ; 0x004dd02a 　買う
 0x004dd02a Buy
@@ -4744,7 +4750,7 @@
 0x004f18a2 He was there.
 
 ; 0x004f18b1 そこで、わしはゴルアデスを
-0x004f18b1 So, I decided to go to goluades
+0x004f18b1 So, I decided to go to Golaides
 
 ; 0x004f18cc 利用しようとしたんじゃが、
 0x004f18cc I tried to use it, but...
@@ -4762,7 +4768,7 @@
 0x004f192c I didn't do it.
 
 ; 0x004f1945 あのゴルアデスを操れるのは、
-0x004f1945 The one who can control that Goradus...
+0x004f1945 The one who can control that Golaides...
 
 ; 0x004f1962 わししかおらんわ！
 0x004f1962 I'm the only one!
@@ -4813,7 +4819,7 @@
 0x004f1afe I've lived here for many years.
 
 ; 0x004f1b19 怪獣でさえ恐れるゴルアデスの
-0x004f1b19 Goradus that even monster fear
+0x004f1b19 Golaides that even monster fear
 
 ; 0x004f1b36 眠りを覚まし、この洞窟を
 0x004f1b36 I’ll wake up and take this cave
@@ -4827,38 +4833,38 @@
 ; 0x004f1b80 早くコイツを連れていこうガウ。
 0x004f1b80 Let's hurry up and take him, gaw.
 
-; 0x004f1ba9  雖魔導師のこと？
-0x004f1ba9 You mean Sorcerers?
+; 0x004f1bac 魔導師のこと？
+0x004f1bac The mage? 
 
 ; 0x004f1bbb ああ、それなら下にいるやつに
-0x004f1bbb Oh, that's for the guy downstairs.
+0x004f1bbb Yeah, ask the guy 
 
 ; 0x004f1bd8 聞いてみな。
-0x004f1bd8 Ask.
+0x004f1bd8 downstairs.
 
 ; 0x004f1be5 どうしよう、どうしよう…。
 0x004f1be5 What do I do, what do I do...?
 
 ; 0x004f1c04 ｬQｬ君が、ゴルアデスを倒したのか！凄い、凄いぞぉー！！
-0x004f1c04 You defeated Goluades! That's amazing, absolutely incredible!!
+0x004f1c04 You defeated Golaides! That's amazing, absolutely incredible!!
 
 ; 0x004f1c3a ゴルアデスが、死んだ！
-0x004f1c3a Goradus died!
+0x004f1c3a Golaides died!
 
 ; 0x004f1c51 ガウ、元気かい。
 0x004f1c51 Gaw, how are you?
 
-; 0x004f1c6c  ｷｮ最近、モンスター軍との戦いが
-0x004f1c6c The recent battle with the monster army
+; 0x004f1c6f 最近、モンスター軍との戦いが
+0x004f1c6f I’ve been fighting against 
 
 ; 0x004f1c8c 激しくて体がもたないよ。
-0x004f1c8c It's so intense my body won't last.
+0x004f1c8c the Monster Army so much my body is aching…
 
 ; 0x004f1ca5 も、もうおしまいだ！！
-0x004f1ca5 I-I'm done!!
+0x004f1ca5 We're done!!
 
 ; 0x004f1cbc ゴルアデスが死んでしまえば、
-0x004f1cbc If Goradus dies,
+0x004f1cbc If Golaides dies,
 
 ; 0x004f1cd9 後はモンスター軍だけだ。
 0x004f1cd9 All that's left is the monster army.
@@ -4873,49 +4879,55 @@
 0x004f1d28 No matter how hard we try,
 
 ; 0x004f1d47 ゴルアデスが眠りから覚めたら、
-0x004f1d47 When Goradus awoke from his slumber,
+0x004f1d47 when Golaides wakes up from his slumber,
 
 ; 0x004f1d66 もうどうしようもないかも
-0x004f1d66 Maybe there's nothing we can do about it now.
+0x004f1d66 There may be nothing we 
 
 ; 0x004f1d7f しれない。
-0x004f1d7f I don't know.
+0x004f1d7f can do…
 
-; 0x004f1d90 妙坏
-0x004f1d90 Myouzu
+;0x004f1d9c ｰｭ$kゴルアデス？
+0x004f1d9c Golaides?
+
+; 0x004f1dae ｿｭ$lゴルアデス？
+0x004f1dae Golaides?
+
+; 0x004f1dc0 ﾌ･何だ知らないのか？
+0x004f1dc0 Don’t you know?
 
 ; 0x004f1dd5 この洞窟に古くから棲んでいる、巨大な怪獣さ。
-0x004f1dd5 It's a giant monster that's lived in this cave for a long time.
+0x004f1dd5 It’s a giant monster that’s been living in these caves for centuries.
 
 ; 0x004f1e02 あいつが眠っている限りは、
 0x004f1e02 As long as he’s asleep,
 
 ; 0x004f1e1d この洞窟も大丈夫。
-0x004f1e1d This cave is fine too.
+0x004f1e1d these caves are safe.
 
 ; 0x004f1e30 だが、あの魔導師の奴は
-0x004f1e30 But that Mage
+0x004f1e30 But that evil mage is
 
 ; 0x004f1e47 ゴルアデスを眠りから覚まそうとしているんだ。
-0x004f1e47 I'm trying to wake Goradus from his sleep.
+0x004f1e47 trying to wake Golaides from his slumber.
 
 ; 0x004f1e74 そんなことは、我々がだんじて
-0x004f1e74 We don't do that.
+0x004f1e74 We will not let that 
 
 ; 0x004f1e91 させない！
-0x004f1e91 I won't let you!
+0x004f1e91 happen!
 
 ; 0x004f1e9c この洞窟の平和のためにな。
-0x004f1e9c For peace in this cave.
+0x004f1e9c For the sake of our peace in these caves!
 
 ; 0x004f1eb7 ゴルアデスが、眠りから覚めて
-0x004f1eb7 Goradus awoke from his sleep
+0x004f1eb7 Golaides awoke from his
 
 ; 0x004f1ed4 しまった！！
-0x004f1ed4 Crap!!
+0x004f1ed4 slumber!
 
 ; 0x004f1ee1 もう、どうしようもない…。
-0x004f1ee1 There's nothing I can do now...
+0x004f1ee1 There's nothing we can do now...
 
 ; 0x004f1f00 ｯ@ｯありがとう。
 0x004f1f00 Thanks.
@@ -4933,77 +4945,77 @@
 0x004f1f53 Take care of our benefactor.
 
 ; 0x004f1f7f $mヨソ者がこんなトコに来るなんて珍しいガウ。
-0x004f1f7f It's rare for a $m stranger to come here.
+0x004f1f7f It’s rare for an outsider to come here.
 
 ; 0x004f1fac $nオレはこの奥のお宝をまもってる
-0x004f1fac $nI have a treasure in the back.
+0x004f1fac I’m guarding the treasure
 
 ; 0x004f1fce ガウ
 0x004f1fce Gaw
 
 ; 0x004f1fd4 っていうガウ。
-0x004f1fd4 That's the gaw.
+0x004f1fd4 in the back.
 
 ; 0x004f1fe3 $o何か用ガウか？
-0x004f1fe3 What do you want, gaw?
+0x004f1fe3 Whaddya want?
 
 ; 0x004f1ffc $pあんた、魔導師のマテリアルを、捕まえたそうね。
-0x004f1ffc I heard you caught a Sorcerer's Material.
+0x004f1ffc I heard you've got a mage named Material here.
 
 ; 0x004f202d $qあいつを、どこにやったのか
-0x004f202d Where did you put him?
+0x004f202d Can you.. Tell me where
 
 ; 0x004f204a 教えてくれない？
-0x004f204a Can you tell me?
+0x004f204a you put him?
 
-; 0x004f205f $yお師匠様…。
-;0x004f205f Master...
+; 0x004f205f お師匠様…。
+0x004f2061 My master...
 
 ; 0x004f2070 あ、いや、魔導師を捕らえたそうですが、どこにいるのですか？
-0x004f2070 Oh, no, I heard you captured the Sorcerer. Where is he?
+0x004f2070 The mage that was imprisoned. Where would he be?
 
 ; 0x004f20ac $rそれは教えられないガウ。
-0x004f20ac I can't tell you that, gaw.
+0x004f20ac That guy’s not here.
 
 ; 0x004f20c7 $sアイツはゴルアデスの眠りを
-0x004f20c7 He's sleeping in Goradus.
+0x004f20c7 he tried to wake Golaides 
 
 ; 0x004f20e4 覚まそうとした、キケンな
-0x004f20e4 I tried to wake you up.
+0x004f20e4 from his slumber, 
 
 ; 0x004f20fd やつガウ。
-0x004f20fd He's gaw.
+0x004f20fd gaw.
 
 ; 0x004f2108 $tオマエも仲間ガウか！？
-0x004f2108 You're a comrade, too?!
+0x004f2108 Are you his friend?
 
 ; 0x004f2129 $uあたしは、あいつにかかっている賞金が欲しいだけよ。
-0x004f2129 I just want the prize money on him.
+0x004f2129 No, I want the bounty on his head!
 
 ; 0x004f215e 仲間なんてとんでもない！！
-0x004f215e There's no way we're friends!
+0x004f215e I’m not his friend.
 
 ; 0x004f217d $|あの人は、お師匠様なんです。
-0x004f217d He's a master.
+0x004f217d Yes, that man is my master. 
 
 ; 0x004f219c だから、ただ連れ戻しに来ただけなんです。
-0x004f219c That's why I just came to bring you back.
+0x004f219c I’ve come to take him back with me.
 
 ; 0x004f21c6 $vヨソ者の言うことなんか、
-0x004f21c6 I don't know what a $v Yoso says,
+0x004f21c6 I can’t trust what 
 
 ; 0x004f21e1 信用できないガウ。
-0x004f21e1 I can't trust gaw.
+0x004f21e1 an outsider says.
 
 ; 0x004f21f4 出ていけガウ！！
-0x004f21f4 Get out, gaw!!
+0x004f21f4 LEAVE GAW!!
 
 
 ; 0x004f220e Oｲこの奥にいる魔物も、なかなか
-0x004f220e the monsters in the back are pretty good too.
+0x004f220e The monsters further ahead 
 
 ; 0x004f222d 手強いから、気をつけてくれ
-0x004f222d It's tough, so be careful.
+0x004f222d are really dangerous,
 
 ; 0x004f2248 ガウ。
 0x004f2248 Gaw.
@@ -5015,124 +5027,129 @@
 0x004f2266 Good luck, gaw!
 
 ; 0x004f227f $恂{当に倒すとは思わなかった
-0x004f227f I didn't think I'd beat him.
+0x004f227f I didn't think you'd beat him.
 
 ; 0x004f229c ガウ。約束どおり、魔導師を
-0x004f229c Gaw. As promised, the Sorcerer.
+0x004f229c Gaw gives up the mage,
 
 ; 0x004f22b7 わたすガウ。
-0x004f22b7 Give it to me, gaw.
+0x004f22b7 as promised
 
 ; 0x004f22c4 $揀Iレも一緒についていくガウ。
-0x004f22c4 I'll go with you.
+0x004f22c4 I’m going with you, gaw!
 
 ; 0x004f22e3 さぁ、行くガウ！！
-0x004f22e3 Now, let's go, gaw!!
+0x004f22e3 Let's go, gaw!!
 
 ; 0x004f22fe $桙ｿょっと待って！ブラッキィ！
-0x004f22fe Wait for me, Blacky!
+0x004f22fe Wait a minute! Blacky!
 
 ; 0x004f2351 $ｨブラッキィさん！
 0x004f2351 Bracky!
 
-; 0x004f2367 $‾あーっ！！
-0x004f2367 Ahhhhh!!
+; 0x004f2369 あーっ！！
+0x004f2369 Ahhhhh!!
 
 ; 0x004f2375 オマエ！
 0x004f2375 You!
 
 ; 0x004f237e オマエの知り合い、とんでもないことしてくれたガウ！！
-0x004f237e You know, Gaw, you've done something crazy!!
+0x004f237e Your acquaintance did something unbelievable!!
 
 ; 0x004f23c4 あ？
-0x004f23c4 Ah?
+0x004f23c4 Huh?
 
 ; 0x004f23d6 こともあろうにゴルアデスを
-0x004f23d6 Goradus.
+0x004f23d6 It caused Golaides to 
 
 ; 0x004f23f1 起こしてしまったんだガウ！
-0x004f23f1 I woke you up, gaw!
+0x004f23f1 awaken, gaw! You two are
 
 ; 0x004f240c オマエに責任とってもらうガウ
-0x004f240c I'll have you take responsibility, gaw.
+0x004f240c responsible for this.
 
-; 0x004f2431 $≠ｿょっと待ってよ。何よ責任て？それにあたしの知り合いって、
-0x004f2431 Wait a minute. What's with the responsibility? And who do I know?
+; 0x004f2433 ょょっと待ってよ。何よ責任て？それにあたしの知り合いって、
+0x004f2433 Hold on a second... What responsibility? And which 
 
 ; 0x004f246e 誰よ？
-0x004f246e Who is it?
+;0x004f246e acquaintance?
 
-; 0x004f2479 $盾ｿょ、ちょっと待って下さいよ。責任とか知り合いとかって、
-0x004f2479 Hold on a sec. You don't have to take responsibility or know each other.
+; TATTO:
+; 0x004f247d ょ、ちょっと待って下さいよ。責任とか知り合いとかって、
+0x004f247d Hold on a second.. How am I responsible? And what 
 
 ; 0x004f24b4 一体何の事です？
-0x004f24b4 What are you talking about?
+0x004f24b4 acquaintance?
 
-; 0x004f24ca いつガウ！
-0x004f24ca When's gaw?
+; 0x004f24c8 いいつガウ！
+0x004f24c8 That guy!
+
+; 0x004f24dc 竄氈I
 
 ; 0x004f24e3 おふたりさん。
-0x004f24e3 You two.
+0x004f24e3 You two. So
 
 ; 0x004f24f2 またドジっちゃってさ。
-0x004f24f2 I'm a little clumsy.
+0x004f24f2 I screwed up again!
 
 ; 0x004f250b 妙な形の入り口があったんで、
-0x004f250b There was a strangely shaped entrance,
+0x004f250b There was a strange entrance,
 
 ; 0x004f2528 また、爆弾使って中を
-0x004f2528 I'll use the bomb to get inside.
+0x004f2528 so I used bombs to 
 
 ; 0x004f253d 掘ってったら、なんか巨大な
-0x004f253d If you dig, it's kinda huge.
+0x004f253d get inside and then some giant
 
 ; 0x004f2558 生き物が、動きだしてさぁ。
-0x004f2558 The creature began to move.
+0x004f2558 creature started moving!
 
 ; 0x004f2575 あわててここに逃げ込んで、
-0x004f2575 I hastily ran here,
+0x004f2575 I rushed and told everyone 
 
 ; 0x004f2590 そのことを話したら、えらく怒り出しちゃってさ。
-0x004f2590 When I told him about it, he got really mad.
+0x004f2590 about it and then this guy got REALLY angry.
 
 ; 0x004f25c1 だから、言ってやったんだよ。
-0x004f25c1 That’s why I told her.
+0x004f25c1 So I told him that the elf 
 
 ; 0x004f25de 僕の知っている、エルフの女と
-0x004f25de The elf woman I know.
+0x004f25de woman and the red-cloaked 
 
 ; 0x004f25fb 赤マントの魔導師なら絶対に倒せるってね。な、倒せるだろ？
-0x004f25fb He said the Red Cloaked Sorcerer would definitely be able to defeat it. I-I can, right?
+0x004f25fb mage I knew could definitely beat him. I believe in you!
 
+;Mail:
 ; 0x004f263e あんたねー！
-0x004f263e Hey, you!
+0x004f263e GHAA!!! 
 
 ; 0x004f264b いい加減にしなさいよ！！
-0x004f264b Cut it out!!
+0x004f264b COME ON!!!
 
-; 0x004f2668 $父uラッキィさん…。
-0x004f266c Lucky-san...
+; Tatto:
+; 0x004f266a ラッキィさん…。
+0x004f266a Blacky...
 
 ; 0x004f2680 こーなったらオマエに、
-0x004f2680 Now that it's come to this,
+0x004f2680 No way around it, YOU
 
 ; 0x004f2697 ゴルアデスを倒してもらうガウ。
-0x004f2697 I'll have Goradus defeated.
+0x004f2697 ARE gonna have to defeat 
 
-; 0x004f26b6 $奄烽ｵゴルアデスを倒せたら、
-0x004f26b6 If we can defeat Goluades,
+; 0x004f26b8 ゴルゴルアデスを倒せたら、
+0x004f26b8 Golaides. If you do,
 
 ; 0x004f26d3 あの魔導師をオマエにくれて
-0x004f26d3 He gave you that Mage
+0x004f26d3 I’ll give you the evil 
 
 ; 0x004f26ee やってもいいガウ。
-0x004f26ee I can do it, gaw.
+0x004f26ee mage, gaw.
 
-; 0x004f2701 $鰍ｻれに、オマエの部下になってもいいガウ。
-0x004f2701 It's fine if I work for you.
+; 0x004f2703 れれに、オマエの部下になってもいいガウ。
+0x004f2703 I’d even be willing to work alongside you.
 
-; 0x004f272c $許ｳ理だと思うガウけど。
-0x004f272c I think it's fine.
+; 0x004f272e 理理だと思うガウけど。
+0x004f272e Although I don’t think you’re gonna be able to win
 
 ; 0x004f2745 ヨソ者の言うことなんか、
 0x004f2745 What an outsider says,
@@ -5143,20 +5160,20 @@
 ; 0x004f2771 出ていけガウ！！
 0x004f2771 Get out, gaw!!
 
-; 0x004f2788 邱オマエには、俺たちの明日が
-;TODO: 0x004f2788 You have our tomorrow
+; 0x004f278a オマエには、俺たちの明日が
+0x004f278a Our future depends on 
 
 ; 0x004f27a5 かかっているんだ。
-0x004f27a5 It's on.
+0x004f27a5 you.
 
 ; 0x004f27b8 倒せない場合は、
-0x004f27b8 If you can't defeat it,
+0x004f27b8 We'll not forgive 
 
 ; 0x004f27c9 ただではすまないからな！！ 
-0x004f27c9 It won't be free!!
+0x004f27c9 you if you can’t defeat him!
 
 ; 0x004f27e7 やってくれたな！
-0x004f27e7 You did it!
+0x004f27e7 You really did it!
 
 ; 0x004f27f9 おい。
 0x004f27f9 Oi.
@@ -5168,10 +5185,10 @@
 0x004f2819 I didn't think so!!
 
 ; 0x004f282c あんたは、もう、この洞窟の
-0x004f282c You're already in the cave.
+0x004f282c You are a hero in this 
 
 ; 0x004f2847 ヒーローだよ！ 
-0x004f2847 A hero!
+0x004f2847 cave!
 
 ; 0x004f285a ﾌ･まったく、エルフってやつは
 0x004f285a Hmph. Honestly, elves.
@@ -5186,37 +5203,37 @@
 0x004f28be Thanks.
 
 ; 0x004f28d1 oｹがんばって、あいつを倒して
-0x004f28d1 Ok, do your best and beat him
+0x004f28d1 Good luck! Go get that 
 
 ; 0x004f28ee くれよな！！
-0x004f28ee Give me that!!
+0x004f28ee guy!
 
 ; 0x004f2903 もう二度と、あたしの前に
-0x004f2903 Never again, before me.
+0x004f2903 Don’t you EVER show your 
 
 ; 0x004f291c 顔見せないで！
-0x004f291c Don't look at me!
+0x004f291c face around me again!
 
 ; 0x004f292c ブラッキィさん。
-0x004f292c Mr. Blacky.
+0x004f292c Blacky...
 
 ; 0x004f293d こんなことばかりだと
-0x004f293d If this is all you've got
+0x004f293d If you continue like 
 
 ; 0x004f2952 今に友達いなくなりますよ…。
-0x004f2952 You won't have any friends...
+0x004f2952 this you won’t have any friends…
 
 ; 0x004f296f ほら見ろ。
 0x004f296f Look.
 
 ; 0x004f297a やっぱり、あんたがやれば倒せるだろ？
-0x004f297a As I thought, if you do it, you can defeat it, right?
+0x004f297a Look at that. I said you could do it, didn’t I?
 
 ; 0x004f299f 僕は、人の力を見抜くことが、
-0x004f299f Seeing through people's power...
+0x004f299f I knew I could count on your 
 
 ; 0x004f29bc できるのさ。
-0x004f29bc I can.
+0x004f29bc strength.
 
 ; 0x004f29d7 んた、あたしからかっぱらっていった、ツルハシがあった
 0x004f29d7 You’ve still got the pickaxe you stole from me, right? 
@@ -5231,28 +5248,28 @@
 0x004f2a70 What's with that?
 
 ; 0x004f2a91 $｡マテリアルの閉じ込められている所を発見したけど岩でふさがれててツルハシがないと駄目なの
-0x004f2a91 I found Material locked in there, but it's blocked by a rock, so I have to have a pickaxe.
+0x004f2a91 I found out where Material is trapped, but it’s blocked by rocks and I need a pickaxe to get through.
 
-; 0x004f2af1 $ｫお師匠様の居場所がわかったん
-0x004f2af1 I know where Master is.
+; 0x004f2af3 お師匠様の居場所がわかったん
+0x004f2af3 I know where my Master is,
 
 ; 0x004f2b10 ですけど、岩でふさがれていて
-0x004f2b10 But it's blocked by rocks.
+0x004f2b10 but it's blocked by rocks,
 
 ; 0x004f2b2d ツルハシがないと駄目なんです
-0x004f2b2d Without pickaxes.
+0x004f2b2d so I need a pickaxe.
 
 ; 0x004f2b4e ﾖ･$ｬそうか。それじゃあ仕方がない。助けてもらったお礼に、
-0x004f2b4e I see. Then there's no helping it. As thanks for saving me,
+0x004f2b4e I see. Well, then I have no choice! In return for 
 
 ; 0x004f2b87 このツルハシは君にあげるよ。
-0x004f2b87 This pickaxe is for you.
+0x004f2b87 your help, I’ll give you this pickaxe.
 
 ; 0x004f2bac $｣あげるじゃなくて、
-0x004f2bac I don't give you $
+0x004f2bac You’re not giving it away, 
 
 ; 0x004f2bc1 返すでしょうが！！！
-0x004f2bc1 I'll return it!!!
+0x004f2bc1 you’re giving it back!
 
 ; 0x004f2bf7 ん？
 0x004f2bf7 Hm?
@@ -5261,16 +5278,16 @@
 0x004f2c04 Pickaxe
 
 ; 0x004f2c0e をもらいました
-0x004f2c0e I got it.
+0x004f2c0e Received.
 
-; 0x004f2c1e $､さぁ　行くガウ！2
-0x004f2c1e Let's go, go, go!
+; 0x004f2c1e $､さぁ　行くガウ！
+0x004f2c1e Alright! Let’s go!
 
-; 0x004f2c33 讌ゴルアデスは完全復活の為に体を休めている。今ここで、お前らを行かせるわけにはいかん！
-0x004f2c33 Goradus is resting for the sake of a complete resurrection. I can't let you guys go here and now!
+; 0x004f2c35 ゴルアデスは完全復活の為に体を休めている。今ここで、お前らを行かせるわけにはいかん！
+0x004f2c35 Golaides is resting his body for a full recovery. I cannot let you come through here!
 
-; 0x004f2c8e 讌何度挑戦しても同じことよ…。
-0x004f2c8e It's the same no matter how many times I try...
+; 0x004f2c90 何度挑戦しても同じことよ…。
+0x004f2c90 It's the same no matter how many times I try...
 
 ; 0x004f2cad お前らなどに、
 0x004f2cad You guys,
@@ -5294,22 +5311,22 @@
 0x004f2d2e Little girl!
 
 ; 0x004f2d41 すでで、わしを助け出そうと
-0x004f2d41 He's trying to save me.
+0x004f2d41 Are you trying to rescue
 
 ; 0x004f2d5c 言うのかい、おわらいだわい。
-0x004f2d5c Are you going to say that? I'm scared.
+0x004f2d5c me? How ridiculous.
 
 ; 0x004f2d7a ｼ･タット！
 0x004f2d7a Tatto!
 
 ; 0x004f2d85 すでで、このあつい岩が
-0x004f2d85 Sude, this hot rock
+;0x004f2d85 Sude, this hot rock
 
 ; 0x004f2d9c ほれると言うのか。
-0x004f2d9c Are you saying you love me?
+;0x004f2d9c Are you saying you love me?
 
 ; 0x004f2db0 鍵を持っていない。
-0x004f2db0 I don't have a key.
+0x004f2db0 I don't have the key.
 
 ; 0x004f2dcb この先に、何かありそうね。
 0x004f2dcb There's something up ahead.
@@ -5318,7 +5335,7 @@
 0x004f2de7 I wish I had a pickaxe.
 
 ; 0x004f2e0b つるはしが、壊れてしまった。
-0x004f2e0b My pickaxe broke.
+0x004f2e0b The pickaxe broke.
 
 ; 0x00513db9 メイル
 0x00513db9 Mail
@@ -5494,7 +5511,7 @@
 
 
 ; 0x0052d019 おう、何の用だい
-0x0052d019 Need something?
+0x0052d019 What you want?
 
 ; 0x0052d02a 　買う
 0x0052d02a Buy
@@ -5590,7 +5607,7 @@
 0x00541290 Gaw.
 
 ; 0x00541297 約束どおり魔導師を、渡すガウ。
-0x00541297 I'll give you the Sorcerer as promised.
+0x00541297 I'll give you the Mage as promised.
 
 ; 0x005412b6 $揀Iレも、一緒についていくガウ。さぁ、行くガウ！！
 0x005412b6 I'll go with you. Come on, go go!
@@ -5656,7 +5673,7 @@
 0x00541534 This pickaxe is for you.
 
 ; 0x00541559 $｣あげるじゃなくて、
-0x00541559 I don't give you $
+0x00541559 I don't give you
 
 ; 0x0054156e 返すでしょうが！！
 0x0054156e I'll return it!!
@@ -5677,7 +5694,7 @@
 0x0060d187 Blacky
 
 ; 0x0060d196 o｡ゴルアデスは、完全復活の為に
-0x0060d196 O. Goradus, for the sake of a complete revival.
+0x0060d196 Golaides, for the sake of a complete revival.
 
 ; 0x0060d1b5 体をやすめている。
 0x0060d1b5 She's calming down.
@@ -5704,7 +5721,7 @@
 0x0060d25b Gaw.
 
 ; 0x0060d262 約束どおり魔導師を、渡すガウ。
-0x0060d262 I'll give you the Sorcerer as promised.
+0x0060d262 I'll give you the Mage as promised.
 
 ; 0x0060d281 オレも、一緒についていくガウ。さぁ、行くガウ！！
 0x0060d281 I'll go with you, Gaw. C'mon, go!!
@@ -7060,7 +7077,7 @@
 0x00653c2c It's you guys.
 
 ; 0x00653c3f $0閉じ込められていた、マテリアルとかいう魔導師が救援に来た
-0x00653c3f A sorcerer named Material, who had been imprisoned, came to rescue them.
+0x00653c3f A mage named Material, who had been imprisoned, came to rescue them.
 
 ; 0x00653c7a 騎士団にそう言っていたそうだ。
 0x00653c7a That's what he told the knights.
@@ -10224,7 +10241,7 @@
 0x0086187a Gaw. Gaw!
 
 ; 0x0086188f ベルクフリトってヤツの、魔力で来ちゃったガウ。
-0x0086188f I'm here because of that Belkfried guy's magic.
+0x0086188f I'm here because of that Bergfried guy's magic.
 
 ; 0x008618bf t｣ベルクフリトだって！
 0x008618bf Morgal!
@@ -10284,7 +10301,7 @@
 0x00861aa4 Yes, gaw!
 
 ; 0x00861aaf ベルクフリトってヤツの、魔力で来ちゃったガウ。
-0x00861aaf I'm here because of that Belkfried guy's magic.
+0x00861aaf I'm here because of that Bergfried guy's magic.
 
 ; 0x00861ade 何とかして、ここから元の世界へ帰りたいガウ。
 0x00861ade I want to go back to my world somehow.
@@ -10736,52 +10753,52 @@
 0x008b1909 To enter the Castle of Illusion,
 
 ; 0x008b191e 『幻影の腕輪』
-0x008b191e “Illusory Bracelet.”
+0x008b191e Phantom Bracelet
 
 ; 0x008b192e という道具が
-0x008b192e That's the tool
+0x008b192e is 
 
 ; 0x008b193b 必要です。
-0x008b193b I need it.
+0x008b193b needed.
 
 ; 0x008b194a 『幻影の腕輪』
-0x008b194a “Illusory Bracelet.”
+0x008b194a Phantom Bracelet.
 
 ; 0x008b195a は、
 0x008b195a Y-
 
 ; 0x008b195f バウロの村の倉庫に保管して
-0x008b195f I put it in a warehouse in the village of bauro
+0x008b195f It is stored in the warehouse 
 
 ; 0x008b197a あります。
-0x008b197a I do.
+0x008b197a in Bauro village.
 
 ; 0x008b1987 それと、あなたには、この世界に伝わる最強の装備をさしあげ
-0x008b1987 Also, I’ll give you the strongest equipment in this world.
+0x008b1987 I will give you the most powerful equipment in our 
 
 ; 0x008b19c0 ましょう。
-0x008b19c0 Let's go.
+0x008b19c0 world.
 
 ; 0x008b19cd これからの戦いに役立つことで
-0x008b19cd By being useful in the battle to come
+0x008b19cd It will be useful in the coming 
 
 ; 0x008b19ea しょう。
-0x008b19ea Sho.
+0x008b19ea battles.
 
 ; 0x008b19f5 装備は、塔の街の倉庫に
-0x008b19f5 The equipment is in the tower city warehouse.
+0x008b19f5 The equipment is in the 
 
 ; 0x008b1a0c あります。
-0x008b1a0c I do.
+0x008b1a0c Tower City 
 
 ; 0x008b1a17 このカギを使って下さい。
-0x008b1a17 Use this key.
+0x008b1a17 warehouse. Use this key.
 
 ; 0x008b1a32 塔の街の倉庫のカギを
-0x008b1a32 The key to the tower city warehouse.
+0x008b1a32 Received the key to Tower City 
 
 ; 0x008b1a47 もらいました。
-0x008b1a47 I got it.
+0x008b1a47 warehouse.
 
 ; 0x008b1a5e ﾊｪおまえ怪獣…だろ？
 0x008b1a5e You're a monster, right?
@@ -10808,65 +10825,65 @@
 0x008b1b02 I think you should.
 
 ; 0x008b1b1d 洵ベルクフリトに支配されて
-0x008b1b1d Be controlled by Belkfried.
+0x008b1b1d Bergfried has taken over…
 
 ; 0x008b1b38 しまった、この世界はもう
-0x008b1b38 Crap, this world's gone.
+0x008b1b38 This world is 
 
-; 0x008b1b51 終わりさ…。
-0x008b1b51 It's over.
+; 0x008b1b53 わりさ…。
+0x008b1b53 doomed…
 
 ; TODO: fix crash
 ; 0x008b1b5e 別の世界でよみがえった魔神が、幻影世界まで支配する
-;0x008b1b5e An Archdemon resurrected in another world, ruling even the illusory world
+0x008b1b5e A Demon God who was resurrected in another world.. He has come to rule the World of Illusion..
 
 ; 0x008b1b91 なんて…。
-;0x008b1b91 What...!
+0x008b1b91 What...!
 
 ; 0x008b1b9f 別の世界でよみがえった魔神が、幻影世界まで支配する
-;0x008b1b9f An Archdemon resurrected in another world, ruling even the illusory world
+0x008b1b9f A Demon God who was resurrected in another world.. He has come to rule the World of Illusion..
 
 ; 0x008b1bd2 なんて…。
-;0x008b1bd2 How...
+0x008b1bd2 How...
 
-; 0x008b1be6 !@ﾑｬあなたが別の世界から来た
-;0x008b1be6 You came from another world
+; 0x008b1bea あなたが別の世界から来た
+0x008b1bea You must be the monster 
 
 ; 0x008b1c03 怪獣さんね。
-0x008b1c03 It's a monster.
+0x008b1c03 from another world.
 
 ; 0x008b1c10 別の世界への行き方なら、
-0x008b1c10 If it's how to get to another world,
+0x008b1c10 The mayor knows a lot 
 
 ; 0x008b1c29 町長が知っているんだけど…。
-0x008b1c29 The mayor knows...
+0x008b1c29 about traveling between worlds.
 
 ; 0x008b1c46 町長が出かけたまま、戻って
-0x008b1c46 The mayor was still out, so he went back
+0x008b1c46 However, he left the village 
 
 ; 0x008b1c61 来ないのよ。
-0x008b1c61 He won't come.
+0x008b1c61 some time ago 
 
 ; 0x008b1c6e どこへ、行ってしまったの
-0x008b1c6e Where'd he go?
+0x008b1c6e and never returned. I wonder 
 
 ; 0x008b1c87 かしら…。
-0x008b1c87 Maybe...
+0x008b1c87 where he went…
 
 ; 0x008b1c92 街のみんながさがしているけど、見つからないのよ。
-0x008b1c92 Everyone's looking for it, but I can't find it.
+0x008b1c92 Everyone is searching for him, but he has yet to be found.
 
 ; 0x008b1cc3 心配ね…。
-0x008b1cc3 I'm worried...!
+0x008b1cc3 I'm worried...
 
 ; 0x008b1cd1 街のみんながさがしているけど、見つからないのよ。
-0x008b1cd1 Everyone's looking for it, but I can't find it.
+0x008b1cd1 Everyone is searching for him, but he has yet to be found.
 
 ; 0x008b1d02 心配ね…。
 0x008b1d02 I'm worried...
 
 ; 0x008b1d0d 町長が戻ってきたのよ。
-0x008b1d0d The mayor's back.
+0x008b1d0d The mayor is back.
 
 ; 0x008b1d2d ! Iｯ別の世界から、ベルクフリトの
 0x008b1d2d I-I'm from another world, from Berkfried!
@@ -10878,7 +10895,7 @@
 0x008b1d67 It's said he's here.
 
 ; 0x008b1d74 怪獣のガウっていうのは君かい？
-0x008b1d74 Are you the monster gaw?
+0x008b1d74 Gaw the monster, was it?
 
 ; 0x008b1d94 そうガウ。
 0x008b1d94 Yes, gaw.
@@ -10887,55 +10904,55 @@
 0x008b1d9f Mail, Tatto, and Blacky,
 
 ; 0x008b1dbc 知らないガウか？
-0x008b1dbc You don't know gaw?
+0x008b1dbc Have you heard of them, gaw?
 
 ; 0x008b1dce X･ガウと同じ世界の人かい？
-0x008b1dce You're from the same world as Gau?
+0x008b1dce Are they from your world, Gaw?
 
 ; 0x008b1dea メイルとタットは、ガウの仲間
-0x008b1dea Mail and Tatt are with Gaw.
+0x008b1dea Mail and Tatto are Gaw’s friends
 
 ; 0x008b1e07 ガウけど、ブラッキィは、一応、知合いガウ。
-0x008b1e07 It's gaw, but Blacky is, technically, a gaw.
+0x008b1e07 but Blacky is just an acquaintance of Gaw.
 
 ; 0x008b1e33 X･そう。　別の世界から幻影世界にやってきたのは、ガウだけだと
-0x008b1e33 That's right. Gaw is the only one from another world who came to this world.
+0x008b1e33 I believe you are the only one who came to our World of
 
 ; 0x008b1e70 思うよ。
-0x008b1e70 I think.
+0x008b1e70 Illusion.
 
 ; 0x008b1e79 ガウ以外で、別の世界から来た
-0x008b1e79 I'm from another world, not Gaw.
+0x008b1e79 I haven’t come across anyone 
 
 ; 0x008b1e96 人は見かけてはいないからね。
-0x008b1e96 I haven't seen anyone around.
+0x008b1e96 else from another world.
 
 ; 0x008b1eb4 そうガウか…。
-0x008b1eb4 I see, gaw...
+0x008b1eb4 Ah, gaw...
 
 ; 0x008b1ec3 オマエ、元の世界へ帰る方法、
-0x008b1ec3 You, how to go back to your world,
+0x008b1ec3 Do you know how I can return 
 
 ; 0x008b1ee0 知らないガウか？
-0x008b1ee0 You don't know gaw?
+0x008b1ee0 to Gaw’s world?
 
 ; 0x008b1ef2 X･うーん。　それは町長が知って
-0x008b1ef2 Hmm. The mayor knew that.
+0x008b1ef2 Yes... Well, the mayor would 
 
 ; 0x008b1f11 いるんだけれど、町長がいなく
-0x008b1f11 He's here, but the mayor's gone.
+0x008b1f11 know, but I’m afraid he’s 
 
-; 0x008b1f2e なってしまったんだ。"! "!
-0x008b1f2e I've become!
+; 0x008b1f2e なってしまったんだ。
+0x008b1f2e missing.
 
 ; 0x008b1f49 ガウの世界へ行く方法は、
-0x008b1f49 The way to get to gaw's world
+0x008b1f49 Only the mayor knows how 
 
 ; 0x008b1f62 町長が知っているんだけど、
-0x008b1f62 The mayor knows,
+0x008b1f62 you can return home.
 
 ; 0x008b1f7d 町長が、いなくなってしまった
-0x008b1f7d The mayor's gone.
+0x008b1f7d But, he’s missing…
 
 ; 0x008b1f9a んだ。
 0x008b1f9a What?
@@ -10947,43 +10964,43 @@
 0x008b1fc1 Fine, but I'll open the gate.
 
 ; 0x008b1fde かわりに、
-0x008b1fde Instead,
+0x008b1fde But,
 
 ; 0x008b1feb 町長を捜して来てくれない
-0x008b1feb He won't come looking for the mayor.
+0x008b1feb you’ll help us find the mayor,
 
 ; 0x008b2004 かな？
-0x008b2004 Maybe?
+0x008b2004 okay?
 
 ; 0x008b200d 町長は、ガウのいた世界のことも知っているはずだ。
-0x008b200d The mayor should know about the world where Gaw lived.
+0x008b200d The mayor’s gotta know about the world that you came from.
 
 ; 0x008b203e どうだろう？
-0x008b203e I wonder?
+0x008b203e What do ya say? 
 
 ; 0x008b204b やってくれないかな？
-0x008b204b Will you do it?
+0x008b204b Will you help us?
 
 ; 0x008b2061 分かったガウ。
-0x008b2061 Okay, gaw.
+0x008b2061 Gaw got it! 
 
 ; 0x008b2070 探して来てやるガウ。
-0x008b2070 I'll look for you, gaw.
+0x008b2070 Gaw will do it!
 
 ; 0x008b2086 X･本当かい。　ありがとう。
-0x008b2086 Really? Thanks.
+0x008b2086 You will? Thank you!
 
 ; 0x008b20a1 本当は僕が行ければいいんだ
-0x008b20a1 Honestly, I should just go.
+0x008b20a1 I really wish I could go 
 
 ; 0x008b20bc けど、この街を魔物から
-0x008b20bc But I’ll take this city from monsters
+0x008b20bc but I have to protect 
 
 ; 0x008b20d3 守らなくちゃいけないからね。
-0x008b20d3 I have to protect you.
+0x008b20d3 this city from the demons.
 
 ; 0x008b20f0 門番には、僕から伝えておくよ。"!
-0x008b20f0 I'll tell the gatekeeper!
+0x008b20f0 I’ll let the gatekeeper know.
 
 ; 0x008b2139 Rｱ町長はみつかったかい。
 0x008b2139 Have you found the mayor?
@@ -10992,13 +11009,13 @@
 0x008b2152 Thanks, Gaw.
 
 ; 0x008b2165 無事に、町長が戻って来たよ。"!
-0x008b2165 The mayor's back!
+0x008b2165 The mayor is back!
 
 ; 0x008b2188 ｨ･グッフッフッフッフ。
 0x008b2188 Gufufufufu.
 
 ; 0x008b219f 闘士の装備なら、ここにあるぞ！欲しければ俺を倒すことだな。
-0x008b219f If you're looking for fighter gear, it's right here! If you want it, you'll have to defeat me.
+0x008b219f If you're looking for warrior gear, it's right here! If you want it, you'll have to defeat me.
 
 ; 0x008b21da さぁ！　来い！
 0x008b21da Come on! Come!
@@ -11010,19 +11027,19 @@
 0x008b2205 Get ready!!
 
 ; 0x008b2215 f･ありがとう。
-0x008b2215 F-Thank you.
+0x008b2215 It is thanks 
 
 ; 0x008b2224 あなたのおかげで無事に、戻ってこれました。
-0x008b2224 Thanks to you, I made it back safely.
+0x008b2224 to you that I am back safe and sound.
 
 ; 0x008b224f この後は何としても、
-0x008b224f After this, no matter what,
+0x008b224f Now, you must seal 
 
 ; 0x008b2264 ベルクフリトを、封印して
-0x008b2264 Seal Morgal.
+0x008b2264 away Bergfried at any
 
 ; 0x008b227d 下さい。
-0x008b227d Please.
+0x008b227d cost!
 
 ; 0x008b228c ﾌｲ街の外へ出たいのなら、
 0x008b228c If you want to go outside the city,
@@ -11040,10 +11057,10 @@
 0x008b22ec You came?
 
 ; 0x008b22f9 この先は魔物でいっぱいだ。
-0x008b22f9 There are a lot of monsters ahead.
+0x008b22f9 There are lots of monsters ahead.
 
 ; 0x008b2316 ･気を付けて行くんだぞ！
-0x008b2316 Be careful!
+0x008b2316 Be careful out there.
 
 ; 0x008b2331 闘士の装備を手にいれました。
 0x008b2331 Found Warrior equipment.
@@ -11373,7 +11390,7 @@
 0x00911808 I don't want it!
 
 ; 0x0091181a $'ベルクフリト様！
-0x0091181a Mr. Belkfried!
+0x0091181a Mr. Bergfried!
 
 ; 0x0091182d $(やっぱり、偽者だったガウな！
 0x0091182d You were an impostor after all!
@@ -11502,7 +11519,7 @@
 0x0096d808 I don't want it!
 
 ; 0x0096d81a $'ベルクフリト様！
-0x0096d81a Mr. Belkfried!
+0x0096d81a Mr. Bergfried!
 
 ; 0x0096d82d $(やっぱり、偽者だったガウな！
 0x0096d82d You were an impostor after all!
@@ -13264,7 +13281,7 @@
 0x00b21c9c Resistance formal equipment
 
 ; 0x00b21cb3 　　もらいました。(
-0x00b21cb3 I got it.
+0x00b21cb3 Received.
 
 ; 0x00b21cce ┤司令！！
 0x00b21cce -Command!!
@@ -13324,13 +13341,13 @@
 0x00b21e90 Gold Bar
 
 ; 0x00b21e99 もらいました。
-0x00b21e99 I got it.
+0x00b21e99 Received.
 
 ; 0x00b21eaa 回復剤
 0x00b21eaa Recoverant
 
 ; 0x00b21eb5 もらいました。
-0x00b21eb5 I got it.
+0x00b21eb5 Received.
 
 ; 0x00b21ec7 `ｧいくぞ！
 0x00b21ec7 Let's go!
@@ -13564,7 +13581,7 @@
 0x00b2263b ...
 
 ; 0x00b22643 さぁ、とれたわよ。
-0x00b22643 Okay, I got it.
+0x00b22643 Okay, Received.
 
 ; 0x00b22656 それにしても変な色ねぇ…、
 0x00b22656 Still, it's a weird color...
@@ -14257,7 +14274,7 @@
 0x00bc18ab I fell for it. Mail!
 
 ; 0x00bc18c9 あっ！　アイツ、あんな所で
-0x00bc18c9 Ah! He’s over there
+0x00bc18c9 Ah! He’s over there.
 
 ; 0x00bc18e4 何やってんだ？
 0x00bc18e4 What are you doing?
@@ -14416,7 +14433,7 @@
 0x00bc1e31 O-
 
 ; 0x00bc1e36 もらいました。
-0x00bc1e36 I got it.
+0x00bc1e36 Received.
 
 ; 0x00bc1e46 擱いくよ！
 0x00bc1e46 I'm going down!
@@ -16213,7 +16230,7 @@
 0x00d32286 I'm glad you came back from the machine world.
 
 ; 0x00d322a1 これたの。
-0x00d322a1 I got it.
+0x00d322a1 Received.
 
 ; 0x00d322ad $｣久しいのーお嬢ちゃん、
 0x00d322ad It's been a while, young lady.
@@ -16249,7 +16266,7 @@
 0x00d323a3 I'm glad you're back from the undersea world.
 
 ; 0x00d323c0 これたの。
-0x00d323c0 I got it.
+0x00d323c0 Received.
 
 ; 0x00d323cb どうであったか、海底世界は？
 0x00d323cb How was the undersea world?
@@ -17690,7 +17707,7 @@
 0x00dd1601 I'll send you to the afterlife!
 
 ; 0x00dd1622 ｢皇帝が、魔物たちを操っていた
-0x00dd1622 「The emperor controlled the demons.
+0x00dd1622 The emperor controlled the demons.
 
 ; 0x00dd1640 なんて…。
 0x00dd1640 How...
