@@ -4843,7 +4843,7 @@
 0x004f1bd8 downstairs.
 
 ; 0x004f1be5 どうしよう、どうしよう…。
-0x004f1be5 What do I do, what do I do...?
+0x004f1be5 What should we do...?
 
 ; 0x004f1c04 ｬQｬ君が、ゴルアデスを倒したのか！凄い、凄いぞぉー！！
 0x004f1c04 You defeated Golaides! That's amazing, absolutely incredible!!
@@ -4887,10 +4887,10 @@
 ; 0x004f1d7f しれない。
 0x004f1d7f can do…
 
-;0x004f1d9c ｰｭ$kゴルアデス？
-0x004f1d9c Golaides?
+; 0x004F1DA0 ゴルアデス？
+0x004F1DA0 Golaides?
 
-; 0x004f1dae ｿｭ$lゴルアデス？
+; 0x004F1DB2 ゴルアデス？
 0x004f1dae Golaides?
 
 ; 0x004f1dc0 ﾌ･何だ知らないのか？
@@ -5026,8 +5026,8 @@
 ; 0x004f2266 がんばってくれガウ！
 0x004f2266 Good luck, gaw!
 
-; 0x004f227f $恂{当に倒すとは思わなかった
-0x004f227f I didn't think you'd beat him.
+; 0x004f2281 恂当に倒すとは思わなかった
+0x004f2281 Gaw didn’t think you beat him!
 
 ; 0x004f229c ガウ。約束どおり、魔導師を
 0x004f229c Gaw gives up the mage,
@@ -5035,17 +5035,21 @@
 ; 0x004f22b7 わたすガウ。
 0x004f22b7 as promised
 
-; 0x004f22c4 $揀Iレも一緒についていくガウ。
-0x004f22c4 I’m going with you, gaw!
+; 0x004f22c6 揀レも一緒についていくガウ。
+0x004f22c6 I’m going with you, gaw!
 
 ; 0x004f22e3 さぁ、行くガウ！！
-0x004f22e3 Let's go, gaw!!
+0x004f22e3 Let's gaw!!
 
 ; 0x004f22fe $桙ｿょっと待って！ブラッキィ！
 0x004f22fe Wait a minute! Blacky!
 
+; TATTO:
+; 0x004f2320 その前にちょっとブラッキィさんに用があるんです。
+0x004f2320 Hold on, I need to get something back from Blacky.
+
 ; 0x004f2351 $ｨブラッキィさん！
-0x004f2351 Bracky!
+0x004f2351 Mr. Bracky!
 
 ; 0x004f2369 あーっ！！
 0x004f2369 Ahhhhh!!
@@ -5075,8 +5079,8 @@
 ;0x004f246e acquaintance?
 
 ; TATTO:
-; 0x004f247d ょ、ちょっと待って下さいよ。責任とか知り合いとかって、
-0x004f247d Hold on a second.. How am I responsible? And what 
+; 0x004f247b ちょ、ちょっと待って下さいよ。責任とか知り合いとかって、
+0x004f247b Hold on a second.. How am I responsible? And what 
 
 ; 0x004f24b4 一体何の事です？
 0x004f24b4 acquaintance?
@@ -5084,10 +5088,11 @@
 ; 0x004f24c8 いいつガウ！
 0x004f24c8 That guy!
 
-; 0x004f24dc 竄氈I
+; 0x004f24da やぁ！
+0x004f24da Hey
 
 ; 0x004f24e3 おふたりさん。
-0x004f24e3 You two. So
+0x004f24e3 you two! So,
 
 ; 0x004f24f2 またドジっちゃってさ。
 0x004f24f2 I screwed up again!
@@ -5173,16 +5178,16 @@
 0x004f27c9 you if you can’t defeat him!
 
 ; 0x004f27e7 やってくれたな！
-0x004f27e7 You really did it!
+0x004f27e7 You really did 
 
 ; 0x004f27f9 おい。
-0x004f27f9 Oi.
+0x004f27f9 it!
 
 ; 0x004f2800 まさか、本当に倒せるとは
-0x004f2800 I didn’t think I’d actually be able to defeat it
+0x004f2800 I never thought you'd
 
 ; 0x004f2819 思わなかったぞ！！
-0x004f2819 I didn't think so!!
+0x004f2819 beat him!
 
 ; 0x004f282c あんたは、もう、この洞窟の
 0x004f282c You are a hero in this 
@@ -5191,13 +5196,13 @@
 0x004f2847 cave!
 
 ; 0x004f285a ﾌ･まったく、エルフってやつは
-0x004f285a Hmph. Honestly, elves.
+0x004f285a Hmph. Honestly, elves never
 
 ; 0x004f2877 ロクなことしないよな。
-0x004f2877 You won't do anything good.
+0x004f2877 do anything good.
 
 ; 0x004f288f ﾌ･これでこの洞窟にも本当の平和がやってきたよ。
-0x004f288f With this, true peace has come to this cave.
+0x004f288f Now true peace has finally come to this cave.
 
 ; 0x004f28be ありがとう。
 0x004f28be Thanks.
@@ -5224,10 +5229,10 @@
 0x004f2952 this you won’t have any friends…
 
 ; 0x004f296f ほら見ろ。
-0x004f296f Look.
+0x004f296f Look at
 
 ; 0x004f297a やっぱり、あんたがやれば倒せるだろ？
-0x004f297a Look at that. I said you could do it, didn’t I?
+0x004f297a that. I said you could do it, didn’t I?
 
 ; 0x004f299f 僕は、人の力を見抜くことが、
 0x004f299f I knew I could count on your 
@@ -5235,44 +5240,47 @@
 ; 0x004f29bc できるのさ。
 0x004f29bc strength.
 
-; 0x004f29d7 んた、あたしからかっぱらっていった、ツルハシがあった
+; 0x004f29d7 あんた、あたしからかっぱらっていった、ツルハシがあった
 0x004f29d7 You’ve still got the pickaxe you stole from me, right? 
 
 ; 0x004f2a0c でしょう？あれ返しなさい。
 0x004f2a0c Well, give it back!!
 
 ; 0x004f2a2b $ｩ前にあなたを助けた時に使った、あれを返していただけますか？
-0x004f2a2b Can you give me back the one I used to save you?
+0x004f2a2b The pickaxe that I used to help you before, could you please give it back?
 
 ; 0x004f2a70 あれがどうかしたのかい？
-0x004f2a70 What's with that?
+0x004f2a70 Oh, what about it?
 
-; 0x004f2a91 $｡マテリアルの閉じ込められている所を発見したけど岩でふさがれててツルハシがないと駄目なの
-0x004f2a91 I found out where Material is trapped, but it’s blocked by rocks and I need a pickaxe to get through.
+; 0x004f2a93 マテリアルの閉じ込められている所を発見したけど岩でふさがれててツルハシがないと駄目なの
+0x004f2a93 I found out where Material is, but it’s blocked by rocks and I need a pickaxe.
 
 ; 0x004f2af3 お師匠様の居場所がわかったん
-0x004f2af3 I know where my Master is,
+0x004f2af3 I found out where my master
 
 ; 0x004f2b10 ですけど、岩でふさがれていて
-0x004f2b10 but it's blocked by rocks,
+0x004f2b10 is, but it's blocked by rocks,
 
 ; 0x004f2b2d ツルハシがないと駄目なんです
-0x004f2b2d so I need a pickaxe.
+0x004f2b2d and I need a pickaxe.
 
-; 0x004f2b4e ﾖ･$ｬそうか。それじゃあ仕方がない。助けてもらったお礼に、
-0x004f2b4e I see. Well, then I have no choice! In return for 
+; 0x004F2B52 そうか。それじゃあ仕方がない。助けてもらったお礼に、
+0x004F2B52 Well then I have no choice! In return for your help
 
 ; 0x004f2b87 このツルハシは君にあげるよ。
-0x004f2b87 your help, I’ll give you this pickaxe.
+0x004f2b87 I’ll give you this pickaxe.
 
 ; 0x004f2bac $｣あげるじゃなくて、
-0x004f2bac You’re not giving it away, 
+0x004f2bac Not giving it away, 
 
 ; 0x004f2bc1 返すでしょうが！！！
-0x004f2bc1 you’re giving it back!
+0x004f2bc1 you are giving it back!
+
+; 0x004f2bdc あ、ありがとうございます…
+0x004f2bdc Ah, thank you very mu...
 
 ; 0x004f2bf7 ん？
-0x004f2bf7 Hm?
+0x004f2bf7 Wait…
 
 ; 0x004f2c04 ツルハシ
 0x004f2c04 Pickaxe
@@ -5280,8 +5288,8 @@
 ; 0x004f2c0e をもらいました
 0x004f2c0e Received.
 
-; 0x004f2c1e $､さぁ　行くガウ！
-0x004f2c1e Alright! Let’s go!
+; 0x004f2c20 さぁ　行くガウ！
+0x004f2c20 Alright! Let’s gaw!
 
 ; 0x004f2c35 ゴルアデスは完全復活の為に体を休めている。今ここで、お前らを行かせるわけにはいかん！
 0x004f2c35 Golaides is resting his body for a full recovery. I cannot let you come through here!
@@ -5601,17 +5609,18 @@
 0x00541262 I can't...
 
 ; 0x00541271 $恂{当に倒すとは、思わなかった
-0x00541271 I didn't think I'd beat him.
+0x00541271 Gaw didn’t think you beat 
 
 ; 0x00541290 ガウ。
-0x00541290 Gaw.
+0x00541290 him!
 
 ; 0x00541297 約束どおり魔導師を、渡すガウ。
-0x00541297 I'll give you the Mage as promised.
+0x00541297 Gaw gives up the mage as promised.
 
 ; 0x005412b6 $揀Iレも、一緒についていくガウ。さぁ、行くガウ！！
-0x005412b6 I'll go with you. Come on, go go!
+0x005412b6 I'm going with you, gaw. Let's gaw!!
 
+; MAIL:
 ; 0x005412f1 $桙ｿょっと待って！
 0x005412f1 Wait a minute!
 
@@ -5694,19 +5703,19 @@
 0x0060d187 Blacky
 
 ; 0x0060d196 o｡ゴルアデスは、完全復活の為に
-0x0060d196 Golaides, for the sake of a complete revival.
+0x0060d196 Golaides is resting his body 
 
 ; 0x0060d1b5 体をやすめている。
-0x0060d1b5 She's calming down.
+0x0060d1b5 for a full recovery..
 
 ; 0x0060d1c8 今ここで、お前らを行かせる
-0x0060d1c8 Right here and now, I'm sending you.
+0x0060d1c8 I cannot let you come 
 
 ; 0x0060d1e3 わけにはいかん！
-0x0060d1e3 I can't!
+0x0060d1e3 through here!
 
 ; 0x0060d1f5 o｡何度挑戦しても同じことよ…。
-0x0060d1f5 O. It's the same no matter how many times I try...
+0x0060d1f5 It's the same no matter how many times I try...
 
 ; 0x0060d214 お前らなどに、わたしが倒せる
 0x0060d214 I can defeat you.
@@ -5715,19 +5724,19 @@
 0x0060d231 I can't...
 
 ; 0x0060d23e 本当に倒すとは、思わなかった
-0x0060d23e I didn’t think I’d actually defeat it.
+0x0060d23e I didn’t think you’d actually beat it.
 
 ; 0x0060d25b ガウ。
 0x0060d25b Gaw.
 
 ; 0x0060d262 約束どおり魔導師を、渡すガウ。
-0x0060d262 I'll give you the Mage as promised.
+0x0060d262 I'll give up the mage as promised.
 
 ; 0x0060d281 オレも、一緒についていくガウ。さぁ、行くガウ！！
-0x0060d281 I'll go with you, Gaw. C'mon, go!!
+0x0060d281 I'm going with you, Gaw. Let's gaw!!
 
 ; 0x0060d2ba ちょっと待って！
-0x0060d2ba Hold on!
+0x0060d2ba Wait a minute!
 
 ; 0x0060d2cb ブラッキィ！
 0x0060d2cb Blacky!
@@ -5763,7 +5772,7 @@
 0x0060d3ef I found a place where materials are trapped, but the path is made of rock.
 
 ; 0x0060d428 ふさがれてて、ツルハシがないと駄目なの。
-0x0060d428 It's blocked, and I need a pickax.
+0x0060d428 It's blocked, and I need a pickaxe.
 
 ; 0x0060d452 お師匠様の居場所が、
 0x0060d452 Master’s whereabouts,
@@ -6049,52 +6058,52 @@
 0x006519b5 Erik
 
 ; 0x006519bf ドワーフ知らないガウか？
-0x006519bf Dwarves don't know gaw?
+0x006519bf Do you know any dwarves?
 
 ; 0x006519f1 ここは鉱山じゃないの？
-0x006519f1 Isn't this a mine?
+0x006519f1 These are mines right?
 
 ; 0x00651a0c ここは鉱山じゃないんですか？
-0x00651a0c Isn't this a mine?
+0x00651a0c These are mines right?
 
-; 0x00651a2a Λ鉱山だよ。
-0x00651a2a It’s a mine.
+; 0x00651a2c 鉱山だよ。
+0x00651a2c Yeah.
 
 ; 0x00651a37 ドワーフが大昔に造った
-0x00651a37 Dwarves built it long ago.
+0x00651a37 It once was a temple
 
 ; 0x00651a4e 神殿だったそうだけど。
-0x00651a4e I heard it was a temple.
+0x00651a4e built by the dwarves.
 
 ; 0x00651a65 こんな所に何しに来たんだい？
-0x00651a65 What brings you here?
+0x00651a65 What are you doing here?
 
 ; 0x00651a8a ドワーフどこにいるか知らない？
-0x00651a8a Dwarves, do you know where he is?
+0x00651a8a We are looking for the dwarves.
 
 ; 0x00651aad ドワーフどこにいるか
-0x00651aad Dwarf, where are you?
+0x00651aad Do you know where
 
 ; 0x00651ac2 御存知ありませんか？
-0x00651ac2 Don't you know?
+0x00651ac2 they are?
 
 ; 0x00651adb ヘンなニオイがするガウ。
-0x00651adb It smells weird.
+0x00651adb It smells weird, gaw.
 
-; 0x00651af5 Λここは火山だからね。
-0x00651af5 This is a volcano.
+; 0x00651af7 ここは火山だからね。
+0x00651af7 This is a volcano,
 
 ; 0x00651b0c 硫黄がにおうんだよ。
-0x00651b0c It's sulfur.
+0x00651b0c it's sulfur.
 
 ; 0x00651b21 おまえ、怪獣じゃねぇか。
-0x00651b21 You're a monster.
+0x00651b21 You're a monster, right?
 
 ; 0x00651b3a なんでこんな所にいるんだ？
-0x00651b3a Why are we here?
+0x00651b3a What are you doing here?
 
-; 0x00651b5a Λいや…ここに来てから、まだ日が浅いからわからないな。
-0x00651b5a No... It hasn't been long since I came here, so I don't know.
+; 0x00651b5c いや…ここに来てから、まだ日が浅いからわからないな。
+0x00651b5c No, sadly I don’t. I’ve only been here a short time.
 
 ; 0x00651b9c いーよ、そう簡単に見つかるとは思ってないから。
 0x00651b9c It's fine. I don't think I'll be able to find it that easily.
@@ -6103,25 +6112,25 @@
 0x00651bcc No, I'm sorry too.
 
 ; 0x00651bea 役にたたないガウ。
-0x00651bea A useless gaw.
+0x00651bea Not helpful, gaw.
 
 ; 0x00651bfe Λ働き続けで、もうボロボロだよ。さぁ、もう一仕事だ。
-0x00651bfe I've been working non-stop and I'm completely worn out. Alright, time for one more job.
+0x00651c00 I've been working non-stop and I'm completely worn out. Alright, time for one more job.
 
 ; 0x00651c40 ねぇ、ドワーフ知らない？
-0x00651c40 Hey, dwarves?
+0x00651c40 Heh, dwarves?
 
 ; 0x00651c5d ドワーフを御存知ないですか？
-0x00651c5d Do you know a dwarf?
+0x00651c5d Do you know any dwarves?
 
 ; 0x00651c7e ドワーフを知らないガウか？
 0x00651c7e You don't know dwarves, gaw?
 
-; 0x00651c9a Λ山の奥にでもいるんじゃないか？ 
-0x00651c9a Maybe deep in the mountains?
+; 0x00651c9c 山の奥にでもいるんじゃないか？ 
+0x00651c9c Maybe deep in the mountains?
 
-; 0x00651cbf Λおや、あんた。
-0x00651cbf Oh, you.
+; 0x00651cc1 おや、あんた。
+0x00651cc1 Oh, you.
 
 ; 0x00651cd0 さっきも来た人だね。
 0x00651cd0 You're the one who came earlier.
@@ -6133,19 +6142,19 @@
 0x00651cfe My stomach's starting to hurt.
 
 ; 0x00651d22 ああ…腹減ったな。
-0x00651d22 Ah... I'm hungry.
+0x00651d22 Ah, I'm hungry...
 
 ; 0x00651d35 そろそろ飯にしようかな。
-0x00651d35 Maybe it's time to eat.
+0x00651d35 I think it's time to eat
 
 ; 0x00651d50 熱〜いお茶と、かあちゃんの
-0x00651d50 Hot tea and Mom's
+0x00651d50 I can’t wait to drink  
 
 ; 0x00651d6b 作った弁当が、早く食いたいよ。
-0x00651d6b I wanna eat the lunch I made.
+0x00651d6b some hot tea and eat the lunch mom prepared.
 
 ; 0x00651d95 Λえっ、お湯かい？
-0x00651d95 Eh, hot water?
+0x00651d97 Eh, hot tea?
 
 ; 0x00651da8 ああいいよ別に。
 0x00651da8 Oh, it's fine.
@@ -6159,8 +6168,8 @@
 ; 0x00651ddf これごと持って行ってくれ。
 0x00651ddf Take this along.
 
-; 0x00651dfc 　　魔法瓶をもらいました。(
-0x00651dfc I got a Thermos.
+; 0x00651dfc 　　魔法瓶をもらいました。
+0x00651dfc Got a Thermos.
 
 ; 0x00651e21 ﾑｮえっ、あれじゃたりなかったの
 0x00651e21 Huh? That wasn't it?
@@ -6190,19 +6199,19 @@
 0x00651ed1 Come on, another job.
 
 ; 0x00651ee7 Λそこの下にいる奴って、
-0x00651ee7 Whoever's under there...
+0x00651ee9 That guy down there 
 
 ; 0x00651f00 こんなクソ熱い場所なのに、
-0x00651f00 Even though it's this damn hot place,
+0x00651f00 always drinks a super 
 
 ; 0x00651f1b 弁当には必ず、熱ーいお茶を
-0x00651f1b Be sure to make hot tea for your lunch.
+0x00651f1b hot tea with his 
 
 ; 0x00651f36 飲むんだ。
-0x00651f36 Drink.
+0x00651f36 lunch.
 
 ; 0x00651f47 Λここには必ず金脈があるぞー！！
-0x00651f47 There's always a gold vein here!
+0x00651f49 There is bound to be gold here!!
 
 ; 0x00651f70 ドワーフ知らない？
 0x00651f70 Dwarves?
@@ -6211,25 +6220,25 @@
 0x00651f87 Have you seen a dwarf?
 
 ; 0x00651faf Λ時々、古い細工物を売りに来る
-0x00651faf Sometimes I come to sell old crafts.
+0x00651fb1 They sometimes come by to  
 
 ; 0x00651fce ドワーフがいるそうだが、
-0x00651fce I heard there are dwarves,
+0x00651fce sell their stuff. But,  
 
 ; 0x00651fe7 どこに住んでるかは知らないな。
-0x00651fe7 I don't know where you live.
+0x00651fe7 I don’t know where they live.
 
 ; 0x00652006 それに俺は大樹木の塔で、
-0x00652006 Besides, I was a tower of large trees
+0x00652006 Besides I gotta get some 
 
 ; 0x0065201f 待っている女房のために、
-0x0065201f For the sake of her waiting wife,
+0x0065201f gold before I go back 
 
 ; 0x00652038 金を見つけて帰らなければ
-0x00652038 I have to find the money and go home.
+0x00652038  to my wife. She’s 
 
 ; 0x00652051 ならないんだ。
-0x00652051 I won't.
+0x00652051 waiting for me.
 
 ; 0x00652060 ドワーフなんか知らないね。
 0x00652060 I don't know any dwarves.
@@ -6241,7 +6250,7 @@
 0x00652091 I'm sorry.
 
 ; 0x006520a4 ドヒャー！　怪物ー！！
-0x006520a4 Dohyaa! Monster!!
+0x006520a4 GHAAAA! MONSTER!!
 
 ; 0x006520c3 逃げたんじゃないの？
 0x006520c3 Didn't you run?
@@ -6249,137 +6258,137 @@
 ; 0x006520dc さっきどこかへ行ってしまったんじゃ…。
 0x006520dc Didn't she just leave...?
 
-; 0x00652104 Λバケモンが怖くて穴の中の仕事ができるか！！
-0x00652104 How can you work in a hole if you're scared of monsters?!
+; 0x00652106 バケモンが怖くて穴の中の仕事ができるか！！
+0x00652106 How can you work in a hole if you're scared of monsters?!
 
 ; 0x00652148 ｱ金脈があると思って掘ってたら、よその坑道まで来てしまったよ。
-0x00652148 I was digging because I thought I had a gold vein, but I ended up in another mine.
+0x00652148 I was digging for gold and then I stumbled onto this long tunnel!
 
 ; 0x0065218e 人民解放軍？
 0x0065218e Rebel Army?
 
 ; 0x0065219b そんなこと言ってる連中も
-0x0065219b Even those who say that
+0x0065219b Some people were talking 
 
 ; 0x006521b4 いたなぁ。
-0x006521b4 There he is.
+0x006521b4 about them.
 
 ; 0x006521bf そいつらがどうかしたのかい？
 0x006521bf What about them?
 
 ; 0x006521e4 奥に進みたいんだけど、
-0x006521e4 I'd like to go deeper,
+0x006521e4 I want to go further in
 
 ; 0x006521fb あいつらが邪魔して通して
-0x006521fb They got in my way and let me through
+0x006521fb but those guys are blocking
 
 ; 0x00652214 もらえないのよ。
-0x00652214 I can't get it.
+0x00652214 the way.
 
 ; 0x00652225 ねぇなんかいい方法ない？
-0x00652225 Hey, is there a good way?
+0x00652225 You got any ideas?
 
 ; 0x00652242 あの人達がいる所のもっと奥も
-0x00652242 Even deeper in where they are.
+0x00652242 I’d like to go further 
 
 ; 0x0065225f 見てみたいのですが、
-0x0065225f I'd like to see it.
+0x0065225f into that area.
 
 ; 0x00652274 どうしても通してもらえないようなので…。
-0x00652274 It seems she won't let me through no matter what...
+0x00652274 But I cannot get through there because of them.
 
 ; 0x0065229d 何かいい方法はないでしょうか？
-0x0065229d Isn't there a good way?
+0x0065229d Do you have any suggestions?
 
 ; 0x006522c0 あいつらが邪魔して先に進めないガウ。
-0x006522c0 I can't move on because they're in my way.
+0x006522c0 Gaw can’t get past those guys.
 
 ; 0x006522e5 何かいい方法はないガウか？
-0x006522e5 Isn't there a better way, gaw?
+0x006522e5 Do you have any ideas, gaw?
 
 ; 0x00652301 Λ方法ねぇ…、
-0x00652301 There's no way...
+0x00652303 No way...
 
 ; 0x00652310 タダじゃあ教えられないねぇ。
 0x00652310 I can't tell you for free.
 
 ; 0x0065232d 金脈掘りを始めてずいぶんたつ
-0x0065232d It's been a long time since I started digging.
+0x0065232d I’ve been digging for gold 
 
 ; 0x0065234a けどなかなか取れなくて困って
-0x0065234a But it's hard to get it off.
+0x0065234a for a long time and I still
 
 ; 0x00652367 るんだよねぇ。
-0x00652367 You're right.
+0x00652367 haven’t found any.
 
 ; 0x00652376 このままじゃ、大樹木の塔で
-0x00652376 At this rate, we'll be in a tower of trees
+0x00652376 If this keeps up, I won’t 
 
 ; 0x00652391 待ってる女房に会わす顔が
-0x00652391 The face of a waiting wife
+0x00652391 be able to face my wife
 
 ; 0x006523aa ないんだよねぇ。
-0x006523aa I don't have any.
+0x006523aa at the Tree Tower.
 
-; 0x006523be 卸なんだよ、アレ持ってないのかよアレ。
-0x006523be It's wholesale. You don't have that?
+; 0x006523c0 なんだよ、アレ持ってないのかよアレ。
+0x006523c0 Hey, you don’t have any, do you?
 
-; 0x006523e5 俺が、何のためにここにいるのか知っているだろ。
-0x006523e5 You know why I'm here.
+; 0x006523e5 が、何のためにここにいるのか知っているだろ。
+0x006523e5 You know what I’m here for. Gold! Give me
 
 ; 0x00652414 金塊だよ。
-0x00652414 Gold.
+0x00652414 some gold
 
-; 0x0065241f 金塊くれたら教えてやるよ。.
-0x0065241f Give me the gold and I'll tell you.
+; 0x0065241f 金塊くれたら教えてやるよ。
+0x0065241f bars and I’ll tell you.
 
-; 0x0065243d Λおっと。
-0x0065243d Oops.
+; 0x0065243f おっと。
+0x0065243f Oops.
 
 ; 0x00652448 たったこれだけの金塊で、話を
-0x00652448 With just this much gold, we'll talk.
+0x00652448 With just this much gold, 
 
 ; 0x00652465 聞こうなんざ、そいつぁ、
-0x00652465 Let's hear it!
+;0x00652465 we'll talk.
 
 ; 0x0065247e ちょっとムシがよすぎねぇかい？もっと量を増やして出直して
-0x0065247e Don't you think it's a little too good a bug? I'll increase the amount and come back later.
+0x0065247e What have you got for me now? That’s not nearly enough 
 
 ; 0x006524b7 きな！
-0x006524b7 Kina!
+0x006524b7 gold!
 
-; 0x006524bf Λまあ、これだけくれるって
-0x006524bf Well, he said he'd give me this much.
+; 0x006524c1 まあ、これだけくれるって
+0x006524c1 Since you game me this 
 
 ; 0x006524da いうなら教えてやろう。
-0x006524da Then I'll tell you.
+0x006524da much gold I'll tell you.
 
 ; 0x006524f1 あの人民解放軍の頭目はな、
 0x006524f1 The leader of the Rebel Army,
 
 ; 0x0065250c エリクなんとかという長い名前の奴なんだけどよ。
-0x0065250c He's got a long name, Erik.
+0x0065250c is a guy with a long name, Erik something.
 
-; 0x0065253b なんでもドワーフの作る細工物を欲しがってるって話だぜ。(
-0x0065253b They say they want something made by dwarves. (
+; 0x0065253b なんでもドワーフの作る細工物を欲しがってるって話だぜ。
+0x0065253b I heard that he really wants  some dwarven artifacts.
 
 ; 0x00652589 がんばって細工物を探してよ。
 0x00652589 Do your best to find something.
 
 ; 0x006525a6 さてと女房の所へ帰るとするか。
-0x006525a6 Now then, let's go back to my wife.
+0x006525a6 Now I'll go back to my wife.
 
-; 0x006525cb 莊とんでもねぇやつだ！！
-0x006525cb What a crazy guy!!
+; 0x006525cd とんでもねぇやつだ！！
+0x006525cd What an amazing guy!
 
 ; 0x006525e4 人民解放軍？
 0x006525e4 Rebel Army?
 
 ; 0x006525f1 やつらにはかかわらないほうが
-0x006525f1 It's better to stay out of them.
+0x006525f1 It’s better to avoid
 
 ; 0x0065260e いいよ。
-0x0065260e Yes
+0x0065260e them.
 
 ; 0x00652624 ドワーフみなかった？
 0x00652624 Have you seen a dwarf?
@@ -6387,8 +6396,8 @@
 ; 0x0065263d ドワーフを見ませんでしたか？
 0x0065263d Have you seen a dwarf?
 
-; 0x0065265b Λあのヒゲだらけで
-0x0065265b It’s full of those whiskers.
+; 0x0065265d あのヒゲだらけで
+0x0065265d It’s full of those whiskers.
 
 ; 0x0065266e ずんぐりむっくりしたやつか？
 0x0065266e You mean the one that's all mushy?
@@ -6400,10 +6409,10 @@
 0x006526a4 Do you know?!
 
 ; 0x006526ba Λいや、見ないねぇ。
-0x006526ba Nope, I don't look.
+0x006526bc Nope, I don't.
 
 ; 0x006526cf ドワーフの作ったレリーフなら、この先にあるよ。
-0x006526cf The relief the dwarves made is up ahead.
+0x006526cf The artifact the dwarves made is up ahead.
 
 ; 0x00652706 そう。
 0x00652706 Yes.
@@ -6411,8 +6420,8 @@
 ; 0x0065270d ところでおじさんは何してるの？
 0x0065270d By the way, what are you doing?
 
-; 0x0065272d Λわしは細工物探しさ。
-0x0065272d I'm looking for work.
+; 0x0065272f わしは細工物探しさ。
+0x0065272f I'm looking for work.
 
 ; 0x00652744 ドワーフの細工物は高く売れる
 0x00652744 Dwarven artifacts sell for a good price.
@@ -6429,11 +6438,11 @@
 ; 0x00652798 いるのですか？
 0x00652798 Is he here?
 
-; 0x006527a8 Λドワーフの細工物を探しとる。
-0x006527a8 I'm looking for dwarf artifacts.
+; 0x006527aa Λドワーフの細工物を探しとる。
+0x006527aa I'm looking for dwarf artifacts.
 
 ; 0x006527d7 Λおれは怪獣とは、口ききたく
-0x006527d7 I wanna talk to monster.
+0x006527d9 I wanna talk to monster.
 
 ; 0x006527f4 ねぇんだ！
 0x006527f4 No, I don't!
@@ -6442,20 +6451,20 @@
 0x00652804 Gaw!!
 
 ; 0x00652812 Λかみつきやがった！！
-0x00652812 It bit me!!
+0x00652814 HE BIT ME!!
 
 ; 0x0065282a オマエなんか、
 0x0065282a You're...
 
 ; 0x00652839 何も聞いてやらないガウ！！
-0x00652839 I won't listen to a thing, gaw!!
+0x00652839 Gaw won't listen to a thing!!
 
 
-; 0x00652872 Λあんたら、怪獣とつるんでる
-0x00652872 You guys are hanging out with monster.
+; 0x00652874 あんたら、怪獣とつるんでる
+0x00652874 You’re the ones hanging out with 
 
 ; 0x0065288f 奴だな！？
-0x0065288f It's him!
+0x0065288f monsters!?
 
 ; 0x0065289a そんなやつらとは、かかわりたくないんだ。
 0x0065289a I don't want anything to do with them.
@@ -6467,8 +6476,8 @@
 0x006528d4 No more tea.
 
 
-; 0x006528fa Λそれはそうとお前さん、伸び縮みする魔物に出会ったかい？
-0x006528fa By the way, have you met any monsters that grow and shrink?
+; 0x006528fc それはそうとお前さん、伸び縮みする魔物に出会ったかい？
+0x006528fc By the way, have you met any monsters that grow and shrink?
 
 ; 0x00652933 どうやらアイツは、
 0x00652933 Evidently, he...
@@ -6476,8 +6485,8 @@
 ; 0x00652946 金塊を持っているらしんだ。
 0x00652946 He seems to have a gold piece.
 
-; 0x00652962 Λ何、お湯がほしいだと？
-0x00652962 What, you want hot water?
+; 0x00652964 何、お湯がほしいだと？
+0x00652964 What, you want hot tea?
 
 ; 0x0065297b 向こうで働いている鉱夫に
 0x0065297b To a miner working over there.
@@ -6506,8 +6515,8 @@
 ; 0x00652a37 入れ物なら、ここにあるガウ。
 0x00652a37 If you're looking for a container, it's right here.
 
-; 0x00652a5b Λあきれたねぇ。
-0x00652a5b I'm amazed.
+; 0x00652a5d あきれたねぇ。
+0x00652a5d I'm amazed.
 
 ; 0x00652a6c 入れ物まで用意してくるとは。
 0x00652a6c I didn't expect you to prepare a container.
@@ -6681,7 +6690,7 @@
 0x00652fd5 Sorry, gaw.
 
 ; 0x00652fea 　　細工物をもらいました。
-0x00652fea I got a piece of work.
+0x00652fea Received handcrafted item.
 
 ; 0x0065300a 気をつけてね。
 0x0065300a Take care.
@@ -6692,11 +6701,11 @@
 ; 0x00653036 魔力が秘められているから…。
 0x00653036 It's because magic is hidden...
 
-; 0x00653054 掠ごめんね。
-0x00653054 Sorry, graze.
+; 0x00653054 ごめんね。
+0x00653056 Sorry.
 
 ; 0x00653061 役に立てなくて。
-0x00653061 I couldn't help you.
+0x00653061 I can't help you.
 
 ; 0x00653072 やぁ、何か封印について判った
 0x00653072 Hey, I know something about the seal.
@@ -6758,8 +6767,8 @@
 ; 0x006531ed ホラ、あっち行け！！
 0x006531ed Come on, go away!
 
-; 0x00653209 ﾂ8ﾂええぃ、消えろというのが、
-0x00653209 Ugh, just get lost.
+; 0x0065320c ええぃ、消えろというのが、
+0x0065320c Ugh, just get lost.
 
 ; 0x00653227 わからんのか！！
 0x00653227 Don't you get it?!
@@ -6768,10 +6777,10 @@
 0x00653238 Please go away!
 
 ; 0x00653255 俺、こういうの苦手なんだよ…。
-0x00653255 I'm bad at this sort of thing...
+0x00653255 I'm bad at this kinda stuff...
 
 ; 0x00653275 昆また来たのか！
-0x00653275 Kon again!
+0x00653275 Back again!
 
 ; 0x00653286 ここは通行止めだ！
 0x00653286 It's closed!
@@ -7350,13 +7359,13 @@
 0x00654482 Now it's just...
 
 ; 0x00654495 ２０００Ｇｏｌｄ
-0x00654495 2000 gold
+;0x00654495 2000 gold
 
 ; 0x006544a7 ！！
 ;0x006544a7 !
 
 ; 0x006544ac 買いますか？
-0x006544ac Do you want to buy it?
+0x006544ac Buy it?
 
 ; 0x006544bb はい
 0x006544bb Yes
@@ -7365,7 +7374,7 @@
 0x006544c5 No
 
 ; 0x006544d0 ｣ｩ$唐ｿょーっと、
-0x006544d0 Uh-oh.
+;0x006544d0 Uh-oh.
 
 ; 0x006544e1 元気がないようだね。
 0x006544e1 You look down.
@@ -7373,11 +7382,11 @@
 ; 0x006544f6 タット君。
 0x006544f6 Tatto.
 
-; 0x00654507 $浮ｯっこうです。
-0x00654507 Floating.
+; 0x0065450b っこうです。
+0x0065450b Floating.
 
 ; 0x00654519 ｣ｩ$魔ﾈんか落ち込んでるねー。
-0x00654519 You're so depressed.
+;0x00654519 You're so depressed.
 
 ; 0x00654536 じゃあ、そんなタット君には
 0x00654536 Well, that's not for you, Tatto.
@@ -7392,13 +7401,13 @@
 0x0065457f Now.
 
 ; 0x00654587 ２０００Ｇｏｌｄ
-0x00654587 2000 gold
+;0x00654587 2000 gold
 
 ; 0x0065459a とお買得！！
 0x0065459a A bargain!
 
 ; 0x006545a7 買いますか？
-0x006545a7 Do you want to buy it?
+0x006545a7 Buy it?
 
 ; 0x006545b6 はい
 0x006545b6 Yes
@@ -7406,14 +7415,14 @@
 ; 0x006545c0 いいえ
 0x006545c0 No
 
-; 0x006545c9 *僕の食べかけだけど、このリンゴ食べるかい？
-0x006545c9 *It's half-eaten. Do you want this apple?
+; 0x006545ca 僕の食べかけだけど、このリンゴ食べるかい？
+0x006545ca Do you want this half-eaten apple?
 
 ; 0x006545f7 ｣ｩお金が足りないみたいだね。
-0x006545f7 You don't have enough money.
+0x006545f7 Not enough money.
 
 ; 0x00654617 　リンゴ
-0x00654617 Apple
+0x00654617   Apple
 
 ; 0x00654625 　無敵
 0x00654625 Invincible
@@ -7422,13 +7431,13 @@
 0x00654631 There was an elixir in it.
 
 ; 0x00654651 福袋をもらいました。
-0x00654651 I got a lucky bag.
+0x00654651 Got a lucky bag.
 
 ; 0x00654667 掠$xじゃあ、ボクの村はスグそこ
-0x00654667 Well then, my village is just around the corner.
+0x00654667 My village is just around the 
 
 ; 0x00654686 だから寄ってってよ。
-0x00654686 So stop by.
+0x00654686 corner. So stop by.
 
 ; 0x0065469c 掠$yあ！　ああっ！
 0x006546a0 Aaah!
@@ -7670,8 +7679,8 @@
 ; 0x00654e3c がんばってくれよ！
 0x00654e3c Good luck!
 
-; 0x00654e50 Λお茶はうまい。
-0x00654e50 Tea is good.
+; 0x00654e52 お茶はうまい。
+0x00654e52 Tea is good.
 
 
 ; 0x00673db9 メイル
@@ -14809,7 +14818,7 @@
 0x00ccd1b8 No
 
 ; 0x00ccd1be どこにも異常は　ないよ。
-0x00ccd1be Nothing out of the ordinary.
+0x00ccd1be Nothing to heal.
 
 ; 0x00ccd1d8 お大事に‥‥。
 0x00ccd1d8 Take care...
@@ -15816,7 +15825,7 @@
 0x00d1d1b8 No
 
 ; 0x00d1d1be どこにも異常は　ないよ。
-0x00d1d1be Nothing out of the ordinary.
+0x00d1d1be Nothing to heal.
 
 ; 0x00d1d1d8 お大事に‥‥。
 0x00d1d1d8 Take care...
@@ -15936,10 +15945,10 @@
 0x00d318d4 Using the tea the miner was drinking
 
 ; 0x00d318f1 溶かすガウ！！
-0x00d318f1 Melt gaw!!
+0x00d318f1 Gaw!!
 
 ; 0x00d31903 　　　お湯をかけました。
-0x00d31903 I poured hot water on it.
+0x00d31903 Poured hot tea on it.
 
 ; 0x00d31928 あら？
 0x00d31928 Oh?
@@ -15966,7 +15975,7 @@
 0x00d319bf More,
 
 ; 0x00d319c8 お湯が、必要みたいだガウ。
-0x00d319c8 Looks like I need hot water, gaw.
+0x00d319c8 Looks like I need hot tea, gaw.
 
 ; 0x00d319e7 ｡･$ はっ…！
 0x00d319e7 Hah!
@@ -15993,13 +16002,13 @@
 0x00d31a94 Stay that way for a while.
 
 ; 0x00d31ab0 $2だ、大丈夫ですか？
-0x00d31ab0 $2. You okay?
+0x00d31ab0 You okay?
 
 ; 0x00d31ac5 ブラッキィさん。
 0x00d31ac5 Mr. Blacky.
 
 ; 0x00d31ad6 $3ちょっとお湯が、たりなかった
-0x00d31ad6 $3, I didn't have enough water.
+0x00d31ad6 I didn't have enough water.
 
 ; 0x00d31af5 ようです。
 0x00d31af5 Seems so.
@@ -16008,13 +16017,13 @@
 0x00d31b00 Wait a little longer.
 
 ; 0x00d31b20 $>お湯が足りなかったガウ。
-0x00d31b20 $>We didn't have enough water.
+0x00d31b20 We didn't have enough water.
 
 ; 0x00d31b3b もうちょっと、待つガウ。
 0x00d31b3b Wait a little longer, Gaw.
 
 ; 0x00d31b55 ｡･$$助けてくれよー！
-0x00d31b55 $$ Help me!
+0x00d31b55 Help me!
 
 ; 0x00d31b6a 足が寒くて死にそうだ。
 0x00d31b6a My legs are so cold I feel like I'm dying.
@@ -16050,7 +16059,7 @@
 0x00d31c6f He collapsed.
 
 ; 0x00d31c92 $+ほんとにあんた、
-0x00d31c92 $+You really are,
+0x00d31c92 You really are,
 
 ; 0x00d31ca5 しょうがないわねぇ。
 0x00d31ca5 Oh well.
@@ -16059,7 +16068,7 @@
 0x00d31cba Wait a minute.
 
 ; 0x00d31cd7 $8あ、そうだったんですか…。
-0x00d31cd7 $8, I see...
+0x00d31cd7 I see...
 
 ; 0x00d31cf4 ちょっと、待ってくださいね。
 0x00d31cf4 Wait a minute.
@@ -16068,13 +16077,13 @@
 0x00d31d15 You're as dumb as ever, $B. Wait a minute, gaw.
 
 ; 0x00d31d4a 　　　お湯をかけました。
-0x00d31d4a I poured hot water on it.
+0x00d31d4a Poured hot tea on it.
 
 ; 0x00d31d64 ｡･ありがとう。
 0x00d31d64 Thanks.
 
 ; 0x00d31d73 $,助かったよ 。
-0x00d31d73 thanks.
+0x00d31d73 Thanks.
 
 ; 0x00d31d83 それじゃ！！
 0x00d31d83 See you!!
@@ -16110,7 +16119,7 @@
 0x00d31e5b What a bother...
 
 ; 0x00d31e6a どこかに熱ーいお湯でもあれば、いいのだけれど。
-0x00d31e6a I hope there's some hot water somewhere.
+0x00d31e6a I hope there's some hot tea somewhere.
 
 ; 0x00d31e9a 弱ったな。
 0x00d31e9a I'm weak.
@@ -16182,7 +16191,7 @@
 0x00d320e5 Something to melt ice?
 
 ; 0x00d320fa そしたら、お湯しかないだろう
-0x00d320fa Then there’s only hot water, right?
+0x00d320fa Then there’s only hot tea, right?
 
 ; 0x00d32117 けど…。
 0x00d32117 But..
@@ -16191,7 +16200,7 @@
 0x00d32120 Unfortunately, it's not in this country.
 
 ; 0x00d3213d お湯と言ったら、
-0x00d3213d When I say hot water,
+0x00d3213d When I say hot tea,
 
 ; 0x00d3214e もっと、あったかい所じゃないのかなぁ。
 0x00d3214e Isn't this a warmer place?
@@ -16200,7 +16209,7 @@
 0x00d32175 Hey, what's up?
 
 ; 0x00d32186 お湯は見つかったかい？
-0x00d32186 Did you find hot water?
+0x00d32186 Did you find hot tea?
 
 ; 0x00d3219d さっき、ブラッキィとかいう
 0x00d3219d I just saw a guy named Blacky.
@@ -16485,7 +16494,7 @@
 0x00d32b3f $Kwahaha...
 
 ; 0x00d32b50 近くにお湯がなかったんでね。
-0x00d32b50 There's no hot water nearby.
+0x00d32b50 There's no hot tea nearby.
 
 ; 0x00d32b6d $Lほかに方法が、思いつかなかったんだ。
 0x00d32b6d I couldn't think of another way.
@@ -17036,7 +17045,7 @@
 0x00d6d1b8 No
 
 ; 0x00d6d1be どこにも異常は　ないよ。
-0x00d6d1be Nothing out of the ordinary.
+0x00d6d1be Nothing to heal.
 
 ; 0x00d6d1d8 お大事に‥‥。
 0x00d6d1d8 Take care...
@@ -17578,7 +17587,7 @@
 0x00dbd1b8 No
 
 ; 0x00dbd1be どこにも異常は　ないよ。
-0x00dbd1be Nothing out of the ordinary.
+0x00dbd1be Nothing to heal.
 
 ; 0x00dbd1d8 お大事に‥‥。
 0x00dbd1d8 Take care...

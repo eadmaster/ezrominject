@@ -31,6 +31,9 @@
    - `PopfulMail (English).cue` (Jap dub)
    - `PopfulMail (English)(dub).cue` (Eng dub)
 
+> [!NOTE]
+> To play the cutscenes correctly in the English-dubbed version without glitches, use the [non-fast beetle libretro core](https://github.com/libretro/beetle-pce-libretro) and set the core option "PC Engine CD->CD Speed" at 8x.
+
 
 # Credits/Contributors/Special thanks  🤝
 

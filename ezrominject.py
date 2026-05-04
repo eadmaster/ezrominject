@@ -337,16 +337,7 @@ def run_injection(jap_path, eng_path, rom_path):
             continue
         
         text = parts[1]
-        
-        # Rule: If first char is single-byte ASCII, increment address and skip that char
-        #if len(text) > 0 and ord(text[0]) < 255:
-        #    addr_int += 1
-        #    text = text[1:]
-        #    # 2nd formatting char
-        #    if len(text) > 0 and ord(text[0]) < 255:
-        #        addr_int += 1
-        #        text = text[1:]
-                
+                        
         # strip 1-byte chars from the beginning
         #while len(text) > 0 and is_sjis_single_byte(text[0]):
         #    addr_int += 1
