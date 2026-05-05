@@ -6052,17 +6052,3 @@
 ; 0x0a39fecc 私が相手よッ！
 0x0a39fecc I'm the opponent!
 
-
-
-
-; 0x0a3a0738 き、今日は雪ね。
-0x0a3a0738 S-Snow today.
-
-; 0x0a3a074e そうかこれは夢だわ。
-0x0a3a074e I see. This is a dream.
-
-; 0x0a3a0768 …すごい…。
-0x0a3a0768 ...Wow...
-
-; 0x0a3a07b4 き、今日は雪ね。
-0x0a3a07b4 S-Snow today.

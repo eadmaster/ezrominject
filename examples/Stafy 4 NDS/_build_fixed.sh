@@ -43,11 +43,12 @@ for f in jizou_st*_l.NCGR jizou_st*_l.NCER; do
 done
 cd ..
 
-# extract and patch map legend embedded gfx from overlay
-#sfk partcopy "Densetsu no Stafy 4 (Japan)/overlay/main_0013.bin" 0x11B810 0x2426 gfx/811B810_lzss_jap.bin -yes  # extract original
-# sfk partcopy "Densetsu no Stafy 4 (Japan)/overlay/main_0013.bin" 0x11DC38 0x1A9 811DC38_lzss.bin -yes  # palette
-# cp /r/811B810_lzss_eng.bin . ; truncate --reference 811B810_lzss_jap.bin 811B810_lzss_eng.bin
-sfk partcopy gfx/811B810_lzss_eng.bin 0x0 0x2426 "Densetsu no Stafy 4 (Japan)/overlay/main_0013.bin" 0x11B810  -yes  # patch inside the overlay file
+# extract and patch map legend embedded gfx inside the overlay
+# sfk partcopy "Densetsu no Stafy 4 (Japan)/overlay/main_0013.bin" 0x11B810 0x2426 gfx/811B810_lzss_jap.bin -yes  # extract original gfx
+# sfk partcopy "Densetsu no Stafy 4 (Japan)/overlay/main_0013.bin" 0x11DC38 0x1A9 811DC38_lzss.bin -yes  # extract palette
+# cp /r/811B810_lzss_eng_unpadded.bin gfx/811B810_lzss_eng.bin 
+# truncate --reference gfx/811B810_lzss_jap.bin gfx/811B810_lzss_eng.bin  # add padding
+sfk partcopy gfx/811B810_lzss_eng.bin 0x0 0x2426 "Densetsu no Stafy 4 (Japan)/overlay/main_0013.bin" 0x11B810  -yes  # patch
 
 # repack with custom font and gfx with NitroPacker https://github.com/haroohie-club/NitroPacker
 NitroPacker pack -p "Densetsu no Stafy 4 (Japan)/Densetsu no Stafy 4 (English).json" -r "$OUTPUT_ROM"
@@ -57,6 +58,9 @@ NitroPacker pack -p "Densetsu no Stafy 4 (Japan)/Densetsu no Stafy 4 (English).j
 sed "s/'/｀/g; s/-/ー/g"  *_eng.txt > "/tmp/eng.txt"  # ensure supported chars
 python ../../ezrominject.py *_jap.txt "/tmp/eng.txt" "$OUTPUT_ROM" --ascii-bios-hack
 #NOT WORKING: --ascii-mode
+
+# patch game Banner Title (utf16le-encoded, multiple occurrences) でんせつのスタフィー4  -> Ｓｔａｒｆｙ－４
+sfk replace "$OUTPUT_ROM" -binary /673093305B3064306E30B930BF30D530A330FC3034/33FF54FF41FF52FF46FF59FF0DFF14FF0000000000/  -yes
 
 # generate xdelta patch
 xdelta3 -S none -f -e -s "$INPUT_ROM" "$OUTPUT_ROM"  "$OUTPUT_ROM.xdelta"

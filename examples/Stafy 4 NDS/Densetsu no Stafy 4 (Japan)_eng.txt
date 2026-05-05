@@ -13084,7 +13084,7 @@
 0x001634ae Catcher Naruse #5
 
 ; 0x001634cb でんせつのスタまるフィーたろう
-0x001634cb Densetsu no Stalled Fie
+0x001634cb Legendary Starfy Fie
 
 ; 0x001634fc スペシャルサンクス
 0x001634fc Special Thanks
@@ -13093,7 +13093,7 @@
 0x00163515 How´s that?
 
 ; 0x00163524 おとむら　ゆき
-0x00163524 Dad, Yuki.
+0x00163524 Dad, Yuki
 
 ; 0x00163533 かわしま　えりこ
 0x00163533 Eriko Dodge
@@ -46020,7 +46020,7 @@
 0x0080ee1b Moe
 
 ; 0x0080ee26 ん？　でんせつのスタフィー
-0x0080ee26 Hm? Densetsu Stuffy
+0x0080ee26 Hm? Legendary Starfy
 
 ; 0x0080ee41 を知ってるかって？？
 0x0080ee41 Do you know??
@@ -47574,7 +47574,7 @@
 0x0081227c Hm? What´s with the small letters?
 
 ; 0x00812295 でんせつの　スタフィー
-0x00812295 Densetsu Stuffy
+0x00812295 Legendary Starfy
 
 ; 0x008122ac さんじょう！？！？
 0x008122ac Sanjo?!
@@ -47595,7 +47595,7 @@
 0x00812345 Moe
 
 ; 0x00812350 でんせつのスタフィー４
-0x00812350 Densetsu Stuffy 4
+0x00812350 Legendary Starfy 4
 
 ; 0x00812367 しんじつの　あいを
 0x00812367 Shinjitsu no Ai
