@@ -1,473 +1,6068 @@
 
-0x0a39a2c6 Wait up! Miss.
-0x0a39a316 If ya value yer life, leave ev’rythin’ behind!
-0x0a39a352 Let’s play, bros!
-0x0a39a3ae …Seems talkin’ won’t work with ya.
-0x0a39a3ea Geez, just grunts.
-0x0a39a410 No way!
-0x0a39a472 Sorry ‘bout this!
-0x0a39a4ba Huh!? Wha—what!
-0x0a39a4cd Ketsu Eiman
-0x0a39a608 What? Who’re you!?
-0x0a39a62c Hand over the cargo!
-0x0a39a662 Hired hand
-0x0a39a6a6 Look toward sound
-0x0a39a6bc Ignore it
-0x0a39a73a Boat needs sail, sail needs boat….
-0x0a39a766 Clench: fist. Open: palm….
-0x0a39a790 No second chances….
-0x0a39a7b8 Huh…?
+
+;; MENU MSGS
+
+; 0x000c00a4 万能ツルハシを手に入れた！
+0x000c00a4 Got an almighty pickax!
+
+; 0x000c00c0 これで壊れそうな壁を崩しちゃえ！
+0x000c00c0 Now break down the wall that looks like it might break!
+
+; 0x000c34a0 この壁は崩せそうだけど…。
+0x000c34a0 This wall looks like it could collapse...
+
+; 0x000c34bc 何か道具はないかなあ…。
+0x000c34bc I wonder if there's a tool...
+
+
+; 0x000cc4d8 快速天使
+0x000cc4d8 Rapid Angel
+
+; 0x000cc4e4 快速天使　オールクリアー　ドルチェと雇われ剣士が使用可能
+0x000cc4e4 Rapid Angel All Clear: Dolce and Hired Swordsman unlocked
+
+; 0x000cccd4 メモリーカードを検査中
+0x000cccd4 Checking memory card
+
+; 0x000cccec ロード中
+0x000cccec Load
+
+; 0x000cccf8 ロードは完了しました
+0x000cccf8 Load complete
+
+; 0x000ccd10 ロードは失敗しました
+0x000ccd10 Load failed
+
+; 0x000ccd28 セーブ中
+0x000ccd28 Save
+
+; 0x000ccd34 セーブは完了しました
+0x000ccd34 Save complete
+
+; 0x000ccd4c セーブは失敗しました
+0x000ccd4c Save failed
+
+; 0x000ccd64 メモリーカードが挿入されていません
+0x000ccd64 No memory card inserted
+
+; 0x000ccd88 メモリーカードが初期化されていません
+0x000ccd88 Memory card not initialized
+
+; 0x000ccdb0 初期化しますか？　はい／いいえ
+0x000ccdb0 Initialize? Yes/No
+
+; 0x000ccdd0 初期化中
+0x000ccdd0 Initialize
+
+; 0x000ccddc 初期化に失敗しました
+0x000ccddc Failed to initialize
+
+; 0x000ccdf4 データが存在していません
+0x000ccdf4 Save not found
+
+; 0x000cce10 データが破壊されています
+0x000cce10 Data is corrupted
+
+; 0x000cce2c すでにデータが存在しています
+0x000cce2c Data already exists
+
+; 0x000cce4c メモリーカードが差し替えられています
+0x000cce4c Memory card has been replaced
+
+; 0x000cce74 上書きしますか？　はい／いいえ
+0x000cce74 Overwrite?       Yes / No
+
+; 0x000cce94 空きブロックが足りません
+0x000cce94 Not enough blocks
+
+; 0x000cceb0 もう一度セーブしますか？　はい／いいえ
+0x000cceb0 Save again?             Yes / No
+
+; 0x000cd008 もう一度ロードしますか？　はい／いいえ
+0x000cd008         Retry?          Yes / No
+
+; 0x000cd030 ロードしませんでした
+0x000cd030 No save loaded
+
+
+; DIALOGUES:
+
+; 0x0a2e1468 待ちなッ！嬢ちゃん。
+0x0a2e1468 Wait! Miss.
+
+; 0x0a2e14b8 お嬢ちゃん荷物を渡しな！
+0x0a2e14b8 Young lady, give me your stuff!
+
+; 0x0a2e14dc 可愛がってやるぜぇー！
+0x0a2e14dc I'm gonna love you!
+
+; 0x0a2e1500 お兄ちゃん達と遊ぼうぜぇー。
+0x0a2e1500 Let's play with Onii-chan.
+
+; 0x0a2e155e アンタ達、鏡見たことあんのッ！？
+0x0a2e155e Have you guys seen a mirror?!
+
+; 0x0a2e15a2 うっわー　汗臭そう…！
+0x0a2e15a2 Wow, it smells like sweat!
+
+; 0x0a2e1614 ごめんなすって
+0x0a2e1614 I'm sorry.
+
+; 0x0a2e17a8 ごめん　て、なにが？
+0x0a2e17a8 I'm sorry. What?
+
+; 0x0a2e17cc お荷物ちょうだい！
+0x0a2e17cc Give me your bag!
+
+; 0x0a2e1802 雇われ
+;0x0a2e1802 Hired.
+
+; 0x0a2e1848 音のする方を見る
+0x0a2e1848 I look at the sound.
+
+; 0x0a2e185e 無視する
+0x0a2e185e Ignore him
+
+; 0x0a2e18dc たまたま起きて猫踏み潰す…。
+0x0a2e18dc I happen to wake up and crush the cat...
+
+; 0x0a2e1906 玉磨かざれば光なし…。
+0x0a2e1906 There's no light if you hold it up...
+
+; 0x0a2e192a 柳に風折れなし…。
+0x0a2e192a No wind broke in the willow...
+
+; 0x0a2e1954 はあ…？
+0x0a2e1954 Huh...?
+
+; 0x0a2e19d6 ああ〜っ！待ってまって〜！
+0x0a2e19d6 Aaah! Wait, wait!
+
+; 0x0a2e1a40 くっくっくっ　お嬢さん！
+0x0a2e1a40 *cackle*cackle* Miss!
+
+; 0x0a2e1a6c 悪いがその荷物。置いていってもらおうか！
+0x0a2e1a6c Sorry, but could you leave your stuff behind?
+
+; 0x0a2e1ab4 厚かましい追剥ぎね！
+0x0a2e1ab4 A shameless pursuit!
+
+; 0x0a2e1af2 雇われ
+0x0a2e1af2 Hired.
+
+; 0x0a2e1b1a とってもいやーんっ！！
+0x0a2e1b1a Nooooo!!
+
+; 0x0a2e1b56 野盗頭
+;0x0a2e1b56 Nozoto
+
+; 0x0a2e1b94 げへげへ。
+0x0a2e1b94 Gehehe.
+
+; 0x0a2e1baa 生意気そうなねーちゃんだぜ。
+0x0a2e1baa You're so cheeky.
+
+; 0x0a2e1bd2 おとなしく荷物を渡せば命は助けてやるぜ？
+0x0a2e1bd2 If you give me your things quietly, I'll spare your life, you know?
+
+; 0x0a2e1c0e 渡す訳ないでしょ！
+0x0a2e1c0e There's no way I'd hand it over!
+
+; 0x0a2e1c26 そこ、退いてくんない？
+0x0a2e1c26 Will you retreat?
+
+; 0x0a2e1c42 いやーん。たすけてぇ！
+0x0a2e1c42 Nooo! Help!
+
+; 0x0a2e1c94 渡す訳ないでしょ！
+0x0a2e1c94 There's no way I'd hand it over!
+
+; 0x0a2e1cbe じゃあしょうがねぇなぁ。
+0x0a2e1cbe Then there's no helping it.
+
+; 0x0a2e1cdc 腕ずくでいただくぜェー！
+0x0a2e1cdc I'll do it by force!
+
+; 0x0a2e1d10 見逃してあげるから。そこ、退いてくんない？
+0x0a2e1d10 I'll let you go. Can you retreat?
+
+; 0x0a2e1d62 てめー、超むかつくって言うかぁ？
+0x0a2e1d62 You're pissing me off?
+
+; 0x0a2e1d8e まじぶっ殺すって感じぃー？
+0x0a2e1d8e Seriously, it feels like I'm gonna kill you?
+
+; 0x0a2e1dc8 いやーん。たすけてぇ！
+0x0a2e1dc8 Nooo! Help!
+
+; 0x0a2e1df2 そうかそうか、助けてほしいか…。
+0x0a2e1df2 I see, I see, she wants help...
+
+; 0x0a2e1e1e げへげへ…。
+0x0a2e1e1e Gehehe...
+
+; 0x0a2e1e36 でもやっぱブッ殺ぉぉす！！！
+0x0a2e1e36 But I'm gonna kill you!!!
+
+; 0x0a2e1e6a そんな事だと思った…！
+0x0a2e1e6a That's what I thought!
+
+; 0x0a2e1f8c はい・華鈴よ
+;0x0a2e1f8c Yes, karin.
+
+; 0x0a2e2110 あ・社長ォ？待ち伏せを受けちゃいました！
+0x0a2e2110 Oh, President? I got ambushed!
+
+; 0x0a2e216c えっ？
+0x0a2e216c Eh?
+
+; 0x0a2e2182 いや、心配要りませんよ。ただの山賊です！
+0x0a2e2182 No, don't worry. I'm just a bandit!
+
+; 0x0a2e21b6 これから最短ルートで鉄道に向かいまーす！
+0x0a2e21b6 We're taking the shortest route to the railway!
+
+; 0x0a2e220a え？そっそう分かったわ…気を付けて。
+0x0a2e220a Huh? I-I get it... Be careful.
+
+; 0x0a2e223a また何かあったら、すぐに知らせてねッ！
+0x0a2e223a Let me know if anything else happens!
+
+; 0x0a2e2270 イエス・サー！
+0x0a2e2270 Yes sir!
+
+; 0x0a2e22d0 あ・社長ォ？待ち伏せを受けちゃいました！
+0x0a2e22d0 Oh, President? I got ambushed!
+
+; 0x0a2e232c えっ？何ですって！
+0x0a2e232c Huh? What?!
+
+; 0x0a2e234e いや、心配要りませんよ。ただの山賊ですから！
+0x0a2e234e No, don't worry. I'm just a bandit!
+
+; 0x0a2e2386 これから最短ルートで鉄道に向かいますね！
+0x0a2e2386 We're taking the shortest route to the railway!
+
+; 0x0a2e23da そっ　そう分かったわ…気を付けて！
+0x0a2e23da I-I get it... Be careful!
+
+; 0x0a2e2408 何かあったら、すぐに知らせるのよッ！
+0x0a2e2408 If anything happens, let me know!
+
+; 0x0a2e243c はーい！
+0x0a2e243c Okay!
+
+; 0x0a2e2496 あ・社長ォ！？待ち伏せを受けちゃいました！
+0x0a2e2496 Oh, President?! I was ambushed!
+
+; 0x0a2e24f4 ええっ！？何ですって！
+0x0a2e24f4 What?! What?!
+
+; 0x0a2e251a いや、山賊は軽く蹴散らしてやったんですけど…。
+0x0a2e251a No, I just gave the bandits a light kick...
+
+; 0x0a2e2574 あッ！いや・何でもないですぅ！
+0x0a2e2574 Ah! It's nothing!
+
+; 0x0a2e25be そ・そう。
+0x0a2e25be Y-Yes.
+
+; 0x0a2e25d4 …とにかく、もし配達が困難なら…
+0x0a2e25d4 ...Anyway, if delivery is difficult...
+
+; 0x0a2e2600 夏実と交代してもらいなさい。
+0x0a2e2600 Have Natsumi switch with me.
+
+; 0x0a2e2648 えっ！！夏実！？
+0x0a2e2648 Eh!! Natsumi!?
+
+; 0x0a2e2664 いやっ　へ…平気です！
+0x0a2e2664 I-I'm fine!
+
+; 0x0a2e2686 あっそろそろ行かなきゃ！報告終わりー！
+0x0a2e2686 Oh, it's time to go! The report's over!
+
+; 0x0a2e26bc ちっちょっと！絢音…！？
+0x0a2e26bc H-Hey! Ayane...!?
+
+; 0x0a2e2722 ふう…。
+0x0a2e2722 Whew.
+
+; 0x0a2e2736 夏実に貸しを作るなんて冗談じゃない！
+0x0a2e2736 I'm not joking when I say I owe Natsumi!
+
+; 0x0a2e278e 雇われ
+0x0a2e278e Hired.
+
+; 0x0a2e27e8 くっくっくっ！今度は逃さんぞ！
+0x0a2e27e8 Heh heh heh! I won't let you go this time!
+
+; 0x0a2e281e うわあ！しつっこい追剥ぎねぇ！
+0x0a2e281e Wow! You're so persistent!
+
+; 0x0a2e2850 なにっ！？追剥ぎだとッ！？
+0x0a2e2850 What!? Purging!?
+
+; 0x0a2e2898 親分てぇへんだ！てぇへんだ！
+0x0a2e2898 Boss is weird! Tee hee!
+
+; 0x0a2e29fa なんでぇ　また殺しかよ！
+0x0a2e29fa Why did you kill me again?!
+
+; 0x0a2e2a28 おい！はぎ！行くぜ！
+0x0a2e2a28 Oi! Hagi! Let's go!
+
+; 0x0a2e2a52 へい！親分！
+0x0a2e2a52 Yo! Boss!
+
+; 0x0a2e2a74 って、そりゃ『おい！はち！』でんがなーっっ！！
+0x0a2e2a74 Wait, that's 'Hey! Hachi!'!!
+
+; 0x0a2e2b82 らっきー！ないす、たいみんぐー！
+0x0a2e2b82 Rakki! Nasu, Taiminguu!
+
+; 0x0a2e2bd6 ふーっ　びっくりしたー！
+0x0a2e2bd6 Wow, that was a shock!
+
+; 0x0a2e2c22 美人薄命て言うから
+0x0a2e2c22 She says she's beautiful, but she doesn't live long.
+
+; 0x0a2e2c4c もう駄目かと思ったわぁ！
+0x0a2e2c4c I thought it was over!
+
+; 0x0a2e2c92 魔法機士
+0x0a2e2c92 Magic mechanic
+
+; 0x0a2e2cbe コロス
+0x0a2e2cbe Colos
+
+; 0x0a2e2d14 …ありゃー。
+0x0a2e2d14 ...Oh.
+
+; 0x0a2e2d2c こりゃ昇れそうもないわねェ。
+0x0a2e2d2c I don't think I'll be able to climb this.
+
+; 0x0a2e2daa ？やーねぇ、壊れたのかしら？
+0x0a2e2daa Huh? Did it break?
+
+; 0x0a2e2dea だーめだ　こりゃ！
+0x0a2e2dea No, no, no!
+
+; 0x0a2e2e38 取敢えず、奥でも行ってみよっかなーっと！
+0x0a2e2e38 I think I'll go in the back!
+
+; 0x0a2e2e80 困ったなー。
+0x0a2e2e80 What a bother.
+
+; 0x0a2e2ea0 …ま・どうにかなるわね！
+0x0a2e2ea0 ...Well, it'll work out!
+
+; 0x0a2e2ed8 あーあ…　やだナー！
+0x0a2e2ed8 Aww... No!
+
+; 0x0a2e2f04 絶対奥になんかいるわよッ！ここぉ…！
+0x0a2e2f04 There's definitely something inside! Here...!
+
+; 0x0a2e2f62 山田博士
+0x0a2e2f62 Dr. Yamada
+
+; 0x0a2e2f72 平山博士
+0x0a2e2f72 Dr. Hirayama
+
+; 0x0a2e2f82 北博士
+0x0a2e2f82 Kitahakase
+
+; 0x0a2e2fbc はははっ　見たまえ！この美しいボディを！
+0x0a2e2fbc Hahaha! Look at this beautiful body!
+
+; 0x0a2e2ff0 まるで伝説の魔神兵団のごとき力強さではないか！
+0x0a2e2ff0 It's as powerful as the legendary Archon Corps!
+
+; 0x0a2e303e まっ半分以上はボクのおかげだけどね。
+0x0a2e303e More than half of it is thanks to me.
+
+; 0x0a2e308a あら？制御部品の９７％は私の技術開発によるものよ？
+0x0a2e308a Oh? 97 percent of the control parts are from my technological development.
+
+; 0x0a2e312c まあ　お客様だわ。
+0x0a2e312c Well, it's a guest.
+
+; 0x0a2e315e ほんとだ。でもこの事態は予想され得た事だよ。
+0x0a2e315e You're right. But this situation was predictable.
+
+; 0x0a2e31aa プラットフォーム緊急撤去。
+0x0a2e31aa Platform emergency removal.
+
+; 0x0a2e31d0 起動モード。全自動全動態殺戮モード。
+0x0a2e31d0 Activate mode. Full automatic, full dynamic killing mode.
+
+; 0x0a2e334c 全てを焼き尽くせ、うはははははー！
+0x0a2e334c Burn everything to the ground, uhahahahaha!
+
+; 0x0a2e33b0 こらー！ゴミは持って帰れー！！
+0x0a2e33b0 Hey! Take the trash home!
+
+; 0x0a2e33fe うははははー　や、ないがな！
+0x0a2e33fe Uhahahaha! No, I don't!
+
+; 0x0a2e344a うっわー！硬そぉー！
+0x0a2e344a Wow! It's so hard!
+
+; 0x0a2e34f0 やれやれ、丁度いい準備運動だったわ！
+0x0a2e34f0 Man, that was just the right warm-up!
+
+; 0x0a2e3534 はあー！やっぱ外の空気が一番ね！
+0x0a2e3534 *sigh* The outside air is the best!
+
+; 0x0a2e3574 やったー！外ぉ〜…！
+0x0a2e3574 Yay! Outside!
+
+; 0x0a2e35a2 さすがに、もう外に出らんないんじゃないかと思ったわ…。
+0x0a2e35a2 I didn't think she'd be able to go outside anymore...
+
+; 0x0a2e36ca はいはーいっ。こちら絢音ちゃん！
+0x0a2e36ca Yes, yes. This is Ayane!
+
+; 0x0a2e370a はいはいぢゃないわよッ！
+0x0a2e370a Yes, yes, it's not!
+
+; 0x0a2e372e どこ行ってんのアンタはッ！！
+0x0a2e372e Where the hell are you?!
+
+; 0x0a2e375a 何だ夏実かぁ…何か用？
+0x0a2e375a Oh, it's you, Natsumi. What do you want?
+
+; 0x0a2e3780 何か用じゃないっ！
+0x0a2e3780 What do you want?!
+
+; 0x0a2e37ae はぁーい、絢音です！
+0x0a2e37ae Yes, I'm Ayane!
+
+; 0x0a2e37e2 絢音！私よッ！今どこ！？
+0x0a2e37e2 Ayane! It's me! Where are you?!
+
+; 0x0a2e380a 何だ夏実か…何よ、やぶから棒にぃ！
+0x0a2e380a Oh, it's just Natsumi... What's with the stick?
+
+; 0x0a2e383c 何って…！
+0x0a2e383c What...?!
+
+; 0x0a2e3862 あーい、だれー？
+0x0a2e3862 Whoa, whoa!
+
+; 0x0a2e3892 私よ！私！
+0x0a2e3892 Me! Me!
+
+; 0x0a2e38a8 アンタいまドコにいんの！？
+0x0a2e38a8 Where are you now!?
+
+; 0x0a2e38ee え？　和多　志さん？
+0x0a2e38ee Huh? Watashi-san?
+
+; 0x0a2e3910 んー　変わった御名前ですねぇ…。
+0x0a2e3910 Hmm, what a strange name...
+
+; 0x0a2e395c …ケンカ売ってんのアンタ！
+0x0a2e395c Are you trying to pick a fight?!
+
+; 0x0a2e39a2 やーねー！冗談もわかんないのかしら…？
+0x0a2e39a2 No way! Can't you even tell a joke?
+
+; 0x0a2e39f4 ふー…。分かりたくも無いわよ！
+0x0a2e39f4 Phew... I don't want to know!
+
+; 0x0a2e3a20 あっ！そんな事より…。
+0x0a2e3a20 Ah! Anyway...
+
+; 0x0a2e3a66 驚いたわよ！華鈴社長からいきなり連絡もらって！
+0x0a2e3a66 I'm surprised! I got a call from president kasuzu!
+
+; 0x0a2e3aa4 連絡ぅ？
+0x0a2e3aa4 Call?
+
+; 0x0a2e3abc え？誰かに待ち伏せされたって…。
+0x0a2e3abc Huh? Someone ambushed me...
+
+; 0x0a2e3b08 …ああ、あれ！
+0x0a2e3b08 ...Ah, that!
+
+; 0x0a2e3c58 した事じゃないわよ！
+0x0a2e3c58 I didn't do it!
+
+; 0x0a2e3c78 山賊とか追剥ぎとかがほんの２・３百人出ただけ…。
+0x0a2e3c78 There were only two or three hundred bandits and chasers...
+
+; 0x0a2e3cb6 ま・私にかかれば赤子も同ぉ然だったけどね！
+0x0a2e3cb6 Well, he was like a baby to me!
+
+; 0x0a2e3cec ほーほほほほほっ！！
+0x0a2e3cec Hohohohoho!!
+
+; 0x0a2e3d10 はいはい…冗談はもういいから！
+0x0a2e3d10 Yes, yes... Enough joking around!
+
+; 0x0a2e3d56 とにかく！
+0x0a2e3d56 Anyway!
+
+; 0x0a2e3d88 少しでも危険があるのならそこで待ってなさい！
+0x0a2e3d88 If there's even a little danger, wait there!
+
+; 0x0a2e3dc0 私が代わりに配達するわッ！
+0x0a2e3dc0 I'll deliver for you!
+
+; 0x0a2e3e06 何よそれ。
+0x0a2e3e06 What is that?
+
+; 0x0a2e3e1c 心配ないって言ってるでしょっ！
+0x0a2e3e1c Don't worry, I told you!
+
+; 0x0a2e3e4a 信用出来ない！
+0x0a2e3e4a I can't trust you!
+
+; 0x0a2e3e92 ふーん。でもなぁー。
+0x0a2e3e92 Hmm. But...
+
+; 0x0a2e3eb6 なによ！
+0x0a2e3eb6 What?!
+
+; 0x0a2e3ece 私の足なら、夏実が来るまでに
+0x0a2e3ece With my legs, I could make it before Natsumi came.
+
+; 0x0a2e3ef6 こっから３００往復は出来ちゃうのになー。
+0x0a2e3ef6 It'll be 300 round trips from here.
+
+; 0x0a2e3f2a 時間の無駄だなーいいのかなー？
+0x0a2e3f2a It's a waste of time, isn't it?
+
+; 0x0a2e3f58 そっ　そこドコよ！
+0x0a2e3f58 Th-That's it!
+
+; 0x0a2e3fa2 えーと？大渇湖（だいかつこ）の南端かしら…。
+0x0a2e3fa2 Let's see... I wonder if it's on the south end of Lake Daikatsu...
+
+; 0x0a2e3fde ふーん。おもしろい！
+0x0a2e3fde Hmm. Interesting!
+
+; 0x0a2e4008 私いま、日保市（ひぼし）にいるの！
+0x0a2e4008 I'm in Hiboshi!
+
+; 0x0a2e406e えっ！会社じゃないの！？
+0x0a2e406e Huh? It's not a company?!
+
+; 0x0a2e4096 ３００往復されない内に追いつけると思うけどー！
+0x0a2e4096 I think I'll be able to catch up to you in 300 trips!
+
+; 0x0a2e40d0 追いついたらそこで交代ね！じゃ！
+0x0a2e40d0 Once we catch up, we'll switch there! See you!
+
+; 0x0a2e4112 あっ！夏実…！
+0x0a2e4112 Ah! Natsumi!
+
+; 0x0a2e4168 …ずっるーいっ！
+0x0a2e4168 ...No fair!
+
+; 0x0a2e4184 ちっくしょー！見てろ！
+0x0a2e4184 Dammit! Watch!
+
+; 0x0a2e41ca 雇われ
+0x0a2e41ca Hired.
+
+; 0x0a2e4210 ふふっ　お遊びは終わりだ！
+0x0a2e4210 Hehe, the game's over!
+
+; 0x0a2e4242 うっ…まだ生きてたの。いい加減諦めたら？
+0x0a2e4242 Ugh... I'm still alive. Why don't you give up already?
+
+; 0x0a2e428a 一度受けた仕事を途中で投げ出す訳にはいかん！
+0x0a2e428a I can't give up on a job I've already accepted!
+
+; 0x0a2e42cc こんごう重工とのこんごう（今後）の付き合いもあるしな…。
+0x0a2e42cc I have to deal with kongo heavy industries in the future...
+
+; 0x0a2e431c へ…？こんごう重工？
+0x0a2e431c Huh? Kongo Heavy Industries?
+
+; 0x0a2e4348 問答無用！
+0x0a2e4348 No questions!
+
+; 0x0a2e436e 雇われ
+0x0a2e436e Hired.
+
+; 0x0a2e4396 またこんごう（今度）〜。
+0x0a2e4396 See you later!
+
+; 0x0a2e43d2 エドナ
+0x0a2e43d2 Edna
+
+; 0x0a2e440c 待ちな！
+0x0a2e440c Wait!
+
+; 0x0a2e4434 見逃してやるから
+0x0a2e4434 I'll let you go.
+
+; 0x0a2e4450 荷物を置
+0x0a2e4450 Put the bags down
+
+; 0x0a2e45e2 それが、人にモノを頼む態度？
+0x0a2e45e2 Is that how you ask people for things?
+
+; 0x0a2e4616 頼む？馬鹿かてめー。俺は命令してんだ！
+0x0a2e4616 Please? You idiot. I'm ordering you!
+
+; 0x0a2e4660 また追剥ぎ？今日は一体何なの？
+0x0a2e4660 Another one? What the hell is going on today?
+
+; 0x0a2e469a あ？追剥ぎ？
+0x0a2e469a Huh? Purging?
+
+; 0x0a2e46ba 俺をなめてんのか！？
+0x0a2e46ba Are you mocking me?!
+
+; 0x0a2e46f6 態度のでかい女ね！
+0x0a2e46f6 You're a big-hearted woman!
+
+; 0x0a2e4720 口の聞き方を知らねー女だな！
+0x0a2e4720 She doesn't know how to talk!
+
+; 0x0a2e4762 エドナ
+0x0a2e4762 Edna
+
+; 0x0a2e4782 これで勝ったとおもうなー！
+0x0a2e4782 I think I won!
+
+; 0x0a2e47ee よーし！夏実はまだ来てないみたいね！
+0x0a2e47ee Okay! Looks like Natsumi isn't here yet!
+
+; 0x0a2e481e ふふふーっ。
+0x0a2e481e Hehehe.
+
+; 0x0a2e4856 ホビー
+0x0a2e4856 Hobby
+
+; 0x0a2e4890 ここまでよ！
+0x0a2e4890 That's it!
+
+; 0x0a2e48ac またレオタード女？
+0x0a2e48ac Another leotard?
+
+; 0x0a2e48de ホビー
+0x0a2e48de Hobby
+
+; 0x0a2e48fe 覚えてなさい！
+0x0a2e48fe Remember!
+
+; 0x0a2e4946 雇われ
+0x0a2e4946 Hired.
+
+; 0x0a2e4980 ふふっ　お遊びは終わりだ！
+0x0a2e4980 Hehe, the game's over!
+
+; 0x0a2e49b2 まだ来るの…？
+0x0a2e49b2 Still coming...?
+
+; 0x0a2e49d8 もうその顔見飽きたぁ！
+0x0a2e49d8 I'm sick of seeing your face!
+
+; 0x0a2e4a0a 黙れッ！今度は本気だ！
+0x0a2e4a0a Shut up! I'm serious!
+
+; 0x0a2e4a38 ウキーッウキキッ！
+0x0a2e4a38 Ukii, ukikii!
+
+; 0x0a2e4a60 それはモンキーでんがなーッ！！
+0x0a2e4a60 That's Monkey!!
+
+; 0x0a2e4a8e …それ、ギャグ？
+0x0a2e4a8e Is that a joke?
+
+; 0x0a2e4af2 売り子
+0x0a2e4af2 Soldier
+
+; 0x0a2e4b48 あー、しつっこかった！
+0x0a2e4b48 Ah, that was persistent!
+
+; 0x0a2e4b72 リンゴいらんかねー。
+0x0a2e4b72 I don't need apples.
+
+; 0x0a2e4ba2 さあて急がなきゃ！
+0x0a2e4ba2 Now, let's hurry!
+
+; 0x0a2e4bd0 そこの綺麗なお嬢さん！
+0x0a2e4bd0 That pretty young lady!
+
+; 0x0a2e4bf2 りんご　どうかね…？
+0x0a2e4bf2 How's the apple...?
+
+; 0x0a2e4c26 あら！綺麗だなんて分かってるじゃーん！
+0x0a2e4c26 Oh! You know it's pretty!
+
+; 0x0a2e4c60 でも、急いでるから要らなーい。
+0x0a2e4c60 But I'm in a hurry, so I don't need it.
+
+; 0x0a2e4c8e そー言わずに一つ位どうだね？安くしとくよぉ！
+0x0a2e4c8e Don't say that. How about one? I'll make it cheap!
+
+; 0x0a2e4cd2 んーごめん、私急いでるの！
+0x0a2e4cd2 Sorry, I'm in a rush!
+
+; 0x0a2e4cfc 後生だから買っとくれよ〜。
+0x0a2e4cfc It'll be in the future, so buy it.
+
+; 0x0a2e4d3a ねぇねぇ！
+0x0a2e4d3a Hey hey!
+
+; 0x0a2e4d58 今日はまだ一つも売れてないんだよぉ…。
+0x0a2e4d58 I haven't sold a single one today...
+
+; 0x0a2e4eca もうしつこいなー！
+0x0a2e4eca You're persistent!
+
+; 0x0a2e4ef0 じゃ　一個だけ買うわよ！いくら？
+0x0a2e4ef0 Then I'll buy one! How much?
+
+; 0x0a2e4f20 へいへい毎度！
+0x0a2e4f20 Hey, hey, hey!
+
+; 0x0a2e4f3a うおりゃー！
+0x0a2e4f3a Whoa!
+
+; 0x0a2e4fae あッ！
+0x0a2e4fae Ah!
+
+; 0x0a2e5004 けっけっけっ！
+0x0a2e5004 Kekekeke!
+
+; 0x0a2e505a はッ！
+0x0a2e505a Ha!
+
+; 0x0a2e5084 取られた！
+0x0a2e5084 He took it!
+
+; 0x0a2e50d2 夏実に見つかる前に何とか取り戻さなきゃ！
+0x0a2e50d2 We have to get her back before she finds us!
+
+; 0x0a2e5106 確かあの追剥ぎ、こんごう重工がどうとか言ってたわ…。
+0x0a2e5106 If I'm not mistaken, he said something about Kongo Heavy Industries...
+
+; 0x0a2e5172 ふーん。その戦闘服見覚えあるわね！
+0x0a2e5172 Hmm. I recognize that uniform!
+
+; 0x0a2e51a4 ビンゴって感じ！！
+0x0a2e51a4 Bingo!!
+
+; 0x0a2e5226 なんだ、誰かと思えば
+0x0a2e5226 Oh, I was wondering who it was.
+
+; 0x0a2e524a さっきの間抜けな嬢ちゃんか。
+0x0a2e524a That stupid girl from before, huh?
+
+; 0x0a2e5276 アンタはさっきのリンゴ売り！？
+0x0a2e5276 You're the apple seller from before!?
+
+; 0x0a2e52a2 書類を返しなさい！
+0x0a2e52a2 Give the papers back!
+
+; 0x0a2e52cc ばーか！返すくらいなら取るか！
+0x0a2e52cc Idiot! I'll take it if I have to!
+
+; 0x0a2e5366 ひええ待ってくれ！俺は雇われただけなんだ！
+0x0a2e5366 Wait! I was just hired!
+
+; 0x0a2e53a8 書類はどこ！？
+0x0a2e53a8 Where's the papers?!
+
+; 0x0a2e53c6 設計図はもう、こんごう社長に渡しちまったぁ！
+0x0a2e53c6 I already gave the blueprints to Mr. Kongo!
+
+; 0x0a2e53fe 病気の母親が家で俺の帰りを待ってるんだー！
+0x0a2e53fe My sick mother's waiting for me at home!
+
+; 0x0a2e5434 頼む！殺さないでくれぇー！
+0x0a2e5434 Please don't kill me!
+
+; 0x0a2e5462 仕方ない、殺さないでやるか！
+0x0a2e5462 Oh well, let's not kill him!
+
+; 0x0a2e5484 そうね、可愛そうだから…。
+0x0a2e5484 That's right, I feel sorry for her...
+
+; 0x0a2e54a4 キサマに今日を生きる資格はない！
+0x0a2e54a4 You have no right to live today!
+
+; 0x0a2e5508 仕方ない、殺さないでやるか！
+0x0a2e5508 Oh well, let's not kill him!
+
+; 0x0a2e5540 えっじゃあ…！
+0x0a2e5540 Then...!
+
+; 0x0a2e555e さあ！とっとと、何処かに行ちゃいなさい…！
+0x0a2e555e Now! Hurry up and go away...!
+
+; 0x0a2e5598 あっ有難う！
+0x0a2e5598 Oh, thanks!
+
+; 0x0a2e55d0 バーカバーカ！騙されてやんのぉー！
+0x0a2e55d0 You idiot! You're fooling me!
+
+; 0x0a2e55fe へっへっーだ！やっぱり間抜けだぜ！
+0x0a2e55fe Heh-heh-heh! You really are a fool!
+
+; 0x0a2e562c 覚えてろバーカッ！！
+0x0a2e562c Remember, idiot!!
+
+; 0x0a2e566c 何だと！このヤローッ！！
+0x0a2e566c What?! You bastard!!
+
+; 0x0a2e57e8 っそー！逃げ足の早い奴っ！！
+0x0a2e57e8 That's right! He's a fast runner!
+
+; 0x0a2e581e そうね、可愛そうだから…。
+0x0a2e581e That's right, I feel sorry for her...
+
+; 0x0a2e5854 じゃあ…。
+0x0a2e5854 So...
+
+; 0x0a2e5876 半分だけ殺そう！
+0x0a2e5876 I'll kill half of you!
+
+; 0x0a2e58e6 覚えてろぉぉぉ！
+0x0a2e58e6 Remember!
+
+; 0x0a2e5910 キサマに今日を生きる資格はない！
+0x0a2e5910 You have no right to live today!
+
+; 0x0a2e59a0 人でなしぃぃ！
+0x0a2e59a0 You bastard!
+
+; 0x0a2e59d2 戦車長
+0x0a2e59d2 Tank Captain
+
+; 0x0a2e5a10 ちょっとッ！燃えないゴミは今日じゃないのよ！？
+0x0a2e5a10 Hey! The non-burning trash isn't today!
+
+; 0x0a2e5a6c はははっ！無敵戦車ファイアビートルに勝てる気か！
+0x0a2e5a6c Hahaha! You think you can beat the invincible tank Fire Beetle?
+
+; 0x0a2e5ada きぬよ
+0x0a2e5ada Kinu.
+
+; 0x0a2e5b00 こんごう社長はどこッ！？
+0x0a2e5b00 Where's kongo?!
+
+; 0x0a2e5b28 何ですかあなたは！旦那様はいまお忙しいのです！
+0x0a2e5b28 What are you doing? Master is busy right now!
+
+; 0x0a2e5b62 募金も、勧誘もお取り次ぎ出来ません！
+0x0a2e5b62 I can't raise money or recruit people!
+
+; 0x0a2e5b9e …そう。じゃあ悪いけど
+0x0a2e5b9e ...I see. Sorry, then.
+
+; 0x0a2e5bcc 自分で直接会う事にするわ！
+0x0a2e5bcc I'll see him myself!
+
+; 0x0a2e5c1a シスター
+0x0a2e5c1a Sister
+
+; 0x0a2e5c3a お止めなさい！何と罪深い事をするのです！
+0x0a2e5c3a Stop it! How sinful!
+
+; 0x0a2e5c7a え！？
+0x0a2e5c7a Eh!?
+
+; 0x0a2e5c90 暴力では何事も解決しません…。
+0x0a2e5c90 Violence won't solve anything.
+
+; 0x0a2e5cbc どんな事情か知りませんが押し込み強盗はいけません。
+0x0a2e5cbc I don't know what's going on, but you can't break in and rob.
+
+; 0x0a2e5cfa さあ、悔い改めなさい。
+0x0a2e5cfa Now repent.
+
+; 0x0a2e5d1c 神はいつも貴方を見ていますよ！
+0x0a2e5d1c God always looks at you!
+
+; 0x0a2e5d52 …強盗？なに？？
+0x0a2e5d52 Robbery? What?
+
+; 0x0a2e5d76 そうですか。とぼける気ですか…。
+0x0a2e5d76 I see. You're playing dumb...
+
+; 0x0a2e5da4 判りました。
+0x0a2e5da4 Okay.
+
+; 0x0a2e5dbc 貴方には言葉で言っても無駄なようですね。
+0x0a2e5dbc It seems it's pointless to say it to you.
+
+; 0x0a2e5df0 仕方ありません！
+0x0a2e5df0 I have no choice!
+
+; 0x0a2e5e18 ？？…そっそう！？
+0x0a2e5e18 ??? R-Really?!
+
+; 0x0a2e5e42 何だか知らないけど私の邪魔をする気ね！
+0x0a2e5e42 I don't know why, but you're trying to get in my way!
+
+; 0x0a2e5eca エドナ
+0x0a2e5eca Edna
+
+; 0x0a2e5ed8 ホビー
+0x0a2e5ed8 Hobby
+
+; 0x0a2e5f12 待ちな！何処に行く気だいッ！
+0x0a2e5f12 Wait! Where are you going?
+
+; 0x0a2e5f52 借りを返してあげるわッ！
+0x0a2e5f52 I'll pay you back!
+
+; 0x0a2e5fa8 あら！今度は二人まとめてヤラレに来たのね！
+0x0a2e5fa8 Oh! This time, you're both here to do it!
+
+; 0x0a2e611e 一人だろうと二人だろうと私には同じ事よ！
+0x0a2e611e Whether it's one or two, it's the same for me!
+
+; 0x0a2e615e こんな所で負けたら
+0x0a2e615e If I lose here
+
+; 0x0a2e617c 私、一生夏実に頭が上がんないわね！
+0x0a2e617c I'll never be able to hold my head high in summer!
+
+; 0x0a2e61ce みずほ
+0x0a2e61ce Mizuho
+
+; 0x0a2e6218 ここは、これからワックス掛けをするのよ！
+0x0a2e6218 I'm going to wax this place!
+
+; 0x0a2e624c 立ち入り禁止の札が目に入らないのッ！
+0x0a2e624c I can't see the forbidden sign!
+
+; 0x0a2e6288 なに、トンチキな事言ってんの！あんたはッ！？
+0x0a2e6288 What are you saying?! What are you doing?!
+
+; 0x0a2e62fa 老魔導士
+0x0a2e62fa Old Sorcerer
+
+; 0x0a2e6336 お師匠様、あいつです。あの女ですよ！
+0x0a2e6336 Master, it's her. It's her!
+
+; 0x0a2e636a ふぉっふぉっ、謝るなら今の内じゃぞ！
+0x0a2e636a Heh heh, now's your chance to apologize!
+
+; 0x0a2e63cc 邪魔だッ！
+0x0a2e63cc I'm in the way!
+
+; 0x0a2e63ee 今すぐ退かないと棺桶に片足だけじゃなくて
+0x0a2e63ee If I don't retreat right now, I won't just put one leg in the coffin
+
+; 0x0a2e642e 両足とも突っ込む羽目になるわよ！
+0x0a2e642e You'll have to stick both legs in!
+
+; 0x0a2e6466 どうせ謝っても無駄なんでしょ？
+0x0a2e6466 There's no point in apologizing, right?
+
+; 0x0a2e649c さっさと来なさいよ！
+0x0a2e649c Hurry up and come!
+
+; 0x0a2e64da こんごう
+0x0a2e64da Kongo
+
+; 0x0a2e64ea 山田博士
+0x0a2e64ea Dr. Yamada
+
+; 0x0a2e64fa 平山博士
+0x0a2e64fa Dr. Hirayama
+
+; 0x0a2e650a 北博士
+0x0a2e650a Kitahakase
+
+; 0x0a2e6572 私の書類を返しなさい！
+0x0a2e6572 Give me back my papers!
+
+; 0x0a2e65a0 ふざけるなッ！よくもはめてくれたな！
+0x0a2e65a0 Don't be ridiculous! How dare you frame me!
+
+; 0x0a2e65dc おい！あれを出せ！
+0x0a2e65dc Hey! Get that out!
+
+; 0x0a2e6606 ええ？そんな女ほっといて逃げましょうよ。
+0x0a2e6606 What? Let's leave such a woman and run away.
+
+; 0x0a2e663e まって！あれを国外に持ち出せれば
+0x0a2e663e Wait! If I can get it out of the country
+
+; 0x0a2e666a 第３国が高く買ってくれるわ！
+0x0a2e666a The third country will buy you a lot!
+
+; 0x0a2e6696 よし！それがいい！
+0x0a2e6696 Okay! That's good!
+
+; 0x0a2e66ee かえせー！
+0x0a2e66ee Give it back!
+
+; 0x0a2e672a こんごう
+0x0a2e672a Kongo
+
+; 0x0a2e673a こ戦車
+0x0a2e673a Tank
+
+; 0x0a2e6780 ほしけりゃくれてやる！
+0x0a2e6780 If you want it, you can have it!
+
+; 0x0a2e67ac そうら！設計図だ！
+0x0a2e67ac Here! The blueprints!
+
+; 0x0a2e67f6 はーはははははぁ！
+0x0a2e67f6 Hahahahahaha!
+
+; 0x0a2e6862 なんて事してくれんのよッ！
+0x0a2e6862 What are you doing?!
+
+; 0x0a2e6890 夏実に文句言われるのは私なのよ！？
+0x0a2e6890 Natsumi, I'm the one who's going to complain!
+
+; 0x0a2e68d2 ひっどーい！
+0x0a2e68d2 That's mean!
+
+; 0x0a2e68ea 弁償して貰うわよっ！
+0x0a2e68ea You'll pay for it!
+
+; 0x0a2e698b M｣戒‾
+0x0a2e698b M' Kai
+
+; 0x0a2e6a5a こんごうの馬鹿！
+0x0a2e6a5a You idiot!
+
+; 0x0a2e6a76 弁償しろーッ！
+0x0a2e6a76 Pay for it!
+
+; 0x0a2e6aca ドルチェ
+0x0a2e6aca Dolce
+
+; 0x0a2e6ada こんごう
+0x0a2e6ada Kongo
+
+; 0x0a2e6aea こ戦車
+0x0a2e6aea Tank
+
+; 0x0a2e6b44 ほしけりゃくれてやる！
+0x0a2e6b44 If you want it, you can have it!
+
+; 0x0a2e6b70 そうら！設計図だ！
+0x0a2e6b70 Here! The blueprints!
+
+; 0x0a2e6bea 有難う！クーリー！
+0x0a2e6bea Thanks! Cooley!
+
+; 0x0a2e6c4c だっ　誰だきさま！
+0x0a2e6c4c Wh-Who are you?!
+
+; 0x0a2e6c7a こんごう社長！
+0x0a2e6c7a President kongo!
+
+; 0x0a2e6c94 フレイ機関の市場を独占せんがため！
+0x0a2e6c94 To not monopolize the market of the frei engine!
+
+; 0x0a2e6cc2 ライバル会社の設計図を強奪したばかりか
+0x0a2e6cc2 Not only did he steal the blueprints for the rival company, he also stole them
+
+; 0x0a2e6cf4 なんの罪もない配達員まで手にかけようなんて！
+0x0a2e6cf4 I can't believe you're trying to kill an innocent deliveryman!
+
+; 0x0a2e6d2c 労働基準監督所がゆるしても
+0x0a2e6d2c Even if the labor standards office forgives you
+
+; 0x0a2e6d5c スピード快盗！『ドルチェ＝ムール』が許しませんッ！
+0x0a2e6d5c Speedy theft! Dolce-Mour won't allow it!
+
+; 0x0a2e6d9e スピード快盗！？
+0x0a2e6d9e Speedy theft?!
+
+; 0x0a2e6dce 夏実！アンタ泥棒だったの！？
+0x0a2e6dce Natsumi! You're a thief!?
+
+; 0x0a2e6e02 ち・違うわよ！
+0x0a2e6e02 No, no, no!
+
+; 0x0a2e6e1c ここに来る前に助けてもらったの。
+0x0a2e6e1c He saved me before I came here.
+
+; 0x0a2e6e8a ふーん…？
+0x0a2e6e8a Hmm?
+
+; 0x0a2e6eae と、そんな事よりボンバー返しなさい！
+0x0a2e6eae A-Anyway, give the bomber back!
+
+; 0x0a2e6eea う・まだ覚えてたのね…。
+0x0a2e6eea You still remember...
+
+; 0x0a2e6f1c そんな事より私のボンバー返しなさい！
+0x0a2e6f1c More importantly, return my bomber!
+
+; 0x0a2e6f58 わあっ　今、そんな場合じゃないでしょ！
+0x0a2e6f58 Wow! Now's not the time!
+
+; 0x0a2e6f92 ま・とにかく！
+0x0a2e6f92 Anyway!
+
+; 0x0a2e6fb8 ここは、私に任せて！
+0x0a2e6fb8 Leave it to me!
+
+; 0x0a2e6fd2 ここは、任せたわ。
+0x0a2e6fd2 I leave this to you.
+
+; 0x0a2e7018 ここは、私に任せて！
+0x0a2e7018 Leave it to me!
+
+; 0x0a2e704c ・・・そう…わかったわ。
+0x0a2e704c I see... Okay.
+
+; 0x0a2e7070 あなたの好きになさい。
+0x0a2e7070 Do as you like.
+
+; 0x0a2e70f6 なんかよく分かんないけど！
+0x0a2e70f6 I don't really get it!
+
+; 0x0a2e711c 行くわよ！
+0x0a2e711c Let's go!
+
+; 0x0a2e7136 ふざけやがって！
+0x0a2e7136 Fuck you!
+
+; 0x0a2e718a ここは、任せたわ。
+0x0a2e718a I leave this to you.
+
+; 0x0a2e71ac 行くわよ！
+0x0a2e71ac Let's go!
+
+; 0x0a2e71c6 はいっ！
+0x0a2e71c6 Yes!
+
+; 0x0a2e7392 こんごう
+0x0a2e7392 Kongo
+
+; 0x0a2e73cc こっこんなばかなー！
+0x0a2e73cc Th-This can't be!
+
+; 0x0a2e741a ドルチェ
+0x0a2e741a Dolce
+
+; 0x0a2e742a こんごう
+0x0a2e742a Kongo
+
+; 0x0a2e7464 こっこんなばかなー！
+0x0a2e7464 Th-This can't be!
+
+; 0x0a2e74ee どお？
+0x0a2e74ee Doo?
+
+; 0x0a2e7500 まあ、私の手に掛かればざっとこんなもんよ！
+0x0a2e7500 Well, if it's in my hands, it's like this!
+
+; 0x0a2e754c 絢音…。
+0x0a2e754c Ayane.
+
+; 0x0a2e757e 夏実なんか焦げてない？
+0x0a2e757e Isn't Natsumi burnt?
+
+; 0x0a2e75a4 そ・そんな事ないわよ！
+0x0a2e75a4 That's not true!
+
+; 0x0a2e75c6 気のせいよッ！
+0x0a2e75c6 You're imagining things!
+
+; 0x0a2e75e4 でも煙出てるわよ？
+0x0a2e75e4 But it's smoking.
+
+; 0x0a2e7606 うるさいわねぇー！
+0x0a2e7606 Shut up!
+
+; 0x0a2e765c ボンバー返しなさい！
+0x0a2e765c Give the bomber back!
+
+; 0x0a2e768a もー、しつこいよ！
+0x0a2e768a You're so persistent!
+
+; 0x0a2e76b8 大事な書類取られといてよくそんな事いえるわねェ？
+0x0a2e76b8 How can you say such a thing when you have important documents taken?
+
+; 0x0a2e7702 うっ…！
+0x0a2e7702 Ugh!
+
+; 0x0a2e7730 夏実さん、絢音さん？
+0x0a2e7730 Natsumi, Ayane?
+
+; 0x0a2e7750 この事件、まだ終わってないわよッ！
+0x0a2e7750 This isn't over yet!
+
+; 0x0a2e77be ドルチェ
+0x0a2e77be Dolce
+
+; 0x0a2e77da はづき
+0x0a2e77da Hazuki
+
+; 0x0a2e7844 誰かね君は！？
+0x0a2e7844 Who are you?!
+
+; 0x0a2e7898 ネタは揃ってんのよッ！
+0x0a2e7898 I've got all the material!
+
+; 0x0a2e78ba 神妙にお縄を頂戴しろいッ！
+0x0a2e78ba Give me a rope!
+
+; 0x0a2e78ec はあ？
+0x0a2e78ec Huh?
+
+; 0x0a2e7902 なにを言っているのかね君は…。
+0x0a2e7902 What are you saying, you...
+
+; 0x0a2e7934 何だ？その包みは？
+0x0a2e7934 What's that package?
+
+; 0x0a2e795e ふふふーっ。
+0x0a2e795e Hehehe.
+
+; 0x0a2e7976 こんごう社長からのラブレター。
+0x0a2e7976 A love letter from president kongo.
+
+; 0x0a2e79ac ニセの新型フレイ機関の設計図よ！
+0x0a2e79ac It's a blueprint for a fake new Frey engine!
+
+; 0x0a2e79e4 …一人で監獄行くのは寂しいってさ。
+0x0a2e79e4 ...She said it'd be lonely to go to jail alone.
+
+; 0x0a2e7a22 …はっ！あーはははははは！
+0x0a2e7a22 ...Ha! Ahahahahaha!
+
+; 0x0a2e7a50 突然入ってきて何かと思えば！
+0x0a2e7a50 Just when I was wondering what it was all of a sudden!
+
+; 0x0a2e7a80 君は何か誤解をしているようだね。
+0x0a2e7a80 You seem to have misunderstood.
+
+; 0x0a2e7ab4 その設計図もおおかた
+0x0a2e7ab4 Most of the blueprints, too
+
+; 0x0a2e7ad4 こんごう社長にでも、すりかえられたんだろう？
+0x0a2e7ad4 Didn't President Kongo switch places with you?
+
+; 0x0a2e7b58 往生際が悪いわよ！はづき会長！
+0x0a2e7b58 You don't know when to give up! Chairman hazuki!
+
+; 0x0a2e7cbc アンタがこんごう重工の市場を手に入れるために
+0x0a2e7cbc To get the kongo heavy industries' market.
+
+; 0x0a2e7cf4 わざと情報を流して設計図を奪うように仕向けた事も
+0x0a2e7cf4 He also knew that he’d intentionally leaked information to make them steal the blueprints
+
+; 0x0a2e7d32 はづき製フレイ機関の設計図が、実は未完成だった事も
+0x0a2e7d32 The fact that the blueprints for the Hazuki Frey engine were actually incomplete
+
+; 0x0a2e7d7a みーんなアンタのかわいいエンジニアが
+0x0a2e7d7a All kinds of cute engineers
+
+; 0x0a2e7da4 あらいざらい白状したわよ！
+0x0a2e7da4 I just confessed!
+
+; 0x0a2e7dd6 …うぬぅ！
+0x0a2e7dd6 ...Ngh!
+
+; 0x0a2e7e34 私設軍隊…。
+0x0a2e7e34 Private army.
+
+; 0x0a2e7e54 なるほどね、『こんごう』も『はづき』も
+0x0a2e7e54 I see. Both kongo and hazuki
+
+; 0x0a2e7e8e 皮一枚めくれば似た者同士って訳ね！
+0x0a2e7e8e If you peel it off, we'll be similar!
+
+; 0x0a2e7f30 なんだ？コイツはッ！？
+0x0a2e7f30 What is this guy?!
+
+; 0x0a2e7f5e うわっ！うわーッ！！
+0x0a2e7f5e Wow! Wow!!
+
+; 0x0a2e7fa8 へっへっへっ！こんな所に隠れやがって！
+0x0a2e7fa8 Heh heh heh! Hiding here!
+
+; 0x0a2e7fda 封印を解いてフルパワーになったこの！
+0x0a2e7fda You who broke the seal and became full power!
+
+; 0x0a2e8012 マリアンヌちゃんを見…
+0x0a2e8012 I saw Marianne...
+
+; 0x0a2e805c なっなに？何なのっ！？
+0x0a2e805c Wh-What? What?!
+
+; 0x0a2e808e 今のはどーゆーギャグだったの！？
+0x0a2e808e How was that a joke?!
+
+; 0x0a2e80c6 どうやら暴走しているようね…。
+0x0a2e80c6 Looks like it's gone berserk...
+
+; 0x0a2e80f2 それにしても、何かとてつもなく邪悪な魔力を感じるわッ！
+0x0a2e80f2 Still, I can feel some unbelievably evil magical energy!
+
+; 0x0a2e8134 はっ！まさか！
+0x0a2e8134 Ha! No way!
+
+; 0x0a2e816e あっ！！ドルチェ！？
+0x0a2e816e Ah! Dolce?!
+
+; 0x0a2e81f4 夏実！！
+0x0a2e81f4 Natsumi!
+
+; 0x0a2e8218 このやろー！　よくも夏実を！
+0x0a2e8218 You bastard! How dare you kill Natsumi!
+
+; 0x0a2e8240 顔と性格と口は悪かったけど！
+0x0a2e8240 His face, personality, and mouth were bad, but!
+
+; 0x0a2e8270 お金も中々貸してくれなかったけど…！
+0x0a2e8270 He didn't lend me much money, either...!
+
+; 0x0a2e82a8 イイ仕事も中々くれなかったけどーッ！！
+0x0a2e82a8 He didn't even give me a good job!!
+
+; 0x0a2e82ee 夏実のカタキよッ！覚悟しなさいッ！
+0x0a2e82ee It's Natsumi! Prepare yourself!
+
+; 0x0a2e83a2 あーっ　もぉーっ！
+0x0a2e83a2 Oh, geez!
+
+; 0x0a2e83c0 急いでるときは早く過ぎるくせに…。
+0x0a2e83c0 When you're in a hurry, it's too early...
+
+; 0x0a2e83ee どーして、早く過ぎてほしいときにはなかなか過ぎないのかなーっ！！
+0x0a2e83ee I wonder why it's so hard to get past when I want it to pass quickly!!
+
+; 0x0a2e8442 …も、一回寝ようかナー…。
+0x0a2e8442 ...L-Let's go to sleep...
+
+; 0x0a2e8468 でも、せっかく早起きしたのに
+0x0a2e8468 But I got up early.
+
+; 0x0a2e860c そうだ！会社に行こう！
+0x0a2e860c Yes! Let's go to the company!
+
+; 0x0a2e865a 会社で、寝よう！
+0x0a2e865a Let's sleep at the office!
+
+; 0x0a2e86d0 きゃあああッ！
+0x0a2e86d0 Kyaaaaaa!
+
+; 0x0a2e870e わあッ！何なにッ！？
+0x0a2e870e Wow! What is it!?
+
+; 0x0a2e8738 絢音が…！
+0x0a2e8738 Ayane!
+
+; 0x0a2e874e 絢音が、私より早く来てるーっっ！
+0x0a2e874e Ayane came earlier than me!
+
+; 0x0a2e87a4 う…うふふっ
+0x0a2e87a4 U-Ufufu.
+
+; 0x0a2e87bc お・は・よ・う…！
+0x0a2e87bc Good morning!
+
+; 0x0a2e8844 あら〜ん　今日は随分遅かったわねぇ　ほほほ
+0x0a2e8844 Oh, you're late today. Hohoho.
+
+; 0x0a2e889e 私より先に来てたよ…。
+0x0a2e889e She came before me.
+
+; 0x0a2e88e0 き、今日は雪ね。
+0x0a2e88e0 S-Snow today.
+
+; 0x0a2e8906 ほーほほほーっ！
+0x0a2e8906 Hohohoho!
+
+; 0x0a2e892c さっ　しごと仕事ー！
+0x0a2e892c Work, work!
+
+; 0x0a2e8980 …あら！？
+0x0a2e8980 ...Oh!?
+
+; 0x0a2e8996 あっ　すっごーい！
+0x0a2e8996 Oh, wow!
+
+; 0x0a2e89b4 会社創設以来初、損害賠償限度額目一杯の小荷物だわっ！！
+0x0a2e89b4 For the first time since the company's founding, this is the biggest small package we've ever had!
+
+; 0x0a2e8a16 えっほんと？１億２千万円！？
+0x0a2e8a16 120 million yen?!
+
+; 0x0a2e8a48 どれどれー！？
+0x0a2e8a48 Let's see!
+
+; 0x0a2e8a8a ああ！やっと、うちにも大口の仕事がッ！
+0x0a2e8a8a Aaah! Finally, I have a big job too!
+
+; 0x0a2e8ac6 ふーん、親会社からの直接依頼かぁ。
+0x0a2e8ac6 Hmm, a direct request from a parent company, huh?
+
+; 0x0a2e8af4 珍しいね。
+0x0a2e8af4 It's rare.
+
+; 0x0a2e8b2e あらこれ、特別手当付の仕事ね。
+0x0a2e8b2e Oh, this is a special treatment.
+
+; 0x0a2e8b62 …それで？
+0x0a2e8b62 ...So?
+
+; 0x0a2e8ba2 えっ？
+0x0a2e8ba2 Eh?
+
+; 0x0a2e8bbe 誰が運ぶの？その小荷物。
+0x0a2e8bbe Who's going to carry that small bag?
+
+; 0x0a2e8c0c 決まってるじゃない。
+0x0a2e8c0c It's obvious.
+
+; 0x0a2e8c2c 集配主任である、あ・た・しッ★
+0x0a2e8c2c I'm the head of the collection and distribution team.
+
+; 0x0a2e8c76 絢音＋春菜
+0x0a2e8c76 Ayane+Haruna
+
+; 0x0a2e8c86 ・・・・。
+0x0a2e8c86 .. ..
+
+; 0x0a2e8cde ヤダ！ヤダ！ヤダ！ヤダー！
+0x0a2e8cde No! No! No!
+
+; 0x0a2e8d04 夏実ばっかり美味しい仕事してズルイーッ！
+0x0a2e8d04 It's not fair that only Natsumi does delicious work!
+
+; 0x0a2e8d38 責任ある仕事をさせなきゃ社員は育たないのよ！？
+0x0a2e8d38 Employees won’t grow unless you make them do responsible work, you know!?
+
+; 0x0a2e8d92 社員が育たない会社に未来は無いわッ！
+0x0a2e8d92 There's no future in a company where employees don't grow!
+
+; 0x0a2e8f08 仕事を
+0x0a2e8f08 Work.
+
+; 0x0a2e8f1a 一人で独占することによってぇ！
+0x0a2e8f1a By monopolizing it by myself!
+
+; 0x0a2e8f58 会社そのものの成長を妨げてるのよー！
+0x0a2e8f58 It's preventing the company's growth!
+
+; 0x0a2e8f8a 会社を弱体化させているのよーッ！
+0x0a2e8f8a I'm weakening the company!
+
+; 0x0a2e8fb8 会社を潰そうとしているのよーッ！！
+0x0a2e8fb8 I'm trying to destroy the company!!
+
+; 0x0a2e8ff0 オニー！アクマー！！オニヒトデーっ！！！
+0x0a2e8ff0 Oni! Akuma!! Onihitdai!!!
+
+; 0x0a2e9048 な・何なのよ、そのオニヒトデって言うのは！？
+0x0a2e9048 Wh-What's with that starfish?!
+
+; 0x0a2e90aa …でもまっ　絢音の言い分にも一理あるわね。珍しく…。
+0x0a2e90aa ...But Ayane has a point. For once...
+
+; 0x0a2e9114 え！…じゃあっ！？
+0x0a2e9114 Huh? Then...?!
+
+; 0x0a2e9168 この仕事は、絢音に頼むわ！
+0x0a2e9168 I’ll leave this job to Ayane!
+
+; 0x0a2e918e 本当は嫌だけど…。
+0x0a2e918e Honestly, I don't want to...
+
+; 0x0a2e91b6 やったー！なんでも一応言ってみるものねぇ…！
+0x0a2e91b6 Yay! I'll try saying anything...!
+
+; 0x0a2e9252 あっいや…こっちのこと！はははー！
+0x0a2e9252 Ah, no... It's me! Hahaha!
+
+; 0x0a2e92a0 あそうだ！夏実！
+0x0a2e92a0 Oh yeah! Natsumi!
+
+; 0x0a2e92bc 予備のボンバーちょーだいっ！
+0x0a2e92bc Give me a spare bomber!
+
+; 0x0a2e930e 予備…！？駄目よ！絢音！
+0x0a2e930e Reserve...?! No! Ayane!
+
+; 0x0a2e9332 アクションとシューティング・ゲームでは
+0x0a2e9332 In action and shooting games
+
+; 0x0a2e9384 スタート時のボンバーは３つって…
+0x0a2e9384 Three bombers at the start?
+
+; 0x0a2e93b0 大昔から決まっている事なのよっ！
+0x0a2e93b0 It's been decided for ages!
+
+; 0x0a2e9406 ええ〜っ！そうなのー？
+0x0a2e9406 Whaaat?! Really?
+
+; 0x0a2e942e じゃあ、仕方ないわねぇ…。
+0x0a2e942e Then there's no helping it...
+
+; 0x0a2e949a じゃあ、仕方ないわねぇ…。
+0x0a2e949a Then there's no helping it...
+
+; 0x0a2e94e6 でも欲しーい！
+0x0a2e94e6 But I wanna!
+
+; 0x0a2e950a 駄目っ！！
+0x0a2e950a No!!
+
+; 0x0a2e952a わかったわよ…。
+0x0a2e952a I get it...
+
+; 0x0a2e9540 いいじゃない！一つぐらい！
+0x0a2e9540 It's fine! Just one!
+
+; 0x0a2e9560 絢音様に向かって駄目だとぉ！？
+0x0a2e9560 I can't face Ayane-sama?!
+
+; 0x0a2e95d4 わかったわよ…。
+0x0a2e95d4 I get it...
+
+; 0x0a2e9606 いいじゃない！一つぐらい！
+0x0a2e9606 It's fine! Just one!
+
+; 0x0a2e9642 頂きぃーッ！！
+0x0a2e9642 Let's eat!!
+
+; 0x0a2e9666 駄目だって言ってるでしょお！！
+0x0a2e9666 I said no!!
+
+; 0x0a2e96ac なにおうッ！？
+0x0a2e96ac Whaaat?!
+
+; 0x0a2e96c6 光速の絢音様に向かってぇ駄目だとぉ！？
+0x0a2e96c6 Towards the speed of light, Ayane-sama?!
+
+; 0x0a2e9702 ああっ`TzTYD｣
+0x0a2e9702 Oh, TztyD.」
+
+; 0x0a2e9838 ！？何をするの絢音っ！
+0x0a2e9838 !? What're you doing, Ayane!
+
+; 0x0a2e9890 であーっっ！！
+0x0a2e9890 Deahhh!!
+
+; 0x0a2e9912 毎度ー！
+0x0a2e9912 Thank you!
+
+; 0x0a2e992c エンジニア
+0x0a2e992c Engineer
+
+; 0x0a2e993c えっ君が！？
+0x0a2e993c Eh? You?!
+
+; 0x0a2e9954 だっ大丈夫かなぁ…。
+0x0a2e9954 I wonder if it's okay...
+
+; 0x0a2e999e エンジニア
+0x0a2e999e Engineer
+
+; 0x0a2e99ae なんか少しフラついてるけど…。
+0x0a2e99ae She's kind of unsteady...
+
+; 0x0a2e99e8 いや…平気！平気ッ！
+0x0a2e99e8 No, I'm fine! I'm fine!
+
+; 0x0a2e9a0c エンジニア
+0x0a2e9a0c Engineer
+
+; 0x0a2e9a1c なんか、ボロボロだけど…。
+0x0a2e9a1c It's kinda worn out...
+
+; 0x0a2e9a52 あっ　あははは！
+0x0a2e9a52 Ahahaha!
+
+; 0x0a2e9a78 エンジニア
+0x0a2e9a78 Engineer
+
+; 0x0a2e9a88 じゃあ…コレ、よろしくお願いします。
+0x0a2e9a88 Then... please take this.
+
+; 0x0a2e9afa その後、軍警察の調査により『こんごう重工』や『はづき鉄道
+0x0a2e9afa After that, the military police investigated 'Kongo Heavy Industries' and 'Hazuki Railway.'
+
+; 0x0a2e9b38 』の行ってきた妨害工作・武器密輸・違法研究・私設軍隊の所有、政府官僚との癒着。
+0x0a2e9b38 ’s sabotage, arms smuggling, illegal research, private army possession, collusion with government officials
+
+; 0x0a2e9b96 その他、買収・乗っ取り・裏談合などの違法行為が次々と発覚。
+0x0a2e9b96 Other illegal activities such as acquisition, takeover, and back-alley were discovered one after another.
+
+; 0x0a2e9bea 『こんごう重工』と『はづき鉄道』は解体され、その施設と子会社の
+0x0a2e9bea “Kongo Heavy Industries” and “Hazuki Railway” were disbanded, and their facilities and subsidiary companies
+
+; 0x0a2e9c2e 大部分は国の管理下に置かれる事になった。
+0x0a2e9c2e Most of them ended up under the control of the country.
+
+; 0x0a2e9c6a 一方、有限会社はづき宅配便は…。
+0x0a2e9c6a On the other hand, Hazuki Delivery Service...
+
+; 0x0a2e9ca4 『はづき鉄道』の財産整理に当たって、十分な利益の上がって
+0x0a2e9ca4 When it comes to organizing the Hazuki Railroad’s assets, we’ve made enough profit
+
+; 0x0a2e9ce2 いなかった『はづき宅配便』は、出資を打ち切られ
+0x0a2e9ce2 The “Hazuki Delivery Service” that wasn’t there had been cut off
+
+; 0x0a2e9d16 事実上の倒産となった。
+0x0a2e9d16 In effect, it went under.
+
+; 0x0a2e9d36 華鈴社長は会社設立にあたって、個人的に親会社に借金をし
+0x0a2e9d36 President Kasuzu personally owed a debt to his parent company when he founded the company
+
+; 0x0a2e9d72 ていたため、今も借金の返済に追われている。
+0x0a2e9d72 As such, he was still busy paying off his debts.
+
+; 0x0a2e9dd0 そして…。
+0x0a2e9dd0 And...
+
+; 0x0a2e9e08 もう少し右！
+0x0a2e9e08 A little to the right!
+
+; 0x0a2e9e20 そうそう！ＯＫ！
+0x0a2e9e20 Oh yeah! Okay!
+
+; 0x0a2e9e3c じゃ、そこで倒れないように固定して！
+0x0a2e9e3c Then fix it so it doesn't collapse!
+
+; 0x0a2e9e7c そうそう早くね！
+0x0a2e9e7c That's right, quick!
+
+; 0x0a2e9ea8 何でアンタが偉そうに命令すんのよ！
+0x0a2e9ea8 Why are you giving orders like that?!
+
+; 0x0a2e9ee0 何よぉ！誰のおかげで助かったと思ってんの？
+0x0a2e9ee0 Who do you think saved us?
+
+; 0x0a2e9f26 あのねぇ！絢音がおとなしく私と交代してれば！
+0x0a2e9f26 Hey! If Ayane had just quietly switched with me!
+
+; 0x0a2e9f5e 荷物を取られる事もなく！
+0x0a2e9f5e He didn't take my stuff!
+
+; 0x0a2e9f82 そもそもあんな目にあう事もなかったと思うんですけどねぇ！？
+0x0a2e9f82 I don't think I've ever had to go through that in the first place!
+
+; 0x0a2e9fd8 そんな過ぎた事いってみても始まらないでしょ。
+0x0a2e9fd8 There's no point in saying things like that.
+
+; 0x0a2ea010 さーそんな事より写真！写真！
+0x0a2ea010 Anyway, a picture! A photo!
+
+; 0x0a2ea172 もぉー！
+0x0a2ea172 Aww!
+
+; 0x0a2ea18e ちーずっ！！！
+0x0a2ea18e Chizu!!!
+
+; 0x0a2ea1d4 新たに旗揚げした宅配中華クレープ屋で、今も華麗にはたらいてまーす！
+0x0a2ea1d4 It's a brand-new delivery Chinese crepe shop, and it's still doing great!
+
+; 0x0a2ea258 シスター
+0x0a2ea258 Sister
+
+; 0x0a2ea266 あれです！あの人が押し込み強盗放火犯ですわ！
+0x0a2ea266 That's it! He's the robber, the arsonist!
+
+; 0x0a2ea2ae ちっ違うのよ！これには深い訳が…ッ！！
+0x0a2ea2ae Th-That's not it! There's no deep reason for this!!
+
+; 0x0a2ea2e0 うあーん！
+0x0a2ea2e0 Wahhhh!
+
+; 0x0a2ea2f6 私の話を聞いてぇ〜…！
+0x0a2ea2f6 Listen to me!
+
+; 0x0a2ea34e その後、軍警察の調査により『こんごう重工』の行ってきた
+0x0a2ea34e After that, the military police investigated kongo heavy industries.
+
+; 0x0a2ea38a 妨害工作・武器密輸・違法研究・私設軍隊の所有。
+0x0a2ea38a Sabotage, arms smuggling, illegal research, and private army possession.
+
+; 0x0a2ea3c8 その他、買収・癒着・乗っ取り・裏談合などの違法行為が次々と発覚。
+0x0a2ea3c8 Other illegal activities such as acquisition, collusion, takeover, and back-alley were discovered one after another.
+
+; 0x0a2ea418 『こんごう重工』は解体され、その施設と子会社の大部分は
+0x0a2ea418 “Kongo Heavy Industries” was disbanded, and most of its facilities and subsidiary companies were
+
+; 0x0a2ea454 『はづき鉄道』と『きりしま化学』などの大企業に吸収されて行った。
+0x0a2ea454 It was absorbed by big companies such as 'Hazuki Railway' and 'Kirishima Chemical.'
+
+; 0x0a2ea49e 一方、有限会社はづき宅配便は…。
+0x0a2ea49e On the other hand, Hazuki Delivery Service...
+
+; 0x0a2ea4ce 刑事訴訟こそ逃れたものの、親会社『はづき鉄道』から設計
+0x0a2ea4ce  ⁇  escaped criminal lawsuits, but designed by the parent company ⁇ Hazuki Railway ⁇ "
+
+; 0x0a2ea50a 図喪失の責任を問われ、会社は解散となった。
+0x0a2ea50a The company was disbanded after being held accountable for the loss of figure.
+
+; 0x0a2ea53e 華鈴社長は会社設立にあたって、個人的に親会社に借金をし
+0x0a2ea53e President Kasuzu personally owed a debt to his parent company when he founded the company
+
+; 0x0a2ea57a ていたため、今も借金の返済に追われている。
+0x0a2ea57a As such, he was still busy paying off his debts.
+
+; 0x0a2ea5d8 そして…。
+0x0a2ea5d8 And...
+
+; 0x0a2ea616 絢音。しっかりお勤めして来るのよ！
+0x0a2ea616 Ayane. Work hard!
+
+; 0x0a2ea654 絢音！そんなにお金が必要なら
+0x0a2ea654 Ayane! If you need so much money
+
+; 0x0a2ea67c どーして相談してくれなかったの！？
+0x0a2ea67c Why didn't you talk to me?!
+
+; 0x0a2ea6ba うわぁー！
+0x0a2ea6ba Wow!
+
+; 0x0a2ea6d0 私、凶悪犯の知り合いって初めて！
+0x0a2ea6d0 This is the first time I know a thug!
+
+; 0x0a2ea6fc 今度お友達連れて来てもいい？
+0x0a2ea6fc Can I bring a friend next time?
+
+; 0x0a2ea734 ちがうのよー！
+0x0a2ea734 No, it's not!
+
+; 0x0a2ea74e これは全て誤解なのッ！
+0x0a2ea74e It's all a misunderstanding!
+
+; 0x0a2ea770 私は無罪なのよーッ！！
+0x0a2ea770 I'm innocent!
+
+; 0x0a2ea7ae ここから出してーッ！！！
+0x0a2ea7ae Get me out of here!
+
+; 0x0a325088 待ちなッ！嬢ちゃん。
+0x0a325088 Wait! Miss.
+
+; 0x0a3250d8 お嬢ちゃん荷物を渡しな！
+0x0a3250d8 Young lady, give me your stuff!
+
+; 0x0a3250fc 可愛がってやるぜぇー！
+0x0a3250fc I'm gonna love you!
+
+; 0x0a325120 お兄ちゃん達と遊ぼうぜぇー。
+0x0a325120 Let's play with Onii-chan.
+
+; 0x0a32514a お嬢ちゃん何処行くのぉ？
+0x0a32514a Where are you going, miss?
+
+; 0x0a32516e ママのオッパイちゅいに行くのぉ〜！
+0x0a32516e I'm going to kiss Mom's boobs!
+
+; 0x0a32519c げへへへへーっ！
+0x0a32519c Gehehehehe!
+
+; 0x0a3251ee もぉ！配達の邪魔だよ！
+0x0a3251ee You're in the way of my delivery!
+
+; 0x0a32521a ばーか。
+0x0a32521a Idiot.
+
+; 0x0a325238 悪い事してるとバチが当たるわよ！？
+0x0a325238 If you do something bad, you'll be punished!
+
+; 0x0a3253e0 ごめんなすって
+0x0a3253e0 I'm sorry.
+
+; 0x0a325428 なーに？
+0x0a325428 What?
+
+; 0x0a32543e 珍しい格好だね？
+0x0a32543e That's unusual, isn't it?
+
+; 0x0a32545e お荷物ちょうだい！
+0x0a32545e Give me your bag!
+
+; 0x0a325496 雇われ
+0x0a325496 Hired.
+
+; 0x0a3254dc 音のする方を見る
+0x0a3254dc I look at the sound.
+
+; 0x0a3254f2 無視する
+0x0a3254f2 Ignore him
+
+; 0x0a325570 登れない木は仰ぎ見るな…。
+0x0a325570 Don't look up at a tree you can't climb.
+
+; 0x0a325598 鳩を憎み豆を作らぬ…。
+0x0a325598 Hatred pigeons, never made beans...
+
+; 0x0a3255bc 言いたいことは明日言え…。
+0x0a3255bc Say what you want to say tomorrow.
+
+; 0x0a3255ee へ…？
+0x0a3255ee Huh?
+
+; 0x0a3256d8 くっくっくっ　お嬢さん！
+0x0a3256d8 *cackle*cackle* Miss!
+
+; 0x0a325704 悪いがその荷物。置いていってもらおうか！
+0x0a325704 Sorry, but could you leave your stuff behind?
+
+; 0x0a32574c いやだよーだ！
+0x0a32574c Nooooo!
+
+; 0x0a325776 雇われ
+0x0a325776 Hired.
+
+; 0x0a32579e とってもいやーんっ！！
+0x0a32579e Nooooo!!
+
+; 0x0a3257da 野盗頭
+0x0a3257da Nozoto
+
+; 0x0a325818 お嬢ちゃ〜ん！
+0x0a325818 Ojouchan!
+
+; 0x0a325832 おとなしく荷物を渡しなぁ！！
+0x0a325832 Quietly hand over your stuff!!
+
+; 0x0a325862 いやだ！
+0x0a325862 No!
+
+; 0x0a325870 おじさん頭寒くない…！？
+0x0a325870 Isn't your head cold?!
+
+; 0x0a32588e 見逃してくれないかなぁ〜。
+0x0a32588e Will you let me go?
+
+; 0x0a3258e4 いやだ！
+0x0a3258e4 No!
+
+; 0x0a325904 じゃあしょうがねぇなぁ。
+0x0a325904 Then there's no helping it.
+
+; 0x0a325922 腕ずくでいただくぜェー！
+0x0a325922 I'll do it by force!
+
+; 0x0a32595a うわぁ！おじさん頭寒くない…！？
+0x0a32595a Wow! Isn't your head cold?!
+
+; 0x0a3259a2 てめー、超むかつくって言うかぁ？
+0x0a3259a2 You're pissing me off?
+
+; 0x0a3259ce まじぶっ殺すって感じぃー？
+0x0a3259ce Seriously, it feels like I'm gonna kill you?
+
+; 0x0a325a10 ええ〜！？見逃してくれないかなぁ〜。
+0x0a325a10 Whaaat?! Can you let me go?
+
+; 0x0a325a52 あげな〜い！
+0x0a325a52 Don't give it to me!
+
+; 0x0a325b0e はい・こちら夏実。
+0x0a325b0e Here's natsumi.
+
+; 0x0a325b66 あっ夏実！？今ねぇ　山賊がでたよ！
+0x0a325b66 Natsumi?! There's a bandit out there!
+
+; 0x0a325c3b 幃潴俟
+0x0a325c3b Suzuma
+
+; 0x0a325cec えっ？山賊！？
+0x0a325cec Eh? Bandits?!
+
+; 0x0a325d0a でも大丈夫！うまく切り抜けたから心配ないよ！
+0x0a325d0a But don't worry! We made it through!
+
+; 0x0a325d42 これより最短ルートで鉄道に向かいまーす！
+0x0a325d42 We're taking the shortest route!
+
+; 0x0a325d96 そう、良かった…！気を付けてね？
+0x0a325d96 That's good...! Be careful, okay?
+
+; 0x0a325dc2 何かあったらすぐに知らせるのよッ！？
+0x0a325dc2 Let me know if anything happens, okay?!
+
+; 0x0a325df6 はーい！
+0x0a325df6 Okay!
+
+; 0x0a325e1e あっ夏実！？今ねぇ、山賊に待ち伏せされたんだよッ！？
+0x0a325e1e Oh, Natsumi?! I was ambushed by bandits!
+
+; 0x0a325e86 えっ？山賊ですって！？
+0x0a325e86 Eh? Bandits?!
+
+; 0x0a325eac うん！すっごく顔恐かったぁ！
+0x0a325eac Yeah! His face was so scary!
+
+; 0x0a325ed8 …それで怪我は？荷物はどうなったの！？
+0x0a325ed8 ...So, are you hurt? What happened to your luggage?!
+
+; 0x0a325f0e ううん、無事！怪我もしてないよ。
+0x0a325f0e No, I'm fine! I'm not hurt.
+
+; 0x0a325f5a そう…。よかった…。
+0x0a325f5a I see... I'm glad...
+
+; 0x0a325f7a で、どうする？配達代わる？
+0x0a325f7a So, what should we do? Should we switch deliveries?
+
+; 0x0a325fa4 うーん。いい！最後まで配達したい…！
+0x0a325fa4 Hmm. Fine! I want to deliver it to the end!
+
+; 0x0a325fd8 そう分かったわ…じゃ気を付けて！
+0x0a325fd8 Okay, I get it... Be careful!
+
+; 0x0a326004 無理はしないでね！？
+0x0a326004 Don't push yourself, okay?!
+
+; 0x0a326028 うん！
+0x0a326028 Yep!
+
+; 0x0a32603a じゃこれから鉄道に向かいまーす！
+0x0a32603a We're off to the train!
+
+; 0x0a32607a あ・夏実！？今ね！今ね！
+0x0a32607a Natsumi?! Now! Now!
+
+; 0x0a32609e 春菜、山賊に襲われたんだよッ！
+0x0a32609e Haruna was attacked by bandits!
+
+; 0x0a3260f0 ええっ？襲われた！？
+0x0a3260f0 Huh? I was attacked?!
+
+; 0x0a326130 うん！それでね？それでねッ…！？
+0x0a326130 Yeah! And then, and then...!
+
+; 0x0a326160 それで、怪我はッ！？
+0x0a326160 So, you're hurt!?
+
+; 0x0a326180 荷物はどうなったの！？
+0x0a326180 What happened to the cargo?!
+
+; 0x0a3261a6 ううん！それは大丈夫だよ！？
+0x0a3261a6 No! That's okay!
+
+; 0x0a3261ee そう、よかった！
+0x0a3261ee Yes, that's good!
+
+; 0x0a32620a …で、どうする？配達代わる？
+0x0a32620a ...So, what should we do? Should we switch delivery?
+
+; 0x0a326236 …うーん。
+0x0a326236 Hmm...
+
+; 0x0a32624c 春菜、最後まで配達したいな…。
+0x0a32624c Haruna, I want to finish this delivery...
+
+; 0x0a32627a そうね…。わかったわ…。じゃ気を付けて！
+0x0a32627a I see... Okay... Then be careful!
+
+; 0x0a3262ae 何かあったらすぐ連絡してね！
+0x0a3262ae Call me if anything happens!
+
+; 0x0a3262d6 無理はしないで！
+0x0a3262d6 Don't overdo it!
+
+; 0x0a3262f6 うん！わかった…！
+0x0a3262f6 Okay! Got it...!
+
+; 0x0a326314 じゃ　これから鉄道に向かうね…。
+0x0a326314 Okay, I'm heading to the train...
+
+; 0x0a32638e 雇われ
+0x0a32638e Hired.
+
+; 0x0a3263e8 くっくっくっ！今度は逃さんぞ！
+0x0a3263e8 Heh heh heh! I won't let you go this time!
+
+; 0x0a32641e うわあ！また変なおじさんだぁ！
+0x0a32641e Wow! What a weird old man!
+
+; 0x0a32644c なにおッ！？変なおじさんだとッ！？
+0x0a32644c What!? A weirdo!?
+
+; 0x0a326482 …と言うと、
+0x0a326482 ...So,
+
+; 0x0a3264a4 えーと…。
+0x0a3264a4 Um...
+
+; 0x0a3264ba んーと…。
+0x0a3264ba Um...
+
+; 0x0a326618 うああああっっ！！何も思い付かんッ！？
+0x0a326618 Uwaaaaaaaa!! Can't think of anything!?
+
+; 0x0a326654 おのれーッ！よくもオレ様に恥をかかせてくれたなッ！
+0x0a326654 Curse you! How dare you shame me!
+
+; 0x0a326692 覚悟しろッ！
+0x0a326692 Get ready!
+
+; 0x0a3266be ええー？そんなの知らないよォ…。
+0x0a3266be Ehhh? I don't know that...
+
+; 0x0a32678a らっきー！
+0x0a32678a Rakki!
+
+; 0x0a3267a8 ばいばーい！
+0x0a3267a8 Bye bye!
+
+; 0x0a3267f4 わーい！助かっちゃった！
+0x0a3267f4 Yay! You saved me!
+
+; 0x0a32684c 間一髪ってトコねッ！
+0x0a32684c Just in time!
+
+; 0x0a326886 魔法機士
+0x0a326886 Magic mechanic
+
+; 0x0a3268b2 コロス
+0x0a3268b2 Colos
+
+; 0x0a326900 うあぁー…。
+0x0a326900 Uwaaa...
+
+; 0x0a326918 ふっかぁーい〜…！
+0x0a326918 So deep...!
+
+; 0x0a326982 うあーん、通じないよぉ！
+0x0a326982 Uwaaah, it won't work!
+
+; 0x0a3269be どうしよお…！？
+0x0a3269be What should I do?!
+
+; 0x0a326a08 まぁ・どうにかなるわね！
+0x0a326a08 Well, it'll work out!
+
+; 0x0a326a48 この奥はどうなってるのかなぁ…。
+0x0a326a48 I wonder what's going on here...
+
+; 0x0a326a90 あーん！やっぱり交代すれば良かった…！
+0x0a326a90 Ahh! I knew I should've switched places...!
+
+; 0x0a326ae6 山田博士
+0x0a326ae6 Dr. Yamada
+
+; 0x0a326af6 平山博士
+0x0a326af6 Dr. Hirayama
+
+; 0x0a326b06 北博士
+0x0a326b06 Kitahakase
+
+; 0x0a326b40 はははっ　見たまえ！この美しいボディを！
+0x0a326b40 Hahaha! Look at this beautiful body!
+
+; 0x0a326b74 まるで伝説の魔神兵団のごとき力強さではないか！
+0x0a326b74 It's as powerful as the legendary Archon Corps!
+
+; 0x0a326bc2 まっ半分以上はボクのおかげだけどね。
+0x0a326bc2 More than half of it is thanks to me.
+
+; 0x0a326c0e あら？制御部品の９７％は私の技術開発によるものよ？
+0x0a326c0e Oh? 97 percent of the control parts are from my technological development.
+
+; 0x0a326cb0 まあ　お客様だわ。
+0x0a326cb0 Well, it's a guest.
+
+; 0x0a326ce2 ほんとだ。でもこの事態は予想され得た事だよ。
+0x0a326ce2 You're right. But this situation was predictable.
+
+; 0x0a326d2e プラットフォーム緊急撤去。
+0x0a326d2e Platform emergency removal.
+
+; 0x0a326d54 起動モード。全自動全動態殺戮モード。
+0x0a326d54 Activate mode. Full automatic, full dynamic killing mode.
+
+; 0x0a326da0 全てを焼き尽くせ、うはははははー！
+0x0a326da0 Burn everything to the ground, uhahahahaha!
+
+; 0x0a326dde いやーん！
+0x0a326dde Nooo!
+
+; 0x0a326f9c うーん！涼し〜い！
+0x0a326f9c Hmm! Cool!
+
+; 0x0a326fce やったあ！外だぁー！
+0x0a326fce Yay! Outside!
+
+; 0x0a32700e 何とか助かった〜！！
+0x0a32700e I'm saved somehow!!
+
+; 0x0a3270ce はいはーい、春菜でーす。
+0x0a3270ce Yes, yes, I'm Haruna.
+
+; 0x0a327106 あ・春菜！？大丈夫？
+0x0a327106 Ah, Haruna?! Are you okay?
+
+; 0x0a327126 なんか無線つながらなかったわよ！？
+0x0a327126 I didn't get a signal!
+
+; 0x0a327174 うん大丈夫！ちょっと穴に落ちただけー。
+0x0a327174 Yeah, I'm fine! I just fell into a hole.
+
+; 0x0a32720e そう分かったわ。気を付けてね。
+0x0a32720e I see. Be careful.
+
+; 0x0a32723c はーい！
+0x0a32723c Okay!
+
+; 0x0a327260 はい・春菜です。
+0x0a327260 I'm Haruna.
+
+; 0x0a327290 あ・春菜！？大丈夫？
+0x0a327290 Ah, Haruna?! Are you okay?
+
+; 0x0a3272b0 なんか無線つながらなかったわよ！？
+0x0a3272b0 I didn't get a signal!
+
+; 0x0a3272e2 うん…大丈夫。ちょっと無線のつながりにくい所を通っただけ。
+0x0a3272e2 Yeah... I'm fine. I just passed through a place where it's a little hard to get a signal.
+
+; 0x0a327328 これから目的の町にむかいますー。
+0x0a327328 We're heading to our destination town.
+
+; 0x0a327374 そう分かったわ。無茶しないでね。
+0x0a327374 I understand. Don't be reckless.
+
+; 0x0a3273a4 うん！
+0x0a3273a4 Yep!
+
+; 0x0a3273c6 はい・春菜だよ。
+0x0a3273c6 I'm Haruna.
+
+; 0x0a3273f6 あ・春菜！？大丈夫？
+0x0a3273f6 Ah, Haruna?! Are you okay?
+
+; 0x0a327416 なんか無線つながらなかったわよ！？
+0x0a327416 I didn't get a signal!
+
+; 0x0a327448 うん、何とか生きてるぅ…。
+0x0a327448 Yeah, I'm still alive...
+
+; 0x0a3274a2 あッ　大丈夫だいじょうぶ！
+0x0a3274a2 Oh, I'm fine!
+
+; 0x0a3274c8 これから目的地に向かいます！
+0x0a3274c8 We're going to our destination!
+
+; 0x0a327510 本当に大丈夫？無茶しないでね！？
+0x0a327510 Are you sure you're okay? Don't push yourself, okay?!
+
+; 0x0a327540 はーい。
+0x0a327540 Yes.
+
+; 0x0a3275ae 雇われ
+0x0a3275ae Hired.
+
+; 0x0a3275ec ふふっ　お遊びは終わりだ！
+0x0a3275ec Hehe, the game's over!
+
+; 0x0a32761e うあーっ　しっつこおーい！
+0x0a32761e Uwahhhhhhhhhhhh!
+
+; 0x0a327650 一度受けた仕事を途中で投げ出す訳にはいかん！
+0x0a327650 I can't give up on a job I've already accepted!
+
+; 0x0a327692 こんごう重工とのこんごう（今後）の付き合いもあるしな…。
+0x0a327692 I have to deal with kongo heavy industries in the future...
+
+; 0x0a3276e2 こんごう重工？
+0x0a3276e2 Kongo Heavy Industries?
+
+; 0x0a327708 問答無用！
+0x0a327708 No questions!
+
+; 0x0a32773a 雇われ
+0x0a32773a Hired.
+
+; 0x0a327892 またこんごう（今度）〜。
+0x0a327892 See you later!
+
+; 0x0a3278ba なんなのあの人…？
+0x0a3278ba What's with him...?
+
+; 0x0a3278f2 エドナ
+0x0a3278f2 Edna
+
+; 0x0a32792c 待ちな！
+0x0a32792c Wait!
+
+; 0x0a327954 見逃してやるから
+0x0a327954 I'll let you go.
+
+; 0x0a327970 荷物を置いてとっとと失せな！
+0x0a327970 Leave your stuff and get lost!
+
+; 0x0a3279d2 そーいう言い方って無いと思うなッ！
+0x0a3279d2 Don't say it like that!
+
+; 0x0a327a14 ん？何だやる気か！？
+0x0a327a14 Hm? What are you trying to do?!
+
+; 0x0a327a4c ムッ！キミ、ちょっと失礼じゃない！？
+0x0a327a4c Hmph! Isn't that a bit rude?!
+
+; 0x0a327a90 失礼だったらなんだい！？
+0x0a327a90 What if it's rude?!
+
+; 0x0a327acc あのぅ…。
+0x0a327acc Um...
+
+; 0x0a327ae2 荷物を置かずに見逃してもらう訳には…。
+0x0a327ae2 I can't let her go without putting her things down...
+
+; 0x0a327b28 い・か・な・い！
+0x0a327b28 No, no, no!
+
+; 0x0a327b66 エドナ
+0x0a327b66 Edna
+
+; 0x0a327b86 これで勝ったとおもうなー！
+0x0a327b86 I think I won!
+
+; 0x0a327be2 ホビー
+0x0a327be2 Hobby
+
+; 0x0a327c1c ここまでよ！
+0x0a327c1c That's it!
+
+; 0x0a327c40 一体、私に何の恨みがあるのぉ？
+0x0a327c40 What exactly do you have against me?
+
+; 0x0a327c7e ホビー
+0x0a327c7e Hobby
+
+; 0x0a327c9e 覚えてなさい！
+0x0a327c9e Remember!
+
+; 0x0a327ce6 雇われ
+0x0a327ce6 Hired.
+
+; 0x0a327d20 ふふっ　お遊びは終わりだ！
+0x0a327d20 Hehe, the game's over!
+
+; 0x0a327d52 それ、さっき聞いたよ？
+0x0a327d52 I heard that earlier.
+
+; 0x0a327d80 黙れッ！今度は本気だ！
+0x0a327d80 Shut up! I'm serious!
+
+; 0x0a327db6 ウキーッウキキッ！
+0x0a327db6 Ukii, ukikii!
+
+; 0x0a327dde それはモンキーでんがなーッ！！
+0x0a327dde That's Monkey!!
+
+; 0x0a327e5e 売り子
+0x0a327e5e Soldier
+
+; 0x0a327ebc はー、やれやれ！
+0x0a327ebc *sigh* Oh man!
+
+; 0x0a327ee8 リンゴいらんかねー。
+0x0a327ee8 I don't need apples.
+
+; 0x0a327f1e この可愛いお嬢さん！
+0x0a327f1e You little lady!
+
+; 0x0a327f3e りんご買ってー…。
+0x0a327f3e Buy an apple.
+
+; 0x0a327f68 いらなーい。
+0x0a327f68 I don't need it.
+
+; 0x0a327fa8 そー言わずに一つ位どうだね？安くしとくよぉ！
+0x0a327fa8 Don't say that. How about one? I'll make it cheap!
+
+; 0x0a327ffc あれ？変だなぁ…。
+0x0a327ffc Huh? That's odd...
+
+; 0x0a32801a キミ、何か邪悪な霊気がまとわりついてるよ？
+0x0a32801a You've got some evil spirit clinging to you.
+
+; 0x0a3281a8 やめてよ。
+0x0a3281a8 Stop.
+
+; 0x0a3281be 壷でも売り付ける気っスかぁ？
+0x0a3281be Are you trying to sell a jar?
+
+; 0x0a3281fa …うーむ。
+0x0a3281fa Hmm...
+
+; 0x0a328222 でりゃー！
+0x0a328222 Deryaa!
+
+; 0x0a328294 あーッ！
+0x0a328294 Ahh!
+
+; 0x0a3282e8 けっけっけっ！
+0x0a3282e8 Kekekeke!
+
+; 0x0a32833e はッ！
+0x0a32833e Ha!
+
+; 0x0a32835c 取られた！
+0x0a32835c He took it!
+
+; 0x0a3283b6 んー…。
+0x0a3283b6 Mm...
+
+; 0x0a3283d2 間違いないわ！
+0x0a3283d2 No doubt!
+
+; 0x0a3283f6 さっきの邪悪な霊気はこの屋敷の中に続いてるわね！
+0x0a3283f6 That evil spirit from before continues inside this mansion!
+
+; 0x0a32845a はい、夏実です！
+0x0a32845a I'm Natsumi!
+
+; 0x0a32847a あ・夏実！あたし！春菜！
+0x0a32847a Ah, natsumi! I! Haruna!
+
+; 0x0a32849e いま、こんごう邸の前にいるの！
+0x0a32849e I'm in front of Kongou's house!
+
+; 0x0a3284cc こんごう邸！？
+0x0a3284cc Kongou residence!?
+
+; 0x0a3284e6 こんごう邸ってこんごう重工の？
+0x0a3284e6 Is the kongo house the kongo heavy industries'?
+
+; 0x0a328510 何でそんな所に居んの！？
+0x0a328510 Why are you here?!
+
+; 0x0a328538 あ…いや、それがそのー。実はー…。
+0x0a328538 Ah... well, umm... actually...
+
+; 0x0a328576 …と言う訳なのォ！
+0x0a328576 ...And that's why!
+
+; 0x0a328598 うーん！そーだったの！
+0x0a328598 Hmm! I see!
+
+; 0x0a3285ba 春菜！私も今からそこへ行くわ！
+0x0a3285ba Haruna! I'm going there now!
+
+; 0x0a3285e4 私が行くまでそこで待ってるのよ！
+0x0a3285e4 Wait there until I go!
+
+; 0x0a328614 うん！早く来てね！
+0x0a328614 Yeah! Hurry up!
+
+; 0x0a32866a あっまずーい！もう見つかっちゃった！
+0x0a32866a Ah, this is bad! They already found us!
+
+; 0x0a3286c8 見つかっちゃったもんはしょうが無いよね！
+0x0a3286c8 It can't be helped that they found us!
+
+; 0x0a3286fc さきに進んじゃおーと！
+0x0a3286fc Let's move on!
+
+; 0x0a328772 なんだ、誰かと思えば
+0x0a328772 Oh, I was wondering who it was.
+
+; 0x0a328792 さっきの間抜けな嬢ちゃんか。
+0x0a328792 That stupid girl from before, huh?
+
+; 0x0a3287c6 ああ！？さっきのリンゴ売り！？
+0x0a3287c6 Huh?! The apple seller?!
+
+; 0x0a3287fa 荷物返しなさいよぉ！
+0x0a3287fa Give me back my stuff!
+
+; 0x0a32881e ばーか！返すくらいなら取るか！
+0x0a32881e Idiot! I'll take it if I have to!
+
+; 0x0a328874 ！？キミ、随分魔力に相応な邪精霊を従わせてるわね！
+0x0a328874 !? You’re making quite a few evil spirits obey you, aren’t you!
+
+; 0x0a3288b4 どうやって手に入れたか知らないけど
+0x0a3288b4 I don't know how you got it.
+
+; 0x0a3288ea 手に余る力は、いずれ自分の身を滅ぼすわよッ！？
+0x0a3288ea Any power beyond your control will eventually destroy you!
+
+; 0x0a328930 けっ余計なお世話だ！
+0x0a328930 I-It's none of my business!
+
+; 0x0a328950 行けッ　マリアンヌちゃん！
+0x0a328950 Go, Marianne!
+
+; 0x0a328b0a ひええ待ってくれ！俺は雇われただけなんだ！
+0x0a328b0a Wait! I was just hired!
+
+; 0x0a328b44 荷物はどこ！？
+0x0a328b44 Where's my stuff?!
+
+; 0x0a328b62 設計図はもう、こんごう社長に渡しちまったぁ！
+0x0a328b62 I already gave the blueprints to Mr. Kongo!
+
+; 0x0a328b9a 病気の母親が家で俺の帰りを待ってるんだー！
+0x0a328b9a My sick mother's waiting for me at home!
+
+; 0x0a328bfe 戦う気がなえちゃうなぁ…。
+0x0a328bfe I feel like fighting...
+
+; 0x0a328c1e しょうがないなぁ…。
+0x0a328c1e Oh well...
+
+; 0x0a328c38 うそつき…！
+0x0a328c38 Liar!
+
+; 0x0a328c88 何かそんな事言われると
+0x0a328c88 If you say something like that
+
+; 0x0a328caa 戦う気がなえちゃうなぁ…。
+0x0a328caa I feel like fighting...
+
+; 0x0a328cdc えっじゃあ…！
+0x0a328cdc Then...!
+
+; 0x0a328d02 気が変わらない内に行きなさい。
+0x0a328d02 Go before I change my mind.
+
+; 0x0a328d30 あっ有難う！
+0x0a328d30 Oh, thanks!
+
+; 0x0a328d70 バーカバーカ！騙されてやんのぉー！
+0x0a328d70 You idiot! You're fooling me!
+
+; 0x0a328d9e へっへっーだ！やっぱり間抜けだぜ！
+0x0a328d9e Heh-heh-heh! You really are a fool!
+
+; 0x0a328dcc 覚えてろバーカッ！！
+0x0a328dcc Remember, idiot!!
+
+; 0x0a328e0c あー！せっかく見逃してやったのにィー！
+0x0a328e0c Aaah! And I let you go!
+
+; 0x0a328e3e 今度会ったら覚えてろぉー！
+0x0a328e3e Next time we meet, remember!
+
+; 0x0a328e84 しょうがないなぁ…。
+0x0a328e84 Oh well...
+
+; 0x0a328eb0 じゃあ…。
+0x0a328eb0 So...
+
+; 0x0a328ed2 今度生まれ変わるときは真人間になるんだよ？
+0x0a328ed2 Next time you're reborn, you're going to be a true human.
+
+; 0x0a328f5c 覚えてろぉぉぉ！
+0x0a328f5c Remember!
+
+; 0x0a328f90 うそつき…！
+0x0a328f90 Liar!
+
+; 0x0a328fe8 人でなしぃぃ！
+0x0a328fe8 You bastard!
+
+; 0x0a32901a 戦車長
+0x0a32901a Tank Captain
+
+; 0x0a329058 夏実遅いなー…。
+0x0a329058 Natsumi's late.
+
+; 0x0a329096 待ち合わせなら、ほかでしろッ！
+0x0a329096 If you're meeting someone, do it somewhere else!
+
+; 0x0a3290f2 きぬよ
+0x0a3290f2 Kinu.
+
+; 0x0a329118 こんごう社長はどこッ！？
+0x0a329118 Where's kongo?!
+
+; 0x0a329148 何ですかあなたは！旦那様はいまお忙しいのです！
+0x0a329148 What are you doing? Master is busy right now!
+
+; 0x0a329182 募金も、勧誘もお取り次ぎ出来ません！
+0x0a329182 I can't raise money or recruit people!
+
+; 0x0a3291be じゃあ夏実が来たら
+0x0a3291be Then when natsumi comes
+
+; 0x0a3291dc 春菜はこんごう社長に会いに行ったって
+0x0a3291dc Haruna went to see president kongo
+
+; 0x0a32920c 伝えてくれる？
+0x0a32920c Can you tell him?
+
+; 0x0a329238 だから通しませんってば！
+0x0a329238 I told you, I won't let you pass!
+
+; 0x0a32928e シスター
+0x0a32928e Sister
+
+; 0x0a3293e2 ‾笏匝狛
+0x0a3293e2 Shakusokoma
+
+; 0x0a329408 です！
+0x0a329408 Yes!
+
+; 0x0a32943a 暴力では何事も解決しません…。
+0x0a32943a Violence won't solve anything.
+
+; 0x0a329470 キミ、だーれー！？
+0x0a329470 Who are you?!
+
+; 0x0a329492 どんな事情か知りませんが押し込み強盗はいけません。
+0x0a329492 I don't know what's going on, but you can't break in and rob.
+
+; 0x0a3294dc 強盗なんかじゃないよ！
+0x0a3294dc It's not robbery!
+
+; 0x0a329502 さあ、悔い改めなさい。
+0x0a329502 Now repent.
+
+; 0x0a329530 荷物を取り戻しにきただけだよ！
+0x0a329530 I just came to get my things back!
+
+; 0x0a32955e 神はいつも貴方を見ていますよ！
+0x0a32955e God always looks at you!
+
+; 0x0a329594 あ…荷物って言うのはね？
+0x0a329594 Oh... What do you mean by baggage?
+
+; 0x0a3295b8 はづき鉄道から預かった…。
+0x0a3295b8 Hazuki Railway gave it to me...
+
+; 0x0a3295e2 そうですか。とぼける気ですか…。
+0x0a3295e2 I see. You're playing dumb...
+
+; 0x0a32961a あの…。
+0x0a32961a Um..
+
+; 0x0a32962e 春菜の話聞いてます？
+0x0a32962e Are you listening to haruna?
+
+; 0x0a329652 判りました。
+0x0a329652 Okay.
+
+; 0x0a32966a 貴方には言葉で言っても無駄なようですね。
+0x0a32966a It seems it's pointless to say it to you.
+
+; 0x0a3296aa だめだコリャ…。
+0x0a3296aa No, collia...
+
+; 0x0a3296d2 仕方ありません！
+0x0a3296d2 I have no choice!
+
+; 0x0a329706 エドナ
+0x0a329706 Edna
+
+; 0x0a329714 ホビー
+0x0a329714 Hobby
+
+; 0x0a329746 待ちな！何処に行く気だいッ！
+0x0a329746 Wait! Where are you going?
+
+; 0x0a329786 借りを返してあげるわッ！
+0x0a329786 I'll pay you back!
+
+; 0x0a3297dc 返さなくてもイイのに〜！
+0x0a3297dc You don't have to return it!
+
+; 0x0a32981c はあ　また出た〜。
+0x0a32981c *sigh* Another one.
+
+; 0x0a32985a あの悪いんだけど後に…
+0x0a32985a Um, I'm sorry, but...
+
+; 0x0a329884 してくれないよねぇ…。
+0x0a329884 He won't do it...
+
+; 0x0a3298d2 みずほ
+0x0a3298d2 Mizuho
+
+; 0x0a32991c ここは、これからワックス掛けをするのよ！
+0x0a32991c I'm going to wax this place!
+
+; 0x0a329950 立ち入り禁止の札が目に入らないのッ！
+0x0a329950 I can't see the forbidden sign!
+
+; 0x0a329990 札なんか目にはいったら痛いよ！
+0x0a329990 If you see a card, it hurts!
+
+; 0x0a3299b4 歩いた後を拭きながら行くよ
+0x0a3299b4 I'm going to wipe my feet.
+
+; 0x0a329a0a 札なんか目にはいったら痛いよ！
+0x0a329a0a If you see a card, it hurts!
+
+; 0x0a329a5c じゃあこのハンカチで
+0x0a329a5c Then with this handkerchief
+
+; 0x0a329a7c 歩いた後を拭きながら行くよ！
+0x0a329a7c I'll wipe my feet and go!
+
+; 0x0a329aca ぷっ…！いや失礼！
+0x0a329aca Pff...! No, excuse me!
+
+; 0x0a329af0 では、通っても良い！
+0x0a329af0 Then you may pass!
+
+; 0x0a329b4a 老魔導士
+0x0a329b4a Old Sorcerer
+
+; 0x0a329b7e お師匠様、あいつです。あの女ですよ！
+0x0a329b7e Master, it's her. It's her!
+
+; 0x0a329bb2 ふぉっふぉっ、謝るなら今の内じゃぞ！
+0x0a329bb2 Heh heh, now's your chance to apologize!
+
+; 0x0a329d44 いい加減にしないと
+0x0a329d44 I've got to stop.
+
+; 0x0a329d62 春菜、本気でおこるよ！？
+0x0a329d62 Haruna, I’m really going to wake up!
+
+; 0x0a329da6 悪い事してないのに謝れないよ！
+0x0a329da6 I can't apologize for not doing anything bad!
+
+; 0x0a329df0 夏実、遅いよォー！
+0x0a329df0 Natsumi's late!
+
+; 0x0a329e3e こんごう
+0x0a329e3e Kongo
+
+; 0x0a329e4e 山田博士
+0x0a329e4e Dr. Yamada
+
+; 0x0a329e5e 平山博士
+0x0a329e5e Dr. Hirayama
+
+; 0x0a329e6e 北博士
+0x0a329e6e Kitahakase
+
+; 0x0a329ed2 失礼しまーす！
+0x0a329ed2 Excuse me!
+
+; 0x0a329ef4 あの、私の荷物がこちらに有ると思うんですけど…。
+0x0a329ef4 Um, I think my things are here...
+
+; 0x0a329f3c ふざけるなッ！よくもはめてくれたな！
+0x0a329f3c Don't be ridiculous! How dare you frame me!
+
+; 0x0a329f78 おい！あれを出せ！
+0x0a329f78 Hey! Get that out!
+
+; 0x0a329fa2 ええ？そんな女ほっといて逃げましょうよ。
+0x0a329fa2 What? Let's leave such a woman and run away.
+
+; 0x0a329fda まって！あれを国外に持ち出せれば
+0x0a329fda Wait! If I can get it out of the country
+
+; 0x0a32a006 第３国が高く買ってくれるわ！
+0x0a32a006 The third country will buy you a lot!
+
+; 0x0a32a032 よし！それがいい！
+0x0a32a032 Okay! That's good!
+
+; 0x0a32a092 あっ　まてー！
+0x0a32a092 Oh wait!
+
+; 0x0a32a0de こんごう
+0x0a32a0de Kongo
+
+; 0x0a32a0ee こ戦車
+0x0a32a0ee Tank
+
+; 0x0a32a12c ほしけりゃくれてやる！
+0x0a32a12c If you want it, you can have it!
+
+; 0x0a32a158 そうら！設計図だ！
+0x0a32a158 Here! The blueprints!
+
+; 0x0a32a1a2 はーはははははぁ！
+0x0a32a1a2 Hahahahahaha!
+
+; 0x0a32a1e0 ああぁーッ！？
+0x0a32a1e0 Ahhhh!?
+
+; 0x0a32a234 ちゃんと弁償して貰うからね！？
+0x0a32a234 I'll make sure you pay for it, okay?!
+
+; 0x0a32a276 もう怒ったぞ！
+0x0a32a276 I'm mad now!
+
+; 0x0a32a2c2 殺す！
+0x0a32a2c2 Kill him!
+
+; 0x0a32a30e ドルチェ
+0x0a32a30e Dolce
+
+; 0x0a32a31e こんごう
+0x0a32a31e Kongo
+
+; 0x0a32a32e こ戦車
+0x0a32a32e Tank
+
+; 0x0a32a380 ほしけりゃくれてやる！
+0x0a32a380 If you want it, you can have it!
+
+; 0x0a32a42e 有難う！クーリー！
+0x0a32a42e Thanks! Cooley!
+
+; 0x0a32a498 だっ　誰だきさま！
+0x0a32a498 Wh-Who are you?!
+
+; 0x0a32a4c6 こんごう社長！
+0x0a32a4c6 President kongo!
+
+; 0x0a32a4e0 フレイ機関の市場を独占せんがため！
+0x0a32a4e0 To not monopolize the market of the frei engine!
+
+; 0x0a32a50e ライバル会社の設計図を強奪したばかりか
+0x0a32a50e Not only did he steal the blueprints for the rival company, he also stole them
+
+; 0x0a32a670 なんの罪もない配達員まで手にかけようなんて！
+0x0a32a670 I can't believe you're trying to kill an innocent deliveryman!
+
+; 0x0a32a6a8 労働基準監督所がゆるしても
+0x0a32a6a8 Even if the labor standards office forgives you
+
+; 0x0a32a6d8 スピード快盗！『ドルチェ＝ムール』が許しませんッ！
+0x0a32a6d8 Speedy theft! Dolce-Mour won't allow it!
+
+; 0x0a32a71a スピード快盗！？
+0x0a32a71a Speedy theft?!
+
+; 0x0a32a74e 夏実ッ！？
+0x0a32a74e Natsumi?
+
+; 0x0a32a768 ここは、春菜に任せて！
+0x0a32a768 Leave this to Haruna!
+
+; 0x0a32a784 頑張ってねっ。
+0x0a32a784 Good luck!
+
+; 0x0a32a7ce ここは、春菜に任せて！
+0x0a32a7ce Leave this to Haruna!
+
+; 0x0a32a804 ・・・そう…わかったわ。
+0x0a32a804 I see... Okay.
+
+; 0x0a32a828 あなたの好きになさい。
+0x0a32a828 Do as you like.
+
+; 0x0a32a8ae あのね？人間は話し合えばわかり合えると思うんだ…！
+0x0a32a8ae You know, I think humans can understand each other if they talk...!
+
+; 0x0a32a8f4 だからぁ一緒に謝ってあげるから皆で警察にぃ…。
+0x0a32a8f4 So I'll apologize with you, so let's all go to the police...
+
+; 0x0a32a932 ふざけやがって！
+0x0a32a932 Fuck you!
+
+; 0x0a32a982 ありゃー…。
+0x0a32a982 Ahhh...
+
+; 0x0a32a9b6 頑張ってねっ。
+0x0a32a9b6 Good luck!
+
+; 0x0a32a9dc 行くわよ！
+0x0a32a9dc Let's go!
+
+; 0x0a32a9f6 はいっ！
+0x0a32a9f6 Yes!
+
+; 0x0a32aa96 こんごう
+0x0a32aa96 Kongo
+
+; 0x0a32aad0 こっこんなばかなー！
+0x0a32aad0 Th-This can't be!
+
+; 0x0a32ab12 ドルチェ
+0x0a32ab12 Dolce
+
+; 0x0a32ab22 こんごう
+0x0a32ab22 Kongo
+
+; 0x0a32ab5c こっこんなばかなー！
+0x0a32ab5c Th-This can't be!
+
+; 0x0a32abb2 夏実さん、春菜さん？
+0x0a32abb2 Natsumi, Haruna?
+
+; 0x0a32abd2 この事件、まだ終わってないわよッ！
+0x0a32abd2 This isn't over yet!
+
+; 0x0a32ac3a ドルチェ
+0x0a32ac3a Dolce
+
+; 0x0a32ac56 はづき
+0x0a32ac56 Hazuki
+
+; 0x0a32acac あ！ここだよここ！
+0x0a32acac Ah! Here! Here!
+
+; 0x0a32acca 今度は間違いないわね！
+0x0a32acca There's no doubt this time!
+
+; 0x0a32ad04 なんだ？コイツはッ！？
+0x0a32ad04 What is this guy?!
+
+; 0x0a32ad36 うわっ！うわーッ！！
+0x0a32ad36 Wow! Wow!!
+
+; 0x0a32ad66 へっへっへっ！こんな所に隠れやが
+0x0a32ad66 Heh heh heh! Hiding in a place like this?
+
+; 0x0a32ada2 どうやら暴走しているようね…。
+0x0a32ada2 Looks like it's gone berserk...
+
+; 0x0a32adcc それにしても、何かとてつもな
+0x0a32adcc Still, there's something outrageous about it.
+
+; 0x0a32ae04 あっ！！ドルチェ！？
+0x0a32ae04 Ah! Dolce?!
+
+; 0x0a32ae46 あれ？今…
+0x0a32ae46 Huh? Just now...
+
+; 0x0a32ae5c 夏実の声が聞
+0x0a32ae5c Natsumi's voice
+
+; 0x0a32af98 こえたような…。
+0x0a32af98 I feel scared...
+
+; 0x0a32b034 失礼しま〜す！
+0x0a32b034 Excuse me!
+
+; 0x0a32b086 あり？誰もいない？
+0x0a32b086 Huh? No one?
+
+; 0x0a32b0c8 夏実！？
+0x0a32b0c8 Natsumi?
+
+; 0x0a32b14c ！？なに！？
+0x0a32b14c !? What!?
+
+; 0x0a32b16c どんどん魔力が膨張して行く！？
+0x0a32b16c My magical energy is expanding?!
+
+; 0x0a32b19e ううん。と、言うより取り込んだ魔力をそのまま
+0x0a32b19e “Nope.” It’s more like the magical energy I’ve absorbed is still there
+
+; 0x0a32b1de 自分のものにしているんだわッ！？
+0x0a32b1de I'm making it mine!
+
+; 0x0a32b214 信じられない！こんな化け物聞いた事もないわッ！？
+0x0a32b214 I can't believe it! I've never heard of such a monster!
+
+; 0x0a32b258 もしかして、これが大ババ様の予知夢の…？
+0x0a32b258 Could this be Obaba-sama's prophetic dream?
+
+; 0x0a32b2ac とにかく！
+0x0a32b2ac Anyway!
+
+; 0x0a32b2ca 夏実の為にも、ここからキミを
+0x0a32b2ca For Natsumi’s sake, I’ll take you from here
+
+; 0x0a32b2f2 解き放つ訳にはいかないわッ！
+0x0a32b2f2 I can't let it go!
+
+; 0x0a32b398 なんと言う事ぢゃ！何か恐ろしい力が…
+0x0a32b398 What a terrible power!
+
+; 0x0a32b3c8 この世に解き放たれようとしておるッ！
+0x0a32b3c8 I'm about to be freed from this world!
+
+; 0x0a32b400 誰か！誰かおらぬか！
+0x0a32b400 Someone! Is anyone there?
+
+; 0x0a32b420 零美子！魔沙夫！
+0x0a32b420 Reiko! Masao!
+
+; 0x0a32b46c なーにー？大ババ様ぁ〜！一体何事なのぉー！？
+0x0a32b46c Whaaat? Great Babaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+; 0x0a32b4b4 おおッ春菜も来たか！実はなッ！
+0x0a32b4b4 Oh, Haruna's here too! Actually!
+
+; 0x0a32b4ee 今し方、恐ろしい夢を見たのぢゃ…！
+0x0a32b4ee I just had a terrible dream...!
+
+; 0x0a32b52c ええーっ！？
+0x0a32b52c What?!
+
+; 0x0a32b54c もぉー！小さい子じゃあるまいし
+0x0a32b54c Geez! I'm not a little kid.
+
+; 0x0a32b576 恐い夢見たくらいで起こさないでよネ！
+0x0a32b576 Don't wake me up with just a scary dream!
+
+; 0x0a32b5a6 私、明日も仕事なんだよぉッ！？
+0x0a32b5a6 I have work tomorrow!
+
+; 0x0a32b5d8 じゃ！おやすみィ〜！
+0x0a32b5d8 Good night!
+
+; 0x0a32b60e ああ！これッ春菜…！？
+0x0a32b60e Ah! This is haruna...!?
+
+; 0x0a32b666 ふぁああ〜あっ…。
+0x0a32b666 Fuaaaaaah...
+
+; 0x0a32b684 もォ〜今朝は大ババ様のおかげで遅刻だわぁ…！
+0x0a32b684 Geez~ I'm late this morning thanks to Ooba-sama!
+
+; 0x0a32b6cc ああ神様。夏実の機嫌が悪くありませんように！
+0x0a32b6cc Oh, god. May Natsumi be in a good mood!
+
+; 0x0a32b758 きゃあああッ！
+0x0a32b758 Kyaaaaaa!
+
+; 0x0a32b8c8 あッ！何なにッ！？
+0x0a32b8c8 Ah! What!?
+
+; 0x0a32b8f0 絢音が…！
+0x0a32b8f0 Ayane!
+
+; 0x0a32b906 絢音が、私より早く来てるーっっ！
+0x0a32b906 Ayane came earlier than me!
+
+; 0x0a32b95c う…うふふっ
+0x0a32b95c U-Ufufu.
+
+; 0x0a32b974 お・は・よ・う…！
+0x0a32b974 Good morning!
+
+; 0x0a32b9fc あら〜ん　今日は随分遅かったわねぇ　ほほほ
+0x0a32b9fc Oh, you're late today. Hohoho.
+
+; 0x0a32ba56 私より先に来てたよ…。
+0x0a32ba56 She came before me.
+
+; 0x0a32ba98 き、今日は雪ね。
+0x0a32ba98 S-Snow today.
+
+; 0x0a32babe ほーほほほーっ！
+0x0a32babe Hohohoho!
+
+; 0x0a32bae4 さっ　しごと仕事ー！
+0x0a32bae4 Work, work!
+
+; 0x0a32bb38 …あら！？
+0x0a32bb38 ...Oh!?
+
+; 0x0a32bb4e あっ　すっごーい！
+0x0a32bb4e Oh, wow!
+
+; 0x0a32bb6c 会社創設以来初、損害賠償限度額目一杯の小荷物だわっ！！
+0x0a32bb6c For the first time since the company's founding, this is the biggest small package we've ever had!
+
+; 0x0a32bbce えっほんと？１億２千万円！？
+0x0a32bbce 120 million yen?!
+
+; 0x0a32bc00 どれどれー！？
+0x0a32bc00 Let's see!
+
+; 0x0a32bc42 ああ！やっと、うちにも大口の仕事がッ！
+0x0a32bc42 Aaah! Finally, I have a big job too!
+
+; 0x0a32bc7e ふーん、親会社からの直接依頼かぁ。
+0x0a32bc7e Hmm, a direct request from a parent company, huh?
+
+; 0x0a32bcac 珍しいね。
+0x0a32bcac It's rare.
+
+; 0x0a32bce6 あらこれ、特別手当付の仕事ね。
+0x0a32bce6 Oh, this is a special treatment.
+
+; 0x0a32bd1a …それで？
+0x0a32bd1a ...So?
+
+; 0x0a32bd5a えっ？
+0x0a32bd5a Eh?
+
+; 0x0a32bd76 誰が運ぶの？その小荷物。
+0x0a32bd76 Who's going to carry that small bag?
+
+; 0x0a32bdc4 決まってるじゃない。
+0x0a32bdc4 It's obvious.
+
+; 0x0a32bde4 集配主任である、あ・た・しッ★
+0x0a32bde4 I'm the head of the collection and distribution team.
+
+; 0x0a32be2e 絢音＋春菜
+0x0a32be2e Ayane+Haruna
+
+; 0x0a32be3e ・・・・。
+0x0a32be3e .. ..
+
+; 0x0a32be96 ヤダ！ヤダ！ヤダ！ヤダー！
+0x0a32be96 No! No! No!
+
+; 0x0a32bebc 夏実ばっかり美味しい仕事してズルイーッ！
+0x0a32bebc It's not fair that only Natsumi does delicious work!
+
+; 0x0a32bef0 責任ある仕事をさせなきゃ社員は育たないのよ！？
+0x0a32bef0 Employees won’t grow unless you make them do responsible work, you know!?
+
+; 0x0a32bf7a 夏実！あんたは責任ある仕事を
+0x0a32bf7a Natsumi! You do responsible work
+
+; 0x0a32bfa2 一人で独占することによってぇ！
+0x0a32bfa2 By monopolizing it by myself!
+
+; 0x0a32bfe0 会社そのものの成長を妨げてるのよー！
+0x0a32bfe0 It's preventing the company's growth!
+
+; 0x0a32c012 会社を弱体化させているのよーッ！
+0x0a32c012 I'm weakening the company!
+
+; 0x0a32c040 会社を潰そうとしているのよーッ！！
+0x0a32c040 I'm trying to destroy the company!!
+
+; 0x0a32c078 オニー！アクマー！！オニヒトデーっ！！！
+0x0a32c078 Oni! Akuma!! Onihitdai!!!
+
+; 0x0a32c200 な・何なのよ、そのオニヒトデって言うのは！？
+0x0a32c200 Wh-What's with that starfish?!
+
+; 0x0a32c262 …でもまっ　絢音の言い分にも一理あるわね。珍しく…。
+0x0a32c262 ...But Ayane has a point. For once...
+
+; 0x0a32c2cc え！…じゃあっ！？
+0x0a32c2cc Huh? Then...?!
+
+; 0x0a32c320 ええ！この仕事は、春菜に頼むわ！
+0x0a32c320 Yes! This job is for Haruna!
+
+; 0x0a32c376 やったー！
+0x0a32c376 Yay!
+
+; 0x0a32c38c よおーし　頑張るぞぉー！
+0x0a32c38c Alright, let's do this!
+
+; 0x0a32c3cc ちょっと！何で私を差し置いて春菜に仕事が行っちゃうのよ！？
+0x0a32c3cc Hey! Why are you leaving work to Haruna without me?!
+
+; 0x0a32c412 春菜はバイトで、私は準社員なのよ！？
+0x0a32c412 Haruna is a part-timer, and I'm a semi-employee!
+
+; 0x0a32c452 んー…。
+0x0a32c452 Mm...
+
+; 0x0a32c466 私も絢音に頼みたいのは山々なんだけどぉー。
+0x0a32c466 I want to ask Ayane too, but...
+
+; 0x0a32c49c 今一つ信頼性に欠けると言うかぁ…。
+0x0a32c49c There's one thing I don't trust...
+
+; 0x0a32c4ca ハッキリ言って任せらんない！
+0x0a32c4ca I can't leave it to you to say it clearly!
+
+; 0x0a32c508 ががーん！！
+0x0a32c508 *clang*!!
+
+; 0x0a32c530 じゃ！夏実！
+0x0a32c530 Okay! Natsumi!
+
+; 0x0a32c548 いってきまーすっっ！！
+0x0a32c548 I'm off!
+
+; 0x0a32c5b8 毎度ー！
+0x0a32c5b8 Thank you!
+
+; 0x0a32c5d2 エンジニア
+0x0a32c5d2 Engineer
+
+; 0x0a32c5e2 えっ君が！？
+0x0a32c5e2 Eh? You?!
+
+; 0x0a32c5fa だっ大丈夫かなぁ…。
+0x0a32c5fa I wonder if it's okay...
+
+; 0x0a32c62a 大じょーぶだよ！心配要らないですよぉ！
+0x0a32c62a Don't worry! I'm fine!
+
+; 0x0a32c65c 絶対安全！快速御届け！
+0x0a32c65c It'll be safe! Quick delivery!
+
+; 0x0a32c67e が、ウチのモットーなんですよ！？
+0x0a32c67e But it's my motto!
+
+; 0x0a32c6b0 エンジニア
+0x0a32c6b0 Engineer
+
+; 0x0a32c6c0 そ・そうなの…。
+0x0a32c6c0 I-I see...
+
+; 0x0a32c6e2 じゃあ…コレ、よろしくお願いします。
+0x0a32c6e2 Then... please take this.
+
+; 0x0a32c756 その後、軍警察の調査により『こんごう重工』や『はづき鉄道
+0x0a32c756 After that, the military police investigated 'Kongo Heavy Industries' and 'Hazuki Railway.'
+
+; 0x0a32c794 』の行ってきた妨害工作・武器密輸・違法研究・私設軍隊の所有、政府官僚との癒着。
+0x0a32c794 ’s sabotage, arms smuggling, illegal research, private army possession, collusion with government officials
+
+; 0x0a32c7f2 その他、買収・乗っ取り・裏談合などの違法行為が次々と発覚。
+0x0a32c7f2 Other illegal activities such as acquisition, takeover, and back-alley were discovered one after another.
+
+; 0x0a32c846 『こんごう重工』と『はづき鉄道』は解体され、その施設と子会社の
+0x0a32c846 “Kongo Heavy Industries” and “Hazuki Railway” were disbanded, and their facilities and subsidiary companies
+
+; 0x0a32c88a 大部分は国の管理下に置かれる事になった。
+0x0a32c88a Most of them ended up under the control of the country.
+
+; 0x0a32c8bc 一方、有限会社はづき宅配便は…。
+0x0a32c8bc On the other hand, Hazuki Delivery Service...
+
+; 0x0a32c8ec 『はづき鉄道』の財産整理に当たって、十分な利益の上がって
+0x0a32c8ec When it comes to organizing the Hazuki Railroad’s assets, we’ve made enough profit
+
+; 0x0a32c92a いなかった『はづき宅配便』は、出資を打ち切られ
+0x0a32c92a The “Hazuki Delivery Service” that wasn’t there had been cut off
+
+; 0x0a32c95e 事実上の倒産となった。
+0x0a32c95e In effect, it went under.
+
+; 0x0a32c97e 華鈴社長は会社設立にあたって、個人的に親会社に借金をし
+0x0a32c97e President Kasuzu personally owed a debt to his parent company when he founded the company
+
+; 0x0a32c9ba ていたため、今も借金の返済に追われている。
+0x0a32c9ba As such, he was still busy paying off his debts.
+
+; 0x0a32cb48 そして…。
+0x0a32cb48 And...
+
+; 0x0a32cb80 もう少し右！
+0x0a32cb80 A little to the right!
+
+; 0x0a32cb98 そうそう！ＯＫ！
+0x0a32cb98 Oh yeah! Okay!
+
+; 0x0a32cbc4 じゃ、そこで倒れないように固定して！
+0x0a32cbc4 Then fix it so it doesn't collapse!
+
+; 0x0a32cc04 華鈴社長…！
+0x0a32cc04 President kasuzu!
+
+; 0x0a32cc1c じゃない店長！準備出来ました！
+0x0a32cc1c Manager! I'm ready!
+
+; 0x0a32cc56 あら？春菜は…？
+0x0a32cc56 Oh? Haruna...?
+
+; 0x0a32cc82 はいはーい。
+0x0a32cc82 Yes, yes.
+
+; 0x0a32cca4 どこいってんのよ！
+0x0a32cca4 Where are you going?!
+
+; 0x0a32cccc へへー、ちょっとねっ。
+0x0a32cccc Hehe, a little.
+
+; 0x0a32ccf6 ちーずっ！！！
+0x0a32ccf6 Chizu!!!
+
+; 0x0a32cd3c 新たに旗揚げした宅配中華クレープ屋で、今も地道に働いてまーす！
+0x0a32cd3c I'm still working hard at my newly opened delivery Chinese crepe shop!
+
+; 0x0a32cdbc シスター
+0x0a32cdbc Sister
+
+; 0x0a32cdca あれです！あの人が押し込み強盗放火犯ですわ！
+0x0a32cdca That's it! He's the robber, the arsonist!
+
+; 0x0a32ce12 えーッ！？
+0x0a32ce12 Huh?!
+
+; 0x0a32ce28 違うよ！誤解だよォ！
+0x0a32ce28 No! You misunderstood!
+
+; 0x0a32ce48 夏実！助けてー！
+0x0a32ce48 Natsumi! Help!
+
+; 0x0a32ce9a その後、軍警察の調査により『こんごう重工』の行ってきた
+0x0a32ce9a After that, the military police investigated kongo heavy industries.
+
+; 0x0a32ced6 妨害工作・武器密輸・違法研究・私設軍隊の所有。
+0x0a32ced6 Sabotage, arms smuggling, illegal research, and private army possession.
+
+; 0x0a32cf14 その他、買収・癒着・乗っ取り・裏談合などの違法行為が次々と発覚。
+0x0a32cf14 Other illegal activities such as acquisition, collusion, takeover, and back-alley were discovered one after another.
+
+; 0x0a32cf64 『こんごう重工』は解体され、その施設と子会社の大部分は
+0x0a32cf64 “Kongo Heavy Industries” was disbanded, and most of its facilities and subsidiary companies were
+
+; 0x0a32cfa0 『はづき鉄道』と『きりしま化学』などの大企業に吸収されて行った。
+0x0a32cfa0 It was absorbed by big companies such as 'Hazuki Railway' and 'Kirishima Chemical.'
+
+; 0x0a32cfea 一方、有限会社はづき宅配便は…。
+0x0a32cfea On the other hand, Hazuki Delivery Service...
+
+; 0x0a32d01a 刑事訴訟こそ逃れたものの、親会社『はづき鉄道』から設計
+0x0a32d01a  ⁇  escaped criminal lawsuits, but designed by the parent company ⁇ Hazuki Railway ⁇ "
+
+; 0x0a32d056 図喪失の責任を問われ、会社は解散となった。
+0x0a32d056 The company was disbanded after being held accountable for the loss of figure.
+
+; 0x0a32d08a 華鈴社長は会社設立にあたって、個人的に親会社に借金をし
+0x0a32d08a President Kasuzu personally owed a debt to his parent company when he founded the company
+
+; 0x0a32d0c6 ていたため、今も借金の返済に追われている。
+0x0a32d0c6 As such, he was still busy paying off his debts.
+
+; 0x0a32d124 そして…。
+0x0a32d124 And...
+
+; 0x0a32d162 わーん！
+0x0a32d162 Waah!
+
+; 0x0a32d176 眠ーい！
+0x0a32d176 Sleepy!
+
+; 0x0a32d18a 寒ーい！
+0x0a32d18a Cold!
+
+; 0x0a32d19e おなかすいたー！
+0x0a32d19e I'm hungry!
+
+; 0x0a32d1ba 帰りたーい！
+0x0a32d1ba I wanna leave!
+
+; 0x0a32d1dc 心静に瞑想せい！
+0x0a32d1dc Meditate calmly!
+
+; 0x0a32d1f8 煩悩を消しさるのぢゃ！
+0x0a32d1f8 Erase your worldly desires!
+
+; 0x0a32d21a あと半年もすれば山を降りられよう…。
+0x0a32d21a In another six months, we'll be able to get off the mountain.
+
+; 0x0a32d270 職を失った春菜は、無理矢理お家に戻され、
+0x0a32d270 Having lost her job, Haruna was forced back home
+
+; 0x0a32d2a4 宮守神社を守るため、今も修業しゅぎょうの毎日なのでありました。
+0x0a32d2a4 To protect Miyamori Shrine, I've been training every day.
+
+; 0x0a32d2f0 とっても　いやーんっっっ！
+0x0a32d2f0 Oh nooooo!
+
+
+; 0x0a3581ce ドルチェ
+0x0a3581ce Dolce
+
+; 0x0a3581f0 山賊が攻めてきた様子はないわね…。
+0x0a3581f0 There's no sign of bandits attacking...
+
+; 0x0a35823a ドルチェ
+0x0a35823a Dolce
+
+; 0x0a35824a エンジニア
+0x0a35824a Engineer
+
+; 0x0a35829c いえ！この無線は絶対安全です。
+0x0a35829c No! This radio is absolutely safe.
+
+; 0x0a3582ce 特別製ですから。
+0x0a3582ce It's special.
+
+; 0x0a358304 はい、でもあの配達員が
+0x0a358304 Yes, but that delivery guy
+
+; 0x0a35832e 警察にでも駆け込んだら！
+0x0a35832e If you run to the police!
+
+; 0x0a35836c そんな、図面がおおやけの場に出れば…！
+0x0a35836c If the blueprints go out in the open...!
+
+; 0x0a3583b8 でもうまく『こんごう』に図面が奪われたとして
+0x0a3583b8 But let's say that kongo stole the blueprints.
+
+; 0x0a3583f8 どうやってそれを警察に？
+0x0a3583f8 How do you get it to the police?
+
+; 0x0a358568 んごうの役員にスパイを！？
+0x0a358568 Spy on Ngo's board?!
+
+; 0x0a358596 …なるほど。
+0x0a358596 I see...
+
+; 0x0a3585c8 …そうですね。
+0x0a3585c8 ...That's true.
+
+; 0x0a3585ea 一刻も早く図面が奪われることを祈ってますよ。
+0x0a3585ea I hope the blueprints are taken as soon as possible.
+
+; 0x0a35862a では、また。
+0x0a35862a See you later.
+
+; 0x0a358682 今の話
+0x0a358682 That story
+
+; 0x0a35869c じっくりと聞かせてほしいわねっ！
+0x0a35869c I want to hear it carefully!
+
+; 0x0a35870e ドルチェ
+0x0a35870e Dolce
+
+; 0x0a35871e エンジニア
+0x0a35871e Engineer
+
+; 0x0a358770 ひええ…ッ！
+0x0a358770 Eeeeeek!
+
+; 0x0a3587a2 ドルチェ
+0x0a3587a2 Dolce
+
+; 0x0a3587b2 野盗頭
+0x0a3587b2 Nozoto
+
+; 0x0a3587ec ふー。見掛けによらず狂暴な姉ちゃんだったぜー。
+0x0a3587ec Whew. She was more violent than I thought.
+
+; 0x0a358842 ん？なんだテメーは！？
+0x0a358842 Hm? What's with you!?
+
+; 0x0a358868 あなたが山賊ね？
+0x0a358868 You're a bandit?
+
+; 0x0a358884 どうして配達員を襲ったの？
+0x0a358884 Why did you attack the courier?
+
+; 0x0a3588aa 誰かに雇われたの！？
+0x0a3588aa Who hired you?!
+
+; 0x0a3588ce はんっ！知ったことか！！
+0x0a3588ce Hah! I don't care!!
+
+; 0x0a3588fe ドルチェ
+0x0a3588fe Dolce
+
+; 0x0a35890e クーリー
+0x0a35890e Cooley
+
+; 0x0a35894e そろそろ通過する時間ね。
+0x0a35894e It's time to pass.
+
+; 0x0a358986 それ何？
+0x0a358986 What's that?
+
+; 0x0a3589a6 『ダイアグラム』って言う列車の運行表よ。
+0x0a3589a6 It's a diagram of the train.
+
+; 0x0a3589e2 こうやって駅と駅を線で結んで行くと
+0x0a3589e2 If you connect the station with the line like this
+
+; 0x0a358a18 複雑な計算なしで
+0x0a358a18 Without complex calculations
+
+; 0x0a358a3c 特定の時刻に列車がどの辺を走っているか
+0x0a358a3c I don't know where the train runs at a specific time
+
+; 0x0a358a76 一目でわかるってわけ！
+0x0a358a76 I can tell at a glance!
+
+; 0x0a358a9c へぇー、すごいや！
+0x0a358a9c Wow, amazing!
+
+; 0x0a358ad8 来たきた！
+0x0a358ad8 It's here! It's here!
+
+; 0x0a358b36 ドルチェ
+0x0a358b36 Dolce
+
+; 0x0a358b46 魔法機士
+0x0a358b46 Magic mechanic
+
+; 0x0a358b72 コロス
+0x0a358b72 Colos
+
+; 0x0a358b84 やれやれ！
+0x0a358b84 Oh man!
+
+; 0x0a358b96 ぶっきらぼうな車掌さんねッ！
+0x0a358b96 You're so blunt!
+
+; 0x0a358bc2 ドルチェ
+0x0a358bc2 Dolce
+
+; 0x0a358bd2 クーリー
+0x0a358bd2 Cooley
+
+; 0x0a358be2 魔法機士
+0x0a358be2 Magic mechanic
+
+; 0x0a358c80 あらへんねぇ？
+0x0a358c80 Oh, no?
+
+; 0x0a358c9a 点滅して消えないわ？
+0x0a358c9a It won't flash and go out?
+
+; 0x0a358cbe きっと何かのイベント用だよ！
+0x0a358cbe I bet it's for some event!
+
+; 0x0a358ce6 爆発するとか中から何か出て来るとかー！
+0x0a358ce6 Explosion, something coming out of it!
+
+; 0x0a358d1c やーねー！捨てちゃいましょ！
+0x0a358d1c Let's throw it away!
+
+; 0x0a358d46 エイッ！
+0x0a358d46 Ei!
+
+; 0x0a358eaa これでＯＫ！
+0x0a358eaa That's okay!
+
+; 0x0a358f6e ふー、そろそろ駅だわ…。
+0x0a358f6e Phew, the station's almost here...
+
+; 0x0a358f96 んー、のどかだねー。
+0x0a358f96 Hmm, how peaceful.
+
+; 0x0a358fb6 誰かあんなとこで戦ってるよ。
+0x0a358fb6 Someone's fighting there.
+
+; 0x0a358fea え…？
+0x0a358fea Eh?
+
+; 0x0a35900e ドルチェ
+0x0a35900e Dolce
+
+; 0x0a35902a クーリー
+0x0a35902a Cooley
+
+; 0x0a35903a 雇われ
+0x0a35903a Hired.
+
+; 0x0a359068 うわあっ　しつっこ〜い！
+0x0a359068 Wow, he's persistent!
+
+; 0x0a359090 なにっ！？　しつこいと言うと
+0x0a359090 What?! When I say insistent
+
+; 0x0a3590ba ちょっと甘酸っぱい青春時代の思い出と言うか
+0x0a3590ba You could say it was a memory of a slightly bittersweet youth.
+
+; 0x0a3590f2 いやーん、初めて人を好きになっちゃったっ　てへっ。
+0x0a3590f2 Man, this is the first time I've fallen in love with someone. Teehee.
+
+; 0x0a359132 って、そりゃ初恋でんがなーっっ！！
+0x0a359132 That's my first love!!
+
+; 0x0a359194 何者だッ！！
+0x0a359194 Who are you?!
+
+; 0x0a3591fc 愛と正義の快速美少…！
+0x0a3591fc Rapid Misao of Love and Justice...!
+
+; 0x0a359228 快速美女！
+0x0a359228 Rapid Beauty!
+
+; 0x0a359246 スピード快盗ムール＝ドルチェ！！
+0x0a359246 Moul-Dolce!!
+
+; 0x0a35928c 今なんで言い直したの？
+0x0a35928c Why did you rephrase that?
+
+; 0x0a3592c2 うるさいっ！
+0x0a3592c2 Shut up!
+
+; 0x0a3592e8 さあ！ここは私にまかせてお行きなさい！
+0x0a3592e8 Leave this to me!
+
+; 0x0a35931e えっでも…。
+0x0a35931e Eh, but...
+
+; 0x0a359342 あなたには大切な配達がある筈よ？
+0x0a359342 You should have a very important delivery.
+
+; 0x0a35937e はい…。
+0x0a35937e Yes...
+
+; 0x0a359392 じゃ、お願いします…！
+0x0a359392 Then please...!
+
+; 0x0a3593cc おのれぇー！！
+0x0a3593cc Damn you!!
+
+; 0x0a35941a ドルチェ
+0x0a35941a Dolce
+
+; 0x0a35942a 雇われ
+0x0a35942a Hired.
+
+; 0x0a35944e 話がちが〜うっ！
+0x0a35944e This is different!
+
+; 0x0a35946e 依頼主のほうは大丈夫かしら…？
+0x0a35946e I wonder if the client's okay...?
+
+; 0x0a35949a 念のため確認した方がいいわね！
+0x0a35949a We should check just in case!
+
+; 0x0a3594d2 ドルチェ
+0x0a3594d2 Dolce
+
+; 0x0a3594e2 クーリー
+0x0a3594e2 Cooley
+
+; 0x0a359546 こういうのって久し振りねぇ。
+0x0a359546 I haven't done this in a while.
+
+; 0x0a35959e 遊びぢゃないんですよ？
+0x0a35959e It's not a game, okay?
+
+; 0x0a3595cc 分かってるわよ！
+0x0a3595cc I know!
+
+; 0x0a35961e ドルチェ
+0x0a35961e Dolce
+
+; 0x0a35962e 山田博士
+0x0a35962e Dr. Yamada
+
+; 0x0a35963e 平山博士
+0x0a35963e Dr. Hirayama
+
+; 0x0a35964e 北博士
+0x0a35964e Kitahakase
+
+; 0x0a35971f 嵬掾剤¥
+0x0a35971f Waijouyaku
+
+; 0x0a3597c8 え！この美しいボディを！
+0x0a3597c8 This beautiful body!
+
+; 0x0a3597ec まるで伝説の魔神兵団のごとき力強さではないか！
+0x0a3597ec It's as powerful as the legendary Archon Corps!
+
+; 0x0a35983a まっ半分以上はボクのおかげだけどね。
+0x0a35983a More than half of it is thanks to me.
+
+; 0x0a359886 あら？制御部品の９７％は私の技術開発によるものよ？
+0x0a359886 Oh? 97 percent of the control parts are from my technological development.
+
+; 0x0a359920 まあ　お客様だわ。
+0x0a359920 Well, it's a guest.
+
+; 0x0a359952 あんた誰？
+0x0a359952 Who're you?
+
+; 0x0a359968 …ま、これを見た以上
+0x0a359968 ...Well, I've seen this.
+
+; 0x0a359988 誰でも同じ事だけどね！
+0x0a359988 It's the same for everyone!
+
+; 0x0a3599be プラットフォーム緊急撤去。
+0x0a3599be Platform emergency removal.
+
+; 0x0a3599e4 起動モード。全自動全動態殺戮モード。
+0x0a3599e4 Activate mode. Full automatic, full dynamic killing mode.
+
+; 0x0a359a30 全てを焼き尽くせ、うはははははー！
+0x0a359a30 Burn everything to the ground, uhahahahaha!
+
+; 0x0a359a76 ドルチェ
+0x0a359a76 Dolce
+
+; 0x0a359a92 クーリー
+0x0a359a92 Cooley
+
+; 0x0a359b0c 丁度いい準備運動になったけど
+0x0a359b0c It was just the right warm-up, though
+
+; 0x0a359b3c 振り出しに戻ったわねぇ？
+0x0a359b3c Back to square one, huh?
+
+; 0x0a359b64 ハードな準備運動だったね！
+0x0a359b64 It was a hard warm-up!
+
+; 0x0a359b94 やあねぇ相手構わず襲ってきて！
+0x0a359b94 Hey hey hey hey hey hey!
+
+; 0x0a359bc2 そうだよ！節操がないよね！
+0x0a359bc2 That's right! You're unruly!
+
+; 0x0a359be8 女なら誰でもいいのかねぇ？
+0x0a359be8 Is it okay for any girl?
+
+; 0x0a359c1a なに訳わかんないこと言ってんのよ！？
+0x0a359c1a What are you saying?!
+
+; 0x0a359c54 冗談じゃ無いわよぉ〜。
+0x0a359c54 I'm not joking.
+
+; 0x0a359c7e 急激な運動は体にも美容にも良くないのよ！？
+0x0a359c7e A sudden exercise isn't good for your health or your beauty!
+
+; 0x0a359cb8 体に良いと美容に良いって別々の事なの？
+0x0a359cb8 Are good for your health and good for your beauty different?
+
+; 0x0a359cf6 世の中はアンタの脳味噌とちがっていろいろ複雑なの！
+0x0a359cf6 Unlike your brain, the world is complicated!
+
+; 0x0a359d40 それにしても今の連中は一体何だったのかしら？
+0x0a359d40 Still, I wonder what those guys were?
+
+; 0x0a359d7c さあ？何にしても魔封缶とは無関係みたいだから
+0x0a359d7c I don't know. Whatever it is, it doesn't seem to have anything to do with magic seal cans.
+
+; 0x0a359dbc どーでもイイんじゃない？
+0x0a359dbc Doesn't it matter?
+
+; 0x0a359dec はー…
+0x0a359dec *sigh*
+
+; 0x0a359e06 アンタって猫は…！
+0x0a359e06 You cat!
+
+; 0x0a359e2c 昔っからそーいうー猫よねッ！
+0x0a359e2c You've always been like that!
+
+; 0x0a359e60 うん。
+0x0a359e60 Yep.
+
+; 0x0a359e90 あら？
+0x0a359e90 Oh?
+
+; 0x0a359eea はい・華鈴よ。
+0x0a359eea Yes, karin.
+
+; 0x0a359f18 華鈴社長！待ち伏せを受けました！
+0x0a359f18 President kasuzu! We're ambushed!
+
+; 0x0a359f6c えっ？何ですって！
+0x0a359f6c Huh? What?!
+
+; 0x0a359f8e 何とか切り抜けましたが状況が判りません。
+0x0a359f8e We made it through somehow, but I don't know what's going on.
+
+; 0x0a359fc2 山道で:rQh8
+0x0a359fc2 On a mountain road: rqh8
+
+; 0x0a35a0f8 追っ手を振り切って鉄道に向かいます。
+0x0a35a0f8 We shake off our pursuers and head for the train.
+
+; 0x0a35a148 わっわかったわッ！じゃっ　気を付けて。
+0x0a35a148 O-Okay! Be careful!
+
+; 0x0a35a17a 何か判ったら知らせるわッ。
+0x0a35a17a I'll let you know if I find anything.
+
+; 0x0a35a1a4 はいッ！！
+0x0a35a1a4 Yes!!
+
+; 0x0a35a208 ごめんねクーリー。
+0x0a35a208 Sorry, coolie.
+
+; 0x0a35a226 ちょっと脱線するわよ？
+0x0a35a226 I'm going to derail, okay?
+
+; 0x0a35a254 うーん、鉄道だけに脱線とは…。
+0x0a35a254 Hmm, derailing just for railways...
+
+; 0x0a35a288 １５点かな？
+0x0a35a288 Fifteen?
+
+; 0x0a35a2ac 点数渋いわね〜っ？
+0x0a35a2ac Your score is pretty high, huh?
+
+; 0x0a35a312 ドルチェ
+0x0a35a312 Dolce
+
+; 0x0a35a322 クーリー
+0x0a35a322 Cooley
+
+; 0x0a35a332 雇われ
+0x0a35a332 Hired.
+
+; 0x0a35a388 なんだ、またお前か！
+0x0a35a388 Oh, you again!
+
+; 0x0a35a3ac あなた達がこんごう重工の手先だって事は分かってるわよ！？
+0x0a35a3ac I know you're working for kongo heavy industries!
+
+; 0x0a35a3f0 馬鹿なことは止めなさい！
+0x0a35a3f0 Don't be stupid!
+
+; 0x0a35a420 一度受けた仕事を途中で投げ出す訳にはいかん！
+0x0a35a420 I can't give up on a job I've already accepted!
+
+; 0x0a35a462 こんごう重工とのこんごう（今後）の付き合いもあるしな…。
+0x0a35a462 I have to deal with kongo heavy industries in the future...
+
+; 0x0a35a4aa じゃあ仕方無いわね！
+0x0a35a4aa Then it can't be helped!
+
+; 0x0a35a4d6 …今の洒落だよ？
+0x0a35a4d6 ...Was that a joke?
+
+; 0x0a35a542 ドルチェ
+0x0a35a542 Dolce
+
+; 0x0a35a552 クーリー
+0x0a35a552 Cooley
+
+; 0x0a35a562 雇われ
+0x0a35a562 Hired.
+
+; 0x0a35a59e またこんごう（今度）〜。
+0x0a35a59e See you later!
+
+; 0x0a35a5c6 尊敬しちゃうなぁ…。
+0x0a35a5c6 I really respect her...
+
+; 0x0a35a5f2 しなくてよろしいッ！
+0x0a35a5f2 You don't have to!
+
+; 0x0a35a64a ドルチェ
+0x0a35a64a Dolce
+
+; 0x0a35a65a エドナ
+0x0a35a65a Edna
+
+; 0x0a35a68c 待ちな！
+0x0a35a68c Wait!
+
+; 0x0a35a6b4 ここは通さねぇゼ！？
+0x0a35a6b4 I won't let you through here!
+
+; 0x0a35a6d8 あらそう？
+0x0a35a6d8 Oh, yeah?
+
+; 0x0a35a706 エドナ
+0x0a35a706 Edna
+
+; 0x0a35a726 これで勝ったとおもうなー！
+0x0a35a726 I think I won!
+
+; 0x0a35a76e ドルチェ
+0x0a35a76e Dolce
+
+; 0x0a35a78e そろそろ夏実に追いついてもいい頃だと思うけど…。
+0x0a35a78e I think it's about time I caught up to Natsumi...
+
+; 0x0a35a7d6 ドルチェ
+0x0a35a7d6 Dolce
+
+; 0x0a35a7e6 ホビー
+0x0a35a7e6 Hobby
+
+; 0x0a35a818 ここまでよ！
+0x0a35a818 That's it!
+
+; 0x0a35a834 悪い事いわないわ。おどきなさい！
+0x0a35a834 I won't say anything bad. Be quiet!
+
+; 0x0a35a86e ホビー
+0x0a35a86e Hobby
+
+; 0x0a35a88e 覚えてなさい！
+0x0a35a88e Remember!
+
+; 0x0a35a8ca ドルチェ
+0x0a35a8ca Dolce
+
+; 0x0a35a8da 雇われ
+0x0a35a8da Hired.
+
+; 0x0a35aa62 ふふっ　お遊びは終わりだ！
+0x0a35aa62 Hehe, the game's over!
+
+; 0x0a35aa94 もういいわよ！
+0x0a35aa94 Enough!
+
+; 0x0a35aaae また駄洒落をいいたくて出てきたの？
+0x0a35aaae Did you come out here to play puns again?
+
+; 0x0a35aae8 黙れッ！今度は本気だ！
+0x0a35aae8 Shut up! I'm serious!
+
+; 0x0a35ab16 ウキーッウキキッ！
+0x0a35ab16 Ukii, ukikii!
+
+; 0x0a35ab3e それはモンキーでんがなーッ！！
+0x0a35ab3e That's Monkey!!
+
+; 0x0a35ab7c クーリー。絶対見習っちゃだめよ！
+0x0a35ab7c Cooley. You mustn't learn from her!
+
+; 0x0a35abf2 ドルチェ
+0x0a35abf2 Dolce
+
+; 0x0a35ac7a 夏実ッ！？
+0x0a35ac7a Natsumi?
+
+; 0x0a35aca8 ちっ！邪魔が入ったか！
+0x0a35aca8 Tch! I got in the way!
+
+; 0x0a35ad3c 一足遅かった！
+0x0a35ad3c I'm one step too late!
+
+; 0x0a35ad6a ドルチェ
+0x0a35ad6a Dolce
+
+; 0x0a35ad9e たしかこっちの方へ飛んできたと思ったけど…。
+0x0a35ad9e I thought it had flown this way...
+
+; 0x0a35adee どうやらここで間違い無さそうね！
+0x0a35adee Looks like I'm right here!
+
+; 0x0a35ae66 クーリー
+0x0a35ae66 Cooley
+
+; 0x0a35ae88 逆の方向じゃないの？
+0x0a35ae88 Isn't it the other way?
+
+; 0x0a35aeac 丁度いい便がないから反対側から湖を渡るのよ！
+0x0a35aeac We don't have the right flight, so cross the lake from the other side!
+
+; 0x0a35aee8 ふーん、不便だねぇ…。
+0x0a35aee8 Hmm, how inconvenient...
+
+; 0x0a35af22 ドルチェ
+0x0a35af22 Dolce
+
+; 0x0a35af7e ヘヘヘ　馬鹿な奴だ！
+0x0a35af7e Heh-heh-heh, you idiot!
+
+; 0x0a35af9e 飛んで火にいるなんとやら！
+0x0a35af9e I'm flying in the fire!
+
+; 0x0a35afd0 虎穴に入らずんば虎子を得ず！ってね！
+0x0a35afd0 If you don't enter the tiger hole, you won't get torako!
+
+; 0x0a35b004 けっ！
+0x0a35b004 Keh!
+
+; 0x0a35b016 思い知らせてやるぜ！
+0x0a35b016 I'll show you!
+
+; 0x0a35b062 変ねぇ…？
+0x0a35b062 Isn't that weird?
+
+; 0x0a35b078 術者の魔力がスズメの涙なのに
+0x0a35b078 Even though the caster’s magical power is a sparrow’s tear
+
+; 0x0a35b0a0 どうしてあんな魔力の精霊が召喚出来るの！？
+0x0a35b0a0 How can such a magical spirit be summoned?!
+
+; 0x0a35b0da 行けッ　マリアンヌちゃん！
+0x0a35b0da Go, Marianne!
+
+; 0x0a35b132 ドルチェ
+0x0a35b132 Dolce
+
+; 0x0a35b142 クーリー
+0x0a35b142 Cooley
+
+; 0x0a35b1ae ひええ待ってくれ！俺は雇われただけなんだ！
+0x0a35b1ae Wait! I was just hired!
+
+; 0x0a35b1e8 夏実は、どこ！？
+0x0a35b1e8 Where's Natsumi!?
+
+; 0x0a35b208 しっ　知らねぇ！
+0x0a35b208 I don't know!
+
+; 0x0a35b358 こんごう社長の所だ！
+0x0a35b358 President kongo!
+
+; 0x0a35b378 病気の母親が家で俺の帰りを待ってるんだー！
+0x0a35b378 My sick mother's waiting for me at home!
+
+; 0x0a35b3ae 頼む！殺さないでくれぇー！
+0x0a35b3ae Please don't kill me!
+
+; 0x0a35b3dc …お行きなさい。
+0x0a35b3dc ...Go.
+
+; 0x0a35b3f2 母親？どこに住んでいるの？
+0x0a35b3f2 Mom? Where do you live?
+
+; 0x0a35b412 天誅ッ！！
+0x0a35b412 Tenchu!!
+
+; 0x0a35b470 …お行きなさい。
+0x0a35b470 ...Go.
+
+; 0x0a35b49c えっじゃあ…！
+0x0a35b49c Then...!
+
+; 0x0a35b4c2 これからは真面目に生きるのよ！
+0x0a35b4c2 From now on, you have to live seriously!
+
+; 0x0a35b4f0 あっ有難う！
+0x0a35b4f0 Oh, thanks!
+
+; 0x0a35b530 バーカバーカ！騙されてやんのぉー！
+0x0a35b530 You idiot! You're fooling me!
+
+; 0x0a35b55e へっへっーだ！やっぱり間抜けだぜ！
+0x0a35b55e Heh-heh-heh! You really are a fool!
+
+; 0x0a35b58c 覚えてろバーカッ！！
+0x0a35b58c Remember, idiot!!
+
+; 0x0a35b5cc っだとてめー！
+0x0a35b5cc Bastard!
+
+; 0x0a35b5e6 まてーっっ！！
+0x0a35b5e6 Wait!!
+
+; 0x0a35b60c あんなのほっといて先急ごうよ！
+0x0a35b60c Let's leave that thing alone and hurry on!
+
+; 0x0a35b642 うぐぐ〜っ！
+0x0a35b642 Ugugu~!
+
+; 0x0a35b6a6 母親？どこに住んでいるの？
+0x0a35b6a6 Mom? Where do you live?
+
+; 0x0a35b6dc え？えーと…。
+0x0a35b6dc Huh? Um...
+
+; 0x0a35b6f6 どこにしようかなぁ…？
+0x0a35b6f6 Where should I...?
+
+; 0x0a35b724 考えるなーッ！！
+0x0a35b724 Don't think!!
+
+; 0x0a35b780 覚えてろぉぉぉ！
+0x0a35b780 Remember!
+
+; 0x0a35b7c0 天誅ッ！！
+0x0a35b7c0 Tenchu!!
+
+; 0x0a35b81a 人でなしぃぃ！
+0x0a35b81a You bastard!
+
+; 0x0a35b842 ドルチェ
+0x0a35b842 Dolce
+
+; 0x0a35b852 戦車長
+0x0a35b852 Tank Captain
+
+; 0x0a35b89e 無敵戦車ファイアビートル見参！
+0x0a35b89e Invincible tank Fire Beetle Mimi!
+
+; 0x0a35b8e0 センスのない名前…。
+0x0a35b8e0 A name with no sense...
+
+; 0x0a35b90e ドルチェ
+0x0a35b90e Dolce
+
+; 0x0a35b91e きぬよ
+0x0a35b91e Kinu.
+
+; 0x0a35b950 こんごう社長はどこッ！？
+0x0a35b950 Where's kongo?!
+
+; 0x0a35b978 何ですかあなたは！旦那様はいまお忙しいのです！
+0x0a35b978 What are you doing? Master is busy right now!
+
+; 0x0a35b9b2 募金も、勧誘もお取り次ぎ出来ません！
+0x0a35b9b2 I can't raise money or recruit people!
+
+; 0x0a35b9ee ふーん…。
+0x0a35b9ee Hmm...
+
+; 0x0a35ba10 取り次げないって事は奥にいる訳ね？
+0x0a35ba10 If you can't communicate, you must be in the back.
+
+; 0x0a35ba7a ドルチェ
+0x0a35ba7a Dolce
+
+; 0x0a35ba8a シスター
+0x0a35ba8a Sister
+
+; 0x0a35babe お止めなさい！何と罪深い事をするのです！
+0x0a35babe Stop it! How sinful!
+
+; 0x0a35bb0a ほえ！？
+0x0a35bb0a Hoe!?
+
+; 0x0a35bb22 暴力では何事も解決しません…。
+0x0a35bb22 Violence won't solve anything.
+
+; 0x0a35bb4e どんな事情
+0x0a35bb4e What's going on?
+
+; 0x0a35bc88 か知りませんが押し込み強盗はいけません。
+0x0a35bc88 I don't know, but you can't barge in and rob.
+
+; 0x0a35bcbc さあ、悔い改めなさい。
+0x0a35bcbc Now repent.
+
+; 0x0a35bcde 神はいつも貴方を見ていますよ！
+0x0a35bcde God always looks at you!
+
+; 0x0a35bd14 いつも見てんだったら！
+0x0a35bd14 I'm always watching!
+
+; 0x0a35bd36 どうして私を強盗と勘違いするわけ！？
+0x0a35bd36 Why do you think I'm a robber?!
+
+; 0x0a35bd6a そうですか。とぼける気ですか…。
+0x0a35bd6a I see. You're playing dumb...
+
+; 0x0a35bd98 判りました。
+0x0a35bd98 Okay.
+
+; 0x0a35bdb0 貴方には言葉で言っても無駄なようですね。
+0x0a35bdb0 It seems it's pointless to say it to you.
+
+; 0x0a35bde4 仕方ありません！
+0x0a35bde4 I have no choice!
+
+; 0x0a35be0c 取り付く島も無いわね…！
+0x0a35be0c There's nothing to cling to!
+
+; 0x0a35be6a ドルチェ
+0x0a35be6a Dolce
+
+; 0x0a35be7a クーリー
+0x0a35be7a Cooley
+
+; 0x0a35be8a エドナ
+0x0a35be8a Edna
+
+; 0x0a35be98 ホビー
+0x0a35be98 Hobby
+
+; 0x0a35bed6 待ちな！何処に行く気だいッ！
+0x0a35bed6 Wait! Where are you going?
+
+; 0x0a35bf16 借りを返してあげるわッ！
+0x0a35bf16 I'll pay you back!
+
+; 0x0a35bf64 あら？お揃いでお散歩かしら？
+0x0a35bf64 Oh? A matching walk?
+
+; 0x0a35bf98 私の相手をしようなんて十年早いわよ！？
+0x0a35bf98 You're ten years too early to take me on!
+
+; 0x0a35bfce うん。
+0x0a35bfce Yep.
+
+; 0x0a35bfe0 確かにそのくらい離れてるよね。
+0x0a35bfe0 We're definitely that far apart.
+
+; 0x0a35c016 お黙りッ！！！
+0x0a35c016 Quiet!!!
+
+; 0x0a35c048 急いでいるときに限って
+0x0a35c048 Only when I'm in a hurry
+
+; 0x0a35c06a 会いたくない奴にあうのよねぇ…。
+0x0a35c06a I don't want to see anyone...
+
+; 0x0a35c0b6 ドルチェ
+0x0a35c0b6 Dolce
+
+; 0x0a35c0c6 みずほ
+0x0a35c0c6 Mizuho
+
+; 0x0a35c110 ここは、これからワックス掛けをするのよ！
+0x0a35c110 I'm going to wax this place!
+
+; 0x0a35c144 立ち入り禁止の札が目に入らないのッ！
+0x0a35c144 I can't see the forbidden sign!
+
+; 0x0a35c180 また訳の分からんやつが出てきたわねぇ…！
+0x0a35c180 Another incomprehensible guy...!
+
+; 0x0a35c1d6 ドルチェ
+0x0a35c1d6 Dolce
+
+; 0x0a35c1e6 クーリー
+0x0a35c1e6 Cooley
+
+; 0x0a35c202 老魔導士
+0x0a35c202 Old Sorcerer
+
+; 0x0a35c24e お師匠様、あいつです。あの女ですよ！
+0x0a35c24e Master, it's her. It's her!
+
+; 0x0a35c282 ふぉっふぉっ、謝るなら今の内じゃぞ！
+0x0a35c282 Heh heh, now's your chance to apologize!
+
+; 0x0a35c2be あら！？ひょっとしてエトス様？
+0x0a35c2be Oh? Could it be Etos?
+
+; 0x0a35c2ea 魔力が微弱すぎて近くに来るまで全然気付かなかったわ！？
+0x0a35c2ea My mana was so weak that I didn’t notice it at all until I got close!
+
+; 0x0a35c33a エトス
+0x0a35c33a Etos
+
+; 0x0a35c34a 馬鹿もん！人里では無用なトラブルをさける為に
+0x0a35c34a Idiot! To avoid unnecessary trouble in a human village
+
+; 0x0a35c382 自分の魔力を封印しとるのじゃ。
+0x0a35c382 Seal your own mana.
+
+; 0x0a35c3ac ギルドがうるさくての！
+0x0a35c3ac The guild's so loud!
+
+; 0x0a35c3d0 …それはそうと誰じゃたかな？！
+0x0a35c3d0 ...Anyway, who was it?!
+
+; 0x0a35c46c おおぉ！？これは懐かしいのう
+0x0a35c46c Ohhh!? This is nostalgic.
+
+; 0x0a35c5c6 こんな所で何をしとるんじゃ？
+0x0a35c5c6 What's he doing here?
+
+; 0x0a35c602 それはこっちの台詞よ！
+0x0a35c602 That's my line!
+
+; 0x0a35c624 こんな所でなにやってんですか！？
+0x0a35c624 What are you doing here?!
+
+; 0x0a35c654 うむ、話せば長いんじゃが、
+0x0a35c654 Yes, it's a long story,
+
+; 0x0a35c67a また謎のリンゴ売りに眠らされてのう、
+0x0a35c67a Another mysterious apple seller put me to sleep,
+
+; 0x0a35c6aa 財布を取られて気を失ってる所を
+0x0a35c6aa I saw him pass out from his wallet.
+
+; 0x0a35c6d4 あの青年に助けられたんじゃが…
+0x0a35c6d4 That young man saved me.
+
+; 0x0a35c6fe どうしても弟子にしてくれと頼まれてのう、
+0x0a35c6fe He asked me to make him my disciple no matter what,
+
+; 0x0a35c732 お礼代わりに師匠になったと言うわけじゃ。
+0x0a35c732 In exchange for my thanks, I became a master.
+
+; 0x0a35c772 でもエトス様！
+0x0a35c772 But Lord Etos!
+
+; 0x0a35c78c そいつ誘拐犯ですよ！？
+0x0a35c78c He's a kidnapper!
+
+; 0x0a35c7b2 誘拐！？
+0x0a35c7b2 Kidnapped?!
+
+; 0x0a35c7da い・いや…ははっ！
+0x0a35c7da N-No... Haha!
+
+; 0x0a35c802 誤解っスよやだなあ！
+0x0a35c802 Don't get me wrong!
+
+; 0x0a35c824 僕がそんな事する訳ないじゃ…！
+0x0a35c824 There's no way I'd do that...!
+
+; 0x0a35c854 あーっ！？エトス様の魔封缶とお財布ッ！
+0x0a35c854 Etos-sama's magic seal and wallet!
+
+; 0x0a35c88e さては謎のリンゴ売りはお前かッ！？
+0x0a35c88e So you're the mystery apple seller!?
+
+; 0x0a35c8c0 チッ！バレちゃしょうがねぇ！
+0x0a35c8c0 Tch! There's no helping it if they find out!
+
+; 0x0a35c8e8 あばよーっ！！
+0x0a35c8e8 Bye!!
+
+; 0x0a35c91a 待て！その魔封缶は
+0x0a35c91a Wait! That magic seal can
+
+; 0x0a35c938 お前の手に追える代物ではないぞッ！
+0x0a35c938 It's not something you can follow!
+
+; 0x0a35c99e …何だか込み入った事になってるわね…。
+0x0a35c99e ...It's a bit complicated...
+
+; 0x0a35c9dc でも今は夏実が心配だわ！
+0x0a35c9dc But now I'm worried about Natsumi!
+
+; 0x0a35ca08 行きましょ！クーリー！
+0x0a35ca08 Come on, coolie!
+
+; 0x0a35ca56 ドルチェ
+0x0a35ca56 Dolce
+
+; 0x0a35ca66 こんごう
+0x0a35ca66 Kongo
+
+; 0x0a35ca76 山田博士
+0x0a35ca76 Dr. Yamada
+
+; 0x0a35ca86 平山博士
+0x0a35ca86 Dr. Hirayama
+
+; 0x0a35ca96 北博士
+0x0a35ca96 Kitahakase
+
+; 0x0a35caa4 戦闘員
+0x0a35caa4 Combatant
+
+; 0x0a35cae0 この設計図は、うちのフレイ機関のレプリカですよ。
+0x0a35cae0 These blueprints are replicas of our Frey engine.
+
+; 0x0a35cb28 しかも作動原理の解釈に誤解があって
+0x0a35cb28 What's more, there's a misunderstanding about the operating principle.
+
+; 0x0a35cb56 このままでは動作不能です！
+0x0a35cb56 At this rate, it won't work!
+
+; 0x0a35cb88 一杯食わされたな？社長！
+0x0a35cb88 You were forced to eat a lot, weren't you? President!
+
+; 0x0a35cbb0 そ、そんな！
+0x0a35cbb0 N-No way!
+
+; 0x0a35cbdc くそッ　はづきめ！！
+0x0a35cbdc Dammit! I'm ready!
+
+; 0x0a35cc30 大変です！社長！軍警察です！
+0x0a35cc30 This is bad! President! It's the military police!
+
+; 0x0a35cc58 施設を囲まれています！
+0x0a35cc58 We're surrounded!
+
+; 0x0a35ccda ドルチェ
+0x0a35ccda Dolce
+
+; 0x0a35ccf6 ドルチェ
+0x0a35ccf6 Dolce
+
+; 0x0a35cd06 こんごう
+0x0a35cd06 Kongo
+
+; 0x0a35cd16 こ戦車
+0x0a35cd16 Tank
+
+; 0x0a35cd24 山田博士
+0x0a35cd24 Dr. Yamada
+
+; 0x0a35cd34 平山博士
+0x0a35cd34 Dr. Hirayama
+
+; 0x0a35cd44 北博士
+0x0a35cd44 Kitahakase
+
+; 0x0a35cd8e 止むを得ん！こいつで一時国外脱出だ！
+0x0a35cd8e We have no choice but to use this to escape the country for now!
+
+; 0x0a35cef2 えぇ〜！？
+0x0a35cef2 What~!?
+
+; 0x0a35cf08 こんなでかいものでどうやって！？
+0x0a35cf08 How could something so big do that?!
+
+; 0x0a35cf40 心配するな！
+0x0a35cf40 Don't worry!
+
+; 0x0a35cf58 港まで逃げおおせれば航行実験中の巡洋艦がある！
+0x0a35cf58 If we can escape to the port, we'll find a cruiser in the middle of a navigation test!
+
+; 0x0a35cf94 今のこの国の軍隊じゃコイツは止められんさ！
+0x0a35cf94 This country's army can't stop him now!
+
+; 0x0a35cfce そうね、どこの国に行くにしても手ぶらじゃねぇ…。
+0x0a35cfce Yeah, no matter what country you go to, you're not empty-handed...
+
+; 0x0a35d00e 手土産と言う訳か！
+0x0a35d00e So it's a gift!
+
+; 0x0a35d038 さあ！ここを焼き払って
+0x0a35d038 Come on! Burn this place down
+
+; 0x0a35d05a さっさとこんな国とはおさらばだっ！
+0x0a35d05a I'll just say goodbye to this country!
+
+; 0x0a35d094 ちょっと！馬鹿な事は止めなさい！
+0x0a35d094 Hey! Don't be stupid!
+
+; 0x0a35d0c0 私をどうする気なの！？
+0x0a35d0c0 What are you gonna do to me?!
+
+; 0x0a35d0e2 あなたたち何者なの！？
+0x0a35d0e2 Who are you?!
+
+; 0x0a35d110 この配達員はどうするの？
+0x0a35d110 What about this delivery guy?
+
+; 0x0a35d140 別に？屋敷と一緒に燃えるだけさ。
+0x0a35d140 Not really? It'll just burn with the mansion.
+
+; 0x0a35d170 そうね。人質は世話が面倒だし…。
+0x0a35d170 Yeah. Taking hostages is a pain...
+
+; 0x0a35d1a8 え？ちょ…！ちょっとぉ！？
+0x0a35d1a8 Eh? Wha...! Hey!?
+
+; 0x0a35d222 おっと失礼！これは君のだったね？
+0x0a35d222 Oh, excuse me! This is yours, right?
+
+; 0x0a35d256 そうら！設計図だ！
+0x0a35d256 Here! The blueprints!
+
+; 0x0a35d2be サンキュ！クーリー！
+0x0a35d2be Thanks! Cooley!
+
+; 0x0a35d2fa だっ　誰だきさま！
+0x0a35d2fa Wh-Who are you?!
+
+; 0x0a35d320 こんごう社長！
+0x0a35d320 President kongo!
+
+; 0x0a35d33a フレイ機関の市場を独占せんがため！
+0x0a35d33a To not monopolize the market of the frei engine!
+
+; 0x0a35d368 ライバル会社の設計図を強奪したばかりか
+0x0a35d368 Not only did he steal the blueprints for the rival company, he also stole them
+
+; 0x0a35d39a なんの罪もない配達員まで手にかけようなんて！
+0x0a35d39a I can't believe you're trying to kill an innocent deliveryman!
+
+; 0x0a35d3d2 労働基準監督所がゆるしても
+0x0a35d3d2 Even if the labor standards office forgives you
+
+; 0x0a35d402 スピード快盗！『ドルチェ＝ムール』が許しませんッ！
+0x0a35d402 Speedy theft! Dolce-Mour won't allow it!
+
+; 0x0a35d444 スピード快盗！？
+0x0a35d444 Speedy theft?!
+
+; 0x0a35d474 行くわよ！
+0x0a35d474 Let's go!
+
+; 0x0a35d4d6 ドルチェ
+0x0a35d4d6 Dolce
+
+; 0x0a35d4fe 夏実が危ないわッ！
+0x0a35d4fe Natsumi's in danger!
+
+; 0x0a35d51c 行くわよ！クーリー！
+0x0a35d51c Come on, coolie!
+
+; 0x0a35d562 ドルチェ
+0x0a35d562 Dolce
+
+; 0x0a35d572 こんごう
+0x0a35d572 Kongo
+
+; 0x0a35d5ac こっこんなばかなー！
+0x0a35d5ac Th-This can't be!
+
+; 0x0a35d60c はい。夏実さん。
+0x0a35d60c Yes. Natsumi.
+
+; 0x0a35d63e あ…有難うごさいます！
+0x0a35d63e Thank you very much!
+
+; 0x0a35d664 ！？どうして私の名前を？
+0x0a35d664 How did you know my name?!
+
+; 0x0a35d6a8 え？あっ！そっそれは…
+0x0a35d6a8 Huh? Oh! W-Well...
+
+; 0x0a35d704 |這岻｣
+0x0a35d704 Crawling.」
+
+; 0x0a35d818 の…。
+0x0a35d818 No..
+
+; 0x0a35d82e あるひと？
+0x0a35d82e Someone?
+
+; 0x0a35d848 いやその…。
+0x0a35d848 No, uh...
+
+; 0x0a35d87a そんな事より夏実さん？
+0x0a35d87a Anyway, Natsumi-san?
+
+; 0x0a35d89c この事件、まだ終わってないわよッ！
+0x0a35d89c This isn't over yet!
+
+; 0x0a35d8ee ドルチェ
+0x0a35d8ee Dolce
+
+; 0x0a35d8fe クーリー
+0x0a35d8fe Cooley
+
+; 0x0a35d936 さ・この列車に乗って行けば夏実と駅で会えるはずよ！
+0x0a35d936 If you take this train, you should be able to meet natsumi at the station!
+
+; 0x0a35d974 一休みしましょ、クーリー。
+0x0a35d974 Let's take a break, Cooley.
+
+; 0x0a35d9ba えぇー？
+0x0a35d9ba Ehhh?
+
+; 0x0a35d9ce また何か出たーッ！
+0x0a35d9ce There's something else!
+
+; 0x0a35d9f8 今日はついてないわねーッ！
+0x0a35d9f8 I'm not lucky today!
+
+; 0x0a35da4a ドルチェ
+0x0a35da4a Dolce
+
+; 0x0a35da66 ドルチェ
+0x0a35da66 Dolce
+
+; 0x0a35da92 はづき
+0x0a35da92 Hazuki
+
+; 0x0a35daa0 エトス様
+0x0a35daa0 Lord Etos
+
+; 0x0a35db22 …！？これはッ…！！
+0x0a35db22 ...!? This is...!
+
+; 0x0a35db4e そうよ！それは…
+0x0a35db4e Yes! It's...
+
+; 0x0a35db6a 貴方がこんごう社長を陥れる為に使った
+0x0a35db6a I used it to frame president kongo.
+
+; 0x0a35db9a はづき鉄道式新型フレイ機関の設計図…。
+0x0a35db9a Blueprints for the Hazuki Railroad new Frey engine...
+
+; 0x0a35dbce な〜んて…本当は動きもしない、ただの落書きだけどネ〜？
+0x0a35dbce Just kidding... Honestly, it's just graffiti that doesn't move.
+
+; 0x0a35dc1c フンッ！何の話かサッパリわからんな！
+0x0a35dc1c Hmph! I don't get what you're talking about!
+
+; 0x0a35dc54 何か言いたいことが有るなら！
+0x0a35dc54 If you have anything to say!
+
+; 0x0a35dc84 コソコソ隠れずに正々堂々と…
+0x0a35dc84 Don't sneak around and hide. Just be fair...
+
+; 0x0a35dcb4 ここに出てきて言ったらどうだ！？
+0x0a35dcb4 Why don't you come out here and say it?!
+
+; 0x0a35dd2c 往生際が悪いわよ！はづき会長！
+0x0a35dd2c You don't know when to give up! Chairman hazuki!
+
+; 0x0a35dd60 アンタがこんごう重工の市場を手に入れるために
+0x0a35dd60 To get the kongo heavy industries' market.
+
+; 0x0a35dd98 わざと情報を流して設計図を奪うように仕向けた事も
+0x0a35dd98 He also knew that he’d intentionally leaked information to make them steal the blueprints
+
+; 0x0a35ddd6 はづき製フレイ機関の設計図が、実は未完成だった事も
+0x0a35ddd6 The fact that the blueprints for the Hazuki Frey engine were actually incomplete
+
+; 0x0a35de1e みーんなアンタのかわいいエンジニアが
+0x0a35de1e All kinds of cute engineers
+
+; 0x0a35de48 あらいざらい白状したわよ！
+0x0a35de48 I just confessed!
+
+; 0x0a35de72 …きっ！きさまッ！？
+0x0a35de72 ...Y-You bastard!?
+
+; 0x0a35de92 よくその歳でそんな格好が出来るな！？
+0x0a35de92 How can you dress like that at your age?!
+
+; 0x0a35dec2 一体何者だーッ！！？
+0x0a35dec2 Who the hell is he?!
+
+; 0x0a35def6 あぁー…！
+0x0a35def6 Ahhh...!
+
+; 0x0a35df14 言われてみれば、確かにそうかも。
+0x0a35df14 Now that she mentions it, she might be right.
+
+; 0x0a35df54 クーリー！？アンタって猫わーっっ！！！
+0x0a35df54 Cooley?! You're a cat!!!
+
+; 0x0a35df92 あっ…あのー。ドルチェさん？
+0x0a35df92 Um... Dolce?
+
+; 0x0a35e002 私設軍隊…。
+0x0a35e002 Private army.
+
+; 0x0a35e152 なるほどね、『こんごう』も『はづき』も
+0x0a35e152 I see. Both kongo and hazuki
+
+; 0x0a35e18c 皮一枚めくれば似た者同士って訳ね！
+0x0a35e18c If you peel it off, we'll be similar!
+
+; 0x0a35e22e なんだ？コイツはッ！？
+0x0a35e22e What is this guy?!
+
+; 0x0a35e25c うわっ！うわーッ！！
+0x0a35e25c Wow! Wow!!
+
+; 0x0a35e2a6 へっへっへっ！こんな所に隠れやがって！
+0x0a35e2a6 Heh heh heh! Hiding here!
+
+; 0x0a35e2d8 封印を解いてフルパワーになったこの！
+0x0a35e2d8 You who broke the seal and became full power!
+
+; 0x0a35e310 マリアンヌちゃんを見…
+0x0a35e310 I saw Marianne...
+
+; 0x0a35e34e だから言わんこっちゃ…！
+0x0a35e34e Like I said, don't say it!
+
+; 0x0a35e3a0 あぁぁーッ！！？
+0x0a35e3a0 Ahhhh!!?
+
+; 0x0a35e3c8 なっなに？何なのっ！？
+0x0a35e3c8 Wh-What? What?!
+
+; 0x0a35e3f2 今のはどーゆーギャグだったの！？
+0x0a35e3f2 How was that a joke?!
+
+; 0x0a35e42a 信じらんない！本当に喰われちゃったよ…！
+0x0a35e42a I can't believe it! He really ate me...!
+
+; 0x0a35e46e これが伝説の大魔導士様とはね…！
+0x0a35e46e This is the legendary Great Sorcerer...!
+
+; 0x0a35e4a2 夏実さん危ないわよ！？
+0x0a35e4a2 Natsumisan, look out!
+
+; 0x0a35e4c4 しばらく隠れてらっしゃい！
+0x0a35e4c4 Hide for a while!
+
+; 0x0a35e4ee あっ！はい！？
+0x0a35e4ee Ah! Yes?
+
+; 0x0a35e536 ドルチェ
+0x0a35e536 Dolce
+
+; 0x0a35e546 クーリー
+0x0a35e546 Cooley
+
+; 0x0a35e5a0 思ったほど成長してないみたい…。
+0x0a35e5a0 Looks like I haven't grown as much as I thought...
+
+; 0x0a35e5cc エトス様の自己封印が効いてるのかな？
+0x0a35e5cc Is Master Etos’s self-sealing working?
+
+; 0x0a35e600 そう、倒すなら今って事ねッ！
+0x0a35e600 That's right, if we're going to defeat it, now's the time!
+
+; 0x0a35e65c さあ！行くわよッ！
+0x0a35e65c Come on! Let's go!
+
+; 0x0a35e71a クーリー
+0x0a35e71a Cooley
+
+; 0x0a35e728 わあーっっ！！！
+0x0a35e728 Wahhhh!!!
+
+; 0x0a35e754 うぁぁぁっ！！？
+0x0a35e754 Uwaaa!!?
+
+; 0x0a35e776 クーリー
+0x0a35e776 Cooley
+
+; 0x0a35e784 あーあ。ぱんつ丸見えー。
+0x0a35e784 Ah, I can see her panties.
+
+; 0x0a35e7b8 くっ…
+0x0a35e7b8 Ugh.
+
+; 0x0a35e7ca クーリー！？
+0x0a35e7ca Cooley?!
+
+; 0x0a35e816 クーリー
+0x0a35e816 Cooley
+
+; 0x0a35e824 華鈴ももう大人なんだからさぁ…。
+0x0a35e824 You're an adult now...
+
+; 0x0a35e850 もう少し大人の気品ってヤツをさぁ。
+0x0a35e850 A little more mature grace.
+
+; 0x0a35e87e 身に付けた方が良いと思うなぁ。うん！
+0x0a35e87e I think you should wear it. Yes!
+
+; 0x0a35e8ae 『うぁぁぁ』はないと思うな。『うぁぁぁ』は…！
+0x0a35e8ae  ⁇  don't think there's a ⁇ waaaaa ⁇  here. ⁇ waaaaa ⁇  is...!"
+
+; 0x0a35e908 うるさいわねェ！
+0x0a35e908 Shut up!
+
+; 0x0a35e924 小動物に説教される覚えないわよ！
+0x0a35e924 I don't remember being lectured by a small animal!
+
+; 0x0a35eaaa ふんっ
+0x0a35eaaa Hmph!
+
+; 0x0a35eadc クーリー
+0x0a35eadc Cooley
+
+; 0x0a35eaea ありゃ…。
+0x0a35eaea Huh...
+
+; 0x0a35eb20 クーリー
+0x0a35eb20 Cooley
+
+; 0x0a35eb2e まあまあ、そんな怒んないで！
+0x0a35eb2e Now, now, don't be so mad!
+
+; 0x0a35eb56 いいトシなんだからあんまり怒ると…。
+0x0a35eb56 It's a good Toshi, so don't get too mad...
+
+; 0x0a35ebb6 クーリー
+0x0a35ebb6 Cooley
+
+; 0x0a35ebc4 うッ！？
+0x0a35ebc4 Uu!?
+
+; 0x0a35ec1e ぷっ…
+0x0a35ec1e Pfft.
+
+; 0x0a35ec30 相変わらず口が悪いと言うか、
+0x0a35ec30 You could say she was as sharp-tongued as ever
+
+; 0x0a35ec58 一言多いと言うか…。
+0x0a35ec58 I guess you could say that's a bit much...
+
+; 0x0a35ecb2 十数年ぶりねぇ。
+0x0a35ecb2 It's been ten years.
+
+; 0x0a35ecce 一体どうしたの？エトス様は元気？
+0x0a35ecce What's going on? How's Master Etos?
+
+; 0x0a35ed0c クーリー
+0x0a35ed0c Cooley
+
+; 0x0a35ed1a …うっ！
+0x0a35ed1a Ugh!
+
+; 0x0a35ed2e うん、それが実は…。
+0x0a35ed2e Yeah, actually...
+
+; 0x0a35ed86 クーリー
+0x0a35ed86 Cooley
+
+; 0x0a35ed94 …と、言う訳なんだ。
+0x0a35ed94 ...And that's how it is.
+
+; 0x0a35edc4 それは大変だわッ！
+0x0a35edc4 That's tough!
+
+; 0x0a35eddc と、言う訳ってどういう訳？
+0x0a35eddc So, what's the reason?
+
+; 0x0a35ee38 それは大変だわッ！
+0x0a35ee38 That's tough!
+
+; 0x0a35ee56 それで？
+0x0a35ee56 So?
+
+; 0x0a35eea8 と、言う訳ってどういう訳？
+0x0a35eea8 So, what's the reason?
+
+; 0x0a35eeee クーリー
+0x0a35eeee Cooley
+
+; 0x0a35eefc だーかーらぁ！
+0x0a35eefc Like I said!
+
+; 0x0a35ef54 クーリー
+0x0a35ef54 Cooley
+
+; 0x0a35ef62 今から一週間ほど前、極労山の地下神殿を離れ
+0x0a35ef62 About a week ago, I’d left the underground temple on Mt. Ultra
+
+; 0x0a35ef98 近くの町で僕とエトス様と二人で
+0x0a35ef98 In a nearby town, Etos-sama and I were alone
+
+; 0x0a35efc2 知的な一時を過ごしていると…。
+0x0a35efc2 As I spent an intelligent moment...
+
+; 0x0a35f008 エトス様
+0x0a35f008 Lord Etos
+
+; 0x0a35f016 ツモッ！緑一色、役満！
+0x0a35f016 Tsumo! Isshiki, Yakuman!
+
+; 0x0a35f038 いやー！リャンそう待ちしてたんじゃが…
+0x0a35f038 That's what I've been waiting for!
+
+; 0x0a35f06a クーちゃんが１枚ポンしてるから
+0x0a35f06a Kuu-chan's ponking one card.
+
+; 0x0a35f094 もう出ないかと思っちゃったよ！
+0x0a35f094 I thought you weren't leaving!
+
+; 0x0a35f0be いやー、ドキドキしたーっ！
+0x0a35f0be Man, I was so excited!
+
+; 0x0a35f0ea クーリー
+0x0a35f0ea Cooley
+
+; 0x0a35f0f8 エトス様…。
+0x0a35f0f8 Etossama.
+
+; 0x0a35f110 僕もう１枚リャンそう牌もってますけど…。
+0x0a35f110 I have another ryan tile...
+
+; 0x0a35f14a エトス様
+0x0a35f14a Lord Etos
+
+; 0x0a35f182 同じ牌が５枚づつあるんじゃなぁ！？
+0x0a35f182 There's five tiles, right?!
+
+; 0x0a35f1b6 クーリー
+0x0a35f1b6 Cooley
+
+; 0x0a35f1c4 んな訳ないでしょっ！
+0x0a35f1c4 Of course not!
+
+; 0x0a35f1ea 売り子
+0x0a35f1ea Soldier
+
+; 0x0a35f1f6 リンゴはいらんかねー。
+0x0a35f1f6 I don't need apples.
+
+; 0x0a35f218 美味しいおいしいリンゴだよー。
+0x0a35f218 Delicious apples!
+
+; 0x0a35f24c エトス様
+0x0a35f24c Lord Etos
+
+; 0x0a35f25a おや？窓の外にリンゴ売りが来て凰
+0x0a35f25a Oh? An apple seller came out the window and a phoenix.
+
+; 0x0a35f3a8 いるようじゃな。
+0x0a35f3a8 Looks like he's here.
+
+; 0x0a35f3c4 丁度いい、おやつにするか。
+0x0a35f3c4 Perfect. Let's have a snack.
+
+; 0x0a35f3f0 クーリー
+0x0a35f3f0 Cooley
+
+; 0x0a35f3fe きっと誰かがふざけてリンゴ売りの真似をしてんですよぉ！
+0x0a35f3fe I bet someone's just messing around and pretending to sell apples!
+
+; 0x0a35f440 そんな事よりそのリャンそう牌ちょっと見せて下さいよ！
+0x0a35f440 More importantly, ryan, show me that tile!
+
+; 0x0a35f486 エトス様
+0x0a35f486 Lord Etos
+
+; 0x0a35f494 おお！イカン急がないと行ってしまうぞ！
+0x0a35f494 Oh! If we don't hurry, he's leaving!
+
+; 0x0a35f4c6 クーリー
+0x0a35f4c6 Cooley
+
+; 0x0a35f4d4 ああ〜っ！エトス様〜っっ！！
+0x0a35f4d4 Ahhh! Etos-sama!!
+
+; 0x0a35f536 クーリー
+0x0a35f536 Cooley
+
+; 0x0a35f544 それからしばらくして
+0x0a35f544 A while after that
+
+; 0x0a35f564 あまりにエトス様が遅いので探しに行ってみると…。
+0x0a35f564 Etos-sama was so slow that I went looking for her...
+
+; 0x0a35f5aa 死んでいた？
+0x0a35f5aa Dead?
+
+; 0x0a35f5c2 クーリー
+0x0a35f5c2 Cooley
+
+; 0x0a35f5d0 いや…、誰かに眠り爆弾で眠らされて
+0x0a35f5d0 No, someone put me to sleep with a sleeping bomb.
+
+; 0x0a35f5fe 財布と魔封缶を盗られたんです。
+0x0a35f5fe He stole my wallet and the can of magic.
+
+; 0x0a35f652 だらしないわねぇ。
+0x0a35f652 How sloppy.
+
+; 0x0a35f690 クーリー
+0x0a35f690 Cooley
+
+; 0x0a35f69e で、問題はその魔封缶で
+0x0a35f69e So, the problem is that magic seal can
+
+; 0x0a35f6c0 中にちょっと厄介な精霊が封印してあるんです。
+0x0a35f6c0 There's a bit of a troublesome spirit inside.
+
+; 0x0a35f722 厄介って、どの程度？
+0x0a35f722 How much trouble?
+
+; 0x0a35f742 クーリー
+0x0a35f742 Cooley
+
+; 0x0a35f750 際限無く霊力や魔力を食べ続けてるんです。
+0x0a35f750 They eat spiritual and magical energy without limit.
+
+; 0x0a35f792 食べ続けてどうなるの？
+0x0a35f792 What happens if you keep eating?
+
+; 0x0a35f7b4 クーリー
+0x0a35f7b4 Cooley
+
+; 0x0a35f7c2 さあ？エトス様の研究用なので何とも…。
+0x0a35f7c2 I don't know. It's for Etos-sama's research.
+
+; 0x0a35f7f4 多分、制御限界まで食べ続けてぇ
+0x0a35f7f4 I think I'll keep eating until I'm at my limit.
+
+; 0x0a35f81e 自己消滅するかな？
+0x0a35f81e Will it self-destruct?
+
+; 0x0a35f866 じゃほっときなさいよ。勝手に消滅すんでしょ？
+0x0a35f866 Then leave me alone. I'll disappear on my own, right?
+
+; 0x0a35f89e クーリー
+0x0a35f89e Cooley
+
+; 0x0a35f8ac …でも霊力・魔力のあるものなら
+0x0a35f8ac ...But with spiritual and magical energy...
+
+; 0x0a35f8d6 人といわず物といわず喰い尽くしちゃいますけど。
+0x0a35f8d6 I don't care if it's human or not. I'll just devour it.
+
+; 0x0a35f93a 人ですってッ！？
+0x0a35f93a A person!?
+
+; 0x0a35f956 何でそんな物騒な物盗られんのよッ！？
+0x0a35f956 Why can't they steal something so dangerous?!
+
+; 0x0a35f9a6 クーリー
+0x0a35f9a6 Cooley
+
+; 0x0a35f9b4 え〜…だって盗られたんだもん。
+0x0a35f9b4 Whaaat? ...But it was stolen.
+
+; 0x0a35f9e8 いやそれ以前に！
+0x0a35f9e8 No, before that!
+
+; 0x0a35fa04 何だってそんなもん作って、その上持ち歩くわけッ！？
+0x0a35fa04 Why would you make something like that and carry it around with you!?
+
+; 0x0a35fa42 魔導士としての常識を疑うわ！！
+0x0a35fa42 I doubt common sense as a Sorcerer!!
+
+; 0x0a35fa90 クーリー
+0x0a35fa90 Cooley
+
+; 0x0a35fa9e いやー…
+0x0a35fa9e Uh...
+
+; 0x0a35fab2 エトス様、常識有りませんからねぇ。
+0x0a35fab2 Etos-sama has no common sense.
+
+; 0x0a35fb0a そっ　それで、
+0x0a35fb0a S-So...
+
+; 0x0a35fb24 エトス様は今どこ？
+0x0a35fb24 Where is Etos now?
+
+; 0x0a35fb62 クーリー
+0x0a35fb62 Cooley
+
+; 0x0a35fb70 それが、取られた魔封缶を探すと言って
+0x0a35fb70 That's why he said he'd look for the lost can.
+
+; 0x0a35fba0 一週間前
+0x0a35fba0 A week ago
+
+; 0x0a35fcd8 ふらっと出ていったきり
+0x0a35fcd8 He just wandered out.
+
+; 0x0a35fcfa 何の連絡も…。
+0x0a35fcfa No calls...
+
+; 0x0a35fd3e ふーん…喰われたわね！
+0x0a35fd3e Hmm... You ate it!
+
+; 0x0a35fd80 クーリー
+0x0a35fd80 Cooley
+
+; 0x0a35fd8e あ…やっぱそう思ういます？
+0x0a35fd8e Ah... Do you think so?
+
+; 0x0a35fdde ま、それはいいとして…。
+0x0a35fdde Well, that aside...
+
+; 0x0a35fe48 何かその魔封缶の手掛かりは無いの？
+0x0a35fe48 Do you have any leads on the can?
+
+; 0x0a35fe76 クーリー
+0x0a35fe76 Cooley
+
+; 0x0a35fe84 それなんですけど
+0x0a35fe84 About that
+
+; 0x0a35fea0 昨日この町の集会で
+0x0a35fea0 Yesterday at this town meeting
+
+; 0x0a35fee8 集会？
+0x0a35fee8 Meeting?
+
+; 0x0a35fefa ああ、猫の夜の集会ね？
+0x0a35fefa Oh, the cat night meeting?
+
+; 0x0a35ff3c クーリー
+0x0a35ff3c Cooley
+
+; 0x0a35ff4a 火家山の廃坑に、最近化け物をが出るって噂が…。
+0x0a35ff4a Rumor has it that monsters have been appearing in the abandoned mine on Mt. Hiie lately...
+
+; 0x0a35ffa4 クーリー
+0x0a35ffa4 Cooley
+
+; 0x0a35ffb2 …どうしますぅ？
+0x0a35ffb2 ...What should I do?
+
+; 0x0a35ffce 仕事が終わってから今夜にでも…。
+0x0a35ffce Tonight after work...
+
+; 0x0a360024 クーリー？
+0x0a360024 Cooly?
+
+; 0x0a360064 そんなに待てるわけないでしょ！？
+0x0a360064 How can I wait that long?!
+
+; 0x0a360122 その後、軍警察の調査により『こんごう重工』や『はづき鉄道
+0x0a360122 After that, the military police investigated 'Kongo Heavy Industries' and 'Hazuki Railway.'
+
+; 0x0a360160 』の行ってきた妨害工作・武器密輸・違法研究・私設軍隊の所有、政府官僚との癒着。
+0x0a360160 ’s sabotage, arms smuggling, illegal research, private army possession, collusion with government officials
+
+; 0x0a3601c8 その他、買収・乗っ取り・裏談合などの違法行為が次々と発覚。
+0x0a3601c8 Other illegal activities such as acquisition, takeover, and back-alley were discovered one after another.
+
+; 0x0a36021c 『こんごう重工』と『はづき鉄道』は解体され、その施設と子会社の
+0x0a36021c “Kongo Heavy Industries” and “Hazuki Railway” were disbanded, and their facilities and subsidiary companies
+
+; 0x0a360260 大部分は国の管理下に置かれる事になった。
+0x0a360260 Most of them ended up under the control of the country.
+
+; 0x0a360292 一方、有限会社はづき宅配便は…。
+0x0a360292 On the other hand, Hazuki Delivery Service...
+
+; 0x0a3602c2 『はづき鉄道』の財産整理に当たって、十分な利益の上がって
+0x0a3602c2 When it comes to organizing the Hazuki Railroad’s assets, we’ve made enough profit
+
+; 0x0a360300 いなかった『はづき宅配便』は、出資を打ち切られ
+0x0a360300 The “Hazuki Delivery Service” that wasn’t there had been cut off
+
+; 0x0a360334 事実上の倒産となった。
+0x0a360334 In effect, it went under.
+
+; 0x0a360354 華鈴社長は会社設立にあたって、個人的に親会社に借金をし
+0x0a360354 President Kasuzu personally owed a debt to his parent company when he founded the company
+
+; 0x0a360390 ていたため、今も借金の返済に追われている。
+0x0a360390 As such, he was still busy paying off his debts.
+
+; 0x0a3603ee そして…。
+0x0a3603ee And...
+
+; 0x0a360422 もう少し右！
+0x0a360422 A little to the right!
+
+; 0x0a36043a そうそう！ＯＫ！
+0x0a36043a Oh yeah! Okay!
+
+; 0x0a360466 じゃ、そこで倒れないように固定して！
+0x0a360466 Then fix it so it doesn't collapse!
+
+; 0x0a3604a6 華鈴社長…！
+0x0a3604a6 President kasuzu!
+
+; 0x0a3604be じゃない店長！準備出来まし
+0x0a3604be No, manager! I'm ready.
+
+; 0x0a3605b8 袒遇瀏
+0x0a3605b8 Excuse me.
+
+; 0x0a360620 ちーずっ！！！
+0x0a360620 Chizu!!!
+
+; 0x0a360666 ま・借金も財産の内！新たに宅配中華クレープ屋を旗揚げし、
+0x0a360666 Well, debt is part of my fortune! I started a new delivery Chinese crepe shop
+
+; 0x0a3606a4 今も元気に借金返済にあたっています！
+0x0a3606a4 I'm still paying off my debts!
+
+; 0x0a3606fa あれからエトス様は神殿に帰って療養してますが、
+0x0a3606fa Ever since then, Master Etos has gone back to the temple to recuperate,
+
+; 0x0a36072e 今も飽きもせずクーリー相手に麻雀に興じているそうです。
+0x0a36072e Even now, he's never tired of playing mahjong with Courie.
+
+; 0x0a360782 ドルチェ
+0x0a360782 Dolce
+
+; 0x0a360792 クーリー
+0x0a360792 Cooley
+
+; 0x0a3607dc うあぁ！？
+0x0a3607dc Uwah?!
+
+; 0x0a360828 やれやれっ！
+0x0a360828 Oh man!
+
+; 0x0a360848 ここも強行突破ね！
+0x0a360848 Let's force our way through!
+
+; 0x0a39a2c6 待ちなッ！嬢ちゃん。
+0x0a39a2c6 Wait! Miss.
+
+; 0x0a39a316 命が惜しかったら、身ぐるみ残らず置いて行きな。
+0x0a39a316 If you value your life, leave all your things behind.
+
+; 0x0a39a352 お兄ちゃん達と遊ぼうぜぇー。
+0x0a39a352 Let's play with Onii-chan.
+
+; 0x0a39a3ae …どうやら話して判る相手ではなさそうね。
+0x0a39a3ae ...It doesn't look like I can tell just by talking to her.
+
+; 0x0a39a3ea やれやれ、ザコか。
+0x0a39a3ea Geez, you're such a jerk.
+
+; 0x0a39a410 冗談じゃないわ！
+0x0a39a410 I'm not joking!
+
+; 0x0a39a472 ごめんなすって
+0x0a39a472 I'm sorry.
+
+; 0x0a39a4ba えッ！？何なに
+0x0a39a4ba Huh?! What?!
+
+; 0x0a39a4cd 潔纓漫
+0x0a39a4cd Keeiman
+
+; 0x0a39a608 なに？何なのあなた！
+0x0a39a608 What? What are you!
+
+; 0x0a39a62c お荷物ちょうだい！
+0x0a39a62c Give me your bag!
+
+; 0x0a39a662 雇われ
+0x0a39a662 Hired.
+
+; 0x0a39a6a6 音のする方を見る
+0x0a39a6a6 I look at the sound.
+
+; 0x0a39a6bc 無視する
+0x0a39a6bc Ignore him
+
+; 0x0a39a73a 舟は帆でもち、帆は舟でもつ…。
+0x0a39a73a A boat is a sail, a sail is a boat.
+
+; 0x0a39a766 握れば拳、開けば手のひら…。
+0x0a39a766 If I clench my fist, if I open it, my palm...
+
+; 0x0a39a790 始めに二度なし…。
+0x0a39a790 Never again...
+
+; 0x0a39a7b8 え…？
+0x0a39a7b8 Eh?
+
+; 0x0a39a832 ああ〜っ！待ってまって〜！
 0x0a39a832 Aaah! Wait, wait!
-0x0a39a8a0 Kukuku! Miss!
-0x0a39a8cc Sorry, but hand ov’r that cargo!
+
+; 0x0a39a8a0 くっくっくっ　お嬢さん！
+0x0a39a8a0 *cackle*cackle* Miss!
+
+; 0x0a39a8cc 悪いがその荷物。置いていってもらおうか！
+0x0a39a8cc Sorry, but could you leave your stuff behind?
+
+; 0x0a39a912 悪いけどお断りよ！
 0x0a39a912 Sorry, but no!
-0x0a39a942 Hired hand
-0x0a39a96a No wayyy!!
-0x0a39a9a6 Bandit chief
-0x0a39a9e2 Geh geh geh.
-0x0a39a9f8 Feisty lass, ain’tcha?
-0x0a39aa1e Hand ov’r goods, we’ll spare ya?
-0x0a39aa56 Not happenin’!
-0x0a39aa70 Move ‘fore ya get hurt.
-0x0a39aa90 You never meant to help….
-0x0a39aae8 Not happenin’!
-0x0a39ab1a Then no choice.
-0x0a39ab38 We’ll take it by force!
-0x0a39ab68 Better move ‘fore ya get hurt.
-0x0a39abb0 Ya really tick me off!
-0x0a39abdc I’ll flat-out kill ya!
-0x0a39ac0e You never meant to help….
-0x0a39ac3c Gufufu….
-0x0a39ac54 Get it?
-0x0a39ad04 Yes. Karen.
-0x0a39ad58 Pres. Karen! Ambushed!
-0x0a39adac Huh? What!?
-0x0a39adce Barely escaped—don’t get the situation.
-0x0a39af32 Shook pursuers on mountain road—headin’ to rail.
-0x0a39af88 G-got it! Be careful!
-0x0a39afba I’ll contact ya if I learn more.
+
+; 0x0a39a942 雇われ
+0x0a39a942 Hired.
+
+; 0x0a39a96a とってもいやーんっ！！
+0x0a39a96a Nooooo!!
+
+; 0x0a39a9a6 野盗頭
+0x0a39a9a6 Nozoto
+
+; 0x0a39a9e2 げへげへ。
+0x0a39a9e2 Gehehe.
+
+; 0x0a39a9f8 威勢のいいねーちゃんだな。
+0x0a39a9f8 You're so energetic.
+
+; 0x0a39aa1e 荷物を渡せば命ばかりは助けてやるぜ？
+0x0a39aa1e If you give me your stuff, I'll spare your life, okay?
+
+; 0x0a39aa56 荷物は渡さないわッ。
+0x0a39aa56 I won't give you your stuff.
+
+; 0x0a39aa70 怪我しない内にどきなさい。
+0x0a39aa70 Get out of here before you get hurt.
+
+; 0x0a39aa90 本当は助ける気、ないでしょ…。
+0x0a39aa90 You really don't want to save her...
+
+; 0x0a39aae8 荷物は渡さないわッ。
+0x0a39aae8 I won't give you your stuff.
+
+; 0x0a39ab1a じゃあしょうがねぇなぁ。
+0x0a39ab1a Then there's no helping it.
+
+; 0x0a39ab38 腕ずくでいただくぜェー！
+0x0a39ab38 I'll do it by force!
+
+; 0x0a39ab68 怪我しない内にどいた方がいいわよ。
+0x0a39ab68 You should get out of here before you get hurt.
+
+; 0x0a39abb0 てめー、超むかつくって言うかぁ？
+0x0a39abb0 You're pissing me off?
+
+; 0x0a39abdc まじぶっ殺すって感じぃー？
+0x0a39abdc Seriously, it feels like I'm gonna kill you?
+
+; 0x0a39ac0e 本当は助ける気、ないでしょ…。
+0x0a39ac0e You really don't want to save her...
+
+; 0x0a39ac3c ぐふふー…。
+0x0a39ac3c Gufufu...
+
+; 0x0a39ac54 わかる？
+0x0a39ac54 Do you know?
+
+; 0x0a39ad04 はい・華鈴よ。
+0x0a39ad04 Yes, karin.
+
+; 0x0a39ad58 華鈴社長！待ち伏せを受けました！
+0x0a39ad58 President kasuzu! We're ambushed!
+
+; 0x0a39adac えっ？何ですって！
+0x0a39adac Huh? What?!
+
+; 0x0a39adce 何とか切り抜けましたが状況が判りません。
+0x0a39adce We made it through somehow, but I don't know what's going on.
+
+; 0x0a39af32 山道で追っ手を振り切って鉄道に向かいます。
+0x0a39af32 We shake off our pursuers on the mountain road and head for the train.
+
+; 0x0a39af88 わっわかったわッ！じゃっ　気を付けて。
+0x0a39af88 O-Okay! Be careful!
+
+; 0x0a39afba 何か判ったら知らせるわッ。
+0x0a39afba I'll let you know if I find anything.
+
+; 0x0a39afe4 はいッ！！
 0x0a39afe4 Yes!!
-0x0a39b00a Pres. Karen! Ambushed!
-0x0a39b05e Huh? What!?
-0x0a39b080 Barely escaped—don’t get the situation.
-0x0a39b0b4 Shook pursuers on mountain road—headin’ to rail.
-0x0a39b10a Got it! Be careful!
-0x0a39b132 I’ll contact ya if I learn more!
+
+; 0x0a39b00a 華鈴社長！待ち伏せを受けました！
+0x0a39b00a President kasuzu! We're ambushed!
+
+; 0x0a39b05e えっ？何ですって！
+0x0a39b05e Huh? What?!
+
+; 0x0a39b080 何とか切り抜けましたが状況が判りません。
+0x0a39b080 We made it through somehow, but I don't know what's going on.
+
+; 0x0a39b0b4 山道で追っ手を振り切って鉄道に向かいます。
+0x0a39b0b4 We shake off our pursuers on the mountain road and head for the train.
+
+; 0x0a39b10a わかったわッ！気を付けてね。
+0x0a39b10a Okay! Be careful.
+
+; 0x0a39b132 何か判ったら知らせるわッ！
+0x0a39b132 I'll let you know if I find anything!
+
+; 0x0a39b15c はいッ。
 0x0a39b15c Yes.
-0x0a39b180 Pres. Karen! Ambushed!
-0x0a39b1d4 Huh? What!?
-0x0a39b212 Barely escaped—don’t get the situation.
-0x0a39b246 Shook pursuers on mountain road—headin’ to rail.
-0x0a39b2a4 Right. Got it! Be careful.
-0x0a39b2d2 I’ll contact ya if I learn more!
+
+; 0x0a39b180 華鈴社長！待ち伏せを受けました！
+0x0a39b180 President kasuzu! We're ambushed!
+
+; 0x0a39b1d4 えっ？何ですって！
+0x0a39b1d4 Huh? What?!
+
+; 0x0a39b212 何とか切り抜けましたが状況が判りません。
+0x0a39b212 We made it through somehow, but I don't know what's going on.
+
+; 0x0a39b246 山道で追っ手を振り切って鉄道に向かおうと思います。
+0x0a39b246 I think I'll shake off my pursuers on the mountain road and head for the train.
+
+; 0x0a39b2a4 そうね、わかったわッ！気を付けて。
+0x0a39b2a4 Okay, got it! Be careful.
+
+; 0x0a39b2d2 何か判ったら知らせるわッ！
+0x0a39b2d2 I'll let you know if I find anything!
+
+; 0x0a39b2fc はい。
 0x0a39b2fc Yes.
-0x0a39b35a Hired hand
-0x0a39b3b6 Kukuku! Won’t escape this time!
-0x0a39b3ea Whoa—so persistent!
-0x0a39b412 Wha!? “Persistent,” huh…
-0x0a39b43c Kinda bittersweet, like young love…
-0x0a39b47e Oops! First time I liked someone! Teehee.
-0x0a39b4c6 That’s just a crush, dummy!!
-0x0a39b5bc Lucky! Saved!
-0x0a39b5fa Made it. But who were those guys…?
-0x0a39b646 Ugh! Ayane never late!
-0x0a39b676 Knew somethin’ was up!
-0x0a39b6b6 Magic Knight
-0x0a39b6e2 Kill
-0x0a39b860 …Can’t climb.
-0x0a39b8e0 Nope. Hole’s too deep—Frayer waves won’t reach.
-0x0a39b94a Eh, fine. Other exits deeper in.
-0x0a39b98e Gotta push on.
-0x0a39b9c6 Ughhh! Worst day!
+
+; 0x0a39b35a 雇われ
+0x0a39b35a Hired.
+
+; 0x0a39b3b6 くっくっくっ！今度は逃さんぞ！
+0x0a39b3b6 Heh heh heh! I won't let you go this time!
+
+; 0x0a39b3ea うわあっ　しつっこ〜い！
+0x0a39b3ea Wow, he's persistent!
+
+; 0x0a39b412 なにっ！？しつこいと言うと、
+0x0a39b412 What?! When I said insistent,
+
+; 0x0a39b43c ちょっと甘酸っぱい青春時代の思い出と言うか、
+0x0a39b43c You could say it was a memory of a slightly bittersweet youth
+
+; 0x0a39b47e いやーん、初めて人を好きになっちゃったっ。てへっ。
+0x0a39b47e Man, this is the first time I've fallen in love with someone. Teheh.
+
+; 0x0a39b4c6 って、そりゃ初恋でんがなーっっ！！
+0x0a39b4c6 That's my first love!!
+
+; 0x0a39b5bc らっきーっ！助かっちゃった！
+0x0a39b5bc Rakki! You saved me!
+
+; 0x0a39b5fa 助かったぁ。でもあの人達一体…。
+0x0a39b5fa I'm saved. But what in the world are they...
+
+; 0x0a39b646 あぁーもぉ！絢音が遅刻しないなんてぇ
+0x0a39b646 Aaah, geez! I can't believe Ayane isn't late
+
+; 0x0a39b676 絶対何かあると思ったのよぉ〜！
+0x0a39b676 I knew something was definitely going to happen!
+
+; 0x0a39b6b6 魔法機士
+0x0a39b6b6 Magic mechanic
+
+; 0x0a39b6e2 コロス
+0x0a39b6e2 Colos
+
+; 0x0a39b860 …昇れそうもないわね。
+0x0a39b860 ...I don't think I can climb it.
+
+; 0x0a39b8e0 駄目ね。きっと、穴が深すぎてフレイ波が届かないんだわ。
+0x0a39b8e0 No. I'm sure the hole is too deep for the waves to reach.
+
+; 0x0a39b94a まっいいか。きっと奥に行けば他にも出口があるわ。
+0x0a39b94a Well, whatever. I'm sure there are other exits if you go further in.
+
+; 0x0a39b98e しょうがない。奥に進むしかないわね。
+0x0a39b98e Oh well. We'll just have to go deeper.
+
+; 0x0a39b9c6 はああーっ　もう最っ低！
+0x0a39b9c6 Hahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!
+
+; 0x0a39ba06 山田博士
 0x0a39ba06 Dr. Yamada
+
+; 0x0a39ba16 平山博士
 0x0a39ba16 Dr. Hirayama
-0x0a39ba26 Dr. Kita
-0x0a39ba60 Haha! Behold my perfect body!
-0x0a39ba94 Like legendary Demon Soldiers’ strength!
-0x0a39bae2 Well, mostly thanks to me.
-0x0a39bb2e Oh? 97% of control parts’re my tech.
-0x0a39bbce Well, you’re our client.
-0x0a39bc00 True. But this was predictable.
-0x0a39bc4c Emergency platform removal.
-0x0a39bc72 Activation mode: Full Auto Slaughter.
-0x0a39bcbe Burn it all! Uhahahaha!
-0x0a39bd6a C’mon! Gotta hurry!
-0x0a39bda6 Phew. Made it outside…
-0x0a39bde2 Yay! We’re out!
-0x0a39be80 Natsumi! It’s me. Got the docs.
+
+; 0x0a39ba26 北博士
+0x0a39ba26 Kitahakase
+
+; 0x0a39ba60 はははっ　見たまえ！この美しいボディを！
+0x0a39ba60 Hahaha! Look at this beautiful body!
+
+; 0x0a39ba94 まるで伝説の魔神兵団のごとき力強さではないか！
+0x0a39ba94 It's as powerful as the legendary Archon Corps!
+
+; 0x0a39bae2 まっ半分以上はボクのおかげだけどね。
+0x0a39bae2 More than half of it is thanks to me.
+
+; 0x0a39bb2e あら？制御部品の９７％は私の技術開発によるものよ？
+0x0a39bb2e Oh? 97 percent of the control parts are from my technological development.
+
+; 0x0a39bbce まあ　お客様だわ。
+0x0a39bbce Well, it's a guest.
+
+; 0x0a39bc00 ほんとだ。でもこの事態は予想され得た事だよ。
+0x0a39bc00 You're right. But this situation was predictable.
+
+; 0x0a39bc4c プラットフォーム緊急撤去。
+0x0a39bc4c Platform emergency removal.
+
+; 0x0a39bc72 起動モード。全自動全動態殺戮モード。
+0x0a39bc72 Activate mode. Full automatic, full dynamic killing mode.
+
+; 0x0a39bcbe 全てを焼き尽くせ、うはははははー！
+0x0a39bcbe Burn everything to the ground, uhahahahaha!
+
+; 0x0a39bd6a さあっ　先を急がなくっちゃ！
+0x0a39bd6a Come on, let's go!
+
+; 0x0a39bda6 ふう。なんとか外に出られたわ…。
+0x0a39bda6 Phew. I managed to get out...
+
+; 0x0a39bde2 やったー！外なのねぇぇ…！
+0x0a39bde2 Yay! It's outside!
+
+; 0x0a39be80 夏実！私よ。書類の中身がわかったわ。
+0x0a39be80 Natsumi! It's me. I know what's in the documents.
+
+; 0x0a39bec6 何ですか？
 0x0a39bec6 What is it?
-0x0a39befc Hazuki Rail’s secret Frayer Engine blueprints!
-0x0a39bf38 …So all that sabotage was….
-0x0a39bf64 Yep. Current Frayer market monopolist….
-0x0a39bfbe Kongou Heavy!?
-0x0a39bfde Makes sense.
-0x0a39c016 Enemy’s in the wrong!
-0x0a39c188 Move.
-0x0a39c1be But Pres.—almost there!
-0x0a39c1e8 Let me go!
-0x0a39c208 …
-0x0a39c218 Fine. If Natsumi insists.
-0x0a39c24a But don’t overdo it.
+
+; 0x0a39befc はづき鉄道独自の、新型フレイ機関の設計図よ！
+0x0a39befc It's a blueprint for a new Frey engine unique to Hazuki Railway!
+
+; 0x0a39bf64 そう。現在、フレイ機関の市場を独占している…。
+0x0a39bf64 That's right. It's currently monopolizing the market for the Frey Engine...
+
+; 0x0a39bfbe こんごう重工！？
+0x0a39bfbe Kongo Heavy Industries?!
+
+; 0x0a39bfde そう考えるのが自然ね。
+0x0a39bfde It's natural to think so.
+
+; 0x0a39c016 とにかく相手が悪いわ！
+0x0a39c016 Anyway, it's your fault!
+
+; 0x0a39c188 いなさい。
+0x0a39c188 Stay.
+
+; 0x0a39c1be でも社長もう少しで目的地です！
+0x0a39c1be President, we're almost there!
+
+; 0x0a39c1e8 行かせて下さい！
+0x0a39c1e8 Let's go!
+
+; 0x0a39c208 ・・・
+0x0a39c208 ...
+
+; 0x0a39c218 わかったわ。夏実がそこまで言うのなら。
+0x0a39c218 Okay. If Natsumi says so.
+
+; 0x0a39c24a でも無理はしないでね。
+0x0a39c24a But don't overdo it.
+
+; 0x0a39c270 はいっ！！
 0x0a39c270 Yes!!
-0x0a39c2da Hired hand
-0x0a39c31e Hehe. Playtime’s over!
-0x0a39c34e We know ya work for Kongou Heavy!
-0x0a39c390 Just give up already!
-0x0a39c3c2 Can’t abandon a job mid-way!
-0x0a39c404 Gotta keep Kongou (future) ties too….
-0x0a39c452 Geez….
-0x0a39c47a Hired hand
-0x0a39c4a2 Again, Kongou (next time)~.
+
+; 0x0a39c2da 雇われ
+0x0a39c2da Hired.
+
+; 0x0a39c31e ふふっ　お遊びは終わりだ！
+0x0a39c31e Hehe, the game's over!
+
+; 0x0a39c34e 貴方達がこんごう重工の手先だって事はもうバレてるのよ！
+0x0a39c34e They already know you're working for kongo heavy industries!
+
+; 0x0a39c390 いい加減に諦めたら？
+0x0a39c390 Why not give up already?
+
+; 0x0a39c3c2 一度受けた仕事を途中で投げ出す訳にはいかん！
+0x0a39c3c2 I can't give up on a job I've already accepted!
+
+; 0x0a39c404 こんごう重工とのこんごう（今後）の付き合いもあるしな…。
+0x0a39c404 I have to deal with kongo heavy industries in the future...
+
+; 0x0a39c452 やれやれ…。
+0x0a39c452 Geez...
+
+; 0x0a39c47a 雇われ
+0x0a39c47a Hired.
+
+; 0x0a39c4a2 またこんごう（今度）〜。
+0x0a39c4a2 See you later!
+
+; 0x0a39c4de エドナ
 0x0a39c4de Edna
+
+; 0x0a39c516 待ちな！
 0x0a39c516 Wait!
-0x0a39c53e We’ll let ya go—
-0x0a39c55a Just drop cargo ‘n scram!
-0x0a39c5b6 No way!
+
+; 0x0a39c53e 見逃してやるから
+0x0a39c53e I'll let you go.
+
+; 0x0a39c55a 荷物を置いてとっとと失せな！
+0x0a39c55a Leave your stuff and get lost!
+
+; 0x0a39c5b6 お断りよ！
+0x0a39c5b6 No! No!
+
+; 0x0a39c5de そうかい！じゃあ死になっ！
 0x0a39c5de Then die!
-0x0a39c618 Oops. Sorry.
-0x0a39c636 Got no small pkg for ya today.
-0x0a39c67a Funny… Mockin’ me?
-0x0a39c6be Goin’ swimmin’?
-0x0a39c6ec Nah—*you’re* givin’ it a try.
-0x0a39c714 In River Sanzu, though!!
+
+; 0x0a39c618 あら、御免なさい。
+0x0a39c618 Oh, sorry.
+
+; 0x0a39c636 今日はあなたの宛の小荷物は、預かってないの。
+0x0a39c636 I don't have any packages for you today.
+
+; 0x0a39c67a 面白れぇ…てめえ、俺を馬鹿にしてんのか？
+0x0a39c67a Funny... Are you mocking me?
+
+; 0x0a39c6be これから泳ぎにいくの？
+0x0a39c6be Are you going to swim now?
+
+; 0x0a39c6ec いや？泳ぐのはてめえの方だ。
+0x0a39c6ec No? You're the one swimming.
+
+; 0x0a39c714 もっとも三途の川だがなぁ！！
+0x0a39c714 It's the Sanzu River, though!
+
+; 0x0a39c75a エドナ
 0x0a39c75a Edna
-0x0a39c77a Don’t think you’ve won!
-0x0a39c7e4 Almost there—just a bit more!
+
+; 0x0a39c77a これで勝ったとおもうなー！
+0x0a39c77a I think I won!
+
+; 0x0a39c7e4 よーし、ここまで来ればあと一息だわ。
+0x0a39c7e4 Alright, we're almost here.
+
+; 0x0a39c82e ホビー
 0x0a39c82e Hobby
-0x0a39c866 That’s far enough!
-0x0a39c882 Lycra again!?
+
+; 0x0a39c866 ここまでよ！
+0x0a39c866 That's it!
+
+; 0x0a39c882 またレオタード？
+0x0a39c882 Leotard again?
+
+; 0x0a39c8aa ホビー
 0x0a39c8aa Hobby
-0x0a39c8ca Remember this!
-0x0a39c912 Hired hand
-0x0a39c94a Hehe. Playtime’s over!
-0x0a39c97a Again….
-0x0a39c9d6 Nyaan!?
-0x0a39cabe Heard that line already….
-0x0a39caf2 Shut it! I’m serious now!
-0x0a39cb20 Ooh! Ooh ooh!
-0x0a39cb48 That’s “monkey,” dummy!!
-0x0a39cb7c Tsk….
-0x0a39cbc2 Vendor
-0x0a39cc1e Phew… Mentally drained.
-0x0a39cc52 Hungry too.
-0x0a39cc76 Want an apple?
-0x0a39ccae Perfect!
-0x0a39ccca Vendor, one apple please.
-0x0a39cd12 Sure, one apple.
+
+; 0x0a39c8ca 覚えてなさい！
+0x0a39c8ca Remember!
+
+; 0x0a39c912 雇われ
+0x0a39c912 Hired.
+
+; 0x0a39c94a ふふっ　お遊びは終わりだ！
+0x0a39c94a Hehe, the game's over!
+
+; 0x0a39c97a また…。
+0x0a39c97a I'll...
+
+; 0x0a39c9d6 狃､｢
+0x0a39c9d6 '
+
+; 0x0a39cabe それ、さっきも聞いたわよ…。
+0x0a39cabe I heard that earlier...
+
+; 0x0a39caf2 黙れッ！今度は本気だ！
+0x0a39caf2 Shut up! I'm serious!
+
+; 0x0a39cb20 ウキーッウキキッ！
+0x0a39cb20 Ukii, ukikii!
+
+; 0x0a39cb48 それはモンキーでんがなーッ！！
+0x0a39cb48 That's Monkey!!
+
+; 0x0a39cb7c とほほぉー…。
+0x0a39cb7c Tohoho...
+
+; 0x0a39cbc2 売り子
+0x0a39cbc2 Soldier
+
+; 0x0a39cc1e ふう…。なんだか精神的に疲れちゃったわ。
+0x0a39cc1e Phew... I'm mentally exhausted.
+
+; 0x0a39cc52 おなかすいたし。
+0x0a39cc52 I'm hungry.
+
+; 0x0a39cc76 リンゴいらんかねー。
+0x0a39cc76 I don't need apples.
+
+; 0x0a39ccae あっ丁度いいわ。
+0x0a39ccae Ah, perfect.
+
+; 0x0a39ccca リンゴ売りさんリンゴ一つ下さい。
+0x0a39ccca Mr. Ringo, give me an apple.
+
+; 0x0a39cd12 はいはい、一つね。
+0x0a39cd12 Yes, yes, one thing.
+
+; 0x0a39cd84 あッ！
 0x0a39cd84 Ah!
-0x0a39cdd6 Kek kek kek!
+
+; 0x0a39cdd6 けっけっけっ！
+0x0a39cdd6 Kekekeke!
+
+; 0x0a39ce2c はッ！
 0x0a39ce2c Ha!
-0x0a39ce56 Stolen!
-0x0a39cea0 My fault!
-0x0a39cebc Gotta get it back!
-0x0a39cf36 Who? Oh—
-0x0a39cf56 That dumb girl again.
-0x0a39cf88 That’s the apple seller!
-0x0a39cfb4 Return the blueprints!
-0x0a39cfde Idiot! I’ll take ‘em first!
+
+; 0x0a39ce56 取られた！
+0x0a39ce56 He took it!
+
+; 0x0a39cea0 私の責任だわっ！
+0x0a39cea0 It's my fault!
+
+; 0x0a39cebc 何としても取り返さなきゃ！
+0x0a39cebc I have to get it back at all costs!
+
+; 0x0a39cf36 なんだ、誰かと思えば
+0x0a39cf36 Oh, I was wondering who it was.
+
+; 0x0a39cf56 さっきの間抜けな嬢ちゃんか。
+0x0a39cf56 That stupid girl from before, huh?
+
+; 0x0a39cf88 その声は、さっきのリンゴ売り！
+0x0a39cf88 That's the apple seller from earlier!
+
+; 0x0a39cfb4 設計図を返しなさい！
+0x0a39cfb4 Give me back the plans!
+
+; 0x0a39cfde ばーか！返すくらいなら取るか！
+0x0a39cfde Idiot! I'll take it if I have to!
+
+; 0x0a39d074 ひええ待ってくれ！俺は雇われただけなんだ！
 0x0a39d074 Wait! I was just hired!
-0x0a39d0ae Where’re the blueprints!?
-0x0a39d0ce Kongou’s got ‘em already!
-0x0a39d106 My sick mom’s waitin’ at home!
-0x0a39d13c Please! Don’t kill me!
-0x0a39d16a Hate sin, not sinner
-0x0a39d184 Hate man, not sin
-0x0a39d19e Hate both sin ‘n man
-0x0a39d1ec …Get lost now!
-0x0a39d222 Huh—then…!
-0x0a39d240 Don’t do bad stuff again….
-0x0a39d272 Ah—Thanks!
-0x0a39d3e8 Kaba ka! Fooled us!
-0x0a39d414 Hehe—still dumb!
-0x0a39d442 Remember this, fool!!
-0x0a39d480 Grr! Shoulda stayed mad!
-0x0a39d4b6 Well, done’s done.
-0x0a39d4f4 So….
-0x0a39d51a But tryin’ to flee with such a lame lie!
-0x0a39d552 That guts me!
-0x0a39d5de Remember this!!
-0x0a39d60c Tell hell’s gatekeeper yer excuses!
-0x0a39d6a0 Monster!!
-0x0a39d6d2 Tank Cmdr
-0x0a39d70e Tanks now!?
-0x0a39d74a Haha! Beat my Fire Beetle!?
-0x0a39d7ae kinuyo
+
+; 0x0a39d0ae 設計図はどこ！？
+0x0a39d0ae Where are the plans?!
+
+; 0x0a39d0ce 設計図はもう、こんごう社長に渡しちまったぁ！
+0x0a39d0ce I already gave the blueprints to Mr. Kongo!
+
+; 0x0a39d106 病気の母親が家で俺の帰りを待ってるんだー！
+0x0a39d106 My sick mother's waiting for me at home!
+
+; 0x0a39d13c 頼む！殺さないでくれぇー！
+0x0a39d13c Please don't kill me!
+
+; 0x0a39d16a 罪を憎んで人を憎まず
+0x0a39d16a He hates sin, he hates people
+
+; 0x0a39d184 人を憎んで罪を憎まず
+0x0a39d184 You hate people, you don't hate sin.
+
+; 0x0a39d19e 人を憎んで罪も憎む
+0x0a39d19e I hate people, I hate sin.
+
+; 0x0a39d1ec …とっとと何処かに行きなさい！
+0x0a39d1ec ...Go away already!
+
+; 0x0a39d222 えっじゃあ…！
+0x0a39d222 Then...!
+
+; 0x0a39d240 二度と悪さをするんじゃないわよ…。
+0x0a39d240 Don't do anything bad again...
+
+; 0x0a39d272 あっ有難う！
+0x0a39d272 Oh, thanks!
+
+; 0x0a39d3e8 ーカバーカ！騙されてやんのぉー！
+0x0a39d3e8 Kabaka! You're tricking me!
+
+; 0x0a39d414 へっへっーだ！やっぱり間抜けだぜ！
+0x0a39d414 Heh-heh-heh! You really are a fool!
+
+; 0x0a39d442 覚えてろバーカッ！！
+0x0a39d442 Remember, idiot!!
+
+; 0x0a39d480 はらたつー！情け掛けなきゃ良かった！
+0x0a39d480 I wish I hadn't shown mercy!
+
+; 0x0a39d4b6 そうね、すんでしまった事は仕方ないわ。
+0x0a39d4b6 That's right. It can't be helped that it ended.
+
+; 0x0a39d4f4 じゃあ…。
+0x0a39d4f4 So...
+
+; 0x0a39d51a でも、見え透いた嘘でその場を逃れようとする！
+0x0a39d51a But she's trying to get away with a lie!
+
+; 0x0a39d552 その根性が許せないわッ！
+0x0a39d552 I can't forgive your guts!
+
+; 0x0a39d5de 覚えてろぉぉぉ！
+0x0a39d5de Remember!
+
+; 0x0a39d60c 言い訳は地獄の門番にでもいいな！
+0x0a39d60c You can make excuses to the gates of hell!
+
+; 0x0a39d6a0 人でなしぃぃ！
+0x0a39d6a0 You bastard!
+
+; 0x0a39d6d2 戦車長
+0x0a39d6d2 Tank Captain
+
+; 0x0a39d70e 今度は戦車！？
+0x0a39d70e A tank this time?!
+
+; 0x0a39d74a はははっ！無敵戦車ファイアビートルに勝てる気か！
+0x0a39d74a Hahaha! You think you can beat the invincible tank Fire Beetle?
+
+; 0x0a39d7ae きぬよ
+0x0a39d7ae Kinu.
+
+; 0x0a39d7bc シスター
 0x0a39d7bc Sister
-0x0a39d7f2 Like I said—husband’s swamped….
-0x0a39d836 No! That’s bad!
+
+; 0x0a39d7f2 ですから。今旦那様はお仕事から手が離せませんので…。
+0x0a39d7f2 That's why I can't take my hands off work right now.
+
+; 0x0a39d836 それはいけません！
+0x0a39d836 Don't do that!
+
+; 0x0a39d858 はあ？
 0x0a39d858 Huh?
-0x0a39d86e When busy,
-0x0a39d896 Feel God’s presence!
-0x0a39d8c4 *Sigh*….
-0x0a39d8dc So, donate to our church….
-0x0a39d932 Tch! Maids won’t cut it.
-0x0a39d96c Gotta see Kongou myself!
-0x0a39da00 Where’s Pres. Kongou!?
-0x0a39da28 Who’re you!? He’s busy!
-0x0a39da62 Can’t take donations or requests!
-0x0a39da9c Stop. You’ll get hurt!
+
+; 0x0a39d86e 忙しさに追われているときこそ
+0x0a39d86e When you're busy
+
+; 0x0a39d896 神の存在を心に感じるべきです！
+0x0a39d896 You should feel God in your heart!
+
+; 0x0a39d8dc という訳で、我が教会に募金を…。
+0x0a39d8dc That's why I'm raising money for my church...
+
+; 0x0a39d932 ちぃ！やっぱりメイド相手じゃらちがあかないわ。
+0x0a39d932 Tch! I knew it. I can't be a maid.
+
+; 0x0a39d96c 何とか直接こんごう社長に会わなきゃ！
+0x0a39d96c I have to meet with president kongo in person!
+
+; 0x0a39da00 こんごう社長はどこッ！？
+0x0a39da00 Where's kongo?!
+
+; 0x0a39da28 何ですかあなたは！旦那様はいまお忙しいのです！
+0x0a39da28 What are you doing? Master is busy right now!
+
+; 0x0a39da62 募金も、勧誘もお取り次ぎ出来ません！
+0x0a39da62 I can't raise money or recruit people!
+
+; 0x0a39da9c 止めなさい。邪魔すると怪我するわよ！
+0x0a39da9c Stop. You'll get hurt if you get in my way!
+
+; 0x0a39dafa シスター
 0x0a39dafa Sister
-0x0a39db20 Stop! Such sin!
-0x0a39db64 E? Kongou bribed the church too!?
-0x0a39dba0 Violence solves nothing….
-0x0a39dd18 Don’t rob folks.
-0x0a39dd3a Repent now.
-0x0a39dd5c God watches you always!
-0x0a39dd90 …Huh? Wait?
-0x0a39dda8 Robbery? Who!?
-0x0a39ddc6 Playin’ dumb, huh….
-0x0a39ddf4 Fine.
-0x0a39de0c Words’re useless with you.
-0x0a39de40 No choice!
-0x0a39de66 Huh? Wha? What?
+
+; 0x0a39db20 お止めなさい！何と罪深い事をするのです！
+0x0a39db20 Stop it! How sinful!
+
+; 0x0a39db64 え？こんごう重工は教会まで抱き込んでるの！？
+0x0a39db64 Huh? Kongo Heavy Industries even embraced the church?!
+
+; 0x0a39dba0 暴力では何事も解決しません…。
+0x0a39dba0 Violence won't solve anything.
+
+; 0x0a39dd18 込み強盗はいけません。
+0x0a39dd18 You mustn't rob.
+
+; 0x0a39dd3a さあ、悔い改めなさい。
+0x0a39dd3a Now repent.
+
+; 0x0a39dd5c 神はいつも貴方を見ていますよ！
+0x0a39dd5c God always looks at you!
+
+; 0x0a39dd90 …あの、え？
+0x0a39dd90 ...Um, eh?
+
+; 0x0a39dda8 強盗？誰が？？
+0x0a39dda8 Robbery? Who?
+
+; 0x0a39ddc6 そうですか。とぼける気ですか…。
+0x0a39ddc6 I see. You're playing dumb...
+
+; 0x0a39ddf4 判りました。
+0x0a39ddf4 Okay.
+
+; 0x0a39de0c 貴方には言葉で言っても無駄なようですね。
+0x0a39de0c It seems it's pointless to say it to you.
+
+; 0x0a39de40 仕方ありません！
+0x0a39de40 I have no choice!
+
+; 0x0a39de66 え？え？なに？
+0x0a39de66 Eh? Eh? What?
+
+; 0x0a39de9a エドナ
 0x0a39de9a Edna
+
+; 0x0a39dea8 ホビー
 0x0a39dea8 Hobby
-0x0a39dee0 Wait! Where’re ya goin’!?
-0x0a39df20 I’ll repay ya!
-0x0a39df6e Two-on-one? Bring it!
-0x0a39dfac No holdin’ back!
-0x0a39dfd6 Can’t lose here!
-0x0a39e02a mizuhо
-0x0a39e072 Waxin’ floors soon!
-0x0a39e0a6 Can’t ya read “No Entry”!?
-0x0a39e0e8 Outta my way!
-0x0a39e12e Old Mage
-0x0a39e168 Master—it’s her! That woman!
-0x0a39e19c Foh foh—apologize now!
-0x0a39e1f6 Don’t push me further!
-0x0a39e226 Clear out now!
-0x0a39e25a I’ll get through—no matter what!
-0x0a39e29a Kongou
+
+; 0x0a39dee0 待ちな！何処に行く気だいッ！
+0x0a39dee0 Wait! Where are you going?
+
+; 0x0a39df20 借りを返してあげるわッ！
+0x0a39df20 I'll pay you back!
+
+; 0x0a39df6e 二人掛りってわけね！望むところよ！
+0x0a39df6e It's two people! That's what I want!
+
+; 0x0a39dfac 手加減しないわよッ！
+0x0a39dfac I won't hold back!
+
+; 0x0a39dfd6 ここで負ける訳にはいかないわ！
+0x0a39dfd6 I can't lose here!
+
+; 0x0a39e02a みずほ
+0x0a39e02a Mizuho
+
+; 0x0a39e072 ここは、これからワックス掛けをするのよ！
+0x0a39e072 I'm going to wax this place!
+
+; 0x0a39e0a6 立ち入り禁止の札が目に入らないのッ！
+0x0a39e0a6 I can't see the forbidden sign!
+
+; 0x0a39e0e8 邪魔よ！
+0x0a39e0e8 You're in my way!
+
+; 0x0a39e12e 老魔導士
+0x0a39e12e Old Sorcerer
+
+; 0x0a39e168 お師匠様、あいつです。あの女ですよ！
+0x0a39e168 Master, it's her. It's her!
+
+; 0x0a39e19c ふぉっふぉっ、謝るなら今の内じゃぞ！
+0x0a39e19c Heh heh, now's your chance to apologize!
+
+; 0x0a39e1f6 私をこれ以上怒らせないで！
+0x0a39e1f6 Don't make me any madder!
+
+; 0x0a39e226 早く退いた方がいいわよ！
+0x0a39e226 You better get out of here!
+
+; 0x0a39e25a 意地でも通ってみせるわ！
+0x0a39e25a I'll do my best!
+
+; 0x0a39e29a こんごう
+0x0a39e29a Kongo
+
+; 0x0a39e2aa 山田博士
 0x0a39e2aa Dr. Yamada
+
+; 0x0a39e2ba 平山博士
 0x0a39e2ba Dr. Hirayama
-0x0a39e2ca Dr. Kita
+
+; 0x0a39e2ca 北博士
+0x0a39e2ca Kitahakase
+
+; 0x0a39e2d8 戦闘員
 0x0a39e2d8 Combatant
-0x0a39e314 These blueprints’re our Frayer Engine copy.
-0x0a39e35c And misread the operating principle—
-0x0a39e38a Won’t work as-is!
-0x0a39e3bc We got scammed, boss!
-0x0a39e3e4 No way!
-0x0a39e410 Damn you, Hazuki!!
-0x0a39e464 Boss! MilPol’s here!
-0x0a39e48c Facility’s surrounded!
-0x0a39e4f0 Kongou Pres.! Return blueprints!
-0x0a39e65a You bastard! Set us up!?
-0x0a39e696 Hey! Bring that out!
-0x0a39e6c0 Huh? Just ditch her ‘n run!
-0x0a39e6f8 Wait—if we get her overseas,
-0x0a39e724 Third party’ll pay big!
-0x0a39e750 Good! Do it!
+
+; 0x0a39e314 この設計図は、うちのフレイ機関のレプリカですよ。
+0x0a39e314 These blueprints are replicas of our Frey engine.
+
+; 0x0a39e35c しかも作動原理の解釈に誤解があって
+0x0a39e35c What's more, there's a misunderstanding about the operating principle.
+
+; 0x0a39e38a このままでは動作不能です！
+0x0a39e38a At this rate, it won't work!
+
+; 0x0a39e3bc 一杯食わされたな？社長！
+0x0a39e3bc You were forced to eat a lot, weren't you? President!
+
+; 0x0a39e3e4 そ、そんな！
+0x0a39e3e4 N-No way!
+
+; 0x0a39e410 くそッ　はづきめ！！
+0x0a39e410 Dammit! I'm ready!
+
+; 0x0a39e464 大変です！社長！軍警察です！
+0x0a39e464 This is bad! President! It's the military police!
+
+; 0x0a39e48c 施設を囲まれています！
+0x0a39e48c We're surrounded!
+
+; 0x0a39e4f0 こんごう社長！設計図を返しなさい！
+0x0a39e4f0 President kongo! Give back the blueprint!
+
+; 0x0a39e65a ふざけるなッ！よくもはめてくれたな！
+0x0a39e65a Don't be ridiculous! How dare you frame me!
+
+; 0x0a39e696 おい！あれを出せ！
+0x0a39e696 Hey! Get that out!
+
+; 0x0a39e6c0 ええ？そんな女ほっといて逃げましょうよ。
+0x0a39e6c0 What? Let's leave such a woman and run away.
+
+; 0x0a39e6f8 まって！あれを国外に持ち出せれば
+0x0a39e6f8 Wait! If I can get it out of the country
+
+; 0x0a39e724 第３国が高く買ってくれるわ！
+0x0a39e724 The third country will buy you a lot!
+
+; 0x0a39e750 よし！それがいい！
+0x0a39e750 Okay! That's good!
+
+; 0x0a39e7a8 まてー！
 0x0a39e7a8 Wait!
-0x0a39e7e2 Kongou
+
+; 0x0a39e7e2 こんごう
+0x0a39e7e2 Kongo
+
+; 0x0a39e7f2 こ戦車
 0x0a39e7f2 Tank
-0x0a39e836 Want it? Take it!
-0x0a39e862 Here! Blueprints!
-0x0a39e8ac Hahahaha!
-0x0a39e91e You’ll regret this!
-0x0a39e96c Get ready, Kongou!
-0x0a39e9c0 Waaaaah!
+
+; 0x0a39e836 ほしけりゃくれてやる！
+0x0a39e836 If you want it, you can have it!
+
+; 0x0a39e862 そうら！設計図だ！
+0x0a39e862 Here! The blueprints!
+
+; 0x0a39e8ac はーはははははぁ！
+0x0a39e8ac Hahahahahaha!
+
+; 0x0a39e91e 私を怒らせたこと。後悔するわよ！
+0x0a39e91e You'll regret angering me!
+
+; 0x0a39e96c 覚悟しろ！こんごうッ！
+0x0a39e96c Prepare yourself! Kongo!
+
+; 0x0a39e9c0 うわあああああああ！
+0x0a39e9c0 Uwaaaaaaaaaaaaaa!
+
+; 0x0a39ea12 ドルチェ
 0x0a39ea12 Dolce
-0x0a39ea22 Kongou
+
+; 0x0a39ea22 こんごう
+0x0a39ea22 Kongo
+
+; 0x0a39ea32 こ戦車
 0x0a39ea32 Tank
-0x0a39ea80 Want it? Take it!
-0x0a39eaac Here! Blueprints!
-0x0a39eb06 Thanks! Coolie!
-0x0a39eb42 Who the hell!?
-0x0a39eb68 Kongou Pres.!
-0x0a39eb82 To monopolize Frayer market,
-0x0a39ebb0 You stole rival blueprints
-0x0a39ebe2 And attacked innocent courier!
-0x0a39ec1a Even Labor Board won’t allow it—
-0x0a39ec4a Speed Thief “Dolce Mûre” won’t allow it!
-0x0a39ec8c Speed Thief!?
-0x0a39ecb8 W-wait! Dolce Mûre!
-0x0a39ece6 Let me finish this!
-0x0a39ed02 …N-nothin’.
-0x0a39ed4a This fight’s mine—let me end it!
-0x0a39ed8e …Fine. I get it.
+
+; 0x0a39ea80 ほしけりゃくれてやる！
+0x0a39ea80 If you want it, you can have it!
+
+; 0x0a39eaac そうら！設計図だ！
+0x0a39eaac Here! The blueprints!
+
+; 0x0a39eb06 サンキュ！クーリー！
+0x0a39eb06 Thanks! Cooley!
+
+; 0x0a39eb42 だっ　誰だきさま！
+0x0a39eb42 Wh-Who are you?!
+
+; 0x0a39eb68 こんごう社長！
+0x0a39eb68 President kongo!
+
+; 0x0a39eb82 フレイ機関の市場を独占せんがため！
+0x0a39eb82 To not monopolize the market of the frei engine!
+
+; 0x0a39ebb0 ライバル会社の設計図を強奪したばかりか
+0x0a39ebb0 Not only did he steal the blueprints for the rival company, he also stole them
+
+; 0x0a39ebe2 なんの罪もない配達員まで手にかけようなんて！
+0x0a39ebe2 I can't believe you're trying to kill an innocent deliveryman!
+
+; 0x0a39ec1a 労働基準監督所がゆるしても
+0x0a39ec1a Even if the labor standards office forgives you
+
+; 0x0a39ec4a スピード快盗！『ドルチェ＝ムール』が許しませんッ！
+0x0a39ec4a Speedy theft! Dolce-Mour won't allow it!
+
+; 0x0a39ec8c スピード快盗！？
+0x0a39ec8c Speedy theft?!
+
+; 0x0a39ecb8 ま・まって！ドルチェ＝ムール！
+0x0a39ecb8 Wait! Dolce-Mull!
+
+; 0x0a39ece6 私に決着をつけさせて！
+0x0a39ece6 Let me settle it!
+
+; 0x0a39ed02 …何でもないですー。
+0x0a39ed02 ...Nothing.
+
+; 0x0a39ed4a 私の戦いなの！私に決着をつけさせて！
+0x0a39ed4a It's my fight! Let me settle it!
+
+; 0x0a39ed8e ・・・そう…わかったわ。
+0x0a39ed8e I see... Okay.
+
+; 0x0a39edb2 あなたの好きになさい。
 0x0a39edb2 Do as you like.
-0x0a39ee3a C’mon—let’s go! )Y0
-0x0a39ef8a You bastard!
-0x0a39efd6 …N-nothin’.
-0x0a39effc I’ll face away—take yer time.
-0x0a39f03e Let’s go!
-0x0a39f0da Kongou
-0x0a39f120 This can’t be!
+
+; 0x0a39ee3a さあ！行くわよ)Y0
+0x0a39ee3a Now! Let's go!) Y0
+
+; 0x0a39ef8a ふざけやがって！
+0x0a39ef8a Fuck you!
+
+; 0x0a39efd6 …何でもないですー。
+0x0a39efd6 ...Nothing.
+
+; 0x0a39effc 向こう向いてますから心行くまでどーぞー。
+0x0a39effc I'm facing the other way, so go all the way.
+
+; 0x0a39f03e 行くわよ！
+0x0a39f03e Let's go!
+
+; 0x0a39f0da こんごう
+0x0a39f0da Kongo
+
+; 0x0a39f120 こっこんなばかなー！
+0x0a39f120 Th-This can't be!
+
+; 0x0a39f166 ドルチェ
 0x0a39f166 Dolce
-0x0a39f176 Kongou
-0x0a39f1da This can’t be!
-0x0a39f208 This can’t be!
+
+; 0x0a39f176 こんごう
+0x0a39f176 Kongo
+
+; 0x0a39f1da こっこんなばかなー！
+0x0a39f1da Th-This can't be!
+
+; 0x0a39f208 こっこんなばかなー！
+0x0a39f208 Th-This can't be!
+
+; 0x0a39f270 はい。夏実さん。
 0x0a39f270 Yes. Natsumi.
-0x0a39f2a2 Ah—thanks so much!
-0x0a39f2c8 !? How’d ya know my name?
-0x0a39f30c Huh? Ah—well…
-0x0a39f32e Someone asked me to find you….
+
+; 0x0a39f2a2 あ…有難うごさいます！
+0x0a39f2a2 Thank you very much!
+
+; 0x0a39f30c え？あっ！そっそれは…
+0x0a39f30c Huh? Oh! W-Well...
+
+; 0x0a39f32e ある人に、あなたの事を頼まれたの…。
+0x0a39f32e Someone asked me to look after you...
+
+; 0x0a39f362 あるひと？
 0x0a39f362 Someone?
-0x0a39f37c Ah, well….
-0x0a39f3ae More importantly, Natsumi—
-0x0a39f3d0 This case ain’t over yet!
+
+; 0x0a39f37c いやその…。
+0x0a39f37c No, uh...
+
+; 0x0a39f3ae そんな事より夏実さん？
+0x0a39f3ae Anyway, Natsumi-san?
+
+; 0x0a39f3d0 この事件、まだ終わってないわよッ！
+0x0a39f3d0 This isn't over yet!
+
+; 0x0a39f432 ドルチェ
 0x0a39f432 Dolce
+
+; 0x0a39f44e はづき
 0x0a39f44e Hazuki
+
+; 0x0a39f498 失礼します！
 0x0a39f498 Excuse me!
-0x0a39f4d6 Who’re you!?
-0x0a39f4f4 Delivery for you.
-0x0a39f52a From who…? Wait—where’s the butler?
-0x0a39f576 I must give this
-0x0a39f598 Directly to you….
-0x0a39f5dc What’s that bundle?
-0x0a39f5fe Inv. to jail from Kongou Pres.…
-0x0a39f638 Fake new Frayer Engine blueprints!
-0x0a39f670 …Ha! Ahahahaha!
-0x0a39f69e Barged in—what’s this about!?
-0x0a39f6ce You’re mistaken.
-0x0a39f702 Those blueprints were probably
-0x0a39f722 Swapped by Kongou already.
-0x0a39f8d2 You’re stubborn, Chairman Hazuki!
-0x0a39f906 You leaked info so Kongou’d steal it,
-0x0a39f93e And Hazuki’s Engine was incomplete—
-0x0a39f97c All confessed by
-0x0a39f9c4 Your own sweet engineers!
-0x0a39f9ee Everything’s out!
-0x0a39fa20 …Grr!
-0x0a39fa76 Private army….
-0x0a39fa96 So “Kongou” ‘n “Hazuki”
-0x0a39fad0 Are two peas in a pod!
-0x0a39fb76 What’s this guy!?
-0x0a39fba8 Whoa! WHOA!!
-0x0a39fbf2 Hehe! Hidin’ here, huh!
-0x0a39fc24 Now that my seal’s broken—
-0x0a39fc5c Behold my full power, Marian!
-0x0a39fc9c Wha—what is this!?
-0x0a39fcc4 What kinda gag was that!?
-0x0a39fcfc She’s gone berserk….
-0x0a39fd28 And I sense pure evil power!
-0x0a39fd6a Ah! Could it be!?
-0x0a39fda2 Ah!! Dolce!?
-0x0a39fe1a Can’t let this monster roam free!
-0x0a39fe4c Plus…
-0x0a39fe60 If I don’t beat her now, who knows her power….
-0x0a39fea8 Bring it, monster!
-0x0a39fecc I’ll take you!
-0x0a39ff48 Dear Mom, Dad—Hope you’re well. Sorry no contact….
-0x0a39ffae Time flies—two years since I left home, lone & free.
-0x0a3a0016 Had hard times, but don’t regret leavin’.
-0x0a3a0068 Cuz….
-0x0a3a0080 Met the amazing Pres. Karen!
-0x0a3a01d8 stuff!
-0x0a3a01ee I live & work at Pres. Karen’s.
-0x0a3a0242 Karen’s a genius in sci & magic—good
-0x0a3a0272 cook, gorgeous, strong, creative—just
-0x0a3a02a4 perfect!
-0x0a3a02d8 Her Chinese crepes? Absolutely divine!
-0x0a3a031e Working for Karen, I’ve learned how the world works.
-0x0a3a0358 Slowly, anyway.
-0x0a3a0396 Karen’s just….
-0x0a3a03e4 Hmm—am I overpraisin’ her…?
-0x0a3a0430 Eh, whatever!
-0x0a3a0448 She’s just that awesome!
-0x0a3a04ba …Natsumi? Awake?
-0x0a3a04e8 …Mmm. Yeah….
-0x0a3a051c I’m on early shift—leavin’ now!
-0x0a3a055c …Okay….
-0x0a3a0572 …Bye….
-0x0a3a05e8 …Crap….
-0x0a3a05fc …Overslept….
-0x0a3a06a4 Oh? You’re late today—ho ho!
-0x0a3a06fe You beat me in!…
-0x0a3a0738 S-snow today….
-0x0a3a074e Ah—just a dream….
-0x0a3a0768 …Wow….
-0x0a3a07b4 S-snow today….
-0x0a3a07da Ho ho ho!
-0x0a3a0800 Work time!
-0x0a3a0842 Ah—just a dream….
-0x0a3a0862 Ayane never on time alone.
-0x0a3a08a6 But vivid dream….
-0x0a3a08f0 Still a dream!?
-0x0a3a0916 Still a dream!!!
-0x0a3a0940 Ow! What’re ya doin’, boss!?
-0x0a3a0986 Ugh… Not a dream….
-0x0a3a09be Then get it!!
 
-0x0a3a0b3e …Wow….
-0x0a3a0b56 First time!
-0x0a3a0b6a First time I’m not late alone!
-0x0a3a0b9c You did it, Ayane!!
-0x0a3a0bce …That much?
-0x0a3a0c24 Ah—
-0x0a3a0c38 Oops—forgot!!
-0x0a3a0c7e Slept in—so
-0x0a3a0c9c Forgot Karen’s Chinese crepe lunch!
-0x0a3a0d14 Aw man….
-0x0a3a0d34 Cheer up! Let’s deliver today!
-0x0a3a0d98 …Huh!?
-0x0a3a0dae Wow—awesome!
-0x0a3a0dcc First-ever pkg at max insurance—120M yen!!
-0x0a3a0e2e Really? 120M!?
-0x0a3a0e60 Let’s see!?
-0x0a3a0ea2 At last—we got a big job!
-0x0a3a0ede Huh—direct from parent co.?
-0x0a3a0f0c Rare.
-0x0a3a0f46 Ooh—extra pay too.
-0x0a3a0f7a …So?
-0x0a3a0fba Huh?
-0x0a3a0fd6 Who’ll deliver it?
-0x0a3a1024 Duh.
-0x0a3a1044 Delivery Chief—m-e ★
-0x0a3a108e Ayane+Haruna
+; 0x0a39f4d6 誰かね君は！？
+0x0a39f4d6 Who are you?!
 
-0x0a3a110a Delivery!
-0x0a3a1124 Engineer
-0x0a3a1134 You’re…!?
-0x0a3a114c Will it be okay…?
-0x0a3a117c Yes!
-0x0a3a119a Leave it to me!
-0x0a3a11ba 100% safe!
-0x0a3a11d4 Engineer
-0x0a3a11ea O-okay….
-0x0a3a1210 Here—please take care.
-0x0a3a1286 Later, MilPol exposed Kongou Heavy & Hazuki Rail
-0x0a3a12c4 —sabotage, arms smuggling, illegal labs, private armies, govt collusion,
-0x0a3a1438
-0x0a3a1452 Buyouts, takeovers, rigged bids—all uncovered.
-0x0a3a14a6 Kongou & Hazuki dissolved; assets seized by govt.
-0x0a3a14ea
-0x0a3a151c Meanwhile, Hazuki Parcel Co….
-0x0a3a154c Hazuki Parcel, unprofitable, had funding cut
-0x0a3a158a —effectively bankrupt.
-0x0a3a15be
-0x0a3a15de Pres. Karen took personal loans from parent co.
-0x0a3a161a
-0x0a3a1678 And….
-0x0a3a16ac More right!
-0x0a3a16c4 Yes! OK!
-0x0a3a16f0 Secure it so it won’t fall!
-0x0a3a1730 Pres. Karen—!
-0x0a3a1748 No—Manager! Ready!
-0x0a3a177a Cheese!!!
-0x0a3a17ba Debt’s no stopper. Karen opened Chinese crepe shop
-0x0a3a17f8 —now happily repaying loans!
-0x0a3a185a P.S. Fall 7x, rise 8! Mom, Dad!
-0x0a3a1886 Karen never quits—so cool!!
-0x0a3a1900 Sister
-0x0a3a190e That’s her! Arsonist burglar!
-0x0a3a1956 N-no! False charge!
-0x0a3a197e Innocent!
-0x0a3a1994 Help, Pres. Karen!!
-0x0a3a19ea Later, MilPol exposed Kongou Heavy’s
-0x0a3a1a26 Sabotage, arms smuggling, illegal labs, private armies.
-0x0a3a1a64 Buyouts, collusion, takeovers, rigged bids—all uncovered.
-0x0a3a1ab4 Kongou dissolved; assets absorbed by
-0x0a3a1af0 Hazuki Rail & Kirishima Chem, etc.
-0x0a3a1b3a Meanwhile, Hazuki Parcel Co….
-0x0a3a1b6a Avoided charges, but parent co. blamed them for loss,
-0x0a3a1ba6 Company dissolved.
-0x0a3a1bda Pres. Karen took personal loans from parent co.
-0x0a3a1d68
-0x0a3a1da4 And….
-0x0a3a1de2 Work hard now!
-0x0a3a1e2c No! Karen, stop!
-0x0a3a1e6a Don’t slack! Debts’re huge!
-0x0a3a1eb0 Stupid Kongou Heavy!!!
-0x0a3a1ef4 Now work mines with Karen to repay debt.
+; 0x0a39f4f4 御荷物のお届けに上がりました。
+0x0a39f4f4 I'm here to deliver your things.
 
+; 0x0a39f52a 一体誰から…イヤそれ以前に、執事はどうした？
+0x0a39f52a Who on earth... No, before that, what about the butler?
+
+; 0x0a39f576 いえ、この御荷物は直接
+0x0a39f576 No, this package is directly
+
+; 0x0a39f598 御本人にお渡しするよう言われておりまして…。
+0x0a39f598 I was told to give it to you myself...
+
+; 0x0a39f5dc 何だ、その包みは？
+0x0a39f5dc What's that package?
+
+; 0x0a39f5fe はい、こんごう社長からの監獄への招待状…
+0x0a39f5fe Yes, President Kongou's invitation to the prison...
+
+; 0x0a39f638 ニセの新型フレイ機関の設計図よ！
+0x0a39f638 It's a blueprint for a fake new Frey engine!
+
+; 0x0a39f670 …はっ！あーはははははは！
+0x0a39f670 ...Ha! Ahahahahaha!
+
+; 0x0a39f69e 突然入ってきて何かと思えば！
+0x0a39f69e Just when I was wondering what it was all of a sudden!
+
+; 0x0a39f6ce 君は何か誤解をしているようだね。
+0x0a39f6ce You seem to have misunderstood.
+
+; 0x0a39f702 その設計図もおおかた
+0x0a39f702 Most of the blueprints, too
+
+; 0x0a39f722 こんごう社長にでも、すりかえられたんだろう？
+0x0a39f722 Didn't President Kongo switch places with you?
+
+; 0x0a39f8d2 往生際が悪いわよ！はづき会長！
+0x0a39f8d2 You don't know when to give up! Chairman hazuki!
+
+; 0x0a39f906 アンタがこんごう重工の市場を手に入れるために
+0x0a39f906 To get the kongo heavy industries' market.
+
+; 0x0a39f93e わざと情報を流して設計図を奪うように仕向けた事も
+0x0a39f93e He also knew that he’d intentionally leaked information to make them steal the blueprints
+
+; 0x0a39f97c はづき製フレイ機関の設計図が、実は未完成だった事も
+0x0a39f97c The fact that the blueprints for the Hazuki Frey engine were actually incomplete
+
+; 0x0a39f9c4 みーんなアンタのかわいいエンジニアが
+0x0a39f9c4 All kinds of cute engineers
+
+; 0x0a39f9ee あらいざらい白状したわよ！
+0x0a39f9ee I just confessed!
+
+; 0x0a39fa20 …うぬぅ！
+0x0a39fa20 ...Ngh!
+
+; 0x0a39fa76 私設軍隊…。
+0x0a39fa76 Private army.
+
+; 0x0a39fa96 なるほどね、『こんごう』も『はづき』も
+0x0a39fa96 I see. Both kongo and hazuki
+
+; 0x0a39fad0 皮一枚めくれば似た者同士って訳ね！
+0x0a39fad0 If you peel it off, we'll be similar!
+
+; 0x0a39fb76 なんだ？コイツはッ！？
+0x0a39fb76 What is this guy?!
+
+; 0x0a39fba8 うわっ！うわーッ！！
+0x0a39fba8 Wow! Wow!!
+
+; 0x0a39fbf2 へっへっへっ！こんな所に隠れやがって！
+0x0a39fbf2 Heh heh heh! Hiding here!
+
+; 0x0a39fc24 封印を解いてフルパワーになったこの！
+0x0a39fc24 You who broke the seal and became full power!
+
+; 0x0a39fc5c マリアンヌちゃんを見…
+0x0a39fc5c I saw Marianne...
+
+; 0x0a39fc9c なっなに？何なのっ！？
+0x0a39fc9c Wh-What? What?!
+
+; 0x0a39fcc4 今のはどーゆーギャグだったの！？
+0x0a39fcc4 How was that a joke?!
+
+; 0x0a39fcfc どうやら暴走しているようね…。
+0x0a39fcfc Looks like it's gone berserk...
+
+; 0x0a39fd28 それにしても、何かとてつもなく邪悪な魔力を感じるわッ！
+0x0a39fd28 Still, I can feel some unbelievably evil magical energy!
+
+; 0x0a39fd6a はっ！まさか！
+0x0a39fd6a Ha! No way!
+
+; 0x0a39fda2 あっ！！ドルチェ！？
+0x0a39fda2 Ah! Dolce?!
+
+; 0x0a39fe1a こんな化け物を野放しには出来ないわッ！
+0x0a39fe1a I can't let this monster run free!
+
+; 0x0a39fe4c それに…
+0x0a39fe4c And...
+
+; 0x0a39fe60 今倒さなきゃ何処までパワーアップするか…。
+0x0a39fe60 If I don't defeat it now, I don't know how much I'll power up...
+
+; 0x0a39fea8 かかって来なさい化け物！
+0x0a39fea8 Come on, monster!
+
+; 0x0a39fecc 私が相手よッ！
+0x0a39fecc I'm the opponent!
+
+
+
+
+; 0x0a3a0738 き、今日は雪ね。
+0x0a3a0738 S-Snow today.
+
+; 0x0a3a074e そうかこれは夢だわ。
+0x0a3a074e I see. This is a dream.
+
+; 0x0a3a0768 …すごい…。
+0x0a3a0768 ...Wow...
+
+; 0x0a3a07b4 き、今日は雪ね。
+0x0a3a07b4 S-Snow today.

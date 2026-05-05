@@ -1,0 +1,358 @@
+
+; 0x0a39ff48 前略、お父様。お母様。お元気だったでしょうか？長い間連絡もしないでごめんなさい…。
+0x0a39ff48 Father. Mother. How have you been? I'm sorry for not contacting you for so long...
+
+; 0x0a39ffae 時がたつのは早いもので、体一つ、着のみ気のままで私が家を飛び出してから早二年。
+0x0a39ffae Time flies. It's been two years since I ran out of the house wearing only my clothes.
+
+; 0x0a3a0016 結構いろんな苦労がありましたが、今は家を出たことを後悔はしていません。
+0x0a3a0016 I've been through a lot, but I don't regret leaving home now.
+
+; 0x0a3a0068 だって…。
+0x0a3a0068 But...
+
+; 0x0a3a0080 だって、あの素敵な華鈴社長に出会えたんで
+0x0a3a0080 Because I met President Kasuzu.
+
+; 0x0a3a01d8 すもの！
+0x0a3a01d8 Sumo!
+
+; 0x0a3a01ee 私は今、華鈴社長の家に住込みで働いています。
+0x0a3a01ee I live and work at President Kasuzu's house.
+
+; 0x0a3a0242 華鈴社長は、科学と魔術に精通した才女で、お
+0x0a3a0242 President Kasuzu is a talented woman well versed in science and magic.
+
+; 0x0a3a0272 料理も美味しいし美人でパワフルでクリエイティ
+0x0a3a0272 She's beautiful, powerful, and creative.
+
+; 0x0a3a02a4 ブでとっても本当に素敵な人です。
+0x0a3a02a4 He's a very, very nice man.
+
+; 0x0a3a02d8 特に社長の中華クレープは、もおォ〜絶品の一言です！
+0x0a3a02d8 Especially the president's Chinese crepes. Wow, they're the best!
+
+; 0x0a3a031e 華鈴社長の下で働いて、世間知らずで無鉄砲だった私も、
+0x0a3a031e I worked for President Kasuzu, and I was ignorant and reckless.
+
+; 0x0a3a0358 少しずつ世の中の仕組みが分かってきた気がします。
+0x0a3a0358 Little by little, I think I'm starting to understand how the world works.
+
+; 0x0a3a0396 何と言うか華鈴社長は…。
+0x0a3a0396 President kasuzu...
+
+; 0x0a3a03e4 んー。これじゃ華鈴社長、誉め過ぎかしら…？
+0x0a3a03e4 Hmm. Is President Kasuzu praising me too much?
+
+; 0x0a3a0430 まーいっか！
+0x0a3a0430 Oh well!
+
+; 0x0a3a0448 だって本当に素敵なんだも〜ん！
+0x0a3a0448 But it's really wonderful!
+
+; 0x0a3a04ba …夏実？起きてる？
+0x0a3a04ba Natsumi? You awake?
+
+; 0x0a3a04e8 …うーん。起きてるー…。
+0x0a3a04e8 Hmm. I'm awake...
+
+; 0x0a3a051c 今日、わたし早番だから先に行くわよ？
+0x0a3a051c I'm on early shift today, so I'll go on ahead.
+
+; 0x0a3a055c …はーい。
+0x0a3a055c ...Yes.
+
+; 0x0a3a0572 …いってらっしゃーい…。
+0x0a3a0572 ...Take care...
+
+; 0x0a3a05e8 …やば。
+0x0a3a05e8 ...Crap.
+
+; 0x0a3a05fc …寝坊した…。
+0x0a3a05fc I overslept...
+
+; 0x0a3a06a4 あら〜ん　今日は随分遅かったわねぇ　ほほほ
+0x0a3a06a4 Oh, you're late today. Hohoho.
+
+; 0x0a3a06fe 私より先に来てたよ…。
+0x0a3a06fe She came before me.
+
+; TODO: move inside _eng.txt?
+
+; 0x0a3a0738 き、今日は雪ね。
+0x0a3a0738 S-Snow today.
+
+; 0x0a3a074e そうかこれは夢だわ。
+0x0a3a074e I see. This is a dream.
+
+; 0x0a3a0768 …すごい…。
+0x0a3a0768 ...Wow...
+
+; 0x0a3a07b4 き、今日は雪ね。
+0x0a3a07b4 S-Snow today.
+
+; 0x0a3a07da ほーほほほーっ！
+0x0a3a07da Hohohoho!
+
+; 0x0a3a0800 さっ　しごと仕事ー！
+0x0a3a0800 Work, work!
+
+; 0x0a3a0842 そうかこれは夢だわ。
+0x0a3a0842 I see. This is a dream.
+
+; 0x0a3a0862 でなければ絢音が一人で遅刻せず出社なんて有り得ないもの。
+0x0a3a0862 Otherwise, it would be impossible for Ayane to be late to work alone.
+
+; 0x0a3a08a6 でもリアルな夢ねェー…。
+0x0a3a08a6 But a real dream, huh?
+
+; 0x0a3a08f0 これでも夢だっていうのー！
+0x0a3a08f0 It's just a dream!
+
+; 0x0a3a0916 これでもぉぉぉッ！！
+0x0a3a0916 Even so!!
+
+; 0x0a3a0940 いっ痛ーいっっ！！上司に向かって何をするのぉーッ！
+0x0a3a0940 Owww!! What are you doing to your boss?!
+
+; 0x0a3a0986 ううっ…ろーやら夢れはないようれ。
+0x0a3a0986 Ugh... Looks like you can't dream.
+
+; 0x0a3a09be 判ればいーのよっっ！
+0x0a3a09be I just need to know!
+
+; 0x0a3a0b3e …すごい…。
+0x0a3a0b3e ...Wow...
+
+; 0x0a3a0b56 初めて！
+0x0a3a0b56 First time!
+
+; 0x0a3a0b6a 初めて一人で遅刻せず出社出来たのねッ！
+0x0a3a0b6a You were able to come to work without being late for the first time!
+
+; 0x0a3a0b9c やったわねっ絢音ぇええッ！！
+0x0a3a0b9c You did it, Ayane!!
+
+; 0x0a3a0bce そっ…そこまで言うか。
+0x0a3a0bce Y-You're going that far?
+
+; 0x0a3a0c24 ああーっ
+0x0a3a0c24 Ahhh!
+
+; 0x0a3a0c38 　しっしまったー！！
+0x0a3a0c38 Shit!!
+
+; 0x0a3a0c7e 今日は寝坊したから
+0x0a3a0c7e I overslept today
+
+; 0x0a3a0c9c 華鈴社長特製・中華クレープ弁当もらって来るの忘れちゃったー。
+0x0a3a0c9c I forgot to get President Hualin's special Chinese crepe lunch.
+
+; 0x0a3a0d14 あーあ…。
+0x0a3a0d14 Aww...
+
+; 0x0a3a0d34 さあ気を取り直して。今日も張り切って集配しましょう！
+0x0a3a0d34 Come on, let's pull ourselves together. Let's do this again!
+
+; 0x0a3a0d98 …あら！？
+0x0a3a0d98 ...Oh!?
+
+; 0x0a3a0dcc 会社創設以来初、損害賠償限度額目一杯の小荷物だわっ！！
+0x0a3a0dcc For the first time since the company's founding, this is the biggest small package we've ever had!
+
+; 0x0a3a0e2e えっほんと？１億２千万円！？
+0x0a3a0e2e 120 million yen?!
+
+; 0x0a3a0e60 どれどれー！？
+0x0a3a0e60 Let's see!
+
+; 0x0a3a0ea2 ああ！やっと、うちにも大口の仕事がッ！
+0x0a3a0ea2 Aaah! Finally, I have a big job too!
+
+; 0x0a3a0ede ふーん、親会社からの直接依頼かぁ。
+0x0a3a0ede Hmm, a direct request from a parent company, huh?
+
+; 0x0a3a0f0c 珍しいね。
+0x0a3a0f0c It's rare.
+
+; 0x0a3a0f46 あらこれ、特別手当付の仕事ね。
+0x0a3a0f46 Oh, this is a special treatment.
+
+; 0x0a3a0f7a …それで？
+0x0a3a0f7a ...So?
+
+; 0x0a3a0fba えっ？
+0x0a3a0fba Eh?
+
+; 0x0a3a0fd6 誰が運ぶの？その小荷物。
+0x0a3a0fd6 Who's going to carry that small bag?
+
+; 0x0a3a1024 決まってるじゃない。
+0x0a3a1024 It's obvious.
+
+; 0x0a3a1044 集配主任である、あ・た・しッ★
+0x0a3a1044 I'm the head of the collection and distribution team.
+
+; 0x0a3a108e 絢音＋春菜
+0x0a3a108e Ayane+Haruna
+
+; 0x0a3a110a 毎度ー！
+0x0a3a110a Thank you!
+
+; 0x0a3a1124 エンジニア
+0x0a3a1124 Engineer
+
+; 0x0a3a1134 えっ君が！？
+0x0a3a1134 Eh? You?!
+
+; 0x0a3a114c だっ大丈夫かなぁ…。
+0x0a3a114c I wonder if it's okay...
+
+; 0x0a3a117c 大丈夫です！
+0x0a3a117c I'm fine!
+
+; 0x0a3a119a 任せて下さい！
+0x0a3a119a Leave it to me!
+
+; 0x0a3a11ba 絶対安全です！
+0x0a3a11ba Absolutely safe!
+
+; 0x0a3a11d4 エンジニア
+0x0a3a11d4 Engineer
+
+; 0x0a3a11ea わっ・判りました…。
+0x0a3a11ea O-Okay.
+
+; 0x0a3a1210 じゃあ…コレ、よろしくお願いします。
+0x0a3a1210 Then... please take this.
+
+; 0x0a3a1286 その後、軍警察の調査により『こんごう重工』や『はづき鉄道
+0x0a3a1286 After that, the military police investigated 'Kongo Heavy Industries' and 'Hazuki Railway.'
+
+; 0x0a3a12c4 』の行ってきた妨害工作・武器密輸・違法研究・私設軍隊の所有、政府官僚
+0x0a3a12c4 ’s sabotage, arms smuggling, illegal research, private army ownership, government officials
+
+; 0x0a3a1438 との癒着。
+0x0a3a1438 And the bond.
+
+; 0x0a3a1452 その他、買収・乗っ取り・裏談合などの違法行為が次々と発覚。
+0x0a3a1452 Other illegal activities such as acquisition, takeover, and back-alley were discovered one after another.
+
+; 0x0a3a14a6 『こんごう重工』と『はづき鉄道』は解体され、その施設と子会社の
+0x0a3a14a6 “Kongo Heavy Industries” and “Hazuki Railway” were disbanded, and their facilities and subsidiary companies
+
+; 0x0a3a14ea 大部分は国の管理下に置かれる事になった。
+0x0a3a14ea Most of them ended up under the control of the country.
+
+; 0x0a3a151c 一方、有限会社はづき宅配便は…。
+0x0a3a151c On the other hand, Hazuki Delivery Service...
+
+; 0x0a3a154c 『はづき鉄道』の財産整理に当たって、十分な利益の上がって
+0x0a3a154c When it comes to organizing the Hazuki Railroad’s assets, we’ve made enough profit
+
+; 0x0a3a158a いなかった『はづき宅配便』は、出資を打ち切られ
+0x0a3a158a The “Hazuki Delivery Service” that wasn’t there had been cut off
+
+; 0x0a3a15be 事実上の倒産となった。
+0x0a3a15be In effect, it went under.
+
+; 0x0a3a15de 華鈴社長は会社設立にあたって、個人的に親会社に借金をし
+0x0a3a15de President Kasuzu personally owed a debt to his parent company when he founded the company
+
+; 0x0a3a161a ていたため、今も借金の返済に追われている。
+0x0a3a161a As such, he was still busy paying off his debts.
+
+; 0x0a3a1678 そして…。
+0x0a3a1678 And...
+
+; 0x0a3a16ac もう少し右！
+0x0a3a16ac A little to the right!
+
+; 0x0a3a16c4 そうそう！ＯＫ！
+0x0a3a16c4 Oh yeah! Okay!
+
+; 0x0a3a16f0 じゃ、そこで倒れないように固定して！
+0x0a3a16f0 Then fix it so it doesn't collapse!
+
+; 0x0a3a1730 華鈴社長…！
+0x0a3a1730 President kasuzu!
+
+; 0x0a3a1748 じゃない店長！準備出来ました！
+0x0a3a1748 Manager! I'm ready!
+
+; 0x0a3a177a ちーずっ！！！
+0x0a3a177a Chizu!!!
+
+; 0x0a3a17ba 借金の山もなんのその。華鈴店長と新たに宅配中華クレープ屋
+0x0a3a17ba What's with the mountain of debt? Manager Hua Ling and the new delivery chinese crepe shop
+
+; 0x0a3a17f8 を旗揚げし、今も元気に借金返済にあたっています！
+0x0a3a17f8 I'm still energetically paying off my debts!
+
+; 0x0a3a185a Ｐ．Ｓ．七転び八起き！お父様！お母様！
+0x0a3a185a P.S. Shichitose Hachiwake! Father! Mother!
+
+; 0x0a3a1886 どんな苦難にも屈しない華鈴店長って、やっぱカッコイーッ！！
+0x0a3a1886 Manager Kasuzu doesn't give in to any hardships. He's so cool!
+
+; 0x0a3a1900 シスター
+0x0a3a1900 Sister
+
+; 0x0a3a190e あれです！あの人が押し込み強盗放火犯ですわ！
+0x0a3a190e That's it! He's the robber, the arsonist!
+
+; 0x0a3a1956 うっ　ウソよォ！違うわッ！！
+0x0a3a1956 N-No way! That's not true!
+
+; 0x0a3a197e 冤罪よー！
+0x0a3a197e It's a false charge!
+
+; 0x0a3a1994 助けて華鈴社長ー！！
+0x0a3a1994 Help me, President Kasuzu!
+
+; 0x0a3a19ea その後、軍警察の調査により『こんごう重工』の行ってきた
+0x0a3a19ea After that, the military police investigated kongo heavy industries.
+
+; 0x0a3a1a26 妨害工作・武器密輸・違法研究・私設軍隊の所有。
+0x0a3a1a26 Sabotage, arms smuggling, illegal research, and private army possession.
+
+; 0x0a3a1a64 その他、買収・癒着・乗っ取り・裏談合などの違法行為が次々と発覚。
+0x0a3a1a64 Other illegal activities such as acquisition, collusion, takeover, and back-alley were discovered one after another.
+
+; 0x0a3a1ab4 『こんごう重工』は解体され、その施設と子会社の大部分は
+0x0a3a1ab4 “Kongo Heavy Industries” was disbanded, and most of its facilities and subsidiary companies were
+
+; 0x0a3a1af0 『はづき鉄道』と『きりしま化学』などの大企業に吸収されて行った。
+0x0a3a1af0 It was absorbed by big companies such as 'Hazuki Railway' and 'Kirishima Chemical.'
+
+; 0x0a3a1b3a 一方、有限会社はづき宅配便は…。
+0x0a3a1b3a On the other hand, Hazuki Delivery Service...
+
+; 0x0a3a1b6a 刑事訴訟こそ逃れたものの、親会社『はづき鉄道』から設計
+0x0a3a1b6a  ⁇  escaped criminal lawsuits, but designed by the parent company ⁇ Hazuki Railway ⁇ "
+
+; 0x0a3a1ba6 図喪失の責任を問われ、会社は解散となった。
+0x0a3a1ba6 The company was disbanded after being held accountable for the loss of figure.
+
+; 0x0a3a1bda 華鈴社長は会社設立にあたって、個人的に親会社に借金をし
+0x0a3a1bda President Kasuzu personally owed a debt to his parent company when he founded the company
+
+; 0x0a3a1d68 ている。
+0x0a3a1d68 I am.
+
+; 0x0a3a1da4 そして…。
+0x0a3a1da4 And...
+
+; 0x0a3a1de2 さあっキリキリ働くのよ！
+0x0a3a1de2 Come on, work hard!
+
+; 0x0a3a1e2c いやー！華鈴社長、もうゆるしてー！
+0x0a3a1e2c No! President Kasuzu, forgive me!
+
+; 0x0a3a1e6a なに言ってるの！まだ借金が山ほど残っているのよ！
+0x0a3a1e6a What are you saying?! I still have a mountain of debts left!
+
+; 0x0a3a1eb0 こんごう重工のばかーっっっ！
+0x0a3a1eb0 Kongo Heavy Industries idiot!
+
+
