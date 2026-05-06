@@ -365,7 +365,7 @@
 0x00080a5c Bonsai Kit
 
 ; 0x00080a70 をゲットしたよ
-0x00080a70 found! Let's
+0x00080a70 I got it lets
 
 ; 0x00080a7f シティのロブじいさんのところに
 0x00080a7f take it to Old Lobber in
@@ -377,19 +377,19 @@
 0x00080ac4 Outing Shell
 
 ; 0x00080ade をゲットしたよ
-0x00080ade found! Head
+0x00080ade I got it.
 
 ; 0x00080aed シティにかえって
-0x00080aed back to the City
+0x00080aed To the city!
 
 ; 0x00080afe ヤドカリタにとどけてあげよう
-0x00080afe and bring it to Herman.
+0x00080afe Let´s get it to Herman.
 
 ; 0x00080b34 たからばこ
 0x00080b34 Treasure
 
 ; 0x00080b44 をゲットしたよ
-0x00080b44 found!
+0x00080b44 I found it!
 
 ; 0x00080b53 シティにかえって　マテルに
 0x00080b53 Head back to the City to
@@ -401,31 +401,31 @@
 0x00080b8b Got an item from Area 4
 
 ; 0x00080bb9 なくした
-0x00080bb9 Lost it.
+0x00080bb9 Got
 
 ; 0x00080bc7 マージャンパイ１
-0x00080bc7 Marjanpai 1
+0x00080bc7 Mahjong tile 1.
 
 ; 0x00080be0 ゲットしたよ！
-0x00080be0 Got it!
+0x00080be0 ㅤ
 
 ; 0x00080c02 なくした
-0x00080c02 Lost it.
+0x00080c02 Got
 
 ; 0x00080c10 マージャンパイ２
-0x00080c10 Marjan Pi2
+0x00080c10 Mahjong tile 2.
 
 ; 0x00080c29 ゲットしたよ！
-0x00080c29 Got it!
+0x00080c29 ㅤ
 
 ; 0x00080c4b なくした
-0x00080c4b Lost it.
+0x00080c4b Got
 
 ; 0x00080c59 マージャンパイ３
-0x00080c59 Marjanpai 3
+0x00080c59 Mahjong tile 3.
 
 ; 0x00080c72 ゲットしたよ！
-0x00080c72 Got it!
+0x00080c72 ㅤ
 
 ; 0x00080c9a キョロスケのおとうと
 0x00080c9a Moe´s Dad
@@ -790,88 +790,86 @@
 ; 0x00081ae1 いろへんこうてすと
 ; 0x00081ae1 Irohenkotesuto
 
-;; ERROR MESSAGES (not used?)
-
 ; 0x00081afa いろかわった？
-;0x00081afa Color changed?
+0x00081afa You´ve changed?
 
 ; 0x00081b0f いろもどった？
-;0x00081b0f Normal color?
+0x00081b0f He´s back?
 
 ; 0x000822a5 カードが　ぬけました
-0x000822a5 Card removed
+0x000822a5 The card´s out.
 
 ; 0x000822ba でんげんを　きってください
-0x000822ba Please turn off the power
+0x000822ba Please listen to me.
 
 ; 0x000822d5 しばらくおまちください・・・
-0x000822d5 Please wait a moment...
+0x000822d5 Please wait a moment.
 
 ; 0x000822f2 でんげんを　きらないでください
-0x000822f2 Do not turn off the power
+0x000822f2 Don´t play dumb.
 
 ; 0x00082311 データの　よみこみに
-0x00082311 Data loading
+0x00082311 To the data.
 
 ; 0x00082326 しっぱいしました
-0x00082326 failed
+0x00082326 So sour.
 
 ; 0x00082337 でんげんを　きって
-0x00082337 Turn off the power
+0x00082337 I don´t know what to do.
 
 ; 0x0008234a カードを
-0x0008234a and
+0x0008234a Card.
 
 ; 0x00082353 さしこみなおしてください
-0x00082353 reinsert the card.
+0x00082353 Please be polite.
 
 ; 0x0008236c データがこわれています
-0x0008236c Data is corrupted.
+0x0008236c It´s broken.
 
 ; 0x00082383 いくつかの　
-0x00082383 Some data 
+0x00082383 Some.
 
 ; 0x00082390 データが　きえました
-0x00082390 has been lost.
+0x00082390 I´ve got data.
 
 ; 0x000823a5 Ａボタンをおしてください
-0x000823a5 Press the A button.
+0x000823a5 Please press A.
 
 ; 0x000823be ちゅうだんデータが　こわれています
-0x000823be Suspended data is corrupted.
+0x000823be It´s broken.
 
 ; 0x000823e1 ちゅうだんデータを　さくじょしました
-0x000823e1 Suspended data has been deleted.
+0x000823e1 I got the data.
 
 ; 0x00082406 Ａボタンをおしてください
-0x00082406 Press the A button.
+0x00082406 Please press A.
 
 ; 0x0008241f データの　かきこみに
-0x0008241f Data writing 
+0x0008241f To the data.
 
 ; 0x00082434 しっぱいしました
-0x00082434 failed.
+0x00082434 So sour.
 
 ; 0x00082445 でんげんを　きって
-0x00082445 Please turn off 
+0x00082445 I don´t know what to do.
 
 ; 0x00082458 カードを　さしこみなおしてください
-0x00082458 the power and reinsert the card.
+0x00082458 Please give me a card.
 
 ; 0x0008247b すべてのデータを
-0x0008247b All data will
+0x0008247b All data.
 
 ; 0x0008248c しょうきょします
-0x0008248c be deleted.
+0x0008248c I´ll do it.
 
 ; 0x0008249d しょうきょしたデータは
-0x0008249d Deleted data cannot 
+0x0008249d That´s the data.
 
 ; 0x000824b4 もとにもどりません！
-0x000824b4 be recovered!
+0x000824b4 It won´t go back to normal!
 
 ; 0x000824c9 よろしいですか？
-0x000824c9 Are you sure?
+0x000824c9 May I?
 
 ; 0x000824db 　　　はい　　　いいえ
 0x000824db       Yes      No
@@ -907,25 +905,25 @@
 0x00082ad7 Moe
 
 ; 0x00082ae2 こうしゅうでんわテスト
-0x00082ae2 Pay Phone Test
+0x00082ae2 Test
 
 ; 0x00082af9 キョロアニメもかえよう
-0x00082af9 Let's change the animation
+0x00082af9 Let´s go back to the anime.
 
 ; 0x00082b10 とりあえずボタンまち
-0x00082b10 Wait for a button for now.
+0x00082b10 Anyway, Botanmachi.
 
 ; 0x00082b3e キョロスケキョロかわった？
-0x00082b3e Has Moe changed?
+0x00082b3e You´ve changed?
 
 ; 0x00082b59 オトトちゃんとでてる？
-0x00082b59 Is the sound working?
+0x00082b59 Are you out with Ototo-chan?
 
 ; 0x00082b89 キョロスケボタンおしたらしゅうりょう
-0x00082b89 Press the Moe button to end.
+0x00082b89 If you press the Moe button
 
 ; 0x00082bc6 チョロスケ
-0x00082bc6 Chorosuke
+0x00082bc6 Choroske
 
 ; 0x00082bd1 テストバージョン２
 0x00082bd1 Test Version 2
@@ -1561,94 +1559,94 @@
 0x000843e0 Moe
 
 ; 0x000843eb ん？　うっとうしいすいりゅうが
-0x000843eb Hm? Shut up, Suiryuu
+0x000843eb Whazzat? There`s a current
 
 ; 0x0008440a あって　すすめねえだって？
-0x0008440a I´m not recommending it?
+0x0008440a blocking the way?
 
 ; 0x0008443e キョロスケ近くに　ヘンなスイッチがあるだろ？
-0x0008443e There´s a weird switch near Moe.
+0x0008443e Moe       Theres a switch nearby
 
 ; 0x0008446b その
-0x0008446b That´s...
+0x0008446b that
 
 ; 0x00084475 スイッチにスピンを当てれば
-0x00084475 If I hit the switch with a spin
+0x00084475 ㅤif you hit, it should
 
 ; 0x00084490 すいりゅうは　止まる
-0x00084490 Suiryu stops.
+0x00084490 stop the current.
 
 ; 0x000844aa はずだぞ
-0x000844aa That should be it.
+0x000844aa ㅤ
 
 ; 0x000844cc キョロスケただし　じかんがたつと
-0x000844cc Moe, but I´m afraid it won´t be long.
+0x000844cc Moe       Better act fast!
 
 ; 0x000844ed すいりゅうは　元にもどっちまうぞ
-0x000844ed Suiryu will go back to normal.
+0x000844ed The current will start
 
 ; 0x0008450e すばやくこうどうしろよな
-0x0008450e Hurry up and do this.
+0x0008450e flowin` again!
 
 ; 0x0008453f キョロスケ
 0x0008453f Moe
 
 ; 0x0008454a じゃまな
-0x0008454a Jamana
+0x0008454a Hit the
 
 ; 0x00084558 すいりゅうは　スイッチに
-0x00084558 Suiryu is on a switch.
+0x00084558 switch and the current
 
 ; 0x00084571 スピンを当てると　止まる
-0x00084571 It stops when you hit a spin.
+0x00084571 will stop, but only
 
 ; 0x00084592 ちょっとだけだけどな
-0x00084592 Just a little.
+0x00084592 for a short while.
 
 ; 0x000845c5 キョロスケ
 0x000845c5 Moe
 
 ; 0x000845d0 ん？　あしばがなくて
-0x000845d0 Hm? It´s been a while.
+0x000845d0 No platforms, so
 
 ; 0x000845e5 上に　すすめねえだって？
-0x000845e5 You don´t recommend it upstairs?
+0x000845e5 you can`t get high?
 
 ; 0x00084617 キョロスケ近くに　ミョーなスイッチがねえか？
-0x00084617 Isn´t there a switch near Moe?
+0x00084617 Moe       Spin into that switch near
 
 ; 0x00084644 その
-0x00084644 That´s...
+0x00084644 you 
 
 ; 0x0008464e スイッチにスピンを当てれば
-0x0008464e If I hit the switch with a spin
+0x0008464e and some platforms
 
 ; 0x00084669 あしばが　できる
-0x00084669 I´ll be able to do it.
+0x00084669 should appear.
 
 ; 0x0008467f はずだぞ
-0x0008467f That should be it.
+0x0008467f ㅤ
 
 ; 0x000846a1 キョロスケただし　じかんがたつと
-0x000846a1 Moe, but I´m afraid it won´t be long.
+0x000846a1 Moe       But you better
 
 ; 0x000846c2 あしばは　きえちまうぞ
-0x000846c2 It´s gonna be a long time.
+0x000846c2 hurry, they won`t
 
 ; 0x000846d9 サクサクうごけよな
-0x000846d9 Make sure you move quickly.
+0x000846d9 stay forever.
 
 ; 0x00084704 キョロスケ
 0x00084704 Moe
 
 ; 0x0008470f ミョーな　スイッチがあったら
-0x0008470f I don´t know. If I had a switch,
+0x0008470f The platforms should
 
 ; 0x0008472c スピンしてみろ　きえてた
-0x0008472c Try to spin it. It´s sharp.
+0x0008472c appear if you spin
 
 ; 0x00084745 あしばが　出て来るはずだぞ
-0x00084745 I´m sure you´ll find a way out.
+0x00084745 into that switch.
 
 ; 0x0008477e キョロスケ
 0x0008477e Moe
@@ -9421,7 +9419,7 @@
 0x000964ca with the Door Djinn.
 
 ; 0x000964e7 今のオメェにはイミがねえ
-0x000964e7 It's empty right now.
+0x000964e7 Its empty right now.
 
 ; 0x0009650c キョロスケムシして　すすんじまえ
 0x0009650c Moe       You could peek
@@ -9868,22 +9866,22 @@
 0x000a85a3 find out!
 
 ; 0x000a85bf グッズ
-0x000a85bf Goods
+0x000a85bf Got
 
 ; 0x000a85cb 『ラブリーメイク』
-0x000a85cb Lovely makeup.
+0x000a85cb Lovelys Make-Up!
 
 ; 0x000a85e6 ゲットしたよ！
-0x000a85e6 Got it!
+0x000a85e6 ㅤ
 
 ; 0x000a8602 シティに　おみせができたみたい
-0x000a8602 Looks like the city´s showing off.
+0x000a8602 Shop`s open in the City!
 
 ; 0x000a8621 しんじゅをあつめて　たくさん
-0x000a8621 A lot of shinju.
+0x000a8621 Gather pearls and stock
 
 ; 0x000a863e かっちゃおう！！
-0x000a863e Let´s go!!
+0x000a863e up on goods!
 
 ; 0x000a865c グッズ
 0x000a865c Goods
@@ -13084,7 +13082,7 @@
 0x001634ae Catcher Naruse #5
 
 ; 0x001634cb でんせつのスタまるフィーたろう
-0x001634cb Legendary Starfy Fie
+0x001634cb Densetsu no Stalled Fie
 
 ; 0x001634fc スペシャルサンクス
 0x001634fc Special Thanks
@@ -13093,7 +13091,7 @@
 0x00163515 How´s that?
 
 ; 0x00163524 おとむら　ゆき
-0x00163524 Dad, Yuki
+0x00163524 Dad, Yuki.
 
 ; 0x00163533 かわしま　えりこ
 0x00163533 Eriko Dodge
@@ -14395,13 +14393,13 @@
 0x001a7e24 Hohohoho!!!!」
 
 ; 0x00238f5d １−１　アクションを思い出そう！
-0x00238f5d 1-1 Remember Abilities!   
+0x00238f5d 1-1 Remember abilities!   
 
 ; 0x00238f7e 『しゅうりキット』を
-0x00238f7e Look for the Bonsai
+0x00238f7e Bonsai Kit.
 
 ; 0x00238f93 さがしながら　きほんてきな
-0x00238f93 Kit and remember your
+0x00238f93 Look for it and remember
 
 ; 0x00238fae アクションを思い出そう！
 0x00238fae abilities!
@@ -14443,16 +14441,16 @@
 0x0023910a who`s boss!
 
 ; 0x00239127 ２−１　『ラブリーのおみせ』かいてん
-0x00239127 2-1, ´Lovely Show´.
+0x00239127 2-1 Opening Lovely`s Shop
 
 ; 0x0023914c なくなった『マージャンパイ』を
-0x0023914c The missing “majan pie”
+0x0023914c Look for the missing Mahjong
 
 ; 0x0023916b さがしてあげよう！
-0x0023916b I´ll find you!
+0x0023916b tiles! What`ll
 
 ; 0x0023917e ぜんぶ　見つけると……！！？
-0x0023917e If I find them all...?!!
+0x0023917e happen if you find them?
 
 ; 0x0023919b ２−２　ケルキーをマスターしよう
 0x0023919b 2-2, master the kelky.
@@ -14824,16 +14822,16 @@
 0x00239ebb Kingdom!
 
 ; 0x00239ecc ☆サクラの下で　大ぼうけん☆
-0x00239ecc ☆ Beneath Sakura is Oboken
+0x00239ecc ☆Cherry Blossom Adventure☆
 
 ; 0x00239ee9 サクラのはなが　まいちる
-0x00239ee9 Sakura´s Hana ga Maichiru
+0x00239ee9 What adventure awaits
 
 ; 0x00239f02 このステージでは　どんな
-0x00239f02 What kind of stage is this?
+0x00239f02 as blossoms dance
 
 ; 0x00239f1b ぼうけんがまっているのかな？
-0x00239f1b Maybe she´s playing dumb?
+0x00239f1b in the wind?
 
 ; 0x00239f38 ☆くもの上の　大じけん☆
 0x00239f38 ☆A big jiken on a kumono☆
@@ -14945,6 +14943,7 @@
 
 ; 0x0023a32b シティでの　そうさほうほう
 0x0023a32b show how to use the City
+           
 
 ; 0x0023a34e レクチャーしてやるからな！
 0x0023a34e screen.
@@ -14965,16 +14964,16 @@
 0x0023a3d3 Moe
 
 ; 0x0023a3e4 スタートボタン
-0x0023a3e4 press START
+0x0023a3e4 Press START
 
 ; 0x0023a3f8 で　スキップして
 0x0023a3f8 to skip
 
 ; 0x0023a409 さっさとゲームをはじめてもいいぞ
-0x0023a409 and jump right in. 
+0x0023a409 and jump right in. Otherwise
 
 ; 0x0023a42a それじゃ　せつめいするぞ
-0x0023a42a Otherwise listen up!
+0x0023a42a listen up!
 
 ; 0x0023a456 キョロスケ
 0x0023a456 Moe
@@ -14986,7 +14985,7 @@
 0x0023a46b ´!´
 
 ; 0x0023a477 マークに　ちゅうもくだ
-0x0023a477 If you see this mark
+0x0023a477 If you see this
 
 ; 0x0023a48e だいじなポイントだから
 0x0023a48e it means something
@@ -15022,10 +15021,10 @@
 0x0023a574 ...
 
 ; 0x0023a579 タッチしたり　カーソルをうごかして
-0x0023a579 Touch one or use D-pad and press 
+0x0023a579 Touch one or use D-pad and 
 
 ; 0x0023a59d Aボタンを　押すと
-0x0023a59d  .
+0x0023a59d  press A
 
 
 ; 0x0023a5c2 キョロスケ
@@ -15253,9 +15252,6 @@
 ; 0x0023ace6 タッチしまくれ！！』
 0x0023ace6 to select!
 
-; 0x0023ad00 だ！
-0x0023ad00 ㅤ
-
 ; 0x0023ad18 キョロスケ
 0x0023ad18 Moe
 
@@ -15296,28 +15292,28 @@
 0x0023afac Hum... It`s nice to have
 
 ; 0x0023afce こうやって　ゆっくりぼんさいを
-0x0023afce peace. I can relax and tend
+0x0023afce peace. I can relax and
 
 ; 0x0023afed ていれできるのも
-0x0023afed to my bonsai.
+0x0023afed tend to Bonsai.
 
 ; 0x0023b011 ロブじいさんみんな　スタフィーたちが
 0x0023b011 Old Lobber  All thanks to Starfy
 
 ; 0x0023b036 オーグラやイーブルを
-0x0023b036 and the others 
+0x0023b036 defeating Ogura and
 
 ; 0x0023b04b たおしてくれたおかげじゃな
-0x0023b04b defeating Ogura and evil.
+0x0023b04b and evil.
 
 ; 0x0023b1be ロブじいさんひぎゃああ！
 0x0023b1be Old Lobber  Higyaaa!
 
 ; 0x0023b21b キョロスケいててて……
-0x0023b21b Moe       My shell...
+0x0023b21b Moe
 
 ; 0x0023b232 お！　
-0x0023b232 Oh!
+0x0023b232 O!
 
 ; 0x0023b23e ロブじいさん
 0x0023b23e Old Lobber
@@ -15329,16 +15325,16 @@
 0x0023b280 I have a question
 
 ; 0x0023b299 ききたいことがあるんだ
-0x0023b299 for you.
+0x0023b299  for you.
 
 ; 0x0023b2e6 ロブじいさんぼんさいが！！！
-0x0023b2e6 Old Lobber  My...
+0x0023b2e6 Old Lobber
 
 ; 0x0023b303 ワシの…　ワシのかわいい
-0x0023b303 My bonsai! My adorable
+0x0023b303 My bonsai!
 
 ; 0x0023b31c ぼんさいが…！！！！
-0x0023b31c little bonsai!!
+0x0023b31c My cute bonsai!
 
 ; 0x0023b344 スタピー平和ボケしてるばあいちゃうで！
 0x0023b344 Starly  Something bad happened
@@ -15350,28 +15346,28 @@
 0x0023b38c Don´t you know?
 
 ; 0x0023b3c7 ロブじいさんううう…　ワシのぼんさい…
-0x0023b3c7 Old Lobber  *sob*... My poor little...
+0x0023b3c7 Old Lobber    My bonsai...
 
 ; 0x0023b42e ロブじいさんなるほどのう　モナムールストーンか
-0x0023b42e Old Lobber  I see... The Mon Amor Stone,
+0x0023b42e Old Lobber  I see. The Mon Amor
 
 ; 0x0023b45d アミー王国に　そういうひほうが
-0x0023b45d hm? I've heard some things.
+0x0023b45d Stone, hm? I've
 
 ; 0x0023b47c あることは　きいておったが…
-0x0023b47c ㅤ
+0x0023b47c heard some things.
 
 ; 0x0023b4ac スタピーそうなんや！　じいちゃん
-0x0023b4ac Starly  Really? Do you know
+0x0023b4ac Starly  Really? Do you
 
 ; 0x0023b4cd モナムールストーンを　ぬすみそうな
-0x0023b4cd who stole it, then
+0x0023b4cd know who stole it, then
 
 ; 0x0023b4f0 ヤツ知らへん？
-0x0023b4f0 Gramps!?
+0x0023b4f0 gramps?
 
 ; 0x0023b512 ロブじいさんふむ　ちょっとしらべてみようかのう
-0x0023b512 Old Lobber  I`ll look into it. By the
+0x0023b512 Old Lobbber I`ll look into it. By the
 
 ; 0x0023b541 …ところでスタフィーよ　また
 0x0023b541 way, Starfy, does this mean
@@ -15380,16 +15376,16 @@
 0x0023b55e going on an adventure?
 
 ; 0x0023b58c ロブじいさんアクションは　ちゃんと
-0x0023b58c Old Lobber  Do you still remember
+0x0023b58c Old Lobber  Do you remember
 
 ; 0x0023b5af おぼえておるんじゃろうな？
-0x0023b5af your Abilities?
+0x0023b5af your ablities?
 
 ; 0x0023b615 キョロスケバッ…　バカヤロー！
-0x0023b615 Moe        You forgot?
+0x0023b615 Moe        You
 
 ; 0x0023b634 オメェ　またかよ！？　どんな
-0x0023b634 Again?
+0x0023b634 forgot? Again?
 
 ; 0x0023b651 のうミソだよ！
 0x0023b651 You idiot!
@@ -15401,7 +15397,7 @@
 0x0023b6a2 I'll put up
 
 ; 0x0023b6b6 『カンバン』
-0x0023b6b6 some signs
+0x0023b6b6 “signs”
 
 ; 0x0023b6cb たてておいたから
 0x0023b6cb for you.
@@ -15410,16 +15406,16 @@
 0x0023b6fd Old Lobber
 
 ; 0x0023b70f カンバンのまえで
-0x0023b70f Stand in front 
+0x0023b70f In front of sign
 
 ; 0x0023b721 Hボタンを押してカンバンを見て
-0x0023b721 of a sign and press the 
+0x0023b721 Push the button and look at
 
 ; 0x0023b745 アクションを思い出すんじゃ
-0x0023b745 button to read it.
+0x0023b745 the sign.
 
 ; 0x0023b773 ロブじいさんステージにおかれている
-0x0023b773 Old Lobber  You can also       
+0x0023b773 Old Lobber  You can         
 
 ; 0x0023b79c しんじゅをとると　元気が
 0x0023b79c collect pearls
@@ -15431,25 +15427,25 @@
 0x0023b7c3 you.
 
 ; 0x0023b7dd ロブじいさんそうじゃ　ついでに　ワシの
-0x0023b7dd Old Lobber  And while doing that,
+0x0023b7dd Old Lobber  You can also
 
 ; 0x0023b804 ぼんさいの
-0x0023b804 bring back 
+0x0023b804 grab my
 
 ; 0x0023b814 『しゅうりキット』
-0x0023b814  my Bonsai Kit.
+0x0023b814 [Bonsai Kit]
 
 ; 0x0023b82f とって来てほしいのじゃ
-0x0023b82f ㅤ
+0x0023b82f I want you to get it.
 
 ; 0x0023b859 ロブじいさんどこかのだれかさんが
-0x0023b859 Old Lobber  I need it after
+0x0023b859 Old Lobber  I need it
 
 ; 0x0023b87a ワシのぼんさいを　めちゃくちゃに
-0x0023b87a some strangers ruined
+0x0023b87a after messing up my bonsai.
 
 ; 0x0023b89b してしまったからのう…
-0x0023b89b the poor thing...
+0x0023b89b Poor thing...
 
 ; 0x0023b8c5 スタピーうらみがましいなあ…
 0x0023b8c5 Starly  We`ll get it
@@ -15527,10 +15523,10 @@
 0x0023bb44 go near my shell
 
 ; 0x0023bb56 Hボタン
-0x0023bb56 press
+0x0023bb56 and
 
 ; 0x0023bb63 を押してね
-0x0023bb63 the button.
+0x0023bb63 button.
 
 ; 0x0023bb81 マーメイド
 0x0023bb81 Mermaid
@@ -15551,7 +15547,7 @@
 0x0023bc0b Open the pause menu and select
 
 ; 0x0023bc2c ひらいて『ちゅうだん』
-0x0023bc2c the Suspend save
+0x0023bc2c the suspend save
 
 ; 0x0023bc4b えらんでね
 0x0023bc4b option.
@@ -15593,16 +15589,16 @@
 0x0023bd68 City until you do!
 
 ; 0x0023bde9 ワープじぞう
-0x0023bde9 Warp Jizo
+0x0023bde9 Warp Jizu
 
 ; 0x0023bdf6 わしは
 0x0023bdf6 I´m
 
 ; 0x0023be02 ワープじぞう
-0x0023be02 the great
+0x0023be02 Warp Jizu.
 
 ; 0x0023be15 とてもえらい
-0x0023be15 Warp Jizo.
+0x0023be15 I`m great.
 
 ; 0x0023be3c ワープじぞう王
 0x0023be3c Warp Jizo King
@@ -15614,22 +15610,22 @@
 0x0023be57 Warp Jizo King
 
 ; 0x0023be6c もっとえらい
-0x0023be6c  I'm better.
+0x0023be6c I`m better.
 
 ; 0x0023be93 ワープじぞう
 0x0023be93 Warp Jizo
 
 ; 0x0023bea0 もし　おぬしがステージ中に
-0x0023bea0 If you see me inside
+0x0023bea0 If you´re in a stage and
 
 ; 0x0023bebb わしを見かけたら　
-0x0023bebb a stage, press
+0x0023bebb if you see me
 
 ; 0x0023bece Hボタンで
-0x0023bece  to talk
+0x0023bece Press
 
 ; 0x0023bed8 はなしかけるがよい
-0x0023bed8 to me.
+0x0023bed8 to talk to me.
 
 ; 0x0023befe ワープじぞう
 0x0023befe Warp Jizo
@@ -15641,13 +15637,13 @@
 0x0023bf23 you to the 
 
 ; 0x0023bf34 ところまで　いっしゅんで
-0x0023bf34 Warp King by teleporting.
+0x0023bf34 Warp King by
 
 ; 0x0023bf4d ワープ
 0x0023bf4d ㅤ
 
 ; 0x0023bf59 させて　やろう
-0x0023bf59 ㅤ
+0x0023bf59 teleporting.
 
 ; 0x0023bf7b ワープじぞう王
 0x0023bf7b Warp Jizo King
@@ -15731,7 +15727,7 @@
 0x0023c21d for the
 
 ; 0x0023c22d 『しゅうりキット』
-0x0023c22d Bonsai Kit
+0x0023c22d [Bonsai Kit]
 
 ; 0x0023c248 さがして来たってえな
 0x0023c248 while exploring.
@@ -15974,7 +15970,7 @@
 0x0023cb96 Old Lobber
 
 ; 0x0023cbe7 おお！　『しゅうりキット』！
-0x0023cbe7 The Bonsai Kit! Now I can
+0x0023cbe7 Oh! Bonsai Kit! Now I can
 
 ; 0x0023cc04 これで
 0x0023cc04 care
@@ -15986,13 +15982,13 @@
 0x0023cc61 Old Lobber
 
 ; 0x0023cc6e モナムールストーンをぬすんだ
-0x0023cc6e Sorry to say, but I still
+0x0023cc6e I have no idea who stole
 
 ; 0x0023cc8b ハンニンは　今のところ
-0x0023cc8b have no idea who stole
+0x0023cc8b the Mon Amor Stone.
 
 ; 0x0023cca2 まったく　分からんのじゃ
-0x0023cca2 the Mon Amor Stone.
+0x0023cca2 Sorry to say.
 
 ; 0x0023ccce ロブじいさん
 0x0023ccce Old Lobber
@@ -16004,7 +16000,7 @@
 0x0023ccf0 in order to find out
 
 ; 0x0023cd05 ハンニンをつきとめるために
-0x0023cd05 who the culprit is...
+0x0023cd05 who stole it...
 
 ; 0x0023cd33 ロブじいさん
 0x0023cd33 Old Lobber
@@ -16016,7 +16012,7 @@
 0x0023cd5b other cities and
 
 ; 0x0023cd6e きいてみるのじゃ
-0x0023cd6e talk to everyone.
+0x0023cd6e talk to them.
 
 ; 0x0023cd92 ロブじいさん
 0x0023cd92 Old Lobber
@@ -16043,7 +16039,7 @@
 0x0023ce1d Stuff you can pause in
 
 ; 0x0023ce46 グッズがめん
-0x0023ce46 stage and...
+0x0023ce46 stage...
 
 ; 0x0023ce6e ロブじいさん
 0x0023ce6e Old Lobber
@@ -19172,553 +19168,553 @@
 0x00245269 Lovely
 
 ; 0x00245272 いっやあああん
-0x00245272 Nooooo!
+0x00245272 Oh~~~!
 
 ; 0x00245291 みんな　よく来てくれたわぁあん
-0x00245291 Good to see you all.
+0x00245291 Im glad youre here! Would
 
 ; 0x002452b0 たすけてほしいのおん
-0x002452b0 I want your help.
+0x002452b0 you do me a favor?
 
 ; 0x002452d8 ラブリー
 0x002452d8 Lovely
 
 ; 0x002452e1 みんなで　アミー王国にりょこうに
-0x002452e1 Let´s all go to the Kingdom of Amy.
+0x002452e1 We came here to vacation, that
 
 ; 0x00245302 来たんだけど…　たいへんなことに
-0x00245302 I´m here, but... it´s really bad.
+0x00245302 is, until something dreadful
 
 ; 0x00245323 なっちゃったのぉん
-0x00245323 It´s become...
+0x00245323 happened...
 
 ; 0x00245349 スタピー
-0x00245349 Stapy
+0x00245349 Starly
 
 ; 0x00245352 どないしたん　ラブリーに
-0x00245352 What´s up with Lovely?
+0x00245352 What`s the matter,
 
 ; 0x0024536b サブァコのねーちゃん　…あれ？
-0x0024536b Sabako-neechan... Huh?
+0x0024536b Lovely? Savako? Huh?
 
 ; 0x0024538a そっちの人はダレや？
-0x0024538a Who´s that guy?
+0x0024538a Who`s that guy?
 
 ; 0x002453b2 マニアンコウ
-0x002453b2 Mania kou
+0x002453b2 Maniangler
 
 ; 0x002453bf ボクは　
 0x002453bf I´m
 
 ; 0x002453cd マニアンコウ
-0x002453cd Mania kou
+0x002453cd Maniangler
 
 ; 0x002453e2 シュミは　アニメかんしょうと
-0x002453e2 Shumi is an anime.
+0x002453e2 Anime nut and idol
 
 ; 0x002453ff アイドルのおっかけだピョン
-0x002453ff It´s an idol trick.
+0x002453ff fan-pyon!
 
 ; 0x0024543b キョロスケ
 0x0024543b Moe
 
 ; 0x00245446 そんなことより　ラブリー　オメェ
-0x00245446 Never mind that, lovey.
+0x00245446 That`s great and all, but
 
 ; 0x00245467 こまってたんじゃねーのかよ？
-0x00245467 Weren´t you scared?
+0x00245467 didn`t something terrible
 
 ; 0x00245484 あそんでるだけじゃ…
-0x00245484 Just playing around...
+0x00245484 happen?
 
 ; 0x002454ac ラブリー
 0x002454ac Lovely
 
 ; 0x002454b5 マニアンコウが　
-0x002454b5 Maniamkou
+0x002454b5 Maniangler
 
 ; 0x002454cb マージャンパイ
-0x002454cb Marjanpai
+0x002454cb lost Mahjong
 
 ; 0x002454e2 なくして　こまってるのよおん
-0x002454e2 It´s hard to lose it.
+0x002454e2 tiles, and I want you
 
 ; 0x002454ff さがして来てぇん
-0x002454ff Come find me.
+0x002454ff to find them.
 
 ; 0x00245531 キョロスケ
 0x00245531 Moe
 
 ; 0x0024553c そんなことのために
-0x0024553c Because of that.
+0x0024553c You made us come
 
 ; 0x0024554f よんだのかよ！！！
-0x0024554f You read it?!
+0x0024554f here for that!?
 
 ; 0x00245562 オメェが　さがせよ！
-0x00245562 You look for it!
+0x00245562 You find `em!
 
 ; 0x00245591 スタピー
-0x00245591 Stapy
+0x00245591 Starly
 
 ; 0x0024559a マージャンパイ？
-0x0024559a Marjan pie?
+0x0024559a Mahjong tiles?
 
 ; 0x002455ab ……ってなんや？
-0x002455ab ...Wait, what?
+0x002455ab ...What`s that?
 
 ; 0x002455f2 サブァコ
-0x002455f2 Sabako
+0x002455f2 Savako
 
 ; 0x002455fb こーゆーヤツのことー
-0x002455fb This guy...
+0x002455fb They look like
 
 ; 0x00245610 トランプでいうカードってヤツー？
-0x00245610 Is this what cards are called?
+0x00245610 this. Kind of like playing
 
 ; 0x00245631 これを　そろえるアソビなのー
-0x00245631 It´s a piece of asobi.
+0x00245631 cards, I guess?
 
 ; 0x00245676 マニアンコウ
-0x00245676 Mania kou
+0x00245676 Maniangler
 
 ; 0x00245683 たのむピョン！
-0x00245683 Please, pyon!
+0x00245683 Please-pyon!
 
 ; 0x00245692 このままじゃ　ボク
 0x00245692 At this rate...
 
 ; 0x002456a5 まけちゃうんだピョン！
-0x002456a5 I´m losing it, pyon!
+0x002456a5 I`m gonna lose!
 
 ; 0x002456cf サブァコ
-0x002456cf Sabako
+0x002456cf Savako
 
 ; 0x002456d8 まけたヤツがー
-0x002456d8 The loser.
+0x002456d8 The loser
 
 ; 0x002456ec 『ラブリーのおみせ
-0x002456ec Lovely show
+0x002456ec has to run the
 
 ; 0x002456ff アミー王国してん』
-0x002456ff [It´s the Kingdom of Ami.]
+0x002456ff Amiy branch of
 
 ; 0x00245717 の　みせばんを　
-0x00245717 No Mihan.
+0x00245717 Lovely`s
 
 ; 0x00245728 しないといけないワケー
-0x00245728 I have to do it.
+0x00245728 shop.
 
 ; 0x00245752 マニアンコウ
-0x00245752 Mania kou
+0x00245752 Maniangler
 
 ; 0x0024575f たすけてくれないと
-0x0024575f I need your help.
+0x0024575f If you dont help,
 
 ; 0x00245772 ホームページに　キミたちの
-0x00245772 On your homepage.
+0x00245772 I`ll post bad things on
 
 ; 0x0024578d ワルクチを　かきこむピョン
-0x0024578d A pyon that digs into a warcuchi.
+0x0024578d my blog about you-pyon.
 
 ; 0x002457d0 スタピー
-0x002457d0 Stapy
+0x002457d0 Starly
 
 ; 0x002457d9 せ　せいかくワルっ！！！
-0x002457d9 I-I´m sorry!!!
+0x002457d9 Y-You`re awful! How
 
 ; 0x002457f2 なんちゅう　インシツな
-0x002457f2 How indecent.
+0x002457f2 crooked could
 
 ; 0x00245809 ヤツなんや！
-0x00245809 It´s him!
+0x00245809 you be!
 
 ; 0x00245837 ラブリー
 0x00245837 Lovely
 
 ; 0x00245840 ねえん　さがして来てぇん
-0x00245840 Come find me.
+0x00245840 Ill give some treasure
 
 ; 0x00245859 おれいに　たからもの
-0x00245859 Here´s a gift for you.
+0x00245859 if you find them.
 
 ; 0x0024588e チャ
-0x0024588e Cha
+0x0024588e ㅤ
 
 ; 0x002458b0 から
-0x002458b0 So
+0x002458b0 ㅤ
 
 ; 0x002458c8 キョロスケ
 0x002458c8 Moe
 
 ; 0x002458d3 おたから！？　…しゃあねえな
-0x002458d3 Otakara!? ...Oh well.
+0x002458d3 Treasure!? *sigh* Fine,
 
 ; 0x002458f0 それで　どのマージャンパイが
-0x002458f0 So which majesty pie?
+0x002458f0 we`ll do it. Which ones ya
 
 ; 0x0024590d ねえんだよ
-0x0024590d I don´t have one.
+0x0024590d missin`?
 
 ; 0x00245932 マニアンコウ
-0x00245932 Mania kou
+0x00245932 Maniangler
 
 ; 0x0024593f この３つだピョン
-0x0024593f These three, pyon.
+0x0024593f 3 tiles-pyon.
 
 ; 0x00245978 スタピー
-0x00245978 Stapy
+0x00245978 Starly
 
 ; 0x00245981 『？』のトコが
-0x00245981  " ? "
+0x00245981  You lost
 
 ; 0x00245990 なくしてもうたヤツやな
-0x00245990 You lost it already.
+0x00245990 the ones with a ?
 
 ; 0x002459ba サブァコ
-0x002459ba Sabako
+0x002459ba Savako
 
 ; 0x002459c3 マルのかずがーすうじのかわりでー
-0x002459c3 Maru no Kazugaaaaaasuji no sukete
+0x002459c3 There`s many rules based on
 
 ; 0x002459e4 いろいろルールは
-0x002459e4 So many rules
+0x002459e4 the amount
 
 ; 0x002459f5 あるんだけどー
-0x002459f5 I have one.
+0x002459f5 of circles.
 
 ; 0x00245a17 サブァコ
-0x00245a17 Sabako
+0x00245a17 Savako
 
 ; 0x00245a20 このばあいだとー　
-0x00245a20 This bastard.
+0x00245a20 All
 
 ; 0x00245a38 １から９まで
-0x00245a38 From 1 to 9
+0x00245a38 you need is
 
 ; 0x00245a45 そろえれば　いい
-0x00245a45 All right, let´s get this together.
+0x00245a45 from 1 to 9
 
 ; 0x00245a5b ワケー
-0x00245a5b Waké
+0x00245a5b and
 
 ; 0x00245a62 マニアンコウのなくしたのはー
-0x00245a62 Maniamkou´s lost
+0x00245a62 you win.
 
 ; 0x00245a92 サブァコ
-0x00245a92 Sabako
+0x00245a92 Savako
 
 ; 0x00245a9b １と３のあいだとー　４と６の
-0x00245a9b Between one and three, four and six.
+0x00245a9b Tiles from sets 1-3,
 
 ; 0x00245ab8 あいだとー　７と９のあいだ
-0x00245ab8 Between 7 and 9.
+0x00245ab8 4-6, and 7-9 were
 
 ; 0x00245ad3 だからー
-0x00245ad3 So--
+0x00245ad3 lost.
 
 ; 0x00245aef ラブリー
 0x00245aef Lovely
 
 ; 0x00245af8 ねぇん　お・ね・が・い！
-0x00245af8 Hey, hey, hey!
+0x00245af8 Won`t you help me?
 
 ; 0x00245b17 『マージャンパイ』
-0x00245b17 “Majan pie.”
+0x00245b17 Please find our
 
 ; 0x00245b2f を　
-0x00245b2f O.
+0x00245b2f 3
 
 ; 0x00245b39 ３つ
-0x00245b39 Three.
+0x00245b39 ㅤ
 
 ; 0x00245b44 さがして来てぇん
-0x00245b44 Come find me.
+0x00245b44 missing tiles.
 
 ; 0x00245b7d キョロスケ
 0x00245b7d Moe
 
 ; 0x00245b88 しょーがねー　おたからのためだ
-0x00245b88 Oh well. It´s for otaku.
+0x00245b88 Oh well, it`s for treasure.
 
 ; 0x00245ba7 とっとと　さがしに…
-0x00245ba7 Let´s go find him.
+0x00245ba7 Let`s go find em.
 
 ; 0x00245bdd キョロスケ
 0x00245bdd Moe
 
 ; 0x00245be8 って
-0x00245be8 Wait.
+0x00245be8 YO!
 
 ; 0x00245bed おい！　ねてんじゃねーよ！
-0x00245bed Hey! Don´t sleep!
+0x00245bed Starf! Stop nappin`!
 
 ; 0x00245c29 スタピー
-0x00245c29 Stapy
+0x00245c29 Starly
 
 ; 0x00245c32 あーあ　はなし長いから
-0x00245c32 Aww, it´s so long.
+0x00245c32 Thats Big Bro for ya.
 
 ; 0x00245c49 にいちゃん　タイクツして
-0x00245c49 Nii-chan, get tight.
+0x00245c49 Talked so long he fell
 
 ; 0x00245c62 ねてもうたわ
-0x00245c62 Nete, I´m done.
+0x00245c62 asleep.
 
 ; 0x00245c9e スタピー
-0x00245c9e Stapy
+0x00245c9e Starly
 
 ; 0x00245ca7 しゃあないなー　ここはこの
-0x00245ca7 I guess it can´t be helped.
+0x00245ca7 Looks like it`s my time
 
 ; 0x00245cc2 スタピーちゃんのでばんやね！
-0x00245cc2 It´s Stapy´s night!
+0x00245cc2 to shine! I`ll bring
 
 ; 0x00245cdf ちゃっちゃとすませてくるわー
-0x00245cdf I´ll get this over with.
+0x00245cdf those tiles back!
 
 ; 0x00245d16 マニアンコウ
-0x00245d16 Mania kou
+0x00245d16 Maniangler
 
 ; 0x00245d23 このへんには
-0x00245d23 There´s something here
+0x00245d23 There are
 
 ; 0x00245d30 マージャンパイに　よくにた
-0x00245d30 Marjan pie.
+0x00245d30 things called
 
 ; 0x00245d51 『ジャンパイモドキ』
-0x00245d51 “Jampai Modoki.”
+0x00245d51 Nahjong tiles.
 
 ; 0x00245d6b って
-0x00245d6b Wait.
+0x00245d6b ㅤ
 
 ; 0x00245d83 マニアンコウ
-0x00245d83 Mania kou
+0x00245d83 Maniangler
 
 ; 0x00245d90 らんぼうな　ヤツがいるから
-0x00245d90 Don´t play dumb. I have him.
+0x00245d90 They may look like Mahjong
 
 ; 0x00245dab 気をつけるピョンよ
-0x00245dab Be careful, pyon.
+0x00245dab tiles, but be
 
 ; 0x00245dbe マージャンパイそっくりな
-0x00245dbe Looks just like Marjan pie.
+0x00245dbe careful. If you arent...
 
 ; 0x00245dea マニアンコウ
-0x00245dea Mania kou
+0x00245dea Maniangler
 
 ; 0x00245df7 すがただけど　近づくと
-0x00245df7 But when I get close,
+0x00245df7 They will sting you
 
 ; 0x00245e0e チクっとするピョン
-0x00245e0e Pyun stings
+0x00245e0e if you get too
 
 ; 0x00245e21 それじゃ　がんばるピョンよ！
-0x00245e21 Okay, I´ll do my best, Pyon!
+0x00245e21 close-pyon! Good luck!
 
 ; 0x00245f2e マニアンコウ
-0x00245f2e Mania kou
+0x00245f2e Maniangler
 
 ; 0x00245f3b なくしちゃった
-0x00245f3b I lost it
+0x00245f3b I lost my
 
 ; 0x00245f50 『マージャンパイ』
-0x00245f50 “Majan pie.”
+0x00245f50 Mahjong tiles!
 
 ; 0x00245f6b さがしてほしいピョン
-0x00245f6b I want you to find me, pyon.
+0x00245f6b Please find them!
 
 ; 0x00245f93 マニアンコウ
-0x00245f93 Mania kou
+0x00245f93 Maniangler
 
 ; 0x00245fa0 なくしたのは　この
-0x00245fa0 I lost this.
+0x00245fa0 It`s 3 tiles
 
 ; 0x00245fb9 ３つ
-0x00245fb9 Three.
+0x00245fb9 I
 
 ; 0x00245fc3 だピョン
-0x00245fc3 Dapyon
+0x00245fc3 lost!
 
 ; 0x00245ff4 キョロスケ
 0x00245ff4 Moe
 
 ; 0x00245fff えーっと　なくしたヤツは
-0x00245fff Let´s see, whoever lost it
+0x00245fff Lets see. The 2, 5,
 
 ; 0x00246018 ２と　５と　８か…
-0x00246018 Two, five, eight.
+0x00246018 and 8 dot tiles
 
 ; 0x0024602b かいてあるマルのかずが
-0x0024602b It´s scratched.
+0x0024602b were lost.
 
 ; 0x00246055 キョロスケ
 0x00246055 Moe
 
 ; 0x00246060 すうじの　かわりみてえだな
-0x00246060 Looks like it´s Suji´s turn.
+0x00246060 Pick them based on the
 
 ; 0x0024607b ちゃっちゃと　さがせよな
-0x0024607b Look for it.
+0x0024607b numbers. Do that
 
 ; 0x00246094 おたからが　まってるぞ！
-0x00246094 You´re waiting for me!
+0x00246094 and you`ll find `em.
 
 ; 0x002461da スタピー
-0x002461da Stapy
+0x002461da Starly
 
 ; 0x002461e3 ほら　とって来たったで！
-0x002461e3 Here, take it!
+0x002461e3 Got `em all! Finish
 
 ; 0x002461fc コレでええんやろ？
-0x002461fc Isn´t this fine?
+0x002461fc your game now!
 
 ; 0x00246237 マニアンコウ
-0x00246237 Mania kou
+0x00246237 Maniangler
 
 ; 0x00246244 ああっ！　ありがとうだピョン
-0x00246244 Aaah! Thanks, pyon.
+0x00246244 Indeed we can! Thanks to
 
 ; 0x00246261 これで　１００パーセント
-0x00246261 That´s 100%.
+0x00246261 you, my victory is
 
 ; 0x0024627a ボクの　かちだピョン！
-0x0024627a My click, pyon!
+0x0024627a guaranteed-pyon!
 
 ; 0x002462b2 マニアンコウ
-0x002462b2 Mania kou
+0x002462b2 Maniangler
 
 ; 0x002462bf ふっふっふピョン　これで
-0x002462bf Heh-heh-heh-heh-heh-heh
+0x002462bf Heh heh... Conditions
 
 ; 0x002462d8 そろったピョン！
-0x002462d8 All set, pyon!
+0x002462d8 met-pyon!
 
 ; 0x002462e9 リーチだピョン！
-0x002462e9 Reach, pyon!
+0x002462e9 Riichi-pyon!
 
 ; 0x0024630d サブァコ
-0x0024630d Sabako
+0x0024630d Savako
 
 ; 0x00246316 あー　それ　ロンーー
-0x00246316 Oh, that´s Ron.
+0x00246316 Ron. Suttan.
 
 ; 0x0024632b えーと　スッタン　ツーイーソー
-0x0024632b Let´s see. Sttan Two-Eeso.
+0x0024632b Tsu-i-so. And then Daisu-
 
 ; 0x0024634a ダイスーシー
-0x0024634a Dicey
+0x0024634a shi.
 
 ; 0x00246394 スタピー
-0x00246394 Stapy
+0x00246394 Starly
 
 ; 0x0024639d な　なんや？　サブァコの
-0x0024639d Wh-What? Sabako´s?
+0x0024639d U-um... Did Savako win?
 
 ; 0x002463b6 ねーちゃんが　かったん？
-0x002463b6 Sis was here?
+0x002463b6 Does that mean
 
 ; 0x002463cf あいつ　まけてもうたんか？
-0x002463cf Did he give up?
+0x002463cf the angler guy lost?
 
 ; 0x002463fd キョロスケ
 0x002463fd Moe
 
 ; 0x00246408 みたいだな
-0x00246408 Seems so.
+0x00246408 Looks like
 
 ; 0x00246413 つーか　エグいアガリだ…
-0x00246413 That´s some nasty agari...
+0x00246413 he lost badly.
 
 ; 0x0024643f ラブリー
 0x0024643f Lovely
 
 ; 0x00246448 ほーっほっほ　さあさあ！
-0x00246448 Hoo-hoo-hoo! Come on!
+0x00246448 It means shop duty,
 
 ; 0x00246461 アンタ　さっさとみせばんしなさい！
-0x00246461 Hurry up and take a look!
+0x00246461 darling! Attend to it
 
 ; 0x00246484 ナマケたら　おしおきよん
-0x00246484 I´ll punish you if you do.
+0x00246484 now, no slacking?
 
 ; 0x002464b0 マニアンコウ
-0x002464b0 Mania kou
+0x002464b0 Maniangler
 
 ; 0x002464bd ひ　ひどいピョン！　イカサマだ
-0x002464bd You´re such a cheat!
+0x002464bd Th-this can`t be-pyon!
 
 ; 0x002464dc ピョン！！　うったえてやるピョン
-0x002464dc Byon!! I´ll take you home, byon.
+0x002464dc You cheated-pyon!
 
 ; 0x002464fd ピョンピョンピョン！！！
-0x002464fd Pew pew pew!!!
+0x002464fd I`m suing-pyon!
 
 ; 0x00246537 ラブリー
 0x00246537 Lovely
 
 ; 0x00246540 スタピーちゃん　ごくろうさまあん
-0x00246540 Stuppy, thank you so much.
+0x00246540 Thank you for your help,
 
 ; 0x00246561 おれいに　これあげちゃうわん
-0x00246561 I´ll give you this as a thank you.
+0x00246561 sweetie. You deserve this.
 
 ; 0x002465ad ラブリー
 0x002465ad Lovely
 
 ; 0x002465b6 それに　みせばんもきまったことだし
-0x002465b6 Besides, I´ve heard about it.
+0x002465b6 We`re opening soon with a new
 
 ; 0x002465d9 もうすぐ　おみせがオープンするわん
-0x002465d9 The show´s about to open.
+0x002465d9 manager in charge! Swing by,
 
 ; 0x002465fc よってってねえん
-0x002465fc I don´t know.
+0x002465fc my lovelies!
 
 ; 0x0024669e マテル
-0x0024669e Mater
+0x0024669e Matel
 
 ; 0x002466a5 あ　みなさん
-0x002466a5 Oh, everyone.
+0x002466a5 Hi! This
 
 ; 0x002466b2 ここは『はじまりの木』シティ
-0x002466b2 This is the Tree of Origin City.
+0x002466b2 City is known as the Tree
 
 ; 0x002466cf っていうんです
-0x002466cf That´s what he said.
+0x002466cf of Origin.
 
 ; 0x002466f1 マテル
-0x002466f1 Mater
+0x002466f1 Matel
 
 ; 0x002466f8 大きな　アミイヨシノさまが
-0x002466f8 The big Lady Amiiyoshino
+0x002466f8 The Great Amiy Yoshino
 
 ; 0x00246713 いらっしゃって　かんこうめいしょ
-0x00246713 Welcome, welcome.
+0x00246713 is a very popular tourist
 
 ; 0x00246734 なんですよ
-0x00246734 That´s how it is.
+0x00246734 area.
 
 ; 0x00246752 マテル
-0x00246752 Mater
+0x00246752 Matel
 
 ; 0x00246759 でも　モナムールストーンが
-0x00246759 But the Monamur Stone.
+0x00246759 Since the Mon Amor Stone
 
 ; 0x00246774 うしなわれた　えいきょうで
-0x00246774 I´ve been taken aback.
+0x00246774 was stolen, more bad guys
 
 ; 0x0024678f ワルモノが　ふえはじめてます
-0x0024678f Bad things are starting to grow.
+0x0024678f have begun to appear.
 
 ; 0x002467bf マテル
-0x002467bf Mater
+0x002467bf Matel
 
 ; 0x002467c6 くれぐれも
-0x002467c6 Take care.
+0x002467c6 Be safe
 
 ; 0x002467d1 ちゅういしてくださいね！
-0x002467d1 Please kiss me!
+0x002467d1 the three of you!
 
 ; 0x002468a6 スタピー
 0x002468a6 Stapy
@@ -40983,7 +40979,7 @@
 0x00366d15 Yarikaze no Hapi
 
 ; 0x00366d2a ラブリーのメイク
-0x00366d2a Lovely makeup
+0x00366d2a Lovelys Make-Up
 
 ; 0x00366d3b シェフのふく
 0x00366d3b Chef Fuku
@@ -46020,7 +46016,7 @@
 0x0080ee1b Moe
 
 ; 0x0080ee26 ん？　でんせつのスタフィー
-0x0080ee26 Hm? Legendary Starfy
+0x0080ee26 Hm? Densetsu Stuffy
 
 ; 0x0080ee41 を知ってるかって？？
 0x0080ee41 Do you know??
@@ -47574,7 +47570,7 @@
 0x0081227c Hm? What´s with the small letters?
 
 ; 0x00812295 でんせつの　スタフィー
-0x00812295 Legendary Starfy
+0x00812295 Densetsu Stuffy
 
 ; 0x008122ac さんじょう！？！？
 0x008122ac Sanjo?!
@@ -47595,7 +47591,7 @@
 0x00812345 Moe
 
 ; 0x00812350 でんせつのスタフィー４
-0x00812350 Legendary Starfy 4
+0x00812350 Densetsu Stuffy 4
 
 ; 0x00812367 しんじつの　あいを
 0x00812367 Shinjitsu no Ai
@@ -49135,76 +49131,76 @@
 0x00826023 Lovely
 
 ; 0x00826031 たちが　
-0x00826031 We´re...
+0x00826031 lost
 
 ; 0x0082603f マージャンパイ
-0x0082603f Marjanpai
+0x0082603f Mahjong
 
 ; 0x0082605c さがしてるみたいよ
-0x0082605c Looks like he´s looking for it.
+0x0082605c tiles. Find them
 
 ; 0x0082606f せいかいのものを　
-0x0082606f I´ll give you something.
+0x0082606f for treasure!
 
 ; 0x00826087 ３つ
-0x00826087 Three.
+0x00826087 ㅤ
 
 ; 0x00826091 あつめてね
-0x00826091 Gather up.
+0x00826091 ㅤ
 
 ; 0x0082609c せいかいの　
-0x0082609c Seikai no
+0x0082609c There are
 
 ; 0x008260ae マージャンパイ
-0x008260ae Marjanpai
+0x008260ae 2 Mahjong
 
 ; 0x008260c5 あと
-0x008260c5 Also
+0x008260c5 ㅤ
 
 ; 0x008260cf ２つ
-0x008260cf Two.
+0x008260cf ㅤ
 
 ; 0x008260d9 さがしましょう
-0x008260d9 Let´s find him.
+0x008260d9 tiles left!
 
 ; 0x008260e8 がんばってね！
 0x008260e8 Good luck!
 
 ; 0x008260f7 せいかいの　
-0x008260f7 Seikai no
+0x008260f7 There are
 
 ; 0x00826109 マージャンパイ
-0x00826109 Marjanpai
+0x00826109 1 Mahjong
 
 ; 0x00826120 あと
-0x00826120 Also
+0x00826120 ㅤ
 
 ; 0x0082612a １つ
-0x0082612a One.
+0x0082612a ㅤ
 
 ; 0x00826134 さがしましょう
-0x00826134 Let´s find him.
+0x00826134 tiles left!
 
 ; 0x00826143 もう少しだから　ケガなんか
-0x00826143 I´m almost there. I´m not hurt.
+0x00826143 Good luck!
 
 ; 0x0082615e しないでね
-0x0082615e Don´t do it.
+0x0082615e ㅤ
 
 ; 0x00826169 シティにかえって　
-0x00826169 Back to the city.
+0x00826169 Go back and give
 
 ; 0x00826181 ラブリー
 0x00826181 Lovely
 
 ; 0x0082618f たちに
-0x0082618f To us
+0x0082618f the
 
 ; 0x0082619c マージャンパイ
-0x0082619c Marjanpai
+0x0082619c Mahjong tile!
 
 ; 0x008261b3 わたしてあげてね！
-0x008261b3 Give him some!
+0x008261b3 Give them back!
 
 ; 0x008261cc ケルキー
 0x008261cc Kerky
@@ -50203,40 +50199,40 @@
 0x008280ae I know what it is.
 
 ; 0x008280cb マージャンパイ１
-0x008280cb Marjanpai 1
+0x008280cb Mahjong Tile 1
 
 ; 0x008280dc つうしょう『リャンピン』という
-0x008280dc It´s called a ryanpin.
+0x008280dc This tile is known as
 
 ; 0x008280fb なまえなのじゃ　『リャン』は『２』
-0x008280fb “Ryan” is “2”
+0x008280fb the Ryan-pin, with ryan
 
 ; 0x0082811e という　いみなのじゃ
-0x0082811e That´s how it is.
+0x0082811e meaning two.
 
 ; 0x00828133 マージャンパイ２
-0x00828133 Marjan Pi2
+0x00828133 Mahjong Tile 2
 
 ; 0x00828144 『ウーピン』と　よばれている
-0x00828144 It´s called the Wupin.
+0x00828144 This tile is known as
 
 ; 0x00828161 マージャンパイなのじゃ
-0x00828161 Marjan pie.
+0x00828161 the Wu-Pin. I like
 
 ; 0x00828178 わしは　あかいのがスキなのじゃ　
-0x00828178 I like red.
+0x00828178 the red design.
 
 ; 0x00828199 マージャンパイ３
-0x00828199 Marjanpai 3
+0x00828199 Mahjong Tile 3
 
 ; 0x008281aa 『パーピン』という　マージャンパイ
-0x008281aa  is called "Papin "
+0x008281aa This tile is known as
 
 ; 0x008281cd なのじゃ　しけんに出るのじゃ
-0x008281cd What are you going to do?
+0x008281cd Paa-pin. I am quite
 
 ; 0x008281ea おぼえておくのじゃ
-0x008281ea Keep in mind.
+0x008281ea fond of it.
 
 ; 0x008281fd キョロスケおとうと
 0x008281fd Moe Dad
