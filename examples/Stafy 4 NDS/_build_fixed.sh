@@ -13,6 +13,7 @@ replace_cell_gfx() {
 # alt.: with dsrom https://github.com/AetiasHax/ds-rom
 #[ ! -d "Densetsu no Stafy 4 (Japan)" ] && dsrom extract --rom "$INPUT_ROM" --path "Densetsu no Stafy 4 (Japan)"
 
+# replace fonts
 cp Font/stafy4_13b2_full_bmp_comb_clean.bin  "Densetsu no Stafy 4 (Japan)/data/Font/stafy4_13b2_full_bmp.bin"
 cp Font/stafy4_13b2_2_bmp_comb_clean.bin  "Densetsu no Stafy 4 (Japan)/data/Font/stafy4_13b2_2_bmp.bin"
 
@@ -50,12 +51,12 @@ cd ..
 # truncate --reference gfx/811B810_lzss_jap.bin gfx/811B810_lzss_eng.bin  # add padding
 sfk partcopy gfx/811B810_lzss_eng.bin 0x0 0x2426 "Densetsu no Stafy 4 (Japan)/overlay/main_0013.bin" 0x11B810  -yes  # patch
 
-# repack with custom font and gfx with NitroPacker https://github.com/haroohie-club/NitroPacker
+# repack with custom font and gfx
 NitroPacker pack -p "Densetsu no Stafy 4 (Japan)/Densetsu no Stafy 4 (English).json" -r "$OUTPUT_ROM"
 # alt.: dsrom build --config "Densetsu no Stafy 4 (Japan)/config.yaml" --rom "$OUTPUT_ROM"
 
 # patch text
-sed "s/'/｀/g; s/-/ー/g"  *_eng.txt > "/tmp/eng.txt"  # ensure supported chars
+sed "s/'/｀/g; s/-/ー/g; s/+/＋/g; s/</＜/g; s/>/＞/g; s/\"/″/g; s/“/″/g; s/”/″/g;" *_eng.txt > /tmp/eng.txt  # ensure supported symbols
 python ../../ezrominject.py *_jap.txt "/tmp/eng.txt" "$OUTPUT_ROM" --ascii-bios-hack
 #NOT WORKING: --ascii-mode
 

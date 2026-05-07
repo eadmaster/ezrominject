@@ -365,7 +365,7 @@
 0x00080a5c Bonsai Kit
 
 ; 0x00080a70 をゲットしたよ
-0x00080a70 I got it lets
+0x00080a70 found! Let's
 
 ; 0x00080a7f シティのロブじいさんのところに
 0x00080a7f take it to Old Lobber in
@@ -377,19 +377,19 @@
 0x00080ac4 Outing Shell
 
 ; 0x00080ade をゲットしたよ
-0x00080ade I got it.
+0x00080ade found! Head
 
 ; 0x00080aed シティにかえって
-0x00080aed To the city!
+0x00080aed back to the City
 
 ; 0x00080afe ヤドカリタにとどけてあげよう
-0x00080afe Let´s get it to Herman.
+0x00080afe and bring it to Herman.
 
 ; 0x00080b34 たからばこ
 0x00080b34 Treasure
 
 ; 0x00080b44 をゲットしたよ
-0x00080b44 I found it!
+0x00080b44 found!
 
 ; 0x00080b53 シティにかえって　マテルに
 0x00080b53 Head back to the City to
@@ -790,86 +790,88 @@
 ; 0x00081ae1 いろへんこうてすと
 ; 0x00081ae1 Irohenkotesuto
 
+;; ERROR MESSAGES (not used?)
+
 ; 0x00081afa いろかわった？
-0x00081afa You´ve changed?
+;0x00081afa Color changed?
 
 ; 0x00081b0f いろもどった？
-0x00081b0f He´s back?
+;0x00081b0f Normal color?
 
 ; 0x000822a5 カードが　ぬけました
-0x000822a5 The card´s out.
+0x000822a5 Card removed
 
 ; 0x000822ba でんげんを　きってください
-0x000822ba Please listen to me.
+0x000822ba Please turn off the power
 
 ; 0x000822d5 しばらくおまちください・・・
-0x000822d5 Please wait a moment.
+0x000822d5 Please wait a moment...
 
 ; 0x000822f2 でんげんを　きらないでください
-0x000822f2 Don´t play dumb.
+0x000822f2 Do not turn off the power
 
 ; 0x00082311 データの　よみこみに
-0x00082311 To the data.
+0x00082311 Data loading
 
 ; 0x00082326 しっぱいしました
-0x00082326 So sour.
+0x00082326 failed
 
 ; 0x00082337 でんげんを　きって
-0x00082337 I don´t know what to do.
+0x00082337 Turn off the power
 
 ; 0x0008234a カードを
-0x0008234a Card.
+0x0008234a and
 
 ; 0x00082353 さしこみなおしてください
-0x00082353 Please be polite.
+0x00082353 reinsert the card.
 
 ; 0x0008236c データがこわれています
-0x0008236c It´s broken.
+0x0008236c Data is corrupted.
 
 ; 0x00082383 いくつかの　
-0x00082383 Some.
+0x00082383 Some data 
 
 ; 0x00082390 データが　きえました
-0x00082390 I´ve got data.
+0x00082390 has been lost.
 
 ; 0x000823a5 Ａボタンをおしてください
-0x000823a5 Please press A.
+0x000823a5 Press the A button.
 
 ; 0x000823be ちゅうだんデータが　こわれています
-0x000823be It´s broken.
+0x000823be Suspend data is corrupted.
 
 ; 0x000823e1 ちゅうだんデータを　さくじょしました
-0x000823e1 I got the data.
+0x000823e1 Suspend data has been deleted.
 
 ; 0x00082406 Ａボタンをおしてください
-0x00082406 Please press A.
+0x00082406 Press the A button.
 
 ; 0x0008241f データの　かきこみに
-0x0008241f To the data.
+0x0008241f Data writing 
 
 ; 0x00082434 しっぱいしました
-0x00082434 So sour.
+0x00082434 failed.
 
 ; 0x00082445 でんげんを　きって
-0x00082445 I don´t know what to do.
+0x00082445 Please turn off 
 
 ; 0x00082458 カードを　さしこみなおしてください
-0x00082458 Please give me a card.
+0x00082458 the power and reinsert the card.
 
 ; 0x0008247b すべてのデータを
-0x0008247b All data.
+0x0008247b All data will
 
 ; 0x0008248c しょうきょします
-0x0008248c I´ll do it.
+0x0008248c be deleted.
 
 ; 0x0008249d しょうきょしたデータは
-0x0008249d That´s the data.
+0x0008249d Deleted data cannot 
 
 ; 0x000824b4 もとにもどりません！
-0x000824b4 It won´t go back to normal!
+0x000824b4 be recovered!
 
 ; 0x000824c9 よろしいですか？
-0x000824c9 May I?
+0x000824c9 Are you sure?
 
 ; 0x000824db 　　　はい　　　いいえ
 0x000824db       Yes      No
@@ -905,25 +907,25 @@
 0x00082ad7 Moe
 
 ; 0x00082ae2 こうしゅうでんわテスト
-0x00082ae2 Test
+0x00082ae2 Pay Phone Test
 
 ; 0x00082af9 キョロアニメもかえよう
-0x00082af9 Let´s go back to the anime.
+0x00082af9 To change Moe animation
 
 ; 0x00082b10 とりあえずボタンまち
-0x00082b10 Anyway, Botanmachi.
+0x00082b10 press a button now.
 
 ; 0x00082b3e キョロスケキョロかわった？
-0x00082b3e You´ve changed?
+0x00082b3e Has Moe changed?
 
 ; 0x00082b59 オトトちゃんとでてる？
-0x00082b59 Are you out with Ototo-chan?
+0x00082b59 Is the sound working?
 
 ; 0x00082b89 キョロスケボタンおしたらしゅうりょう
-0x00082b89 If you press the Moe button
+0x00082b89 Press the Moe button to end.
 
 ; 0x00082bc6 チョロスケ
-0x00082bc6 Choroske
+0x00082bc6 Chorosuke
 
 ; 0x00082bd1 テストバージョン２
 0x00082bd1 Test Version 2
@@ -9419,7 +9421,7 @@
 0x000964ca with the Door Djinn.
 
 ; 0x000964e7 今のオメェにはイミがねえ
-0x000964e7 Its empty right now.
+0x000964e7 It's empty right now.
 
 ; 0x0009650c キョロスケムシして　すすんじまえ
 0x0009650c Moe       You could peek
@@ -14393,13 +14395,13 @@
 0x001a7e24 Hohohoho!!!!」
 
 ; 0x00238f5d １−１　アクションを思い出そう！
-0x00238f5d 1-1 Remember abilities!   
+0x00238f5d 1-1 Remember Abilities!   
 
 ; 0x00238f7e 『しゅうりキット』を
-0x00238f7e Bonsai Kit.
+0x00238f7e Look for the Bonsai
 
 ; 0x00238f93 さがしながら　きほんてきな
-0x00238f93 Look for it and remember
+0x00238f93 Kit and remember your
 
 ; 0x00238fae アクションを思い出そう！
 0x00238fae abilities!
@@ -14970,10 +14972,10 @@
 0x0023a3f8 to skip
 
 ; 0x0023a409 さっさとゲームをはじめてもいいぞ
-0x0023a409 and jump right in. Otherwise
+0x0023a409 and jump right in. 
 
 ; 0x0023a42a それじゃ　せつめいするぞ
-0x0023a42a listen up!
+0x0023a42a Otherwise listen up!
 
 ; 0x0023a456 キョロスケ
 0x0023a456 Moe
@@ -14985,7 +14987,7 @@
 0x0023a46b ´!´
 
 ; 0x0023a477 マークに　ちゅうもくだ
-0x0023a477 If you see this
+0x0023a477 If you see this mark
 
 ; 0x0023a48e だいじなポイントだから
 0x0023a48e it means something
@@ -15021,10 +15023,10 @@
 0x0023a574 ...
 
 ; 0x0023a579 タッチしたり　カーソルをうごかして
-0x0023a579 Touch one or use D-pad and 
+0x0023a579 Touch one or use D-pad and press 
 
 ; 0x0023a59d Aボタンを　押すと
-0x0023a59d  press A
+0x0023a59d  .
 
 
 ; 0x0023a5c2 キョロスケ
@@ -15252,6 +15254,9 @@
 ; 0x0023ace6 タッチしまくれ！！』
 0x0023ace6 to select!
 
+; 0x0023ad00 だ！
+0x0023ad00 ㅤ
+
 ; 0x0023ad18 キョロスケ
 0x0023ad18 Moe
 
@@ -15292,28 +15297,28 @@
 0x0023afac Hum... It`s nice to have
 
 ; 0x0023afce こうやって　ゆっくりぼんさいを
-0x0023afce peace. I can relax and
+0x0023afce peace. I can relax and tend
 
 ; 0x0023afed ていれできるのも
-0x0023afed tend to Bonsai.
+0x0023afed to my bonsai.
 
 ; 0x0023b011 ロブじいさんみんな　スタフィーたちが
 0x0023b011 Old Lobber  All thanks to Starfy
 
 ; 0x0023b036 オーグラやイーブルを
-0x0023b036 defeating Ogura and
+0x0023b036 and the others 
 
 ; 0x0023b04b たおしてくれたおかげじゃな
-0x0023b04b and evil.
+0x0023b04b defeating Ogura and evil.
 
 ; 0x0023b1be ロブじいさんひぎゃああ！
 0x0023b1be Old Lobber  Higyaaa!
 
 ; 0x0023b21b キョロスケいててて……
-0x0023b21b Moe
+0x0023b21b Moe       My shell...
 
 ; 0x0023b232 お！　
-0x0023b232 O!
+0x0023b232 Oh!
 
 ; 0x0023b23e ロブじいさん
 0x0023b23e Old Lobber
@@ -15325,16 +15330,16 @@
 0x0023b280 I have a question
 
 ; 0x0023b299 ききたいことがあるんだ
-0x0023b299  for you.
+0x0023b299 for you.
 
 ; 0x0023b2e6 ロブじいさんぼんさいが！！！
-0x0023b2e6 Old Lobber
+0x0023b2e6 Old Lobber  My...
 
 ; 0x0023b303 ワシの…　ワシのかわいい
-0x0023b303 My bonsai!
+0x0023b303 My bonsai! My adorable
 
 ; 0x0023b31c ぼんさいが…！！！！
-0x0023b31c My cute bonsai!
+0x0023b31c little bonsai!!
 
 ; 0x0023b344 スタピー平和ボケしてるばあいちゃうで！
 0x0023b344 Starly  Something bad happened
@@ -15346,28 +15351,28 @@
 0x0023b38c Don´t you know?
 
 ; 0x0023b3c7 ロブじいさんううう…　ワシのぼんさい…
-0x0023b3c7 Old Lobber    My bonsai...
+0x0023b3c7 Old Lobber  *sob*... My poor little...
 
 ; 0x0023b42e ロブじいさんなるほどのう　モナムールストーンか
-0x0023b42e Old Lobber  I see. The Mon Amor
+0x0023b42e Old Lobber  I see... The Mon Amor Stone,
 
 ; 0x0023b45d アミー王国に　そういうひほうが
-0x0023b45d Stone, hm? I've
+0x0023b45d hm? I've heard some things.
 
 ; 0x0023b47c あることは　きいておったが…
-0x0023b47c heard some things.
+0x0023b47c ㅤ
 
 ; 0x0023b4ac スタピーそうなんや！　じいちゃん
-0x0023b4ac Starly  Really? Do you
+0x0023b4ac Starly  Really? Do you know
 
 ; 0x0023b4cd モナムールストーンを　ぬすみそうな
-0x0023b4cd know who stole it, then
+0x0023b4cd who stole it, then
 
 ; 0x0023b4f0 ヤツ知らへん？
-0x0023b4f0 gramps?
+0x0023b4f0 Gramps!?
 
 ; 0x0023b512 ロブじいさんふむ　ちょっとしらべてみようかのう
-0x0023b512 Old Lobbber I`ll look into it. By the
+0x0023b512 Old Lobber  I`ll look into it. By the
 
 ; 0x0023b541 …ところでスタフィーよ　また
 0x0023b541 way, Starfy, does this mean
@@ -15376,16 +15381,16 @@
 0x0023b55e going on an adventure?
 
 ; 0x0023b58c ロブじいさんアクションは　ちゃんと
-0x0023b58c Old Lobber  Do you remember
+0x0023b58c Old Lobber  Do you still remember
 
 ; 0x0023b5af おぼえておるんじゃろうな？
-0x0023b5af your ablities?
+0x0023b5af your Abilities?
 
 ; 0x0023b615 キョロスケバッ…　バカヤロー！
-0x0023b615 Moe        You
+0x0023b615 Moe        You forgot?
 
 ; 0x0023b634 オメェ　またかよ！？　どんな
-0x0023b634 forgot? Again?
+0x0023b634 Again?
 
 ; 0x0023b651 のうミソだよ！
 0x0023b651 You idiot!
@@ -15397,7 +15402,7 @@
 0x0023b6a2 I'll put up
 
 ; 0x0023b6b6 『カンバン』
-0x0023b6b6 “signs”
+0x0023b6b6 some signs
 
 ; 0x0023b6cb たてておいたから
 0x0023b6cb for you.
@@ -15406,16 +15411,16 @@
 0x0023b6fd Old Lobber
 
 ; 0x0023b70f カンバンのまえで
-0x0023b70f In front of sign
+0x0023b70f Stand in front 
 
 ; 0x0023b721 Hボタンを押してカンバンを見て
-0x0023b721 Push the button and look at
+0x0023b721 of a sign and press the 
 
 ; 0x0023b745 アクションを思い出すんじゃ
-0x0023b745 the sign.
+0x0023b745 button to read it.
 
 ; 0x0023b773 ロブじいさんステージにおかれている
-0x0023b773 Old Lobber  You can         
+0x0023b773 Old Lobber  You can also       
 
 ; 0x0023b79c しんじゅをとると　元気が
 0x0023b79c collect pearls
@@ -15427,25 +15432,25 @@
 0x0023b7c3 you.
 
 ; 0x0023b7dd ロブじいさんそうじゃ　ついでに　ワシの
-0x0023b7dd Old Lobber  You can also
+0x0023b7dd Old Lobber  And while doing that,
 
 ; 0x0023b804 ぼんさいの
-0x0023b804 grab my
+0x0023b804 bring back 
 
 ; 0x0023b814 『しゅうりキット』
-0x0023b814 [Bonsai Kit]
+0x0023b814  my Bonsai Kit.
 
 ; 0x0023b82f とって来てほしいのじゃ
-0x0023b82f I want you to get it.
+0x0023b82f ㅤ
 
 ; 0x0023b859 ロブじいさんどこかのだれかさんが
-0x0023b859 Old Lobber  I need it
+0x0023b859 Old Lobber  I need it after
 
 ; 0x0023b87a ワシのぼんさいを　めちゃくちゃに
-0x0023b87a after messing up my bonsai.
+0x0023b87a some strangers ruined
 
 ; 0x0023b89b してしまったからのう…
-0x0023b89b Poor thing...
+0x0023b89b the poor thing...
 
 ; 0x0023b8c5 スタピーうらみがましいなあ…
 0x0023b8c5 Starly  We`ll get it
@@ -15523,10 +15528,10 @@
 0x0023bb44 go near my shell
 
 ; 0x0023bb56 Hボタン
-0x0023bb56 and
+0x0023bb56 press
 
 ; 0x0023bb63 を押してね
-0x0023bb63 button.
+0x0023bb63 the button.
 
 ; 0x0023bb81 マーメイド
 0x0023bb81 Mermaid
@@ -15547,7 +15552,7 @@
 0x0023bc0b Open the pause menu and select
 
 ; 0x0023bc2c ひらいて『ちゅうだん』
-0x0023bc2c the suspend save
+0x0023bc2c the Suspend save
 
 ; 0x0023bc4b えらんでね
 0x0023bc4b option.
@@ -15589,16 +15594,16 @@
 0x0023bd68 City until you do!
 
 ; 0x0023bde9 ワープじぞう
-0x0023bde9 Warp Jizu
+0x0023bde9 Warp Jizo
 
 ; 0x0023bdf6 わしは
 0x0023bdf6 I´m
 
 ; 0x0023be02 ワープじぞう
-0x0023be02 Warp Jizu.
+0x0023be02 Warp Jizo
 
 ; 0x0023be15 とてもえらい
-0x0023be15 I`m great.
+0x0023be15 the great.
 
 ; 0x0023be3c ワープじぞう王
 0x0023be3c Warp Jizo King
@@ -15610,22 +15615,22 @@
 0x0023be57 Warp Jizo King
 
 ; 0x0023be6c もっとえらい
-0x0023be6c I`m better.
+0x0023be6c  I'm better.
 
 ; 0x0023be93 ワープじぞう
 0x0023be93 Warp Jizo
 
 ; 0x0023bea0 もし　おぬしがステージ中に
-0x0023bea0 If you´re in a stage and
+0x0023bea0 If you see me inside
 
 ; 0x0023bebb わしを見かけたら　
-0x0023bebb if you see me
+0x0023bebb a stage, press
 
 ; 0x0023bece Hボタンで
-0x0023bece Press
+0x0023bece  to talk
 
 ; 0x0023bed8 はなしかけるがよい
-0x0023bed8 to talk to me.
+0x0023bed8 to me.
 
 ; 0x0023befe ワープじぞう
 0x0023befe Warp Jizo
@@ -15637,13 +15642,13 @@
 0x0023bf23 you to the 
 
 ; 0x0023bf34 ところまで　いっしゅんで
-0x0023bf34 Warp King by
+0x0023bf34 Warp King by teleporting.
 
 ; 0x0023bf4d ワープ
 0x0023bf4d ㅤ
 
 ; 0x0023bf59 させて　やろう
-0x0023bf59 teleporting.
+0x0023bf59 ㅤ
 
 ; 0x0023bf7b ワープじぞう王
 0x0023bf7b Warp Jizo King
@@ -15727,7 +15732,7 @@
 0x0023c21d for the
 
 ; 0x0023c22d 『しゅうりキット』
-0x0023c22d [Bonsai Kit]
+0x0023c22d Bonsai Kit
 
 ; 0x0023c248 さがして来たってえな
 0x0023c248 while exploring.
@@ -15830,7 +15835,7 @@
 0x0023c5e3 How do we learn
 
 ; 0x0023c600 どうやって　おぼえるんやろ
-0x0023c600  `em?
+0x0023c600 `em?
 
 ; 0x0023c62e ロブじいさん
 0x0023c62e Old Lobber
@@ -15970,7 +15975,7 @@
 0x0023cb96 Old Lobber
 
 ; 0x0023cbe7 おお！　『しゅうりキット』！
-0x0023cbe7 Oh! Bonsai Kit! Now I can
+0x0023cbe7 The Bonsai Kit! Now I can
 
 ; 0x0023cc04 これで
 0x0023cc04 care
@@ -15982,13 +15987,13 @@
 0x0023cc61 Old Lobber
 
 ; 0x0023cc6e モナムールストーンをぬすんだ
-0x0023cc6e I have no idea who stole
+0x0023cc6e Sorry to say, but I still
 
 ; 0x0023cc8b ハンニンは　今のところ
-0x0023cc8b the Mon Amor Stone.
+0x0023cc8b have no idea who stole
 
 ; 0x0023cca2 まったく　分からんのじゃ
-0x0023cca2 Sorry to say.
+0x0023cca2 the Mon Amor Stone.
 
 ; 0x0023ccce ロブじいさん
 0x0023ccce Old Lobber
@@ -16000,7 +16005,7 @@
 0x0023ccf0 in order to find out
 
 ; 0x0023cd05 ハンニンをつきとめるために
-0x0023cd05 who stole it...
+0x0023cd05 who the culprit is...
 
 ; 0x0023cd33 ロブじいさん
 0x0023cd33 Old Lobber
@@ -16012,7 +16017,7 @@
 0x0023cd5b other cities and
 
 ; 0x0023cd6e きいてみるのじゃ
-0x0023cd6e talk to them.
+0x0023cd6e talk to everyone.
 
 ; 0x0023cd92 ロブじいさん
 0x0023cd92 Old Lobber
@@ -16021,13 +16026,13 @@
 0x0023cd9f By the way, Starfy.
 
 ; 0x0023cdba 『グッズ』
-0x0023cdba “Stuff”
+0x0023cdba "Stuff"
 
 ; 0x0023cdca を　おぼえて
-0x0023cdca Remember?
+0x0023cdca  Do you
 
 ; 0x0023cdd7 おるかね？
-0x0023cdd7 Do you?
+0x0023cdd7 remember?
 
 ; 0x0023cdf5 ロブじいさん
 0x0023cdf5 Old Lobber
@@ -16039,7 +16044,7 @@
 0x0023ce1d Stuff you can pause in
 
 ; 0x0023ce46 グッズがめん
-0x0023ce46 stage...
+0x0023ce46 stage and...
 
 ; 0x0023ce6e ロブじいさん
 0x0023ce6e Old Lobber

@@ -2,7 +2,7 @@
 
 ## Current status  🏗️
 
- - Revised all dialogues up to World 1 and some menus, all the rest is placeholder text.
+ - Revised all dialogues up to Stage 2-1 and some menus, all the rest is placeholder text.
  - Only a few gfx text/buttons are translated.
  - **Only partially tested, there may be crashes!**
 
@@ -26,7 +26,7 @@ In chronological order:
 
  - [SomeUselessTranslations](https://www.youtube.com/@someuselesstranslations8418): Original script translation
  - [Kolbie5874](https://github.com/Kolbie5874/): Script editing and space optimization, playtesting.
- - [eadmaster](https://github.com/eadmaster): Font hack and patching tools.
+ - [eadmaster](https://github.com/eadmaster): Font and gfx hacking. Patching tools.
  - [Garhoogin](https://github.com/Garhoogin): for [NitroPaint](https://github.com/Garhoogin/NitroPaint).
  - [pleonex](https://github.com/pleonex/tinke) and [R-YaTian](https://github.com/R-YaTian) for [TinkeDS](https://github.com/R-YaTian/TinkeDSi).
  
