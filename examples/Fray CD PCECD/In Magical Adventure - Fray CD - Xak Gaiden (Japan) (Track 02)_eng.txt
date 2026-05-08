@@ -42,17 +42,22 @@
 
 ;; MAIN MENU
 ; 0x0015efc5 　　　　ロード
-0x0015efc5         Load
+;0x0015efc5         Load
+0x0015efc5         LOAD
 ; 0x0015efd4 　　　　最初から
-0x0015efd4         New Game
+;0x0015efd4         New Game
+0x0015efd4         NEW GAME
 ; 0x0015f00d 　　ステージの最初から
-0x0015f00d      Retry
+;0x0015f00d      Retry
+0x0015f00d      RETRY
 ; 0x0015f024 　　セーブした場所から
-0x0015f024      Load Game
+;0x0015f024      Load Game
+0x0015f024      LOAD GAME
 ; 0x0015f04e −記録した場所−
-;0x0015f04e − Load Game −
 ;0x0015f050 記録した場所
-0x0015f050     LOAD    
+;0x0015f04e − Load Game −
+;0x0015f050     LOAD    
+0x0015f050  LOAD  GAME 
 
 
 ;; LOCATIONS (used for saves)
@@ -771,7 +776,7 @@
 0x0011b5ea [Young Man]
 
 ; 0x0011b5ff じょ、じょうちゃ
-0x0011b5ff L-lady…
+0x0011b5ff M-miss…
 
 ; 0x0011b610 ん・・・ぐるじ・・・・・
 0x0011b610 Can't... breathe...
@@ -916,7 +921,7 @@
 0x0011ba24 [Fray]
 
 ; 0x0011ba35 あ゛ーーーーーーーー
-0x0011ba35 Ahhhhhhhhhhhhhhhh.
+0x0011ba35 Ahhh...
 
 ; 0x0011ba4c もう見てらんないわ。
 0x0011ba4c I can't look anymore.
@@ -1235,7 +1240,7 @@
 0x0011c490 [Isac]
 
 ; 0x0011c4a3 ま、いいがの。
-0x0011c4a3 Fine, I suppose.
+0x0011c4a3 Fine, I guess.
 
 ; 0x0011c4b4 おまえさんを見ていると、昔のア
 0x0011c4b4 Seeing you reminds me of 
@@ -1288,7 +1293,7 @@
 0x0011c645 You should be   dry now.
 
 ; 0x0011c664 ほれ、はやく村長に薬をとどけて
-0x0011c664 Now, quickly deliver the 
+0x0011c664 Now hurry up and deliver the 
 
 ; 0x0011c683 やらんか。
 0x0011c683 potion.
@@ -1462,7 +1467,7 @@
 0x0011cb9c The truth is… a bit
 
 ; 0x0011cbb3 じかなのですが・・・。
-0x0011cbb3 complicated… (story)
+0x0011cbb3 complicated…(story)
 
 ; 0x0011cbd0 ［フレイ］
 0x0011cbd0 [Fray]
@@ -1518,9 +1523,11 @@
 0x0011cd3b [Fray]
 
 ; 0x0011cd4a あのー、ふと思ったん
+;0x0011cd4a Um, I just had a 
 0x0011cd4a Um, wait a
 
 ; 0x0011cd5f ですけどもー・・・
+;0x0011cd5f thought...
 0x0011cd5f second...
 
 ; 0x0011cd78 ［フレイ］
@@ -1592,7 +1599,7 @@
 0x0011cfc6 [Isac]
 
 ; 0x0011cfd9 うむ。ごくろうごくろう。
-0x0011cfd9 Yes. Well done.
+0x0011cfd9 Yes, well      done.
 
 ; 0x0011cff8 ［フレイ］
 0x0011cff8 [Fray]
@@ -1631,10 +1638,10 @@
 0x0011d0d3 He’ll be fine  now.
 
 ; 0x0011d0ec しばらくは安静にしておかねばな
-0x0011d0ec He must rest for a 
+0x0011d0ec He must rest for a while.
 
 ; 0x0011d10b らんがの。
-0x0011d10b while.
+0x0011d10b ...
 
 ; 0x0011d11c ［フレイ］
 0x0011d11c [Fray]
@@ -1646,7 +1653,7 @@
 0x0011d146 [Mayor]
 
 ; 0x0011d153 お待ちください。
-0x0011d153 Please wait.
+0x0011d153 Please wait!
 
 ; 0x0011d16a ［村長］
 0x0011d16a [Mayor]
@@ -1655,10 +1662,10 @@
 0x0011d177 Thank you again so
 
 ; 0x0011d18e ました。
-0x0011d18e much.
+0x0011d18e much!
 
 ; 0x0011d199 すこしですが、どうぞお受け取りください。
-0x0011d199 Please accept this small token.
+0x0011d199 Please accept this small      token.
 
 ; 0x0011d1c8 ［フレイ］
 0x0011d1c8 [Fray]
@@ -1697,7 +1704,7 @@
 0x0011d2ae [Fray]
 
 ; 0x0011d2bd 実は、かくかくしかじかというワケで・・・。
-0x0011d2bd Well, you see... (story)
+0x0011d2bd Well, you see...     (story)
 
 ; 0x0011d2ee ［アイザック］
 0x0011d2ee [Isac]
@@ -1709,7 +1716,7 @@
 0x0011d30e flying castle Ku-Or?!
 
 ; 0x0011d329 それが本当ならば急いでヴァルア
-0x0011d329 If that's true, we must hurry
+0x0011d329 If that's true we must hurry
 
 ; 0x0011d348 の町に向かわねばならん。
 0x0011d348 to Valuah Town.
@@ -1721,7 +1728,7 @@
 0x0011d37c [Fray]
 
 ; 0x0011d38b もう、どうにでもしてください。
-0x0011d38b Fine, whatever you  want.
+0x0011d38b Fine, whatever you  say.
 
 ; 0x0011d3b0 ［アイザック］
 0x0011d3b0 [Isac]
@@ -2306,7 +2313,7 @@
 0x0011e60d It’s understandable.
 
 ; 0x0011e624 だけ強力な結界をはっていれば
-0x0011e624 With such a powerful barrier
+0x0011e624 With such a powerful barrier,
 
 ; 0x0011e643 ふつうの人には見えるハズないんですよ。
 0x0011e643 ordinary people can't see it.
@@ -2348,10 +2355,10 @@
 0x0011e76b [Miry]
 
 ; 0x0011e77a ホント？
-0x0011e77a Really? So
+0x0011e77a Really? 
 
 ; 0x0011e784 やっぱ、あたしってば天才！
-0x0011e784 I am a genius after all!
+0x0011e784 So I am a genius after all!
 
 ; 0x0011e7a5 ［ミル］
 0x0011e7a5 [Mill]
@@ -2363,13 +2370,14 @@
 0x0011e7c9 such a thing…
 
 ; 0x0011e7d7 ・・まさか！？
-0x0011e7d7 ... No way!?
+;0x0011e7d7 ... No way!?
+0x0011e7d7 ... unless...
 
 ; 0x0011e7ec ［フレイ］
 0x0011e7ec [Fray]
 
 ; 0x0011e7fb まさか、なに？
-0x0011e7fb No way, what?
+0x0011e7fb Unless what?
 
 ; 0x0011e80c ひょっとして、今回の事件と関係
 0x0011e80c Could it be related to this 
@@ -2381,13 +2389,13 @@
 0x0011e846 [Mill]
 
 ; 0x0011e853 そのとおりですよ。
-0x0011e853 Absolutely.
+0x0011e853 Exactly.
 
 ; 0x0011e868 いや、もしかするとこのサーク界
 0x0011e868 This could put the world of 
 
 ; 0x0011e887 の一大事となるかも・・・。
-0x0011e887 Xak in danger…
+0x0011e887 Xak in great danger…
 
 ; 0x0011e8a4 なんとかしてアイツをくいとめないと。
 0x0011e8a4 We have to do something to stop him.
@@ -2402,16 +2410,17 @@
 0x0011e8ed [Miry]
 
 ; 0x0011e8fc あれ、おじいちゃんの声？
-0x0011e8fc Huh? Grampa's voice?
+;0x0011e8fc Huh? Grampa's voice?
+0x0011e8fc Was that Grandpa?
 
 ; 0x0011e91b ［フレイ］
 0x0011e91b [Fray]
 
 ; 0x0011e92a いっけなぁ〜い、その
-0x0011e92a  Oops, I totally  
+0x0011e92a Oops, I completely  
 
 ; 0x0011e93f コトすっかり忘れてた。
-0x0011e93f forgot about him.
+0x0011e93f forgot about that!
 
 ; 0x0011e95c ［ミル］
 0x0011e95c [Mill]
@@ -2439,10 +2448,10 @@
 
 ; 0x0011ea10 私はなんとか空中城へ行く方法を
 ;0x0011ea10 I'll figure out a way to reach
-0x0011ea10 I'll figure out a way to go 
+0x0011ea10 I'll find a way to the flying
 
 ; 0x0011ea2f 考えてみます。
-0x0011ea2f to the castle.
+0x0011ea2f castle.
 
 ; 0x0011ea44 ［ミリー］
 0x0011ea44 [Miry]
@@ -2698,10 +2707,10 @@
 0x0011f296 the Barnas Volcano.
 
 ; 0x0011f2ad その奥深くに『神々のツバサ』が
-0x0011f2ad Deep inside, the “Wings of
+0x0011f2ad Deep inside lies the 
 
 ; 0x0011f2cc 眠っておるハズじゃ。
-0x0011f2cc the Gods” rests.
+0x0011f2cc Wings of the Gods.
 
 ; 0x0011f2e7 ［ミル］
 0x0011f2e7 [Mill]
@@ -6065,13 +6074,13 @@
 0x0015c333 It’s best to rest often, just in case something happens.
 
 ; 0x0015c37c お泊まりですね。
-0x0015c37c Staying overnight?
+0x0015c37c Staying over?
 
 ; 0x0015c38d あなたの旅の記録をとっておきましょう。
 0x0015c38d I'll record your journey.
 
 ; 0x0015c3bc はいはい、好きなだけ泊まっていってくだされ。いっひっひ。
-0x0015c3bc Yes, yes, stay as long as you like. Hee hee.
+0x0015c3bc Yes, yes,   stay as long as you like. Hee hee.
 
 ; 0x0015c3fa １００Ｇいただきます。
 0x0015c3fa 100G, please.
@@ -6472,13 +6481,13 @@
 0x0015d1b4 is in   this town.
 
 ; 0x0015d1d5 ｹｸなんと、その薬か。
-0x0015d1d5 Ah, that potion?
+0x0015d1d5 Oh, that potion?
 
 ; 0x0015d1ea さてさて、残っておったかの。
 0x0015d1ea Let’s see if it’s left…
 
 ; 0x0015d207 調べてみんとわからんから、少し時間をくれんか？
-0x0015d207 I need some time to check, ok?
+0x0015d207 I need some time to check,   ok?
 
 ; 0x0015d238 ﾈｸそうですか。
 0x0015d238 I see. 
@@ -6499,13 +6508,13 @@
 0x0015d2d1 H-How much is it?
 
 ; 0x0015d2ea ｹｸかまわんよ。
-0x0015d2ea Don’t worry.
+0x0015d2ea It's fine.
 
 ; 0x0015d2f9 そんなことよりも、誰か病気なんじゃろう。　はやく持って行ってあげなさい。
-0x0015d2f9 Someone is sick. Go and take it to them now.
+0x0015d2f9 Someone is sick. Hurry and   take it to them now.
 
 ; 0x0015d344 ﾈｸあ、ありがとうございます。じゃあ、これで。
-0x0015d344 Ah, thank you. Then, I'll take it.
+0x0015d344 Oh, thank you!    I'll be going now.
 
 ; 0x0015d373 ｹｸ気をつけてな。
 0x0015d373 Take care.
@@ -7086,7 +7095,7 @@
 0x002d9086 But never forget:
 
 ; 0x002d90a2 過ぎた力は滅びをもたらす。
-;0x002d90a2 Power unchecked will only bring destruction.
+;0x002d90a2 Excessive power only invites ruin.
 0x002d90a2 Excess power is ruin.
 
 ; 0x002d90be 人間は、おのれの器を知らなさすぎる。
