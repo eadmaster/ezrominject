@@ -9792,6 +9792,9 @@
 ; 0x000a8334 『シマシマみずぎ』
 0x000a8334 Stripe Swimmer
 
+; 0x000a834c を
+0x000a834c ㅤ
+
 ; 0x000a834f ゲットしたよ！　ポーズがめんで
 0x000a834f Use the Stuff Menu to
 
@@ -9803,6 +9806,9 @@
 
 ; 0x000a83a0 『あの子』
 0x000a83a0 ㅤsomeone
+
+; 0x000a83b0 が
+0x000a83b0 ㅤ
 
 ; 0x000a83b3 こまってるみたい…？
 0x000a83b3 we know needs
@@ -15734,6 +15740,10 @@
 ; 0x0023c22d 『しゅうりキット』
 0x0023c22d Bonsai Kit
 
+; 0x0023c245 を
+0x0023c245 ㅤ
+
+
 ; 0x0023c248 さがして来たってえな
 0x0023c248 while exploring.
 
@@ -15899,6 +15909,9 @@
 ; 0x0023c7ff 『グッズがめん』
 0x0023c7ff Stuff Menu
 
+; 0x0023c815 の
+0x0023c815 ㅤ
+
 ; 0x0023c818 アイコンができたのじゃ
 0x0023c818 icon you can tap.
 
@@ -16023,16 +16036,16 @@
 0x0023cd92 Old Lobber
 
 ; 0x0023cd9f ところで　スタフィー
-0x0023cd9f By the way, Starfy.
+0x0023cd9f By the way... Remember
 
 ; 0x0023cdba 『グッズ』
 0x0023cdba "Stuff"
 
 ; 0x0023cdca を　おぼえて
-0x0023cdca  Do you
+0x0023cdca  ?
 
 ; 0x0023cdd7 おるかね？
-0x0023cdd7 remember?
+0x0023cdd7 Do you?
 
 ; 0x0023cdf5 ロブじいさん
 0x0023cdf5 Old Lobber
@@ -16043,8 +16056,14 @@
 ; 0x0023ce1d ステージ中のポーズメニュー
 0x0023ce1d Stuff you can pause in
 
+; 0x0023ce3d の
+0x0023ce3d ㅤ
+
 ; 0x0023ce46 グッズがめん
 0x0023ce46 stage and...
+
+; 0x0023ce58 で
+0x0023ce58 ㅤ
 
 ; 0x0023ce6e ロブじいさん
 0x0023ce6e Old Lobber
@@ -16054,6 +16073,9 @@
 
 ; 0x0023ce89 きせかえ
 0x0023ce89 Stuff
+
+; 0x0023ce97 が
+0x0023ce97 ㅤ
 
 ; 0x0023ce9a できるのじゃ
 0x0023ce9a to change.
@@ -16120,6 +16142,9 @@
 
 ; 0x0023d164 『おでかけよう』のかいがら
 0x0023d164 my Outing Shell!
+
+; 0x0023d184 を
+0x0023d184 ㅤ
 
 ; 0x0023d1bd ヤドカリタ
 0x0023d1bd Herman
@@ -16404,10 +16429,10 @@
 0x0023dcce Warp Jizo
 
 ; 0x0023dcdb おぬしら　
-0x0023dcdb Hear of
+0x0023dcdb Heard
 
 ; 0x0023dceb 『とびらまじん』
-0x0023dceb Door Djinns?
+0x0023dceb of Door Djinns?
 
 ; 0x0023dd04 知っておるか？　えらいわしらが
 0x0023dd04 Are you aware of
@@ -37620,7 +37645,7 @@
 0x0027a5a6 Komusume! You Zamasu!
 
 ; 0x0027a5d3 dデジール
-0x0027a5d3 dDezir
+0x0027a5d3 Dezir
 
 ; 0x0027a5dd ワタクシのコラル王子の心を
 0x0027a5dd The heart of my prince koror
@@ -37642,9 +37667,6 @@
 
 ; 0x0027a672 ホッホッホッホッホ！！！
 0x0027a672 Hohohoho!!!
-
-; 0x0027d140 使用可能メモリサイズ取得
-0x0027d140 Acquire usable memory size
 
 ; 0x002dd68e キョロスケ
 0x002dd68e Moe
@@ -39495,7 +39517,7 @@
 0x002e104e Desire!!
 
 ; 0x002e58ac 使用可能メモリサイズ取得
-0x002e58ac Acquire usable memory size
+;0x002e58ac Acquire usable memory size
 
 ; 0x002e61d1 熏蛻笨
 0x002e61d1 I can´t believe it.
@@ -42025,10 +42047,10 @@
 0x003684e6 Soft spin
 
 ; 0x003686f8 使用可能メモリサイズ取得
-0x003686f8 Acquire usable memory size
+;0x003686f8 Acquire usable memory size
 
 ; 0x003696fc 使用可能メモリサイズ取得
-0x003696fc Acquire usable memory size
+;0x003696fc Acquire usable memory size
 
 ; 0x003742c1 ピョンピョン
 0x003742c1 Pyonpyon
