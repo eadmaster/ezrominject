@@ -16201,7 +16201,7 @@
 0x0023d39d Starly
 
 ; 0x0023d3a6 あさましいやっちゃな…
-0x0023d3a6 Moe!? Its good to
+0x0023d3a6 Moe!? It's good to
 
 ; 0x0023d3bd まあ　人だすけになるし
 0x0023d3bd help people at least.
@@ -17209,7 +17209,7 @@
 0x0023fde5 Starly
 
 ; 0x0023fdee うわーっ！　すごいやん！
-0x0023fdee Wow! Thats amazing!
+0x0023fdee Wow! That's amazing!
 
 ; 0x0023fe07 なあなあ　ようせいさん
 0x0023fe07 Can we wake the
@@ -17702,6 +17702,9 @@
 
 ; 0x002414b3 『はじまりの木』
 0x002414b3 to the Tree
+
+; 0x002414c9 に
+0x002414c9 
 
 ; 0x002414cc おくってあげよう！
 0x002414cc of Origin!
@@ -19165,10 +19168,10 @@
 0x00244f65 Let´s dive to Love Road!!」
 
 ; 0x00244f86 　　　ダイブ！
-0x00244f86 Dive!
+0x00244f86      Dive!
 
 ; 0x00244f95 　　　いや
-0x00244f95 No
+0x00244f95      No
 
 ; 0x00244fc4 ラブウィズミー
 0x00244fc4 Lovewizumi
@@ -19265,6 +19268,9 @@
 
 ; 0x002454cb マージャンパイ
 0x002454cb lost Mahjong
+
+; 0x002454df を
+0x002454df
 
 ; 0x002454e2 なくして　こまってるのよおん
 0x002454e2 tiles, and I want you
@@ -19367,6 +19373,20 @@
 
 ; 0x00245859 おれいに　たからもの
 0x00245859 if you find them.
+
+; TODO:
+;0x0024586e ア
+0x0024586e ㅤ
+
+;0x0024587e ゲ
+0x0024587e ㅤ
+
+;0x0024588e チャ
+
+;0x002458a0 ウ
+0x002458a0 ㅤ
+
+;0x002458b0 から
 
 ; 0x0024588e チャ
 0x0024588e ㅤ
@@ -21637,10 +21657,10 @@
 0x0024bc16 Come with me!」
 
 ; 0x0024bc2f 　　　ついて行きます
-0x0024bc2f I´ll follow.
+0x0024bc2f        Follow
 
 ; 0x0024bc44 　　　…いやだ
-0x0024bc44 ...No.
+0x0024bc44        ...No.
 
 ; 0x0024bc77 ラブウィズミー
 0x0024bc77 Lovewizumi

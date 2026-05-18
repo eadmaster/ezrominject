@@ -21,7 +21,15 @@ replace_cell_gfx title_ue_ob_font  # "Press Start!" on title screen
 replace_cell_gfx title_sita_ob_font  # "Start" on title screen
 replace_cell_gfx save_window_l  # "Save now?" window (used in stages)
 replace_cell_gfx save_obj  # "Save now?" window (autosave after bosses)
-replace_cell_gfx city1_obj_sub_l  # 1st city map ui elements
+replace_cell_gfx city1_obj_sub_l  # city map ui elements
+replace_cell_gfx city2_obj_sub_l  # city map ui elements
+replace_cell_gfx city3_obj_sub_l  # city map ui elements
+replace_cell_gfx city4_obj_sub_l  # city map ui elements
+replace_cell_gfx city5_obj_sub_l  # city map ui elements
+replace_cell_gfx city6_obj_sub_l  # city map ui elements
+replace_cell_gfx city7_obj_sub_l  # city map ui elements
+replace_cell_gfx city8_obj_sub_l  # city map ui elements
+replace_cell_gfx city9_obj_sub_l  # city map ui elements
 replace_cell_gfx fileselect_low_obj  # File menu on title screen
 replace_cell_gfx city_in_l  # "[Back] To City" sign in stages
 replace_cell_gfx pose_obj_l  # Pause menu
@@ -56,12 +64,13 @@ NitroPacker pack -p "Densetsu no Stafy 4 (Japan)/Densetsu no Stafy 4 (English).j
 # alt.: dsrom build --config "Densetsu no Stafy 4 (Japan)/config.yaml" --rom "$OUTPUT_ROM"
 
 # patch text
+# TODO: add parentesis, : ;
 sed "s/'/｀/g; s/-/ー/g; s/+/＋/g; s/</＜/g; s/>/＞/g; s/\"/″/g; s/“/″/g; s/”/″/g;" *_eng.txt > /tmp/eng.txt  # ensure supported symbols
 python ../../ezrominject.py *_jap.txt "/tmp/eng.txt" "$OUTPUT_ROM" --ascii-bios-hack
 #NOT WORKING: --ascii-mode
 
-# patch game Banner Title (utf16le-encoded, multiple occurrences) でんせつのスタフィー4  -> Ｓｔａｒｆｙ－４
-sfk replace "$OUTPUT_ROM" -binary /673093305B3064306E30B930BF30D530A330FC3034/33FF54FF41FF52FF46FF59FF0DFF14FF0000000000/  -yes
+# patch game Banner Title (utf16le-encoded, multiple occurrences) でんせつのスタフィー4  -> Legendary Starfy 4
+sfk replace "$OUTPUT_ROM" -binary /673093305B3064306E30B930BF30D530A330FC3034000A004E0069006E00740065006E0064006F000000000000000000000000000000/4C006500670065006E0064006100720079002000530074006100720066007900200034000A004E0069006E00740065006E0064006F00/  -yes
 
 # generate xdelta patch
 xdelta3 -S none -f -e -s "$INPUT_ROM" "$OUTPUT_ROM"  "$OUTPUT_ROM.xdelta"
