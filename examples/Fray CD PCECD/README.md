@@ -5,7 +5,7 @@
  - All dialogue text translated, 1st revision pass complete.
    - Some lines were shortened to fit in the available space. Check [the original translation here](https://github.com/eadmaster/RetroSubs/wiki/Examples#fray-cd-xak-gaiden-pcecd).
  - Most menus are translated, only a few gfx still left.
- - Voiced cutscenes are not translated/subbed.
+ - Only a few cutscenes are dubbed.
  - First testing playthrough complete.
 
 
@@ -22,4 +22,11 @@
 4. Obtain a disc dump matching [these hashes](http://redump.org/disc/37536/).
    Select `In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 02).bin` as ROM file
 5. Click "Apply patch" and save in the same folder without changing the filename: `"In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 02) (patched).bin"`
-6. Download and use the cue sheet in this folder to play the game.
+6. Download and use the cue sheet in this folder to play the game:
+  - for the English-dubbed cutscenes, [download the wave files here](https://www.mediafire.com/folder/grzvl6cd2g6rp/In_Magical_Adventure_-_Fray_CD_-_Xak_Gaiden_(English)(dub)) and use the cue sheet with the "(dub)" postfix.
+
+
+# Credits/Contributors/Special thanks
+
+ - [eadmaster](https://github.com/eadmaster): translation, hacking, playtesting.
+ - [Daniel-McLarty](https://github.com/Daniel-McLarty/): [Python-Autodub tool](https://github.com/Daniel-McLarty/Python-Autodub).

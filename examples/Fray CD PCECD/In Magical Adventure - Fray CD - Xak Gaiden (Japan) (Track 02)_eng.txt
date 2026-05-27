@@ -406,7 +406,7 @@
 0x0011aa07 [Menea]
 
 ; 0x0011aa16 この町じゃないけど
-0x0011aa16 Not this town...
+0x0011aa16 Not in this town...
 
 ; 0x0011aa2b となりのレイジアの村にいたアレじゃない？
 ; 0x0011aa2b Wasn’t it that one in the neighboring village, Reigia?
@@ -420,7 +420,7 @@
 
 ; 0x0011aa7c ボクたちのこと、カゲからジロジロ見てたヤツだな。
 ; 0x0011aa7c The guy who kept staring at us from the shadows.
-0x0011aa7c The one watching us from the shadows.
+0x0011aa7c The one watching us from the  shadows.
 
 ; 0x0011aaaf ブキミなやつだったよな。
 0x0011aaaf He was creepy.
@@ -442,7 +442,7 @@
 0x0011ab42 [Samus]
 
 ; 0x0011ab51 だいじょうぶだよ、メネア。
-0x0011ab51 Don’t worry, Menea.
+0x0011ab51 Don’t worry,     Menea.
 
 ; 0x0011ab6e キミはこのボクがかならず守ってあげるよ。
 0x0011ab6e I'll protect you.
@@ -457,7 +457,8 @@
 0x0011abcf [Fray]
 
 ; 0x0011abe0 まさか本当にラトク　さんが・・・？
-0x0011abe0 Don’t tell me it was really Latok...?
+;0x0011abe0 Don’t tell me it was really Latok...?
+0x0011abe0 Was it really Latok...?
 
 ; 0x0011ac05 ううん、そんなコトありえない！どいてっ！
 0x0011ac05 No, impossible! Step aside!
@@ -475,7 +476,7 @@
 0x0011ac79 [Samus]
 
 ; 0x0011ac88 メネア・・・
-0x0011ac88 [Menea]
+0x0011ac88 Menea...
 
 ; 0x0011ac9b ［メネア］
 0x0011ac9b [Menea]
@@ -715,11 +716,14 @@
 ; 0x0011b3f0 目にあわなきゃなんないのよ！
 0x0011b3f0 to go through this!?
 
+; 0x0011b413 ［フレイ］
+0x0011b413 [Fray]
+
 ; 0x0011b424 あらららー・・・・・
 0x0011b424 Oh, my...
 
 ; 0x0011b43b これじゃ確かに渡れないわね。
-0x0011b43b there's no way to cross now.
+0x0011b43b there's no way to cross.
 
 ; 0x0011b45e ［フレイ］
 0x0011b45e [Fray]
@@ -6838,7 +6842,7 @@
 
 ; 0x00292bbf しかし私とて神に仕えし身、無用の殺生は好まん。
 ; 0x00292bbf Yet I serve the gods, I dislike needless killing.
-0x00292bbf Yet I serve the gods, I dislike bloodshed.
+0x00292bbf Yet I serve the     gods, I dislike bloodshed.
 
 ; 0x00292bef おとなしくここを去るのであれば見のがしてもやろう。
 0x00292bef Leave now, and I shall spare you.
@@ -6854,7 +6858,7 @@
 
 ; 0x00292c8d よかろう、私は心がひろいからな。
 ; 0x00292c8d Very well. I am a generous soul.
-0x00292c8d Very well, I am broad of heart.
+0x00292c8d Well, I am broad of heart.
 
 ; 0x00292caf もうすこしまえへ出るがよい。
 0x00292caf Step a little closer.
@@ -6887,10 +6891,10 @@
 0x00292dd7 Fine.
 
 ; 0x00292de8 多少は
-0x00292de8 I guess
+0x00292de8 It was
 
 ; 0x00292df0 私の責任でもあるわね。
-0x00292df0 it was partly my fault.
+0x00292df0  partly my fault too.
 
 ; 0x00292e08 像は後でひろって、なおしといてあげるから。
 0x00292e08 I'll pick up the statue later.
@@ -6900,7 +6904,7 @@
 0x00292e35 You swear those words are true?
 
 ; 0x00292e57 よかろう。ついでだ、コレも持っていくがよい。
-0x00292e57 Very well. Take this with you.
+0x00292e57 Very well. Take this with  you.
 
 ; 0x00292e86 らっき！
 0x00292e86 Lucky!
@@ -6915,7 +6919,7 @@
 0x00292ee6 A frail girl like me couldn't break it!
 
 ; 0x00292f23 さ〜ってと、ちょっと回り道しなきゃなんないわね。
-0x00292f23 Now, I've got to take a detour.
+0x00292f23 Now, I've got to take a    detour.
 
 ; 0x00292f55 はやくアーザルの町に行かなくっちゃ。
 0x00292f55 I need to hurry to Arzal.
