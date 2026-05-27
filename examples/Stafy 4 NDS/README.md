@@ -3,7 +3,7 @@
 ## Current status  🏗️
 
  - Revised all dialogues up to Stage 2-1 and some menus, all the rest is placeholder text.
- - Only a few gfx text/buttons are translated.
+ - Only some gfx text/buttons are translated.
  - **Only partially tested, there may be crashes!**
 
 ## Preview  👀

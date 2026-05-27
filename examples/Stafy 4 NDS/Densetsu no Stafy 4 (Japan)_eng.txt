@@ -16201,7 +16201,7 @@
 0x0023d39d Starly
 
 ; 0x0023d3a6 あさましいやっちゃな…
-0x0023d3a6 Moe!? It's good to
+0x0023d3a6 Moe!? Its good to
 
 ; 0x0023d3bd まあ　人だすけになるし
 0x0023d3bd help people at least.
@@ -17209,7 +17209,7 @@
 0x0023fde5 Starly
 
 ; 0x0023fdee うわーっ！　すごいやん！
-0x0023fdee Wow! That's amazing!
+0x0023fdee Wow! Thats amazing!
 
 ; 0x0023fe07 なあなあ　ようせいさん
 0x0023fe07 Can we wake the
@@ -21657,10 +21657,10 @@
 0x0024bc16 Come with me!」
 
 ; 0x0024bc2f 　　　ついて行きます
-0x0024bc2f        Follow
+0x0024bc2f      Follow
 
 ; 0x0024bc44 　　　…いやだ
-0x0024bc44        ...No.
+0x0024bc44      ...No.
 
 ; 0x0024bc77 ラブウィズミー
 0x0024bc77 Lovewizumi
