@@ -436,7 +436,7 @@
 0x0011aaf2 Maybe he’s that rumored kidnapper.
 
 ; 0x0011ab21 キャッ、あたし、こわぁい。
-0x0011ab21 Eek, that’s scary.
+0x0011ab21 Eek, that’s scary!
 
 ; 0x0011ab42 ［サムス］
 0x0011ab42 [Samus]
@@ -500,7 +500,7 @@
 0x0011ad07 I just want to get across!
 
 ; 0x0011ad2a ［門番］
-0x0011ad2a [Gatekeeper]
+0x0011ad2a [Guard]
 
 ; 0x0011ad37 あ〜ダメダメ。その門は開きませんよ。
 0x0011ad37 No, no. That gate won’t open.
@@ -512,7 +512,7 @@
 0x0011ad71 Why not!?
 
 ; 0x0011ad86 ［門番］
-0x0011ad86 [Gatekeeper]
+0x0011ad86 [Guard]
 
 ; 0x0011ad93 ですから、私の話を最後
 0x0011ad93 Please listen
@@ -527,7 +527,7 @@
 0x0011add6 What do you mean!?
 
 ; 0x0011adef ［門番］
-0x0011adef [Gatekeeper]
+0x0011adef [Guard]
 
 ; 0x0011adfc このあたりもモンスター
 0x0011adfc Monsters around here
@@ -554,10 +554,10 @@
 0x0011aea9 I’ll smash this gate!
 
 ; 0x0011aec8 ［門番］
-0x0011aec8 [Gatekeeper]
+0x0011aec8 [Guard]
 
 ; 0x0011aed5 お、おねがいです。それだけはごカンベンを！
-0x0011aed5 P-please, not that!
+0x0011aed5 P-Please, not that!
 
 ; 0x0011af04 町が、町が・・・
 0x0011af04 The town would...
@@ -569,7 +569,7 @@
 0x0011af2a Then you’ll open it?
 
 ; 0x0011af4b ［門番］
-0x0011af4b [Gatekeeper]
+0x0011af4b [Guard]
 
 ; 0x0011af5a そ、それは・・・
 0x0011af5a W-well...
@@ -626,7 +626,7 @@
 0x0011b107 Which way’s Reigia?
 
 ; 0x0011b126 ［門番］
-0x0011b126 [Gatekeeper]
+0x0011b126 [Guard]
 
 ; 0x0011b133 この門がレイジアに通じ
 0x0011b133 This gate leads
@@ -641,7 +641,7 @@
 0x0011b174 I can go from here, thanks!
 
 ; 0x0011b1a5 ［門番］
-0x0011b1a5 [Gatekeeper]
+0x0011b1a5 [Guard]
 
 ; 0x0011b1b2 あ、あの、まだ話のつづきが・・・
 0x0011b1b2 Wait, I’m not finished...
@@ -656,7 +656,7 @@
 0x0011b1fd This gate leads to Reigia, right?
 
 ; 0x0011b22c ［門番］
-0x0011b22c [Gatekeeper]
+0x0011b22c [Guard]
 
 ; 0x0011b239 い、いや、確かにそれは
 0x0011b239 Y-yes, that’s true,
@@ -665,7 +665,7 @@
 0x0011b250 but...
 
 ; 0x0011b26f ［門番］
-0x0011b26f [Gatekeeper]
+0x0011b26f [Guard]
 
 ; 0x0011b27c どうです？　町長の許可
 0x0011b27c Well? Got the mayor’s
@@ -686,7 +686,7 @@
 0x0011b2e2 with no sign.
 
 ; 0x0011b2fb ［門番］
-0x0011b2fb [Gatekeeper]
+0x0011b2fb [Guard]
 
 ; 0x0011b308 町長から話は聞いており
 ; 0x0011b308 I've heard from the mayor.
@@ -750,7 +750,7 @@
 0x0011b503 [Fray]
 
 ; 0x0011b512 ラトクさんが『この橋
-0x0011b512 You are saying Latok
+0x0011b512 Are you saying Latok
 
 ; 0x0011b527 を壊した』ですってぇ！？
 0x0011b527 destroyed this bridge?!
@@ -952,13 +952,13 @@
 0x0011baf2 Whew.
 
 ; 0x0011bb05 ［おじいさん］
-0x0011bb05 [Old man]
+0x0011bb05 [Old Man]
 
 ; 0x0011bb18 橋はなくなるし、
-0x0011bb18 The bridge's gone,
+0x0011bb18 The bridge is
 
 ; 0x0011bb29 村の外はモンスターだらけ。
-0x0011bb29 and there are monsters everywhere.
+0x0011bb29 gone and there are monsters everywhere.
 
 ; 0x0011bb46 わしらはこれから、どうやって生
 0x0011bb46 How will we survive from
@@ -2026,7 +2026,7 @@
 0x0011dc9f ok going out like this?
 
 ; 0x0011dcbe ［おじいさん］
-0x0011dcbe [Old man]
+0x0011dcbe [Old Man]
 
 ; 0x0011dcd1 はあ、わしは今年で８０になりますじゃ。
 0x0011dcd1 Haha, I’m turning 80 this year.
@@ -2525,7 +2525,7 @@
 0x0011ec75 taken by that fiend.
 
 ; 0x0011ec98 ［おじいさん］
-0x0011ec98 [Old man]
+0x0011ec98 [Old Man]
 
 ; 0x0011ecab ほんに困ったことじゃのう。
 0x0011ecab This is really  troubling.
@@ -2534,13 +2534,13 @@
 0x0011ecc8 Don't you agree?
 
 ; 0x0011ecea ［おじいさん］
-0x0011ecea [Old man]
+0x0011ecea [Old Man]
 
 ; 0x0011ecfd そうじゃろう。　そうじゃろう。
 0x0011ecfd Exactly. exactly.
 
 ; 0x0011ed22 ［おじいさん］
-0x0011ed22 [Old man]
+0x0011ed22 [Old Man]
 
 ; 0x0011ed35 まったく、おまえさんの言うとおりじゃ。
 0x0011ed35 Truly, just as you said.
@@ -2705,7 +2705,7 @@
 0x0011f25c “Wings of the Gods”.
 
 ; 0x0011f277 おまえさんは北の門からバルナス
-0x0011f277 Head from the north gate to 
+0x0011f277 Head from the North gate to 
 
 ; 0x0011f296 火山へ向かってくれ。
 0x0011f296 the Barnas Volcano.
@@ -2801,7 +2801,7 @@
 0x0011f56e by the name Latok Kart?
 
 ; 0x0011f591 ［おじいさん］
-0x0011f591 [Old man]
+0x0011f591 [Old Man]
 
 ; 0x0011f5a4 ほんにのう。今日も天気がええのう。
 0x0011f5a4 Indeed. The weather is nice today.
@@ -3204,7 +3204,7 @@
 0x00120b0e are lovers.
 
 ; 0x00120b2f ［おじいさん］
-0x00120b2f [Old man]
+0x00120b2f [Old Man]
 
 ; 0x00120b42 ほんにのう。めでたいことじゃて。
 0x00120b42 Truly. It's a joyous occasion.
@@ -3216,7 +3216,7 @@
 0x00120b78 (Heheh, I feel kinda good.)
 
 ; 0x00120b9f ［おじいさん］
-0x00120b9f [Old man]
+0x00120b9f [Old Man]
 
 ; 0x00120bb2 ほんにのう。こりゃ明日は雨じゃな。
 0x00120bb2 Really. It'll rain tomorrow.
@@ -3620,43 +3620,43 @@
 0x00126e4d I'm only 28!
 
 ; 0x00126e64 ［おじいさん］
-0x00126e64 [Old man]
+0x00126e64 [Old Man]
 
 ; 0x00126e77 ほんに、みんな　無事でなによりじゃ。
 0x00126e77 I'm so glad you're all safe.
 
 ; 0x00126ea2 ［おじいさん］
-0x00126ea2 [Old man]
+0x00126ea2 [Old Man]
 
 ; 0x00126eb5 平和がいちばん　じゃのう。
 0x00126eb5 Peace is best.
 
 ; 0x00126ed6 ［おじいさん］
-0x00126ed6 [Old man]
+0x00126ed6 [Old Man]
 
 ; 0x00126ee9 あ〜、よかよか。
 0x00126ee9 Ah, it's fine.
 
 ; 0x00126f00 ［おじいさん］
-0x00126f00 [Old man]
+0x00126f00 [Old Man]
 
 ; 0x00126f13 ほっほっほっ、　踊り子さんはおらんかいのう。
 0x00126f13 Hahaha, there   are no dancers here.
 
 ; 0x00126f46 ［おじいさん］
-0x00126f46 [Old man]
+0x00126f46 [Old Man]
 
 ; 0x00126f59 みんな楽しそう　じゃのう。
 0x00126f59 Everyone is having fun.
 
 ; 0x00126f7a ［おじいさん］
-0x00126f7a [Old man]
+0x00126f7a [Old Man]
 
 ; 0x00126f8d 酒はもうケッコウじゃよ。
 0x00126f8d I'm done      drinking.
 
 ; 0x00126fac ［おじいさん］
-0x00126fac [Old man]
+0x00126fac [Old Man]
 
 ; 0x00126fbf いえいえい！
 0x00126fbf No, no!
@@ -3665,37 +3665,37 @@
 0x00126fce I won't lose to those youngsters.
 
 ; 0x00126ff9 ［おじいさん］
-0x00126ff9 [Old man]
+0x00126ff9 [Old Man]
 
 ; 0x0012700c じょうちゃん、　ワシと踊らんか？
 0x0012700c Hey girl, wanna dance with me?
 
 ; 0x00127033 ［おじいさん］
-0x00127033 [Old man]
+0x00127033 [Old Man]
 
 ; 0x00127046 明日も晴れるかのう。
 0x00127046 It'll be sunny again tomorrow.
 
 ; 0x00127061 ［おじいさん］
-0x00127061 [Old man]
+0x00127061 [Old Man]
 
 ; 0x00127074 バアさんも来ればよかったのにのぉ。
 0x00127074 I wish Grandma could have come too.
 
 ; 0x0012709d ［おじいさん］
-0x0012709d [Old man]
+0x0012709d [Old Man]
 
 ; 0x001270b0 今の若いモンは　・・・ういっく。
 0x001270b0 Youngsters these days... *hic*
 
 ; 0x001270d7 ［おじいさん］
-0x001270d7 [Old man]
+0x001270d7 [Old Man]
 
 ; 0x001270ea ほっほっほっほっほっほっ。
 0x001270ea Hohohohoho.
 
 ; 0x0012710b ［おじいさん］
-0x0012710b [Old man]
+0x0012710b [Old Man]
 
 ; 0x0012711e いやぁ〜っ、めでたいのぉ。
 0x0012711e Wow, that's wonderful!
@@ -4422,7 +4422,7 @@
 0x0050bd77 [Fray]
 
 ; 0x0050bd85 そ、そんな・・・。
-0x0050bd85 N-no way…
+0x0050bd85 N-No way…
 
 ; 0x0050bd9e ［アマドゥク］
 0x0050bd9e [Amadok]
@@ -6603,7 +6603,7 @@
 0x0015d63f What do you need?
 
 ; 0x0015d656 ﾈｸあの〜、町の北にある門をあけてほしいんですけど。
-0x0015d656 Um, could you open  the north gate?
+0x0015d656 Um, could you open  the North gate?
 
 ; 0x0015d68b ﾙｸ門を！？　それはおやめなさったほうがいい。
 0x0015d68b The gate!? You’d   best not do that.
@@ -6724,7 +6724,7 @@
 0x0015da96 Oh? Anything else?
 
 ; 0x0015daaf ﾈｸい、いえ、べつに。
-0x0015daaf  N-no, nothing.
+0x0015daaf  N-No, nothing.
 
 ; 0x0015dac7 ﾙｸあのアルセイデスをたおしたですと！？
 0x0015dac7 You defeated Arsides!?
@@ -6821,7 +6821,7 @@
 0x00292abb What's the harm in touching it a little?
 
 ; 0x00292aeb べつにへるモンじゃなし・・・
-0x00292aeb It’s not like it’ll wear out...
+0x00292aeb It won't wear out...
 
 ; 0x00292b0a え〜い、やめいとゆーておろーが！
 0x00292b0a Hey, I told you to stop!
@@ -6838,7 +6838,7 @@
 0x00292b71 Blasphemy will not be forgiven by me, the Water Dragon.
 
 ; 0x00292bac そ、そんな・・・
-0x00292bac N-no way...
+0x00292bac N-No way...
 
 ; 0x00292bbf しかし私とて神に仕えし身、無用の殺生は好まん。
 ; 0x00292bbf Yet I serve the gods, I dislike needless killing.
@@ -6888,7 +6888,7 @@
 0x00292da4 Not much difference... now, come!
 
 ; 0x00292dd7 わかったわよ。
-0x00292dd7 Fine.
+0x00292dd7 Fine...
 
 ; 0x00292de8 多少は
 0x00292de8 It was
@@ -6900,11 +6900,10 @@
 0x00292e08 I'll pick up the statue later.
 
 ; 0x00292e35 その言葉にウソいつわりはないな。
-; 0x00292e35 You swear that’s true?
 0x00292e35 You swear those words are true?
 
 ; 0x00292e57 よかろう。ついでだ、コレも持っていくがよい。
-0x00292e57 Very well. Take this with  you.
+0x00292e57 Very well, take this with    you.
 
 ; 0x00292e86 らっき！
 0x00292e86 Lucky!
