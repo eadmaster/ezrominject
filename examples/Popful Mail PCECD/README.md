@@ -23,13 +23,13 @@
    - `PopfulMail (Japan) (Track 02).bin` (Jap dub)
    - `02 Magical Fantasy Adventure - Popful Mail (J).iso` (Eng dub, crc32=`244c18ed`)
 5. Download and select the corresponding `.xdelta` as Patch file:
-   - `PopfulMail (Japan) (Track 02).bin.xdelta` (Jap dub)
-   - `02 Magical Fantasy Adventure - Popful Mail (J).iso.xdelta` (Eng dub)
+   - [`PopfulMail (Japan) (Track 02).bin.xdelta`](PopfulMail%20(Japan)%20(Track%2002).bin.xdelta?raw=true) (Jap dub)
+   - [`02 Magical Fantasy Adventure - Popful Mail (J).iso.xdelta`](02%20Magical%20Fantasy%20Adventure%20-%20Popful%20Mail%20(J).iso.xdelta?raw=true) (Eng dub)
       - Note: This is a rolling release: check frequently for the latest updates/improvements.
 6. Click "Apply patch" and save in the same folder without changing the filename (same as the input file with `" (patched)"` appended).
-7. Download and use the corresponding cue sheet in this folder to play the game:
-   - `PopfulMail (English).cue` (Jap dub)
-   - `PopfulMail (English)(dub).cue` (Eng dub)
+7. Download and use the corresponding cue sheet in this folder to play the game (Right-click->Save link as...):
+   - [`PopfulMail (English).cue`](PopfulMail%20(English).cue?raw=true) (Jap dub)
+   - [`PopfulMail (English)(dub).cue`](PopfulMail%20(English)(dub).cue?raw=true) (Eng dub)
 
 > [!NOTE]
 > To play the cutscenes correctly in the English-dubbed version without glitches, use the [non-fast beetle libretro core](https://github.com/libretro/beetle-pce-libretro) and set the core option "PC Engine CD->CD Speed" at 8x.
