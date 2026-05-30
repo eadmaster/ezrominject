@@ -13,9 +13,9 @@
 
 ## Patch instructions  🩹
 
-1. Visit [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/)
+1. Visit [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/), or use an offline xdelta patcher.
 2. Select `Densetsu no Stafy 4 (Japan).nds` as ROM file (Correct crc32: `45fe3a37`).
-3. Download the [latest xdelta patch in this folder](Densetsu%20no%20Stafy%204%20(English).nds.xdelta?raw=true), and use it as the Patch file.
+3. Download the [latest xdelta patch in this folder](https://git.new/starfy4-eng-xdelta), and use it as the Patch file.
    - Note: This is a **rolling release**: check frequently for the latest updates/improvements.
 4. Click "Apply patch".
 
