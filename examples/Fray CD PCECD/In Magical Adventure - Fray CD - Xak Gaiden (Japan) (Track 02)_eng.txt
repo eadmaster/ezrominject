@@ -385,7 +385,7 @@
 0x0011a977 [Arsides]
 
 ; 0x0011a98a く、くやしい！
-0x0011a98a D-damn it...!
+0x0011a98a D-Damn it...!
 
 ; 0x0011a99d ［フレイ］
 0x0011a99d [Fray]
@@ -4447,7 +4447,7 @@
 0x001288a9 [Amadok]
 
 ; 0x001288be ・・覚えておれ。
-0x001288be ...Remember this.
+0x001288be ...Remember.
 
 ; 0x001288cf この借りはかならず・・・。
 0x001288cf I will have my revenge…
@@ -4556,13 +4556,13 @@
 0x00128c17 [Mill]
 
 ; 0x00128c24 ・・・わかりました。
-0x00128c24 ...Ok.
+0x00128c24 ...Alright.
 
 ; 0x00128c3a 全てをあなたにゆだねます。
 0x00128c3a I leave everything to you.
 
 ; 0x00128c57 ・・・と、そうだ。実はこういう
-0x00128c57 …Oh, right. Actually,
+0x00128c57 …Oh, that reminds me,
 
 ; 0x00128c76 モノをもってきたんですが。
 0x00128c76 I brought this with me.
@@ -6015,7 +6015,7 @@
 0x0012b889 [Fray]
 
 ; 0x0012b898 そっ、そんなのあなた
-0x0012b898 Th-that’s none of 
+0x0012b898 Th-That’s none of 
 
 ; 0x0012b8ad には関係ないでしょ！！
 0x0012b8ad your business!!
@@ -6652,6 +6652,8 @@
 ; 0x0015d7df 私はその
 0x0015d7df With
 
+; TODO: remove "hero Latok" in fixed position here
+
 ; 0x0015d7ea と、行動を共にしたコトだってあるのよ！
 0x0015d7ea , I once    fought at his side!
 
@@ -6683,9 +6685,11 @@
 ; 0x0015d906 おそらく
 0x0015d906 The
 
+; TODO: remove "monsters" in fixed position here
+
 ; 0x0015d911 どもは、北のアルセイデスの神殿から
 ;0x0015d911 are coming from the north temple of Arsides
-0x0015d911 are coming  from the north temple
+0x0015d911 are coming  from the North temple
 
 ; 0x0015d939 ﾈｸあ〜〜〜
 0x0015d939 Ahhh...
@@ -6706,7 +6710,7 @@
 0x0015d9cb It’s called Teleport Magic.
 
 ; 0x0015d9f3 あなたが行ったことのある町へ、一瞬でもどれる魔法なんです。
-0x0015d9f3 It lets you instantly return  to any town you've been to.
+0x0015d9f3 It lets you instantly return  to any town you've visited.
 
 ; 0x0015da31 あ、それとももうお持ちでしたかな？
 0x0015da31 Oh, or do you already have it?

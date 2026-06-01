@@ -37,20 +37,16 @@ replace_cell_gfx fukidashi_00_l  # Press Button X
 replace_cell_gfx gameover_obj_1  # Game Over menu: Retry / Quit
 
 # replace boss speech stored as gfx
-cd gfx
-for f in bossmess_*_l.NCGR bossmess_*_l.NCER; do
-    cp -fv "$f" "../Densetsu no Stafy 4 (Japan)/data/Boss/"
+for f in gfx/bossmess_*_l.NCGR gfx/bossmess_*_l.NCER; do
+    cp -fv "$f" "Densetsu no Stafy 4 (Japan)/data/Boss/"
 done
-cd ..
 
 # replace King Warp Jizou prompts
 # TODO: try reusing the same file with other stages too
-cd gfx
-for f in jizou_st*_l.NCGR jizou_st*_l.NCER; do
+for f in gfx/jizou_st*_l.NCGR gfx/jizou_st*_l.NCER; do
     NUMBER=$(echo "$f" | cut -d'_' -f2 | sed 's/st//')  # get stage number
-    cp -fv "$f" "../Densetsu no Stafy 4 (Japan)/data/Stage$NUMBER/"
+    cp -fv "$f" "Densetsu no Stafy 4 (Japan)/data/Stage$NUMBER/"
 done
-cd ..
 
 # extract and patch map legend embedded gfx inside the overlay
 # sfk partcopy "Densetsu no Stafy 4 (Japan)/overlay/main_0013.bin" 0x11B810 0x2426 gfx/811B810_lzss_jap.bin -yes  # extract original gfx
