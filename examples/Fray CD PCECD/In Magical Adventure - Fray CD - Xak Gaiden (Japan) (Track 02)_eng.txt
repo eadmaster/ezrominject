@@ -2989,13 +2989,13 @@
 0x0011fb93 [Fray]
 
 ; 0x0011fba2 あの、もうちょっと時間を・・・。
-0x0011fba2 Um, just a little longer...
+0x0011fba2 Um, just a little   longer...
 
 ; 0x0011fbc9 ［アイザック］
 0x0011fbc9 [Isac]
 
 ; 0x0011fbdc なぁ〜にをグズグズしておるか！
-0x0011fbdc What are you waiting for?
+0x0011fbdc What are you    waiting for?
 
 ; 0x0011fc01 ［ミル］
 0x0011fc01 [Mill]
@@ -3017,7 +3017,7 @@
 0x0011fc6f [Fray]
 
 ; 0x0011fc7e あの、もうちょっと時間を・・・。
-0x0011fc7e Um, just a little longer...
+0x0011fc7e Um, just a little   longer...
 
 ; 0x0011fca5 ［ミル］
 0x0011fca5 [Mill]
@@ -4012,10 +4012,10 @@
 0x00127c03 of young men...
 
 ; 0x00127c1c 　　　　−　その夜　−
-0x00127c1c  - That night -
+0x00127c1c      - That Night -
 
 ; 0x00127c33 　　　　−　次の日　−
-0x00127c33  - The next day -
+0x00127c33    - The Next Day -
 
 
 ;; Flying Castle, Terrace, Merchant 1st meeting
@@ -6822,7 +6822,8 @@
 0x00292a94 Such insolence at the holy waterfall!
 
 ; 0x00292abb ぶぅ。いーじゃない、ちょっとぐらいさわっても。
-0x00292abb What's the harm in touching it a little?
+;0x00292abb What's the harm in touching it a little?
+0x00292abb Boo. What's the harm in touching it?
 
 ; 0x00292aeb べつにへるモンじゃなし・・・
 0x00292aeb It won't wear out...
