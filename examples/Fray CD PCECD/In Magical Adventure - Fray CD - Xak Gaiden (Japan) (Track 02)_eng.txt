@@ -780,7 +780,7 @@
 0x0011b5ea [Young Man]
 
 ; 0x0011b5ff じょ、じょうちゃ
-0x0011b5ff M-miss…
+0x0011b5ff M-Miss…
 
 ; 0x0011b610 ん・・・ぐるじ・・・・・
 0x0011b610 Can't... breathe...
@@ -1012,10 +1012,10 @@
 0x0011bccb U-Um...
 
 ; 0x0011bce0 なにも起こらないようなんですけ
-0x0011bce0 Nothing seems to happen
+0x0011bce0 Nothing seems to happen...
 
 ; 0x0011bcff ども？
-0x0011bcff though?
+0x0011bcff ?
 
 ; 0x0011bd0c ［アイザック］
 0x0011bd0c [Isac]
@@ -1054,7 +1054,7 @@
 0x0011be45 [Isac]
 
 ; 0x0011be58 と、まあざっとこんなモンじゃ。
-0x0011be58 Well, that's about it.
+0x0011be58 Well, that's   about it.
 
 ; 0x0011be7d ［フレイ］
 0x0011be7d [Fray]
@@ -1333,13 +1333,13 @@
 0x0011c749 I see.
 
 ; 0x0011c756 ですが、橋はごらんになったとお
-0x0011c756 But you've seen the bridge.
+0x0011c756 But you've seen the bridge
 
 ; 0x0011c775 りですし・・・
 0x0011c775 and…
 
 ; 0x0011c786 モンスターが現れてからは、
-0x0011c786 since the monsters appeared,
+0x0011c786 since monsters appeared,
 
 ; 0x0011c7a3 レイティア湖をわたる船もありません。
 0x0011c7a3 there are no boats to cross the lake.
@@ -1492,21 +1492,21 @@
 0x0011cc4d [Isac]
 
 ; 0x0011cc60 レイティア湖をこ
-0x0011cc60 Beyond Lake Reitia
+0x0011cc60 Beyond Lake 
 
 ; 0x0011cc71 えた先にあるヴァルアの町で、
-0x0011cc71 in the town of Valuah,
-
-; 0x0011cc92 『リーフの秘薬』
-0x0011cc92 they sell the
+0x0011cc71 Reitia, in the town of
 
 ; TODO: fix colorization
 
+; 0x0011cc92 『リーフの秘薬』
+0x0011cc92 Valuah, I need
+
 ; 0x0011cca4 を手に入れてき
-0x0011cca4 “Leef
+0x0011cca4 you to get the
 
 ; 0x0011ccb3 てほしいんじゃ。
-0x0011ccb3 Potion”.
+0x0011ccb3 Leef Potion.
 
 ; 0x0011ccc6 この子の治療にどうしても必要なんでな。
 0x0011ccc6 It’s essential to cure him.
@@ -1532,7 +1532,7 @@
 
 ; 0x0011cd5f ですけどもー・・・
 ;0x0011cd5f thought...
-0x0011cd5f second...
+0x0011cd5f minute...
 
 ; 0x0011cd78 ［フレイ］
 0x0011cd78 [Fray]

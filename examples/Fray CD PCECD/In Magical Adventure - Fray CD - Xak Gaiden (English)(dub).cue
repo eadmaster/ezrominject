@@ -75,10 +75,10 @@ FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 24) (dub).wav" 
 FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 25) (dub).wav" WAVE
   TRACK 25 AUDIO
     INDEX 01 00:00:00
-FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 26).bin" BINARY
+FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 26) (dub).wav" WAVE
   TRACK 26 AUDIO
     INDEX 01 00:00:00
-FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 27).bin" BINARY
+FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 27) (dub).wav" WAVE
   TRACK 27 AUDIO
     INDEX 01 00:00:00
 FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 28).bin" BINARY
@@ -93,7 +93,7 @@ FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 30).bin" BINARY
 FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 31) (dub).wav" WAVE
   TRACK 31 AUDIO
     INDEX 01 00:00:00
-FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 32).bin" BINARY
+FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 32) (dub).wav" WAVE
   TRACK 32 AUDIO
     INDEX 01 00:00:00
 FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 33).bin" BINARY
@@ -144,10 +144,10 @@ FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 47) (dub).wav" 
 FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 48) (dub).wav" WAVE
   TRACK 48 AUDIO
     INDEX 01 00:00:00
-FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 49).bin" BINARY
+FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 49) (dub).wav" WAVE
   TRACK 49 AUDIO
     INDEX 01 00:00:00
-FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 50).bin" BINARY
+FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 50) (dub).wav" WAVE
   TRACK 50 AUDIO
     INDEX 01 00:00:00
 FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 51) (dub).wav" WAVE
