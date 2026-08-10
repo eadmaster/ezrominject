@@ -1,9 +1,9 @@
 import os
 
 # Configuration
-BIOS_PATH = "SCPH1001.BIN"
+BIOS_PATH = "scph5500.bin"
 FONT_PATH = "font8x16.bin"  # Assuming 8x16 source to be cropped/fitted
-OUTPUT_PATH = "SCPH1001_patched.BIN"
+OUTPUT_PATH = "scph5500_patched.bin"
 
 # PS1 Font Constants (Shift-JIS block)
 BIOS_START_OFFSET = 0x69D68  

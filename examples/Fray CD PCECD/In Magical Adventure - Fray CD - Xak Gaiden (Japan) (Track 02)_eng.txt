@@ -1012,10 +1012,10 @@
 0x0011bccb U-Um...
 
 ; 0x0011bce0 なにも起こらないようなんですけ
-0x0011bce0 Nothing seems to happen...
+0x0011bce0 Nothing seems to happen
 
 ; 0x0011bcff ども？
-0x0011bcff ?
+0x0011bcff though?
 
 ; 0x0011bd0c ［アイザック］
 0x0011bd0c [Isac]
@@ -1342,7 +1342,7 @@
 0x0011c786 since monsters appeared,
 
 ; 0x0011c7a3 レイティア湖をわたる船もありません。
-0x0011c7a3 there are no boats to cross the lake.
+0x0011c7a3 boats can no longer cross the lake.
 
 ; 0x0011c7ce ［フレイ］
 0x0011c7ce [Fray]
@@ -1492,21 +1492,20 @@
 0x0011cc4d [Isac]
 
 ; 0x0011cc60 レイティア湖をこ
-0x0011cc60 Beyond Lake 
+0x0011cc60 Go to the town
 
 ; 0x0011cc71 えた先にあるヴァルアの町で、
-0x0011cc71 Reitia, in the town of
+0x0011cc71 of Valuah, beyond Lake
 
-; TODO: fix colorization
-
+; TODO: fix colorization and spacing
 ; 0x0011cc92 『リーフの秘薬』
-0x0011cc92 Valuah, I need
+0x0011cc90 Reitia, and bring
 
 ; 0x0011cca4 を手に入れてき
-0x0011cca4 you to get the
+0x0011cca4 me the Leef
 
 ; 0x0011ccb3 てほしいんじゃ。
-0x0011ccb3 Leef Potion.
+0x0011ccb3 Potion.
 
 ; 0x0011ccc6 この子の治療にどうしても必要なんでな。
 0x0011ccc6 It’s essential to cure him.
@@ -1565,11 +1564,11 @@
 0x0011ce71 [Isac]
 
 ; 0x0011ce84 え〜い、ゴチャゴチャとうるさい娘じゃのう。
-0x0011ce84 Aww, what a    noisy girl.
+0x0011ce84 Aww, what a    noisy girl. Do you want to
 
 ; 0x0011ceb1 湖がわたれんでもいいのか？
-; 0x0011ceb1 Do you want to cross the lake or not?
-0x0011ceb1 Still want to cross?
+;0x0011ceb1 Still want to cross?s
+0x0011ceb1 cross the lake or not?
 
 ; 0x0011ced2 ［フレイ］
 0x0011ced2 [Fray]
@@ -1588,7 +1587,7 @@
 
 ; 0x0011cf61 わしは村はずれの灯台で待っておるからな。
 ;0x0011cf61 I'll wail at the lighthouse on the edge of town.
-0x0011cf61 I'll wail at the lighthouse.
+0x0011cf61 I'll wail at the            lighthouse.
 
 
 ;; later
