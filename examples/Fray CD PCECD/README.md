@@ -2,7 +2,7 @@
 
 ## Current status  🏗️
 
- - All dialogue text translated, 1st revision pass complete.
+ - All dialogue text translated, 2nd revision pass complete.
    - Some lines were shortened to fit in the available space. Check [the original translation here](https://github.com/eadmaster/RetroSubs/wiki/Examples#fray-cd-xak-gaiden-pcecd).
  - Most menus are translated, only a few gfx still left.
  - Most cutscenes are dubbed, but there are no subtitles.
@@ -11,9 +11,9 @@
 
 ## Preview  👀
 
-[![video1](https://img.youtube.com/vi/i9narqqNFp0/mqdefault.jpg)](https://www.youtube.com/watch?v=i9narqqNFp0)  [![video2](https://img.youtube.com/vi/PoN_pq2f2Co/mqdefault.jpg)](https://www.youtube.com/watch?v=PoN_pq2f2Co)
+![shot1](demo1.png)  ![shot2](demo2.png)  ![shot3](demo4.png)
 
-![shot2](demo2.png)  ![shot3](demo4.png)
+[![video1](https://img.youtube.com/vi/i9narqqNFp0/mqdefault.jpg)](https://www.youtube.com/watch?v=i9narqqNFp0)  [![video2](https://img.youtube.com/vi/PoN_pq2f2Co/mqdefault.jpg)](https://www.youtube.com/watch?v=PoN_pq2f2Co)
 
 
 ## Patch instructions  🩹

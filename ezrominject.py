@@ -327,7 +327,7 @@ def run_injection(jap_path, eng_path, rom_path):
     # Format: 0xAddress Text
     f_jap = open(jap_path, 'r', encoding='utf-8')
     for line in f_jap:
-        parts = line.strip().split(' ', 1)
+        parts = line.rstrip('\r\n').split(' ', 1)
         if len(parts) < 2: continue
         
         try:
@@ -337,7 +337,7 @@ def run_injection(jap_path, eng_path, rom_path):
             continue
         
         text = parts[1]
-                        
+
         # strip 1-byte chars from the beginning
         #while len(text) > 0 and is_sjis_single_byte(text[0]):
         #    addr_int += 1

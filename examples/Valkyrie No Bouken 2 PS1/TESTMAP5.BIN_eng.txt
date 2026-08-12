@@ -1,0 +1,1467 @@
+; 0x0003d1c1 チッ・・・ダメか。
+0x0003d1c1 Tch... No good.
+
+; 0x0003d1f0 これだけぶったたいても
+0x0003d1f0 Even if I hit it this
+
+; 0x0003d211 ビクともしねえ・・・。
+0x0003d211 hard won’t budge it...
+
+; 0x0003d232 まったくいまいましい扉だ！
+0x0003d232 Damn door!
+
+; 0x0003d260 ・・・ン？
+0x0003d260 ...Hm?
+
+; 0x0003d290 なんだ？おまえもティアラ目当てで
+0x0003d290 What? You’re after the Tiara
+
+; 0x0003d2b1 ここまで来たクチか？
+0x0003d2b1 too?
+
+; 0x0003d2e0 残念だったな。
+0x0003d2e0 Too bad.
+
+; 0x0003d301 ティアラがあるって部屋の扉は、
+0x0003d301 The door is heavily sealed,
+
+; 0x0003d322 ほれ、このとおり・・・。
+0x0003d322 as you can see...
+
+; 0x0003d350 やたらに厳重な封印が
+0x0003d350 ...
+
+; 0x0003d371 されてやがる。
+0x0003d371 ...
+
+; 0x0003d3a0 どうしてもほしいってんなら、
+0x0003d3a0 If you really want it, the
+
+; 0x0003d3c1 扉をぶっ壊すくらいしかねえな。
+0x0003d3c1 only option is smashing it.
+
+; 0x0003d3f0 はん・・・もっともおまえみたいな
+0x0003d3f0 Bah... for a tiny girl like
+
+; 0x0003d411 チビっこい小娘なんかじゃ
+0x0003d411 you it's pointless
+
+; 0x0003d432 やるだけ無駄ってところか？
+0x0003d432 to try?
+
+; 0x0003d460 これだけは言っといてやる。
+0x0003d460 I'm warning you:
+
+; 0x0003d481 オレのジャマはするな。
+0x0003d481 Don't interfere.
+
+; 0x0003d4b0 わかったら・・・とっとと失せろ。
+0x0003d4b0 Understand? Get lost!
+
+; 0x0003d4e0 いいな！
+0x0003d4e0 Got it!
+
+; 0x0003d510 まったくいまいましい。
+0x0003d510 Damn it all!
+
+; 0x0003d531 わざわざマッコウ大陸くんだりまで
+0x0003d531 Came all the way to Makkou
+
+; 0x0003d552 来たってのに！
+0x0003d552 Continent!
+
+; 0x0003d580 強大な‘勇者’の力か・・・。
+0x0003d580 The power of the Hero...
+
+; 0x0003d5a1 ぜったいに手に入れてやる！
+0x0003d5a1 I must obtain it!
+
+; 0x0003d5d0 だが、さてどうするか？
+0x0003d5d0 But how?
+
+; 0x0003d5f1 ン〜ム・・・
+0x0003d5f1 Mmm...
+
+; 0x0003d620 くそおおおおお！
+0x0003d620 Damn it all!
+
+; 0x0003d641 どうなってんだ？！
+0x0003d641 What’s going on?!
+
+; 0x0003d662 カケラは全部集めたじゃねえか！
+0x0003d662 I collected all the fragments!
+
+; 0x0003d690 なんでだあああああ！？
+0x0003d690 Whyyyy?!
+
+; 0x0003d6c0 ！
+0x0003d6c0 !
+
+; 0x0003d6e1 お、おまえ、戻れたのか？！
+0x0003d6e1 Y-You made it back?!
+
+; 0x0003d710 ・・・そうか・・・。
+0x0003d710 ...I see...
+
+; 0x0003d731 おまえがこのカケラに、
+0x0003d731 You tampered the
+
+; 0x0003d752 なにか細工しやがったな！？
+0x0003d752 fragments!
+
+; 0x0003d780 白状しろ！
+0x0003d780 Confess!
+
+; 0x0003d7a1 さもないと・・・
+0x0003d7a1 Or else...
+
+; 0x0003d7d0 むう？！その光・・・
+0x0003d7d0 Hm?! That light...
+
+; 0x0003d800 そうか・・・フフフ・・・。
+0x0003d800 I see... Heheheh...
+
+; 0x0003d821 おまえ、オレにニセモノをつかませ
+0x0003d821 Tricked me with fakes!
+
+; 0x0003d842 やがったな！？
+0x0003d842 In that case,
+
+; 0x0003d870 なら、話は早い！
+0x0003d870 it's simple!
+
+; 0x0003d891 腕ずくでもとりあげてくれるわ！！
+0x0003d891 I'll take them by force!
+
+; 0x0003d8c0 ま、まだまだぁ！！
+0x0003d8c0 I’m not done yet!
+
+; 0x0003d8f0 はあっ、はあっ、はあっ、
+0x0003d8f0 Haa, haa, haa,
+
+; 0x0003d911 はあっ・・・。
+0x0003d911 Ah....
+
+; 0x0003d932 ちょ、ちょっとたんま・・・。
+0x0003d932 H-Hey, hold on...
+
+; 0x0003d960 ぐ・・・
+0x0003d960 Ugh...
+
+; 0x0003d981 ぎいいいいいいいっ！
+0x0003d981 Gyaaaaaah!
+
+; 0x0003d9b0 なぜだぁ！！？
+0x0003d9b0 Why?!
+
+; 0x0003d9d1 なぜ、
+0x0003d9d1 Why,
+
+; 0x0003da00 オレが、
+0x0003da00 I...
+
+; 0x0003da21 おまえみたいなやつにぃ！？
+0x0003da21 am I losing to YOU?!
+
+; 0x0003da50 なぜだぁ！！？
+0x0003da50 Why?!
+
+; 0x0003da80 はあっ、はあっ、はあっ・・・。
+0x0003da80 Haah, haah, haah...
+
+; 0x0003daa1 いつか
+0x0003daa1 Someday
+
+; 0x0003dac2 オレは・・・オレは、
+0x0003dac2 I... I...
+
+; 0x0003daf0 いつか必ず、きさまを倒す！！
+0x0003daf0 will defeat you!!
+
+; 0x0003db11 必ず！
+0x0003db11 I swear!
+
+; 0x0003db32 必ずな！
+0x0003db32 I swear!
+
+; 0x0003db60 オレの名はカムーズ！！
+0x0003db60 My name is Kamuz!!
+
+; 0x0003db81 この名を忘れるなぁ！！
+0x0003db81 Remember it!
+
+; 0x0003dbb0 ＜月の結晶が完成した！＞
+0x0003dbb0 <Moon Crystal complete!>
+
+; 0x0003ddd4 ・・・よくきたね、天の御使いよ。
+0x0003ddd4 ...Well come, heavenly messenger.
+
+; 0x0003de04 私はスフィンモス。
+0x0003de04 I am Sphinmoth.
+
+; 0x0003de25 富の国フルータジアの門番を
+0x0003de25 The gatekeeper of Fulltasia.
+
+; 0x0003de46 務める者。
+0x0003de46 Well...
+
+; 0x0003de74 ・・・いや、正確には
+0x0003de74 ... I was the
+
+; 0x0003de95 門番だった者だ。
+0x0003de95 gatekeeper.
+
+; 0x0003dec4 ・・・私の国は、
+0x0003dec4 ...My country
+
+; 0x0003dee5 もうずいぶん前に滅んでしまった。
+0x0003dee5 was destroyed a long time
+
+; 0x0003df06 ずいぶんと、前にね。
+0x0003df06 ago.
+
+; 0x0003df34 ・・・しかし、私はこの門の番を
+0x0003df34 ...Yet, I cannot neglect
+
+; 0x0003df55 おろそかにすることは出来ない。
+0x0003df55 guarding this gate.
+
+; 0x0003df84 そう・・・。
+0x0003df84 Yes...
+
+; 0x0003dfa5 ここより先はフルータジア。
+0x0003dfa5 Beyond here is Fulltasia.
+
+; 0x0003dfd4 富におぼれ、
+0x0003dfd4 My homeland,
+
+; 0x0003dff5 魔につけ込まれ、
+0x0003dff5 was
+
+; 0x0003e016 滅びしわが祖国。
+0x0003e016 ruined by greed.
+
+; 0x0003e044 魔王を招き、
+0x0003e044 A cursed land
+
+; 0x0003e065 無を生み出す、
+0x0003e065 that summons
+
+; 0x0003e086 呪われた大地。
+0x0003e086 the Demon King.
+
+; 0x0003e0b4 それゆえ私は、
+0x0003e0b4 That’s why I
+
+; 0x0003e0d5 俗世の者にこの門を開くわけには
+0x0003e0d5 Thus I cannot open this gate
+
+; 0x0003e0f6 いかない。
+0x0003e0f6 to mortals.
+
+; 0x0003e124 呪われた大地から邪気を、
+0x0003e124 Also to contain evil
+
+; 0x0003e145 食い止めるためにもね。
+0x0003e145 from cursed lands.
+
+; 0x0003e174 ああ・・・わかっているよ、
+0x0003e174 Ah... I know, heavenly
+
+; 0x0003e195 天の御使いよ。
+0x0003e195 messenger.
+
+; 0x0003e1b6 あなたは進まなければいけない。
+0x0003e1b6 You must proceed.
+
+; 0x0003e1e4 ・・・だが、この門からの一歩は
+0x0003e1e4 ...But stepping beyond this
+
+; 0x0003e205 たいへん危険で、大変重要な
+0x0003e205 gate is perilous
+
+; 0x0003e226 意味を持っているのだよ。
+0x0003e226 and significant.
+
+; 0x0003e254 フルータジアを越え、
+0x0003e254 Those passing
+
+; 0x0003e275 魔王の島に赴く者は、
+0x0003e275 to the Demon Lord's
+
+; 0x0003e2a4 マーベルランドの
+0x0003e2a4 Isle must be worthy
+
+; 0x0003e2c5 命運をにぎるに足りる
+0x0003e2c5 of the title of
+
+; 0x0003e2e6 勇者でなくてはならない。
+0x0003e2e6 Marvel Land's Hero.
+
+; 0x0003e314 つまりは魔王を倒しうる
+0x0003e314 In other words, it must
+
+; 0x0003e335 力を持つ者でなければ
+0x0003e335 possess the power to
+
+; 0x0003e356 ならんのだよ。
+0x0003e356 defeat Demon Lord.
+
+; 0x0003e384 門を開ければ封印された
+0x0003e384 Opening gate reveals the
+
+; 0x0003e3a5 魔王の島への道は開かれる、
+0x0003e3a5 path to Demon Lord's
+
+; 0x0003e3c6 と、同時に、魔王はその力を、
+0x0003e3c6 Isle, but also unleashes
+
+; 0x0003e3f4 マーベルランド全域に
+0x0003e3f4 the Demon Lord's
+
+; 0x0003e415 ふるうことが出来るように
+0x0003e415 power across
+
+; 0x0003e436 なってしまうのだから。
+0x0003e436 Marvel Land.
+
+; 0x0003e464 だから私は・・・
+0x0003e464 Therefore...
+
+; 0x0003e485 あなたを試そうと思う。
+0x0003e485 I shall test you.
+
+; 0x0003e4b4 マーベルランドの命運をにぎり
+0x0003e4b4 Do you hold the power
+
+; 0x0003e4d5 魔王を倒しうる力を持つ
+0x0003e4d5 to defeat the Demon
+
+; 0x0003e4f6 勇者であるか否か？
+0x0003e4f6 Lord?
+
+; 0x0003e524 ・・・なに。
+0x0003e524 ...What?
+
+; 0x0003e545 ・・・あなたにとっては
+0x0003e545 ...For you, it was
+
+; 0x0003e566 たやすい試練だよ。
+0x0003e566 an easy trial.
+
+; 0x0003e594 ・・・ここより北に、
+0x0003e594 North of here lies
+
+; 0x0003e5b5 岩の巨塔がある。
+0x0003e5b5 a giant rock tower,
+
+; 0x0003e5e4 古くは‘勇者の塔’と
+0x0003e5e4 once called the
+
+; 0x0003e605 よばれた塔だ。
+0x0003e605 Hero Tower.
+
+; 0x0003e634 その塔に安置された
+0x0003e634 Retrieve the treasure
+
+; 0x0003e655 ‘勇気のティアラ’という宝物を
+0x0003e655 "Tiara of Courage" from
+
+; 0x0003e676 取ってきて欲しいのだよ。
+0x0003e676 that tower.
+
+; 0x0003e6a4 あなたが‘勇気のティアラ’を
+0x0003e6a4 Bring the Tiara
+
+; 0x0003e6c5 ここに持ってくることが
+0x0003e6c5 here,
+
+; 0x0003e6e6 出来た時こそ、
+0x0003e6e6 and I'll
+
+; 0x0003e714 私はあなたを勇者と認め、
+0x0003e714 acknowledge you as
+
+; 0x0003e735 フルータジアへの門を開くだろう。
+0x0003e735 Hero and open the Flutasia gate.
+
+; 0x0003e764 ああ・・・必ずね。
+0x0003e764 Ah... Certainly.
+
+; 0x0003e794 ここより北に、
+0x0003e794 To the north,
+
+; 0x0003e7b5 ‘勇者の塔’とよばれた塔がある。
+0x0003e7b5 there is the Hero Tower.
+
+; 0x0003e7e4 この塔に安置された
+0x0003e7e4 Retrieve the
+
+; 0x0003e805 ‘勇気のティアラ’という
+0x0003e805 Tiara of Courage
+
+; 0x0003e826 宝物を取ってきて欲しい。
+0x0003e826 from that tower.
+
+; 0x0003e854 ティアラの部屋への扉が開かない？
+0x0003e854 Tiara room door won't open?
+
+; 0x0003e875 そうか・・・‘月の精霊族’による
+0x0003e875 I see...  Moon Spirit Clan
+
+; 0x0003e896 扉の封印は、いまだ健在か。
+0x0003e896 seal still holds.
+
+; 0x0003e8c4 ・・・昔、勇者の塔は
+0x0003e8c4 ...Long ago, Moon
+
+; 0x0003e8e5 ‘月の精霊族’により管理されて
+0x0003e8e5 Spirits managed the Hero
+
+; 0x0003e906 いたのだよ。
+0x0003e906 Tower.
+
+; 0x0003e934 ティアラを封じた部屋への門は、
+0x0003e934 The door only opens
+
+; 0x0003e955 月の光をうけて開くが、
+0x0003e955 under the moonlight,
+
+; 0x0003e984 マッコウ大陸の空は、
+0x0003e984 but the sky of Makkou
+
+; 0x0003e9a5 月の通り道ではない。
+0x0003e9a5 lacks the moon’s path.
+
+; 0x0003e9d4 そのため月の精霊族による管理は
+0x0003e9d4 Thus Moon Spirit management
+
+; 0x0003e9f5 完ぺきだった。
+0x0003e9f5 was perfect.
+
+; 0x0003ea16 ・・・しかし・・・
+0x0003ea16 ...However...
+
+; 0x0003ea44 月の精霊族は、あくまで影の存在。
+0x0003ea44 Moon Spirits only exist in shadows.
+
+; 0x0003ea65 陽の光の影にこそ、その存在を
+0x0003ea65 Their existence is allowed 
+
+; 0x0003ea86 許されていた、いわば、夜の精霊
+0x0003ea86 only in sunlight's shadow.
+
+; 0x0003eab4 民だけではなく、月の精霊達自身も
+0x0003eab4 Not just people, but Moon Spirits
+
+; 0x0003ead5 自分達の存在を、
+0x0003ead5 themselves shunned 
+
+; 0x0003eaf6 暗き者であると疎んじていた。
+0x0003eaf6 their own dark existence.
+
+; 0x0003eb24 月の精霊達は、その暗き心を魔に
+0x0003eb24 The demons exploited that
+
+; 0x0003eb45 付け入られたのだよ。
+0x0003eb45 darkness.
+
+; 0x0003eb74 彼らは、フルータジアの滅亡の時、
+0x0003eb74 During the fall of Fulltasia,
+
+; 0x0003eb95 勇者の塔の管理を投げだし、
+0x0003eb95 they abandoned the Hero Tower
+
+; 0x0003ebb6 魔王の軍門に下っていった・・。
+0x0003ebb6 and joined Demon Lord's army.
+
+; 0x0003ebe4 そして御使いよ。
+0x0003ebe4 And messenger,
+
+; 0x0003ec14 あなたが倒した‘新月王’こそ、
+0x0003ec14 the New Moon King you 
+
+; 0x0003ec35 月の精霊の最後の生き残り
+0x0003ec35 defeated was the last
+
+; 0x0003ec56 だったのだよ。
+0x0003ec56 Moon Spirit.
+
+; 0x0003ec84 そう・・・今、ティアラの封印を
+0x0003ec84 Yes... None in this world
+
+; 0x0003eca5 解くことの出来る者は、
+0x0003eca5 can break the 
+
+; 0x0003ecc6 この世にはいないのだ・・・。
+0x0003ecc6 Tiara's seal now.
+
+; 0x0003ecf4 だが、御使いよ。
+0x0003ecf4 But,
+
+; 0x0003ed15 絶望することはない・・・。
+0x0003ed15 no need to despair...
+
+; 0x0003ed44 確かに、月の精霊族は、
+0x0003ed44 True, no Moon Spirits
+
+; 0x0003ed65 この世に一人も存在していない。
+0x0003ed65 remain in this world.
+
+; 0x0003ed94 しかし、新たな月の精霊を
+0x0003ed94 But there’s a way to give
+
+; 0x0003edb5 産み出す方法はある。
+0x0003edb5 birth to a new one.
+
+; 0x0003ede4 それには、砕け散った月の精霊の
+0x0003ede4 That requires the shattered body
+
+; 0x0003ee05 体のカケラが必要なのだ。
+0x0003ee05 fragments of a Moon Spirit.
+
+; 0x0003ee26 ひとつ残らず、ね。
+0x0003ee26 Every single one.
+
+; 0x0003ee54 そのすべてを集め、組み合わせ、
+0x0003ee54 Gather all of them, combine,
+
+; 0x0003ee75 再生を念じる・・・。
+0x0003ee75 and pray for the rebirth...
+
+; 0x0003ee96 そうすれば・・・
+0x0003ee96 Then...
+
+; 0x0003eec4 カケラは、新たな月の精霊へと
+0x0003eec4 Then the fragments 
+
+; 0x0003eee5 生まれ変わるだろう。
+0x0003eee5 become a pure new 
+
+; 0x0003ef14 魔に染まっていない、
+0x0003ef14 Moon Spirit,
+
+; 0x0003ef35 純粋な月の精霊にね。
+0x0003ef35 untainted by demons.
+
+; 0x0003ef64 ・・・これは私からのお願いでも
+0x0003ef64 ...This is also my 
+
+; 0x0003ef85 あるのだよ。
+0x0003ef85 request.
+
+; 0x0003efb4 ワルキューレ・・・。
+0x0003efb4 Valkyrie...
+
+; 0x0003efd5 月の精霊族を絶やしてはいけない。
+0x0003efd5 We must preserve the Moon Spirit tribe.
+
+; 0x0003f004 マーベルランドに住む精霊の
+0x0003f004 No spirit race in Marvel Land
+
+; 0x0003f025 どの種族も、絶やしてはならない。
+0x0003f025 should perish.
+
+; 0x0003f054 今ならまだ間に合う。
+0x0003f054 There is still time.
+
+; 0x0003f084 私は、夜を柔らかく照らす、
+0x0003f084 I love the soft moonlight
+
+; 0x0003f0a5 月の光がとても好きだ。
+0x0003f0a5 that illuminates the night.
+
+; 0x0003f0d4 アファ大陸への道は開いた。
+0x0003f0d4 The path to Afa has opened.
+
+; 0x0003f104 この光の輪へ飛び込めば、
+0x0003f104 Jump into this circle of light
+
+; 0x0003f125 一瞬でアファ大陸に辿り着ける。
+0x0003f125 to reach Afa in an instant.
+
+; 0x0003f154 新月王の体のカケラは、
+0x0003f154 The New Moon King's 
+
+; 0x0003f175 きっと彼の祭壇があるその地域に
+0x0003f175 fragments are likely scattered
+
+; 0x0003f196 広く飛び散っているはずだ。
+0x0003f196 widely near his altar.
+
+; 0x0003f1c4 用意はいいかね？
+0x0003f1c4 Are you ready?
+
+; 0x0003f1e5 では・・・くれぐれも
+0x0003f1e5 Then... Be very
+
+; 0x0003f206 気をつけてな。
+0x0003f206 careful.
+
+; 0x0003f234 ふううむ？
+0x0003f234 Hmm?
+
+; 0x0003f255 ・・・これもまた、試練か・・。
+0x0003f255 ...Is this another test...?
+
+; 0x0003f580 あの男ならば、
+0x0003f580 If it were that man,
+
+; 0x0003f5a1 そこから飛び出すやいなや、
+0x0003f5a1 immediately upon emerging,
+
+; 0x0003f5c2 北の方にすっ飛んでいったよ。
+0x0003f5c2 he would have flies off north.
+
+; 0x0003f5f0 おそらく、勇者の塔の方だね。
+0x0003f5f0 Probably toward Hero Tower.
+
+; 0x0003f620 月の精霊は蘇り、
+0x0003f620 Moon Spirit revived,
+
+; 0x0003f641 ティアラがあなたを認めた。
+0x0003f641 Tiara acknowledged you.
+
+; 0x0003f662 ・・・よろしい。
+0x0003f662 ...Good.
+
+; 0x0003f690 私もあなたを認めよう。
+0x0003f690 I acknowledge you too.
+
+; 0x0003f6c0 門は開かれた。
+0x0003f6c0 Gate opened.
+
+; 0x0003f6e1 これで、私が魔王の邪気を押さえて
+0x0003f6e1 It can no longer contain the
+
+; 0x0003f702 おくことは、出来なくなった。
+0x0003f702 Demon Lord's evil.
+
+; 0x0003f730 魔王の邪気は、数日のうちに世界に
+0x0003f730 The evil aura will engulf the 
+
+; 0x0003f751 およぶだろう・・・。
+0x0003f751 world within days...
+
+; 0x0003f780 だが、勇者よ。
+0x0003f780 Divine Hero, your only 
+
+; 0x0003f7a1 魔王の島に攻め入る機会は、
+0x0003f7a1 chance to invade Demon 
+
+; 0x0003f7c2 今をおいてほかにはないのだ。
+0x0003f7c2 Lord's Isle is now.
+
+; 0x0003f7f0 もし、この先の道のりで、あなたが
+0x0003f7f0 If you fall on the 
+
+; 0x0003f811 倒れるようなことがあれば、
+0x0003f811 road ahead, 
+
+; 0x0003f840 それは、マーベルランドの滅亡を
+0x0003f840 that would be the end of 
+
+; 0x0003f861 意味している。
+0x0003f861 Marvel Land....
+
+; 0x0003f890 ・・・あなたがフルータジアへ
+0x0003f890 ...After you cross
+
+; 0x0003f8b1 渡った後、私は・・・
+0x0003f8b1 Flutasia, I...
+
+; 0x0003f8d2 門を閉じなければならない。
+0x0003f8d2 must close gate.
+
+; 0x0003f900 以前とは比べものにならない程、
+0x0003f900 Even with our meager strength,
+
+; 0x0003f921 小さな力でだが、少しでも魔王の
+0x0003f921 we must prevent the Demon King's
+
+; 0x0003f942 邪気が外界に流れ出す事を
+0x0003f942 evil energy from flowing out
+
+; 0x0003f970 防がなければならない。
+0x0003f970 into the outside world.
+
+; 0x0003f9a0 ・・・あなたに全てを押し付ける
+0x0003f9a0 ...Sorry for burdening you 
+
+; 0x0003f9c1 ような事になってしまった。
+0x0003f9c1 with everything.
+
+; 0x0003f9e2 身勝手な我らをゆるしてほしい。
+0x0003f9e2 Please forgive my selfishness.
+
+; 0x0003fa10 ワルキューレ・・・。
+0x0003fa10 Valkyrie...
+
+; 0x0003fa31 あなたの幸運を祈っているよ。
+0x0003fa31 I wish you luck.
+
+; 0x0003fb38 ＜勇気のティアラの
+0x0003fb38 <Received blessing of the
+
+; 0x0003fb59 祝福を受けた。＞
+0x0003fb59 Tiara of Courage.>
+
+; 0x0003fb98 ああ・・・よく、ここまで
+0x0003fb98 Oh... Thank you 
+
+; 0x0003fbb9 来てくださいましたね。
+0x0003fbb9 for coming this far.
+
+; 0x0003fbe8 わたしは雪の精霊。
+0x0003fbe8 I am Snow Spirit.
+
+; 0x0003fc09 この地に捕らわれ、
+0x0003fc09 I was imprisoned in this land,
+
+; 0x0003fc2a 力を利用されておりました。
+0x0003fc2a and my power was being exploited.
+
+; 0x0003fc58 図らずもこの大陸を凍土に
+0x0003fc58 It was my power that, 
+
+; 0x0003fc79 おおってしまったのは
+0x0003fc79 unintentionally, covered this 
+
+; 0x0003fc9a わたしの力なのです・・・。
+0x0003fc9a continent in frozen ground...
+
+; 0x0003fcc8 ワルキューレ様・・・。
+0x0003fcc8 Lady Valkyrie...
+
+; 0x0003fce9 わたしは、あなたのお力に
+0x0003fce9 I wish to lend you my
+
+; 0x0003fd0a なりたい・・・。
+0x0003fd0a power...
+
+; 0x0003fd38 どうか、わたくしに罪の償いを
+0x0003fd38 Please, allow me to atone 
+
+; 0x0003fd59 させてくださいませ・・・！
+0x0003fd59 for my sins...!
+
+; 0x0003fd88 ＜雪の術を手に入れた！＞
+0x0003fd88 <Learned Snow Magic!>
+
+; 0x0003fe08 おお！ワルキューレ様！
+0x0003fe08 Oh! Lady Valkyrie!
+
+; 0x0003fe38 ワルキューレ様だ！
+0x0003fe38 Lady Valkyrie!
+
+; 0x0003fe68 ワルキューレ様！
+0x0003fe68 Lady Valkyrie!
+
+; 0x0003fe98 来てくださったんだ！
+0x0003fe98 You came!
+
+; 0x0003fec8 ワルキューレ様！
+0x0003fec8 Lady Valkyrie!
+
+; 0x0003fef8 やあ、ワルキューレ様！
+0x0003fef8 Hey, Lady Valkyrie!
+
+; 0x0003ff19 お久しぶりです。
+0x0003ff19 Long time no see.
+
+; 0x0003ff48 御久しぶりです。
+0x0003ff48 Long time no see.
+
+; 0x0003ff78 ワルキューレ様、
+0x0003ff78 Lady Valkyrie,
+
+; 0x0003ff99 本当にお久しぶりです。
+0x0003ff99 It’s been a long time.
+
+; 0x0003ffc8 はは、驚かれているようですな？
+0x0003ffc8 Haha, you’re surprised?
+
+; 0x0003ffe9 まあ無理もありません。
+0x0003ffe9 Well, it’s no wonder.
+
+; 0x00040018 あなたに救われてから私達は、
+0x00040018 Since you saved us,
+
+; 0x00040039 魔王ゾウナとの戦いに備えて
+0x00040039 we've been gathering allies 
+
+; 0x0004005a 仲間を集めていたんです。
+0x0004005a for the battle against Zouna.
+
+; 0x00040088 そう、それが彼らなのです。
+0x00040088 Yes, that’s them.
+
+; 0x000400b8 そして彼らと共に、ゾウナの居城に
+0x000400b8 And just as we were planning
+
+; 0x000400d9 攻め込もうと計画していた
+0x000400d9 to attack Zouna's castle 
+
+; 0x000400fa 矢先に・・・。
+0x000400fa together...
+
+; 0x00040128 フルータジアの海を覆っていた
+0x00040128 The powerful barrier covering 
+
+; 0x00040149 強力な結界が消えたのです！
+0x00040149 the sea of ​​Lutasia vanished!
+
+; 0x00040178 千載一遇のチャンス、と私達は
+0x00040178 With this once-in-a-lifetime
+
+; 0x00040199 一気にフルータジアへ
+0x00040199 chance, we launched a full-scale
+
+; 0x000401ba 攻め込んだ・・・。
+0x000401ba attack on Fruitasia...
+
+; 0x000401e8 そして戦いの末、ついにこの
+0x000401e8 After the battle, finally 
+
+; 0x00040209 フルータジアから魔王の軍勢を
+0x00040209 we drove Demon Lord's forces
+
+; 0x0004022a 追い払うことが出来たんです！
+0x0004022a from Flutasia!
+
+; 0x00040258 みんな勇敢に戦いました！
+0x00040258 Everyone fought bravely!
+
+; 0x00040288 ええ、本当に・・・。
+0x00040288 Yes, truly...
+
+; 0x000402a9 だが、ワルキューレ様。
+0x000402a9 But, Lady Valkyrie,
+
+; 0x000402ca ついにあなたが来てくれた！
+0x000402ca you finally came!
+
+; 0x000402f8 もう、我らに恐れるものなど
+0x000402f8 There’s nothing left to 
+
+; 0x00040319 ありません！
+0x00040319 fear!
+
+; 0x00040348 ワルキューレ様。
+0x00040348 Lady Valkyrie.
+
+; 0x00040369 本当に長旅、ごくろうさまでした。
+0x00040369 Thank you for your long journey.
+
+; 0x00040398 ささやかでありますが、
+0x00040398 It’s modest, but we
+
+; 0x000403b9 今日はあなたの歓迎会を催したいと
+0x000403b9 wish to hold a welcome feast 
+
+; 0x000403da 思います。
+0x000403da today.
+
+; 0x00040408 魔王との戦いに向けて、
+0x00040408 Rest well and prepare 
+
+; 0x00040429 充分に鋭気を養って
+0x00040429 for the battle
+
+; 0x0004044a いただきたいのです。
+0x0004044a against the Demon Lord.
+
+; 0x00040478 ゆっくりしていってください。
+0x00040478 Take your time.
+
+; 0x000404a8 あ、あの！
+0x000404a8 U-Um!
+
+; 0x000404c9 僕達実は・・・・。
+0x000404c9 We actually...
+
+; 0x000404ea ・・・・・・・・・。
+0x000404ea ......
+
+; 0x00040518 いえ、な、なんでもありません。
+0x00040518 No, n-nothing.
+
+; 0x00040698 あ、あ、い、いやあ、
+0x00040698 Ah, ah, n-no,
+
+; 0x000406b9 これはこれはワルキューレ様！
+0x000406b9 My, my, Lady Valkyrie!
+
+; 0x000406da どうです、宴を楽しんでますか？
+0x000406da Well, are you enjoying the feast?
+
+; 0x00040708 はは、そりゃあよかった！
+0x00040708 Haha, that's good to hear!
+
+; 0x00040729 じゃ、じゃああっしはこれで・・。
+0x00040729 Well, then, I’ll be going now.
+
+; 0x00040758 ワルキューレ様？
+0x00040758 Lady Valkyrie?
+
+; 0x00040788 あっしの事なんざほっといて、
+0x00040788 Leave me alone, and
+
+; 0x000407a9 宴を楽しんできちゃ
+0x000407a9 go enjoy the party!
+
+; 0x000407ca どうなんです？
+0x000407ca How is it?
+
+; 0x000407f8 じゃ、失礼しますよ。
+0x000407f8 Well, I'll be going now.
+
+; 0x00040828 ・・・あのねぇ・・・。
+0x00040828 ...Hey...
+
+; 0x00040849 ここにはたんまり飯もあるし、
+0x00040849 There's plenty of food here,
+
+; 0x0004086a お仲間だってわんさといる！
+0x0004086a and lots of friends!
+
+; 0x00040898 それでいいじゃねえですか？
+0x00040898 Isn't that good enough?
+
+; 0x000408b9 宴を楽しんできなさいよ！
+0x000408b9 Go and enjoy the feast!
+
+; 0x000408e8 ・・・・・・・・・。
+0x000408e8 ......
+
+; 0x00040909 ・・・・・・ちっ！
+0x00040909 ......Tch!
+
+; 0x00040938 あなたももう気づいてるんでしょ？
+0x00040938 You've noticed too, haven’t you?
+
+; 0x00040959 平和すぎる風景。
+0x00040959 This scenery is far too peaceful.
+
+; 0x0004097a この城。
+0x0004097a This castle.
+
+; 0x000409a8 いやに浮かれているあいつら・・。
+0x000409a8 Those guys are strangely giddy...
+
+; 0x000409c9 ここには妙なことが多すぎる。
+0x000409c9 Too many strange things here.
+
+; 0x000409f8 はあ・・・。
+0x000409f8 *sigh*...
+
+; 0x00040a19 あっしは、ずっとあなたを
+0x00040a19 I’ve always been...
+
+; 0x00040a3a 商売の種にと、追い回していた。
+0x00040a3a chasing you around for business.
+
+; 0x00040a68 あなたの後を追いかけるのは、
+0x00040a68 Following you
+
+; 0x00040a89 そりゃあ苦労しやした。
+0x00040a89 is hard work.
+
+; 0x00040ab8 このフルータジアまで追いかけて
+0x00040ab8 Reaching Flutasia was 
+
+; 0x00040ad9 来るのも
+0x00040ad9 tough...
+
+; 0x00040afa そりゃあたいへんで・・・。
+0x00040afa Anyway...
+
+; 0x00040b28 まあ、それはいいとして。
+0x00040b28 That's beside the point.
+
+; 0x00040b49 あいつらだ。
+0x00040b49 I'm concerned about 
+
+; 0x00040b6a どうも気に掛かることが多い。
+0x00040b6a those guys...
+
+; 0x00040b98 浮かれて、盛り上がって、魔王との
+0x00040b98 All this excitement to prepare
+
+; 0x00040bb9 戦いにそなえてみせて・・・。
+0x00040bb9 for the Demon Lord battle...
+
+; 0x00040bda その全てがどうもしらじらしい。
+0x00040bda Somehow, it all feels so fake.
+
+; 0x00040c08 ああ、まだ確証はねえですよ。
+0x00040c08 Yeah, I don't have proof yet.
+
+; 0x00040c29 もちろんあっしのとりこし苦労って
+0x00040c29 Of course, it could just be
+
+; 0x00040c4a 事もある。
+0x00040c4a me worrying over nothing.
+
+; 0x00040c78 だが・・・。
+0x00040c78 But...
+
+; 0x00040ca8 ワルキューレ様？
+0x00040ca8 Lady Valkyrie?
+
+; 0x00040cc9 この城に、鍵の掛かった赤い扉が
+0x00040cc9 Did you know there's a locked
+
+; 0x00040cea あるのは知ってますかい？
+0x00040cea red door in this castle?
+
+; 0x00040d18 あっしは、
+0x00040d18 I...
+
+; 0x00040d39 やつらがそこに、
+0x00040d39 I think they're hiding something
+
+; 0x00040d5a 何か自分達にとってまずい物を
+0x00040d5a something there they don't 
+
+; 0x00040d88 隠してるんじゃないかって
+0x00040d88 want us to find.
+
+; 0x00040da9 考えてるんです。
+0x00040da9 That's what I figure.
+
+; 0x00040dd8 ・・・この鍵をお貸ししやしょう。
+0x00040dd8 ...I'll lend you this key.
+
+; 0x00040df9 こいつを人様に貸す、なんざ
+0x00040df9 Lending this to an outsider
+
+; 0x00040e28 ズール族のおきて破り
+0x00040e28 breaks the Zul tribe's rules,
+
+; 0x00040e49 なんですが・・・。
+0x00040e49 but...
+
+; 0x00040e78 ＜万能鍵を手に入れた！＞
+0x00040e78 <Got the Master Key!>
+
+; 0x00040ea8 あなたがもし、偽りじゃねえ、
+0x00040ea8 If you truly want
+
+; 0x00040ec9 真実を知りたいと思うなら、
+0x00040ec9 to know the truth,
+
+; 0x00040eea 開く扉を全部開けてみるこってす
+0x00040eea try opening every door it can.
+
+; 0x00040f18 あ、ただし！！
+0x00040f18 Ah, but!!
+
+; 0x00040f39 金目の物にゃあてをださないほうが
+0x00040f39 Don't go reaching for valuables
+
+; 0x00040f5a いいですぜ！
+0x00040f5a you find!
+
+; 0x00040f88 こんな怪しい城にあるもんだったら
+0x00040f88 In a suspicious castle like this,
+
+; 0x00040fa9 きっと、その、まあ、
+0x00040fa9 anything valuable could, well...
+
+; 0x00040fca そういうのは特に、
+0x00040fca be dangerous.
+
+; 0x00040ff8 怪しい呪いとかかかってても
+0x00040ff8 Wouldn't surprise me if 
+
+; 0x00041019 不思議はないですからねえ。
+0x00041019 it had a curse or somehing.
+
+; 0x00041048 ・・何にせよ気をつけるこってす。
+0x00041048 ...Whatever you do, be careful.
+
+; 0x00041069 じゃあ、あっしはこれで。
+0x00041069 Well, I’ll be going now.
+
+; 0x0004108a ま、がんばってくだせえよ。
+0x0004108a Good luck, now.
+
+; 0x00041238 私達は、事の真実と
+0x00041238 I reveal the truth
+
+; 0x00041259 偽りを照らし出す
+0x00041259 and expose falsehoods.
+
+; 0x0004127a 鏡の精霊。
+0x0004127a I'm a mirror spirit.
+
+; 0x000412a8 何事も私達の前では
+0x000412a8 Nothing can be hidden
+
+; 0x000412c9 偽れない。
+0x000412c9 from me.
+
+; 0x000412f8 だから彼らは、
+0x000412f8 That's why they...
+
+; 0x00041319 私達を閉じ込めた・・・。
+0x00041319 Locked me up...
+
+; 0x00041348 ワルキューレ様、私達を
+0x00041348 Lady Valkyrie, take me
+
+; 0x00041369 連れていって！
+0x00041369 with you!
+
+; 0x00041398 そして真実をあなたに・・・。
+0x00041398 And I'll show you the truth...
+
+; 0x000413c8 ＜鏡の術を手に入れた！＞
+0x000413c8 <Got Mirror Magic!>
+
+; 0x00041448 ＜鏡の精霊の声がする＞
+0x00041448 <I hear the mirror spirit’s voice>
+
+; 0x00041478 ワルキューレ様。
+0x00041478 Lady Valkyrie.
+
+; 0x00041499 ダンスホールを見渡せる場所まで
+0x00041499 Please take me somewhere
+
+; 0x000414ba 私達を連れていってください。
+0x000414ba where I can see the dance hall.
+
+; 0x000414e8 そこで私達が‘かれら’の真の姿を
+0x000414e8 There, I'll reveal their true
+
+; 0x00041509 照らし出します。
+0x00041509 form for you.
+
+; 0x00041538 ひ、ひえええぇぇぇ！
+0x00041538 E-Eeeeeek!
+
+; 0x00041568 うわ、まさか、ぜ、全員
+0x00041568 Whoa, no way! Th-They're
+
+; 0x00041589 魔物とはなぁ。
+0x00041589 all monsters?
+
+; 0x000415aa お、おっかねえ〜。
+0x000415aa Th-That’s scary...
+
+; 0x000415d8 じゃ、後はまかせましたぜ、
+0x000415d8 I’ll leave the rest to you,
+
+; 0x000415f9 ワルキューレ様！
+0x000415f9 Lady Valkyrie!
+
+; 0x00041628 でも、やばい、と思ったら
+0x00041628 But if things get too hairy,
+
+; 0x00041649 無理せずにズラかっちまった方が
+0x00041649 don’t push yourself too hard.
+
+; 0x0004166a いいですぜ。
+0x0004166a Your life is more important 
+
+; 0x00041698 命あってのモノダネですからね！
+0x00041698 than anything else!
+
+; 0x000416c8 あ、それから、その万能鍵は、
+0x000416c8 Oh, and that Master Key...
+
+; 0x000416e9 あくまでもあんたに
+0x000416e9 I only 
+
+; 0x0004170a ‘貸した’もんだ！
+0x0004170a 'lent' it to you!
+
+; 0x00041738 だから後でちゃんと返して
+0x00041738 So make sure you give it
+
+; 0x00041759 くだせえよ！
+0x00041759 back later!
+
+; 0x0004177a きっとですぜ！
+0x0004177a Don't forget!
+
+; 0x000417a8 おい、カッパ達！
+0x000417a8 Hey, Kappa!
+
+; 0x000417c9 逃げるんなら今のうちだぞ。
+0x000417c9 Now’s your chance to run away.
+
+; 0x000417f8 今あっしについてくりゃあ、
+0x000417f8 Follow me now, and I'll
+
+; 0x00041819 安値で抜け道を教えてやるが、
+0x00041819 show you a shortcut for cheap.
+
+; 0x0004183a どうする？
+0x0004183a What'll it be?
+
+; 0x00041868 ご、ご一緒しますぅ！
+0x00041868 I-I'll come with you!
+
+; 0x00041898 ならこっちだ！
+0x00041898 Then this way!
+
+; 0x000418c8 ・・・どうしてなの？
+0x000418c8 ...Why?
+
+; 0x000418e9 ワルキューレ様・・・。
+0x000418e9 Lady Valkyrie...
+
+; 0x00041918 何が不満だったの？
+0x00041918 What was wrong with you?
+
+; 0x00041944 なぜ苦しい道を選んだの？
+0x00041944 Why choose the harder path?
+
+; 0x00041970 僕達はただ、あなたに、
+0x00041970 We only wanted you
+
+; 0x0004198f ちょっとの間だけ休んでて
+0x0004198f to rest for a little while
+
+; 0x000419ae 欲しかっただけなのに・・・。
+0x000419ae and nothing more...
+
+; 0x000419dc なのに・・・。
+0x000419dc But...
+
+; 0x00041a08 これで・・・
+0x00041a08 Now...
+
+; 0x00041a27 永遠になっちゃったね？
+0x00041a27 It'll be forever, won't it?
+
+; 0x00041b80 ・・・いくよ？
+0x00041b80 ...Ready to go?
+
+; 0x00041bb0 ・・・たのしかったねぇ・・・。
+0x00041bb0 ...That was fun...
+
+; 0x00041be0 ・・・じゃ、いこっか。
+0x00041be0 ...Well, let's go.
+
+; 0x00041c10 ＜星の術を手に入れた！＞
+0x00041c10 <Got Star Magic!>
+
+; 0x00041c88 楽しんでるかい？
+0x00041c88 Having fun?
+
+; 0x00041ca9 短い人生、楽しまなきゃ損だよ！
+0x00041ca9 Life's short, so enjoy it!
+
+; 0x00041cd8 あなたはよくやった！
+0x00041cd8 You did well!
+
+; 0x00041cf9 まあ、しばらくゆっくりして
+0x00041cf9 Well, take it easy for a
+
+; 0x00041d1a いってくれ。
+0x00041d1a while now.
+
+; 0x00041d48 わるきゅーれ様。
+0x00041d48 Lady Valkyrie.
+
+; 0x00041d69 どうか我々に勝利を！
+0x00041d69 May victory be yours!
+
+; 0x00041de0 戦いってのは、
+0x00041de0 Fighting is always
+
+; 0x00041e01 いつの世もつらいもんだ。
+0x00041e01 a hard thing.
+
+; 0x00041e30 それがひとりきりの
+0x00041e30 If you're fighting
+
+; 0x00041e51 戦いだとすりゃ、
+0x00041e51 all alone,
+
+; 0x00041e72 なおさらだな。
+0x00041e72 it's harder still.
+
+; 0x00041ea0 たよりにしてるよ！
+0x00041ea0 We're counting on you!
+
+; 0x00041ed0 寝床があり、食べ物があり、
+0x00041ed0 We've got a bed, food
+
+; 0x00041ef1 仲間がいる。
+0x00041ef1 and friends.
+
+; 0x00041f20 ここで不自由するものはなにも
+0x00041f20 There's nothing we lack here.
+
+; 0x00041f41 ありません。
+0x00041f41 here.
+
+; 0x00041fd0 たまには休養も必要ですよ。
+0x00041fd0 You need to rest sometimes.
+
+; 0x00042010 フフフ、まあそう力まないで。
+0x00042010 Hehehe, don't strain yourself.
+
+; 0x00042040 ゆっくりしていってください。
+0x00042040 Take your time.
+
+; 0x00042061 戦いはそれから・・・。
+0x00042061 The battle comes later...
+
+; 0x000420bc わあい！
+0x000420bc Yay!
+
+; 0x000420dd ワルキューレ様に声をかけて
+0x000420dd Lady Valkyrie spoke to me!
+
+; 0x000420fe もらっちゃった！
+0x000420fe She really did!
+
+; 0x0004213c ワルキューレ様とお近づきに
+0x0004213c I got to meet
+
+; 0x0004215d なれるなんて・・・。
+0x0004215d Lady Valkyrie...
+
+; 0x0004217e 長生きはしてみるものだよ。
+0x0004217e Living long has its perks.
+
+; 0x000421ac ああ、わしらの女神様・・・。
+0x000421ac Ah, our goddess.
+
+; 0x00042208 いままでご苦労さま。
+0x00042208 Thanks for all your hard work.
+
+; 0x00042238 ワルキューレ様！
+0x00042238 Lady Valkyrie!
+
+; 0x00042257 いままでありがとう！
+0x00042257 Thanks for everything!
+
+; 0x00042284 みんなといれば安心ね！
+0x00042284 With everyone here, I'm safe!
+
+; 0x000422f8 ワルキューレ様、
+0x000422f8 Lady Valkyrie,
+
+; 0x00042319 どうか今日はおくつろぎになって
+0x00042319 Please relax today
+
+; 0x0004233a ください。
+0x0004233a and enjoy yourself.
+
+; 0x00042378 城の外に咲き誇る花々は、あなたを
+0x00042378 The flowers blooming outside
+
+; 0x00042399 おもてなしするために皆で植えた
+0x00042399 were planted by us all
+
+; 0x000423ba ものなのですよ。
+0x000423ba to welcome you.
+
+; 0x000423f8 その節はお世話になりました。
+0x000423f8 Thank you for helping me before.
+
+; 0x00042438 ワルキューレ様。
+0x00042438 Lady Valkyrie.
+
+; 0x00042459 ぼく、あれからずいぶん強く
+0x00042459 I've gotten much stronger
+
+; 0x0004247a なったんだ。
+0x0004247a since then
+
+; 0x000424a8 次の戦いの時は見ていてね！
+0x000424a8 Watch me in the next battle!
+
+; 0x000424f4 ゾウナの城まであと少しです。
+0x000424f4 We're almost at Zouna's castle.
+
+; 0x00042515 ワルキューレ様、ちからをあわせて
+0x00042515 Lady Valkyrie, let's join forces
+
+; 0x00042536 がんばりましょう！
+0x00042536 and do our best!
+
+; 0x00042574 うん、うん、楽しいのう。
+0x00042574 Yes, yes, this is fun.
+
+
+;; diaries
+
+; 0x000425b4 ＜机の上に、一冊の朽ちかけた
+0x000425b4 <On the desk was a rotting
+
+; 0x000425d5 日記があった。
+0x000425d5 diary.
+
+; 0x00042604 日記のかろうじて読める部分には、
+0x00042604 In its barely legible pages,
+
+; 0x00042625 こうあった。＞
+0x00042625 it reads:>
+
+; 0x00042654 ＜我々は富の虜となりはてた。
+0x00042654 <We have become slaves to wealth.
+
+; 0x00042684 もう明日を思う事もない。
+0x00042684 We no longer think of tomorrow.
+
+; 0x000426a5 昨日を振り返る事もない。
+0x000426a5 Nor do we look back on yesterday.
+
+; 0x000426d4 ただ、永遠と信じるこの偽りの楽園
+0x000426d4 We merely squander time in this
+
+; 0x000426f5 の中で、肉体が朽ちるまで時間を
+0x000426f5 false paradise we believe eternal,
+
+; 0x00042716 むさぼり続ける。
+0x00042716 until our bodies wither away.
+
+; 0x00042744 そして奴は、力を無くした我らの
+0x00042744 And we lurk in the dark,
+
+; 0x00042765 魂をその虚無の中へ誘うべく、
+0x00042765 waiting to draw our powerless
+
+; 0x00042786 闇に潜んでいる。＞
+0x00042786 souls into that void.>
+
+; 0x00042800 ＜机の上に、一冊の日記があった。
+0x00042800 <There was a diary on the desk
+
+; 0x00042821 日記のかろうじて読める部分には、
+0x00042821 In its barely legible pages,
+
+; 0x00042842 こうあった。＞
+0x00042842 it read:>
+
+; 0x00042870 ＜ここに連れてこられてもう何日
+0x00042870 <How many days has it been
+
+; 0x00042891 経ったんだろう？
+0x00042891 since I was brought here?
+
+; 0x000428c0 来る日も来る日も演奏だけを、
+0x000428c0 Day after day, all I do is play,
+
+; 0x000428e1 ただひたすら強いられてきた。
+0x000428e1 forced to play without end.
+
+; 0x00042910 この宴にもいつか終わりが来るん
+0x00042910 Will this feast ever come
+
+; 0x00042931 だろうか？
+0x00042931 to an end, I wonder?
+
+; 0x00042960 誰か・・・ぼくらぼくらカッパ楽団
+0x00042960 Someone... we're the Kappa
+
+; 0x00042981 をここから助け出して。＞
+0x00042981 Orchestra. Get us out of here!>
+

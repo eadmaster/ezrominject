@@ -1,0 +1,228 @@
+; 0x000396f9 ワルキューレ達を乗せた船は、
+0x000396f9 The ship carrying Valkyrie
+
+; 0x0003971a 一路、アファ大陸を目指します。
+0x0003971a traveled to the Afa Continent.
+
+; 0x00039748 かんむり岬を出航してまもなく、
+0x00039748 Shortly after leaving Crown Cape,
+
+; 0x00039769 船はアファの南岸に近づきました。
+0x00039769 it reached the Afa southern coast.
+
+; 0x00039798 しかし、そこははじまりの国から
+0x00039798 However, it could not approach
+
+; 0x000397b9 逃げ出したタッタ族が居座っていて
+0x000397b9 because the Tatta tribe were
+
+; 0x000397da 近づく事ができません。
+0x000397da occupying the area.
+
+; 0x00039808 やむなくワルキューレ達は、
+0x00039808 Valkyrie had no choice but
+
+; 0x00039829 海岸線に沿って
+0x00039829 to head north
+
+; 0x0003984a 北へと向かいました。
+0x0003984a along the coast.
+
+; 0x000398bc えんえん砂漠。
+0x000398bc Endless Desert.
+
+; 0x000398dd そこは昔、アファ大陸の中心で、
+0x000398dd Once the fertile center 
+
+; 0x000398fe 緑あふれる肥沃な土地でした。
+0x000398fe of the Afa Continent.
+
+; 0x0003992c うわさではゾウナが呼んだ風が、
+0x0003992c Rumor says Zouna's wind 
+
+; 0x0003994d 数日の内にこの地を砂漠に
+0x0003994d turned it into a desert
+
+; 0x0003996e 変えたのだと言う事です。
+0x0003996e in a few days.
+
+; 0x0003999c そんな恐ろしい力を持つゾウナに、
+0x0003999c Can Valkyrie truly stand 
+
+; 0x000399bd 果たしてワルキューレは、
+0x000399bd against Zouna, with
+
+; 0x000399de 太刀打ち出来るのでしょうか？
+0x000399de such terrifying power?
+
+; 0x00039a3c 脱出したワルキューレの後ろで、
+0x00039a3c Behind the escaping Valkyrie,
+
+; 0x00039a5d ピラミッドはゆっくりと崩れて行き
+0x00039a5d the pyramid slowly crumbled,
+
+; 0x00039a7e やがて砂の海に沈んでいきました。
+0x00039a7e and sank into a sea of sand.
+
+; 0x00039aac それから数日後。
+0x00039aac Several days later.
+
+; 0x00039acd 北へと進むワルキューレの前に、
+0x00039acd As Valkyrie continued north,
+
+; 0x00039aee ようやく緑が広がり始めました。
+0x00039aee greenery finally began to appear.
+
+; 0x00039b1c 久しぶりに、人の生活の
+0x00039b1c For the first time in a while,
+
+; 0x00039b3d においもします。
+0x00039b3d she sensed signs of human life.
+
+; 0x00039b6c カルデラ山岳地帯。
+0x00039b6c Caldera Mountains.
+
+; 0x00039b8d そこには、精霊の血を引くと
+0x00039b8d There is a large town there,
+
+; 0x00039bae いわれる美しい姫君が治める
+0x00039bae ruled by a beautiful princess who
+
+; 0x00039bdc 大きな町があるといいます。
+0x00039bdc is said to descend from spirits.
+
+; 0x00039c0c そこへ行けば、
+0x00039c0c If she went there,
+
+; 0x00039c2d 何かゾウナの居所について判るかも
+0x00039c2d she might learn something about
+
+; 0x00039c4e 知れません・・・。
+0x00039c4e Zouna's whereabouts...
+
+; 0x00039cd4 虹の橋の上から彼方のカルデラ城を
+0x00039cd4 Glimpsing the distant Caldera 
+
+; 0x00039cf5 見納めしつつ、ワルキューレは
+0x00039cf5 Castle from the Rainbow Bridge, 
+
+; 0x00039d16 先へ進みました。
+0x00039d16 Valkyrie pressed onward.
+
+; 0x00039d44 荒れ狂うローレライの海を眼下に、
+0x00039d44 Below the raging Lorelei Sea,
+
+; 0x00039d65 やがて橋は、白く霞んだ大地へと
+0x00039d65 the bridge descended onto a
+
+; 0x00039d86 降りていきました。
+0x00039d86 white misty land.
+
+; 0x00039db4 そこは凍土に覆われた大地。
+0x00039db4 It's covered in frozen ground.
+
+; 0x00039dd5 南は富の国フルータジアに面する
+0x00039dd5 To the south lay the wealthy land
+
+; 0x00039df6 マッコウ大陸でした。
+0x00039df6 of Flutasia, on Makkou Continent.
+
+; 0x00039e4c 全速力でフルータジアを
+0x00039e4c Full speed ahead
+
+; 0x00039e6d 離れるマッコウ。
+0x00039e6d to Fulltasia.
+
+; 0x00039e8e ぐんぐんと小さくなっていく海岸。
+0x00039e8e The coast is getting smaller.
+
+; 0x00039ebc その時すでにワルキューレは、
+0x00039ebc By then, Valkyrie had already
+
+; 0x00039edd 肌身でゾウナの気配を
+0x00039edd sensed Zouna's presence
+
+; 0x00039efe 感じていました。
+0x00039efe with her own skin.
+
+; 0x00039f2c スフィンモスによる、
+0x00039f2c Several days had passed since
+
+; 0x00039f4d フルータジアの封印が
+0x00039f4d Sphinmoth broke Flutasia's seal,
+
+; 0x00039f6e 解かれて数日。
+0x00039f6e and the seal was undone.
+
+; 0x00039f9c いよいよゾウナの力は
+0x00039f9c At last, Zouna's power
+
+; 0x00039fbd マーベルランド中に
+0x00039fbd had begun to spread
+
+; 0x00039fde 広がり始めていたのです。
+0x00039fde throughout Marvel Land.
+
+; 0x0003a00c しかし、
+0x0003a00c But,
+
+; 0x0003a02d もう後戻りは出来ません。
+0x0003a02d there was no turning back.
+
+; 0x0003a05c すでにワルキューレの前に、
+0x0003a05c Already before Valkyrie,
+
+; 0x0003a07d ゾウナの島が黒々とした姿を
+0x0003a07d Zouna's Island loomed darkly
+
+; 0x0003a09e 現していました。
+0x0003a09e before her.
+
+; 0x0003a13d ゾウナとの戦いから無事生還した
+0x0003a13d Having survived the battle with
+
+; 0x0003a15e ワルキューレを待っていたのは、
+0x0003a15e Zouna, waiting for Valkyrie were
+
+; 0x0003a18c マッコウやクリノ、ティアナ姫、
+0x0003a18c Makkou, Kurino, Princess Tiana,
+
+; 0x0003a1ad そして、クリノをゾウナの島へ
+0x0003a1ad and the Enriques who had escorted
+
+; 0x0003a1ce 送り届けたエンリケ族達でした。
+0x0003a1ce Kurino to Zouna's Island.
+
+; 0x0003a1fc ワルキューレ達はエンリケ族の船に
+0x0003a1fc Valkyrie boarded the Enriques'
+
+; 0x0003a21d 乗り込み、フルータジアから
+0x0003a21d ship and left Fulltasia,
+
+; 0x0003a23e マッコウ大陸に沿って
+0x0003a23e heading north along
+
+; 0x0003a26c 海岸線を北へと向かいました。
+0x0003a26c the Makkou Continent's coast.
+
+; 0x0003a29c 人々はこれからそれぞれ、
+0x0003a29c From here, everyone would
+
+; 0x0003a2bd 自分たちの元いた場所、故郷へと
+0x0003a2bd return to their former homes,
+
+; 0x0003a2de 帰っていきます。
+0x0003a2de to the places they came from.
+
+; 0x0003a30c 誰の顔も、未来への希望と、
+0x0003a30c Every face shone with hope for
+
+; 0x0003a32d マーベルランドを復興させる
+0x0003a32d the future and the resolve to
+
+; 0x0003a34e 使命感とに満ち溢れ、
+0x0003a34e restore Marvel Land to
+
+; 0x0003a37c 輝いていました。
+0x0003a37c its former glory.
+

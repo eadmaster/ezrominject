@@ -2,8 +2,7 @@
 
 ## Current status  🏗️
 
- - Translated most of the dialogues text (revision incomplete, still a lot of placeholder text)
- - Translated most of the menus
+ - All dialogue text translated, 1st revision pass complete.
  - Gfx text/buttons are NOT translated
  - **Only partially tested, there may be crashes!**
 

@@ -1,0 +1,483 @@
+; 0x000436f5 ・・・・・・・んん？
+0x000436f5 ...Hmm?
+
+; 0x00043716 ここ・・・どこだっけ？
+0x00043716 Where... is this?
+
+; 0x00043744 んんんんん〜〜〜〜〜〜〜。
+0x00043744 Hmmmmmm...
+
+; 0x00043765 なんだかからだがぁ〜〜〜。
+0x00043765 My body feels...
+
+; 0x00043786 なまってるぅ〜〜〜〜〜〜。
+0x00043786 sluggish...
+
+; 0x000437b4 んんんんんんんん〜〜〜！
+0x000437b4 Hmmmmmm...!
+
+; 0x000437d5 ひと暴れしたい気分んんん〜〜〜！
+0x000437d5 Feel like raising hell...!
+
+; 0x000437f6 よおおおしい〜〜〜。
+0x000437f6 Alright...
+
+; 0x00043824 お〜〜〜れ〜〜〜も〜〜〜。
+0x00043824 Ii~~~.
+
+; 0x00043845 い〜〜〜く〜〜〜ぞおおお〜〜〜！
+0x00043845 Ohhhhhhhhhhh.
+
+; 0x00043874 ＜雷の術を手に入れた！＞
+0x00043874 Here... we... GOOOOO!
+
+; 0x000438ec ＜どこかで扉の開く音がした＞
+0x000438ec <Found Lightning Magic!>
+
+; 0x0004392c ＜とびらは、固く閉ざされている＞
+0x0004392c <Heard a door open somewhere>
+
+; 0x0004396c ふむ・・・。　どうやらわがはいを
+0x0004396c <The door is shut tight.>
+
+; 0x0004398d あの巨人の中から助け出して
+0x0004398d Hmm... Seems you rescued me
+
+; 0x000439ae くれたのはきみのようだね？
+0x000439ae from that giant?
+
+; 0x000439dc ふむ・・・
+0x000439dc Right?
+
+; 0x000439fd たった一人でこの迷宮にいどみ、
+0x000439fd Hmm...
+
+; 0x00043a1e あのゾウナに立ち向かう娘か・・
+0x00043a1e Facing that Zouna alone
+
+; 0x00043a4c 気に入った！
+0x00043a4c in this labyrinth.
+
+; 0x00043a6d わがはいは、火の精霊！　ぜひ
+0x00043a6d I like you!
+
+; 0x00043a8e 旅のお供に加えていただきたい！
+0x00043a8e I am the Fire Spirit! Please.
+
+; 0x00043abc ＜炎の術を手に入れた！＞
+0x00043abc let me join your journey!
+
+; 0x00043b2c ＜何だか動きがおかしい・・・。＞
+0x00043b2c <Flame Magic obtained!>
+
+; 0x00043b5c ＜・・・どうやらこちらを敵と認識
+0x00043b5c <Its movements seem erratic...>
+
+; 0x00043b7d していないようだ。＞
+0x00043b7d Seems inactive.>
+
+; 0x00043bac ＜これなら、放っておいても
+0x00043bac <Should be safe to leave
+
+; 0x00043bcd 大丈夫だろう。＞
+0x00043bcd alone.>
+
+; 0x00043bfc ＜ワルキューレの杖を
+0x00043bfc <It seems to be staring
+
+; 0x00043c1d 見ているようだ・・・。＞
+0x00043c1d at Valkyrie's staff...>
+
+; 0x00043c4c ＜何か思いついたらしい。＞
+0x00043c4c <Looks like it had an idea.>
+
+; 0x00043c7c ＜何か伝えたい事が
+0x00043c7c <Seems to want to tell you
+
+; 0x00043c9d あるようだ・・・。＞
+0x00043c9d something...>
+
+; 0x00043ccc ＜わからない・・・。＞
+0x00043ccc <Can't understand...>
+
+; 0x00043cfc ＜・・やっぱりわからない・・。＞
+0x00043cfc <Still can't understand...>
+
+; 0x00043d2c ＜・・・いってしまった・・・。＞
+0x00043d2c <...It’s gone...>
+
+; 0x00043d5c ＜一体何だったんだろう・・・？＞
+0x00043d5c <What was that all about...?>
+
+; 0x00043e30 きたか・・・。
+0x00043e30 He’s here.
+
+; 0x00043e51 とうとう、ここまで・・・。
+0x00043e51 At last, this far...
+
+; 0x00043e80 新月王ばかりか、あの黒きサンドラ
+0x00043e80 Not just the New Moon King, but
+
+; 0x00043ea1 をも打ち破るとはな・・・。
+0x00043ea1 that Black Sandra too...
+
+; 0x00043ed0 さすがは天界に遣わされし者。
+0x00043ed0 To think you'd defeat them both...
+
+; 0x00043ef1 大したものだと誉めてやろう・・。
+0x00043ef1 I shall praise your feat...
+
+; 0x00043f20 ・・・だが、ここまでだ。
+0x00043f20 ...But this is the end.
+
+; 0x00043f41 お前を永久の暗黒の世界へ
+0x00043f41 I'll drag you into eternal
+
+; 0x00043f62 誘ってやる。
+0x00043f62 darkness.
+
+; 0x00043f90 くっくっく・・・無駄だ。
+0x00043f90 Hehehe... It's useless.
+
+; 0x00043fb1 ここではおまえの力、
+0x00043fb1 Your power won't
+
+; 0x00043fd2 使えはせぬよ・・・。
+0x00043fd2 work here...
+
+; 0x00044000 乙女の騎士よ・・・。
+0x00044000 Maiden knight...
+
+; 0x00044021 ここまで随分と楽しませて
+0x00044021 You've entertained me greatly,
+
+; 0x00044042 もらったが・・・。
+0x00044042 but now...
+
+; 0x00044070 ・・・そろそろ終わりにしよう。
+0x00044070 ...Let’s end this.
+
+; 0x00044091 出でよ、リジャック！
+0x00044091 Come forth, Rijakku!
+
+; 0x000440c0 リジャックよ！
+0x000440c0 Rijakku!
+
+; 0x000440e1 乙女の騎士の魂を・・・
+0x000440e1 Seal the maiden knight's
+
+; 0x00044102 この場にて、丁重に封じるのだ！
+0x00044102 soul right here and now!
+
+; 0x00044130 ・・・む？
+0x00044130 ...Hm?
+
+; 0x00044151 ・・・何だ貴様？
+0x00044151 What are you...?
+
+; 0x00044172 何をしにここまで来た・・・？
+0x00044172 Why have you come here?
+
+; 0x000441a0 それは・・・！
+0x000441a0 That's...!
+
+; 0x000441c1 貴様、何のつもりかっ！
+0x000441c1 What are you planning?!
+
+; 0x000441f0 この、痴れ者が！
+0x000441f0 You fool!
+
+; 0x00044220 なぜだ・・・。
+0x00044220 Why...
+
+; 0x00044241 なぜロボティアンが乙女の騎士に
+0x00044241 Why would a Robotian help
+
+; 0x00044262 加勢を・・・。
+0x00044262 me...
+
+; 0x00044290 ・・・そうか、さきほど
+0x00044290 ...I see. The remnants
+
+; 0x000442b1 製造機の中に残っていたものが、
+0x000442b1 left inside the machine
+
+; 0x000442d2 爆発のショックで・・・。
+0x000442d2 due to the explosion...
+
+; 0x00044300 忌々しい・・・。
+0x00044300 Damn...
+
+; 0x00044321 消えろ！
+0x00044321 Go away!
+
+; 0x00044350 おのれ・・・。
+0x00044350 Damn you...
+
+; 0x00044371 なんと悪運の強いやつよ・・・。
+0x00044371 What bad luck...
+
+; 0x00044392 さあ、その杖を我に返すのだ・・
+0x00044392 Now, return that staff to me...
+
+; 0x000444b4 これが・・・
+0x000444b4 The...
+
+; 0x000444d5 秘められし天界の武具の力か。
+0x000444d5 power of heavenly arms.
+
+; 0x000444f6 我が影を倒すとは・・・。
+0x000444f6 To defeat my shadow...
+
+; 0x00044524 乙女の騎士よ、
+0x00044524 Maiden knight,
+
+; 0x00044545 貴様をここから出させはせぬ。
+0x00044545 I won’t let you leave here.
+
+; 0x00044574 杖もろとも、
+0x00044574 Staff and all,
+
+; 0x00044595 地中深く埋もれて
+0x00044595 be buried deep
+
+; 0x000445b6 朽ち果てるがよい！
+0x000445b6 underground and die!
+
+; 0x0004460c へへ、ビックリした？
+0x0004460c Hehe, surprised?
+
+; 0x0004462d ワルキューレ様、久しぶりだね！
+0x0004462d Long time no see, Valkyrie!
+
+; 0x0004465c ボクだよ、
+0x0004465c It’s me,
+
+; 0x0004467d エンリケ族の・・・。
+0x0004467d the Enrique boy...
+
+; 0x000446ac なんでこんな所にいるのかって？
+0x000446ac Wondering why I'm here?
+
+; 0x000446cd それはね・・・。
+0x000446cd Well...
+
+; 0x000446fc とにかくボクについてきて、
+0x000446fc Just follow me, and
+
+; 0x0004471d そしたらもっとビックリするから！
+0x0004471d you'll be even more surprised!
+
+; 0x00044780 お〜〜〜〜〜い。
+0x00044780 Heeeey!
+
+; 0x000447b0 お〜〜〜い、こっち、
+0x000447b0 Hey, over here,
+
+; 0x000447d1 こっちだよお！
+0x000447d1 this way!
+
+; 0x000447f2 ワルキューレさ〜ん！
+0x000447f2 Miss Valkyrie!
+
+; 0x00044820 さあ、はやくぼくの背中に
+0x00044820 Nnn!
+
+; 0x00044841 乗るんだ！
+0x00044841 Hurry, get on my back!
+
+; 0x00044862 さあ！
+0x00044862 Hop on!
+
+; 0x00044890 フルータジアの結界が
+0x00044890 Come on!
+
+; 0x000448b1 消えた時から、
+0x000448b1 Ever since Flutasia's
+
+; 0x000448d2 ずっと君を探していたんだ！
+0x000448d2 barrier fell,
+
+; 0x00044900 妖精さんには
+0x00044900 I’ve been looking for you!
+
+; 0x00044921 止められたけれどね・・・。
+0x00044921 The fairies
+
+; 0x00044950 ・・・魔王の島にいくんでしょ？
+0x00044950 tried to stop me, but...
+
+; 0x00044971 だったら、ぼくにまかせて。
+0x00044971 Heading to the Demon Lord's Isle?
+
+; 0x000449a0 約束したでしょ？
+0x000449a0 Then leave it to me.
+
+; 0x000449c1 改めてお礼をするって。
+0x000449c1 Didn’t we promise?
+
+; 0x000449f0 さあ・・・全速力でいくよ！
+0x000449f0 That I'd repay you properly.
+
+; 0x00044a20 よお〜し。
+0x00044a20 Alright... Full speed ahead!
+
+; 0x00044a41 見えてきた、見えてきた。
+0x00044a41 Okay.
+
+; 0x00044a62 魔王の島！！
+0x00044a62 There it is, I can see it!
+
+; 0x00044a90 この１００年くらいの間に
+0x00044a90 Demon Lord's Isle!!
+
+; 0x00044ab1 この海を越えた人って、
+0x00044ab1 They say no one has crossed
+
+; 0x00044ad2 一人もいないって話だよ？
+0x00044ad2 this sea in the last
+
+; 0x00044b00 ふふふ・・・。
+0x00044b00 100 years or so.
+
+; 0x00044b21 こりゃあ、すごい冒険になるぞお！
+0x00044b21 Hehehe...
+
+; 0x00044b50 ワルキューレさん！
+0x00044b50 This is going to be quite the adventure!
+
+; 0x00044b71 上陸までもう少しだよ！
+0x00044b71 Miss Valkyrie!
+
+; 0x00044b92 こっからは気を引き締めてぇ・・
+0x00044b92 We’re almost there!
+
+; 0x00044bc0 ・・・ん？
+0x00044bc0 Better stay sharp from here on out...
+
+; 0x00044bf0 うわ、き、来たなぁ〜〜？
+0x00044bf0 Hm?
+
+; 0x00044c20 へへ、でもこの程度なら！
+0x00044c20 Whoa, h-here they come?!
+
+; 0x00044c50 わあ・・・。
+0x00044c50 Hehe, but this is nothing!
+
+; 0x00044c71 さすが魔王の庭先って感じ・・・。
+0x00044c71 Wow...
+
+; 0x00044ca0 でもまだこんなもんじゃ、
+0x00044ca0 Truly the Demon Lord's doorstep...
+
+; 0x00044cc1 ボクの行く手を阻めな・・・。
+0x00044cc1 But we can't let this
+
+; 0x00044cf0 ・・・・・・。
+0x00044cf0 stop us...
+
+; 0x00044d20 ワ、ワルキューレさん？
+0x00044d20 M-Miss Valkyrie?
+
+; 0x00044d41 ごめん・・・。
+0x00044d41 Sorry..
+
+; 0x00044d70 先に行ってて！！
+0x00044d70 Go ahead!!
+
+; 0x00044edc この先は、
+0x00044edc Up ahead,
+
+; 0x00044efd まだ魔物がうろついております。
+0x00044efd monsters are still roaming.
+
+; 0x00044f1e ここは私達に任せてください。
+0x00044f1e Leave this to us.
+
+; 0x00044f4c ようこそワルキューレ様！
+0x00044f4c Welcome, Lady Valkyrie!
+
+; 0x00044f6d みんな城で、あなたが来るのを
+0x00044f6d Everyone at the castle awaits
+
+; 0x00044f8e まっていますよ！
+0x00044f8e your arrival!
+
+; 0x00044fbc 城へは、十字路を南に行けば
+0x00044fbc Head south at the crossroads
+
+; 0x00044fdd すぐです。
+0x00044fdd the castle is nearby.
+
+; 0x00045044 へへへ、
+0x00045044 Heheh,
+
+; 0x00045065 どうやらご無事のようですね？
+0x00045065 glad to see you safe!
+
+; 0x00045094 それでこそあっし達の女神さまだ！
+0x00045094 That's our goddess for you!
+
+; 0x000450b5 ・・・おっと。
+0x000450b5 Oops...
+
+; 0x000450d6 そうそう、忘れねえ内にっ、と。
+0x000450d6 Right, before I forget.
+
+; 0x00045104 ＜万能鍵を取り上げられて
+0x00045104 <The Master Key was
+
+; 0x00045125 しまった。＞
+0x00045125 taken away>
+
+; 0x00045154 ん？
+0x00045154 Hm?
+
+; 0x00045175 ・・・ああっ！
+0x00045175 Ahhh!
+
+; 0x00045196 こんな所に見慣れないキズが！
+0x00045196 An unfamiliar scratch here!
+
+; 0x000451c4 あ〜あ、何かむちゃな使い方を
+0x000451c4 Aw, did you use it in a
+
+; 0x000451e5 したんじゃないですかぁ？
+0x000451e5 reckless way?
+
+; 0x00045214 ・・・ま、女神様の祝福を
+0x00045214 ...Well, let's say it
+
+; 0x00045235 頂いたって事にでもしときますか？
+0x00045235 received a goddess's blessing.
+
+; 0x00045264 ・・・さて、さすがのあっしも、
+0x00045264 ...Now, even I can only
+
+; 0x00045285 ご一緒できるのはここまでです。
+0x00045285 accompany you this far.
+
+; 0x000452b4 ・・・だからこそっ！
+0x000452b4 ...That’s why!
+
+; 0x000452d5 ワルキューレ様、今回の品揃えは
+0x000452d5 Lady Valkyrie, this time the
+
+; 0x000452f6 半端じゃなく豪華ですよお〜。
+0x000452f6 selection of items is
+
+; 0x00045324 さあ、じっくり見てって下さい！
+0x00045324 luxurious! Take a good look!
+
+; 0x000453c4 へへ・・・こんな事言うのは、
+0x000453c4 Heh heh... Not really my
+
+; 0x000453e5 あっしのガラじゃねえんですがね
+0x000453e5 style to say this, but...
+
+; 0x00045406 ワルキューレ様・・・
+0x00045406 Lady Valkyrie...
+
+; 0x00045434 がんばってくだせえよ！
+0x00045434 Good luck!
+

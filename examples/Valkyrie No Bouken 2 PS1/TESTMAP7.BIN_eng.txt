@@ -1,0 +1,147 @@
+; 0x0002c9d9 時のはじまりへ。
+0x0002c9d9 To the start of time.
+
+; 0x0002c9fa 無の空へ。
+0x0002c9fa To the empty sky.
+
+; 0x0002ca1b 全ての魂の原点へ。
+0x0002ca1b To the origin of all souls.
+
+; 0x0002ca48 世界を、
+0x0002ca48 World,
+
+; 0x0002ca69 闇に還す日が来た・・・。
+0x0002ca69 The day has come to return you to the darkness.
+
+; 0x0002ca8a 今宵、我は世界を砕く。
+0x0002ca8a Tonight, I will crush the world.
+
+; 0x0002cab8 そしてその残骸と共に零へと還る。
+0x0002cab8 Then, along with its remains, it returned to zero.
+
+; 0x0002cae8 ワルキューレ。
+0x0002cae8 Valkyrie.
+
+; 0x0002cb09 もうすぐ、我の役目は終わる。
+0x0002cb09 Soon, my role will end.
+
+; 0x0002cb38 幸福な幻の中、
+0x0002cb38 In the midst of a happy illusion,
+
+; 0x0002cb59 その時を待っておれば
+0x0002cb59 If I wait for that moment
+
+; 0x0002cb7a 良いものを・・・。
+0x0002cb7a Good stuff.
+
+; 0x0002cba8 まあよい。
+0x0002cba8 Oh well.
+
+; 0x0002cbc9 世界に残された時間のつきるまで、
+0x0002cbc9 Until the time left in the world,
+
+; 0x0002cbea 我を楽しませておくれ。
+0x0002cbea Entertain me.
+
+; 0x0002cc8c ＜この扉の向こうから、
+0x0002cc8c From beyond this door,
+
+; 0x0002ccad 強烈な魔力を感じる。＞
+0x0002ccad I feel intense magical power.>
+
+; 0x0002ccdc ＜入りますか？＞
+0x0002ccdc Do you want to go in?
+
+; 0x0002cd28 世界の終点へようこそ。
+0x0002cd28 Welcome to the world’s end.
+
+; 0x0002cd49 ワルキューレ。
+0x0002cd49 Valkyrie.
+
+; 0x0002cd78 さあ、行こう・・・。
+0x0002cd78 Come on, let’s go.
+
+; 0x0002cd99 我らが闇に還るのに、
+0x0002cd99 To return to our darkness,
+
+; 0x0002cdba ふさわしい舞台へ！
+0x0002cdba A fitting stage!
+
+; 0x0002ce04 ・・・おお・・・。
+0x0002ce04 Ohhh...
+
+; 0x0002ce25 離れてゆく・・・。
+0x0002ce25 I’m leaving.
+
+; 0x0002ce54 我から、
+0x0002ce54 I’ll...
+
+; 0x0002ce75 我の抱いた魂達が・・・
+0x0002ce75 My soul...
+
+; 0x0002ce96 離れてゆく。
+0x0002ce96 She leaves.
+
+; 0x0002cec4 零に戻るは・・・
+0x0002cec4 Back to zero...
+
+; 0x0002cee5 我、ひとり・・・か・・・。
+0x0002cee5 I’m alone.
+
+; 0x0002cf14 だがな・・・。
+0x0002cf14 But...
+
+; 0x0002cf35 これで全てが終わりではないぞ。
+0x0002cf35 This isn’t the end of it.
+
+; 0x0002cf64 マーベルランドに生命輝く限り、
+0x0002cf64 As long as life shines in Marvel Land,
+
+; 0x0002cf85 我の存在も滅することはない。
+0x0002cf85 My existence won’t be destroyed.
+
+; 0x0002cfb4 光あるところ、
+0x0002cfb4 Where there’s light
+
+; 0x0002cfd5 闇もまたあり・・・。
+0x0002cfd5 There’s darkness too.
+
+; 0x0002d05c ニコル！、ティアナ姫！
+0x0002d05c Nicol! Princess Tiana!
+
+; 0x0002d08c おお、あなたか、
+0x0002d08c Oh, you,
+
+; 0x0002d0ad クリノ。
+0x0002d0ad Kurino.
+
+; 0x0002d0dc よかった、
+0x0002d0dc Good,
+
+; 0x0002d0fd ２人とも無事のようだね！
+0x0002d0fd Looks like you two are safe!
+
+; 0x0002d12c しかし・・・。
+0x0002d12c But..
+
+; 0x0002d14d ワルキューレ様はどこに・・・。
+0x0002d14d Where’s Lady Valkyrie?
+
+; 0x0002d17c わたくし達は、あの方の勇敢な
+0x0002d17c We are his bravery.
+
+; 0x0002d19d 戦いを、ずっと見ていましたわ・・
+0x0002d19d I’ve been watching you fight.
+
+; 0x0002d1cc 大丈夫、
+0x0002d1cc I’m fine,
+
+; 0x0002d1ed あの方ならきっと・・・。
+0x0002d1ed I’m sure he’d...
+
+; 0x0002d21c あ・・・空に・・・！
+0x0002d21c The sky!
+
+; 0x0002d2a8 ＜扉は強力な力で閉じられている＞
+0x0002d2a8 The door is closed with powerful force.
+

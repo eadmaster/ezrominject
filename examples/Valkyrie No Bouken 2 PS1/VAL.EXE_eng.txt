@@ -1,0 +1,603 @@
+;; items in submenu
+
+; 0x000016a0 天界の戦士の杖
+0x000016a0 CelestialStaff
+
+; 0x000016b0 光の杖
+0x000016b0 Light Staff
+
+; 0x000016c0 敵を貫く弾
+0x000016c0 PiercingBullets
+
+; 0x000016d0 くさびの魔石
+0x000016d0 StoneOfCune
+
+; 0x000016e0 ３方向ショット
+0x000016e0 3-Way Shot
+
+; 0x000016f0 三光石
+0x000016f0 3LightsStone
+
+; 0x00001700 ４方向ショット
+0x00001700 4-Way Shot
+
+; 0x00001710 四光石
+0x00001710 4LightsStone
+
+; 0x00001720 威力満点の爆弾
+0x00001720 Power Bombs
+
+; 0x00001730 爆弾
+0x00001730 Bombs
+
+; 0x00001740 敵を追う誘導弾
+0x00001740 Homing Shot
+
+; 0x00001750 狩人のたましい
+0x00001750 Hunter’s Soul
+
+; 0x00001760 幅広いショット
+0x00001760 Wide Shot
+
+; 0x00001770 風切りの石
+0x00001770 Wind Slash Stone
+
+; 0x00001780 聖光を放つ杖
+0x00001780 Holy Glowing Staff
+
+; 0x00001790 福音の杖
+0x00001790 Gospel Staff
+
+; 0x000017a0 謎の力を持つ杖
+0x000017a0 Mysterious Staff
+
+; 0x000017b0 秘術の杖
+0x000017b0 Secret Staff
+
+; 0x000017c0 ライフが回復
+0x000017c0 Life Recovery
+
+; 0x000017d0 ライフ回復薬
+0x000017d0 Life Recovery Potion
+
+; 0x000017e0 マジックが回復
+0x000017e0 Magic Recovery
+
+; 0x000017f0 マジック回復薬
+0x000017f0 Magic Recovery Potion
+
+; 0x00001800 すべて回復
+0x00001800 All recovered
+
+; 0x00001810 万能薬
+0x00001810 Elixir
+
+; 0x00001830 精霊の盾
+0x00001830 Spirit Shield
+
+; 0x00001840 万能鍵
+0x00001840 Master Key
+
+; 0x00001850 月のカケラ
+0x00001850 Moon Fragment
+
+; 0x00001860 虹の粉
+0x00001860 Rainbow Powder
+
+; 0x00001870 大爆弾
+0x00001870 Bomb
+
+; 0x00001880 万能薬・試作品
+0x00001880 Panacea
+
+; 0x00001890 虹の衣
+0x00001890 RainbowClothes
+
+; 0x000018a0 星笛
+0x000018a0 Star Whistle
+
+; 0x000018b0 ロボの頭
+0x000018b0 Robot Head
+
+; 0x000018c0 分身を作り出す
+0x000018c0 Clone Magic
+
+; 0x000018d0 鏡の術
+0x000018d0 Mirror Magic
+
+; 0x000018e0 敵を吹き飛ばす
+0x000018e0 Blow up the enemy
+
+; 0x000018f0 竜巻の術
+0x000018f0 Tornado Magic
+
+; 0x00001900 雷を身にまとう
+0x00001900 Wear lightning
+
+; 0x00001910 雷の術
+0x00001910 Lightning Magic
+
+; 0x00001920 炎の竜を呼ぶ
+0x00001920 Fire Dragon Magic
+
+; 0x00001930 炎の術
+0x00001930 Flame Magic
+
+; 0x00001940 大地の力で回復
+0x00001940 Earth Recovery
+
+; 0x00001950 花の術
+0x00001950 Flower Magic
+
+; 0x00001960 流星で攻撃
+0x00001960 Meteor Magic
+
+; 0x00001970 星の術
+0x00001970 Star Magic
+
+; 0x00001980 敵を凍えさせる
+0x00001980 Freeze Magic
+
+; 0x00001990 雪の術
+0x00001990 Snow Magic
+
+
+;; TODO: savegame name?
+; 0x000024a0 ワルキューレの冒険　　　　　　　　　　　　　ナムコアンソロジー２
+0x000024a0 Valkyrie’s Adventures
+
+; TODO: FIX
+; 0x000024fc 差込口１差込口２
+0x000024fc Slot 1Slot 2
+
+
+;; chests messages
+
+; 0x000f3eb0 ＜月のカケラを手に入れた！＞
+0x000f3eb0 <Got Moon Fragment!>
+
+; 0x00101148 ここに捕らわれていた精霊は、
+0x00101148 The spirit trapped here...
+
+; 0x0010116c すでに助けてある。
+0x0010116c was already saved.
+
+; 0x001076d8 ＜３０Ｇｏｌｄを手に入れた！＞
+0x001076d8 <Found 30 gold!>
+
+; 0x00107710 ＜５０Ｇｏｌｄを手に入れた！＞
+0x00107710 <Found 50 gold!>
+
+; 0x00107748 ＜ライフ回復薬を手に入れた！＞
+0x00107748 <Found a Life Recovery Potion!>
+
+; 0x0010776c 宝箱にはライフ回復薬が入っていた
+0x0010776c Found a Life Recovery Potion
+
+; 0x00107790 しかし、もう荷物がいっぱいで、
+0x00107790 but there is no space
+
+; 0x001077b4 持てない。
+0x001077b4 left.
+
+; 0x001077d8 ライフ回復薬を宝箱へ返した。
+0x001077d8 Returned Life Recovery Potion.
+
+; 0x00107834 ＜マジック回復薬を手に入れた！＞
+0x00107834 <Found a Magic Recovery Potion!>
+
+; 0x00107858 宝箱にはマジック回復薬が
+0x00107858 Found a a Magic Recovery Potion
+
+; 0x0010787c 入っていた。　しかし、荷物が
+0x0010787c but there is no space
+
+; 0x001078a0 いっぱいで持てない。
+0x001078a0 left.
+
+; 0x001078c4 マジック回復薬を宝箱へ返した。
+0x001078c4 Returned to the chest.
+
+; 0x00107920 ＜万能薬を手に入れた！＞
+0x00107920 <Found a Panacea!>
+
+; 0x00107944 宝箱には万能薬が入っていた。
+0x00107944 The chest contained a Panacea
+
+; 0x00107968 万能薬を宝箱へ返した。
+0x00107968 Returned to the chest.
+
+; 0x001079c4 ＜ライフの器を手に入れた！＞
+0x001079c4 <Got the Life Vessel!>
+
+; 0x001079fc ＜マジックの器を手に入れた！＞
+0x001079fc <Magic Vessel obtained!>
+
+; 0x00107a34 ＜１００Ｇｏｌｄを手に入れた！＞
+0x00107a34 <Got 100 gold!>
+
+; 0x00107a6c ＜２００Ｇｏｌｄを手に入れた！＞
+0x00107a6c <Got 200 gold!>
+
+; 0x00107aa4 ＜５００Ｇｏｌｄを手に入れた！＞
+0x00107aa4 <Got 500 gold!>
+
+; 0x00107adc ＜１０００Ｇｏｌｄを
+0x00107adc <Got 1000 gold!>
+
+; 0x00107b00 手に入れた！＞
+0x00107b00 Got it!>
+
+; 0x00107b38 ＜風切りの石を手に入れた！＞
+0x00107b38 <Got a Wind Slash Stone!>
+
+; 0x00107b5c 風切りの石を見つけた！しかし
+0x00107b5c I found a Wind Slash Stone!
+
+; 0x00107b80 風切りの石はこれ以上持てない。
+0x00107b80 I cannot carry more.
+
+; 0x00107ba4 風切りの石を宝箱へ返しました。
+0x00107ba4 Returned to the chest.
+
+; 0x00107c00 ＜狩人のたましいを手に入れた！＞
+0x00107c00 <Obtained Hunter’s Soul!>
+
+; 0x00107c24 狩人のたましいを見つけた！しかし
+0x00107c24 I found Hunter’s Soul!
+
+; 0x00107c48 狩人のたましいはこれ以上持てない
+0x00107c48 I cannot carry more.
+
+; 0x00107c6c 狩人のたましいを宝箱へ返しました
+0x00107c6c Returned to the chest.
+
+; 0x00107cc8 ＜三光石を手に入れた！＞
+0x00107cc8 <Got 3 Lights Stone!>
+
+; 0x00107cec 三光石を見つけた！しかし
+0x00107cec Found 3 Lights Stone!
+
+; 0x00107d10 三光石はこれ以上持てない。
+0x00107d10 but I cannot carry more.
+
+; 0x00107d34 三光石を宝箱へ返しました。
+0x00107d34 Returned to the chest.
+
+; 0x00107d90 ＜四光石を手に入れた！＞
+0x00107d90 <Got the 4 Lights Stone!>
+
+; 0x00107db4 四光石を見つけた！しかし
+0x00107db4 I found a 4 Lights Stone!
+
+; 0x00107dd8 四光石はこれ以上持てない。
+0x00107dd8 But I cannot carry more.
+
+; 0x00107dfc 四光石を宝箱へ返しました。
+0x00107dfc Returned to the chest.
+
+; 0x00107e58 ＜くさびの魔石を手に入れた！＞
+0x00107e58 <Got a Rust Magic Stone!>
+
+; 0x00107e7c くさびの魔石を見つけた！しかし
+0x00107e7c I found a Rust Magic Stone!
+
+; 0x00107ea0 くさびの魔石はこれ以上持てない。
+0x00107ea0 But I cannot carry more.
+
+; 0x00107ec4 くさびの魔石を宝箱へ返しました。
+0x00107ec4 Returned to the chest.
+
+; 0x00107f20 ＜爆弾を手に入れた！＞
+0x00107f20 <Got a bomb!>
+
+; 0x00107f40 爆弾を見つけた！しかし
+0x00107f40 Found a bomb!
+
+; 0x00107f60 爆弾はこれ以上持てない。
+0x00107f60 But I cannot carry more.
+
+; 0x00107f80 爆弾を宝箱へ返しました。
+0x00107f80 Returned to the chest.
+
+; 0x00109350 私は、時を記すもの。
+0x00109350 I am the Time Stone.
+
+; 0x00109374 あなたの時を私に記録しますか？
+0x00109374 Shall I record your time?
+
+; 0x001093c8 あなたの時に
+0x001093c8 Adventurer,
+
+; 0x001093ec 幸おおからんことを・・・。
+0x001093ec I wish you luck...
+
+; 0x0010941c メモリーカードを
+0x0010941c Checking
+
+; 0x00109440 チェックしています。
+0x00109440 Memory Card.
+
+; 0x00109464 メモリーカードを抜かないで下さい
+0x00109464 Don’t remove it.
+
+; 0x00109494 差込口１にメモリーカードが
+0x00109494 There’s a memory card in slot 1.
+
+; 0x001094b8 接続されていません。
+0x001094b8 Not inserted.
+
+; 0x001094dc 正しく接続して下さい。
+0x001094dc Please insert properly.
+
+; 0x0010950c 差込口２にメモリーカードが
+0x0010950c There’s a memory card in slot 2.
+
+; 0x0010953c このメモリーカードは
+0x0010953c This memory card
+
+; 0x00109560 初期化されていません。
+0x00109560 hasn’t been initialized.
+
+; 0x00109584 初期化しますか？
+0x00109584 Initialize?
+
+; 0x001095b4 初期化中です。
+0x001095b4 Initializing.
+
+; 0x001095d8 メモリーカードを
+0x001095d8 Memory card
+
+; 0x001095fc 抜かないで下さい。
+0x001095fc Don’t pull out.
+
+; 0x0010962c 初期化に失敗しました。　もう１度
+0x0010962c Initialization failed. Try again.
+
+; 0x00109650 初期化するか、別のメモリーカード
+0x00109650 Initialize or use another memory card
+
+; 0x00109674 を使用して下さい。
+0x00109674 Use this.
+
+; 0x001096a4 別のメモリーカードを
+0x001096a4 Another memory card
+
+; 0x001096c8 使用して下さい。
+0x001096c8 Use this.
+
+; 0x001096f8 初期化しました。
+0x001096f8 Initialize.
+
+; 0x00109728 このメモリーカードは
+0x00109728 This memory card
+
+; 0x0010974c 壊れています。
+0x0010974c it’s damaged.
+
+; 0x0010977c 空きブロックが不足しています。
+0x0010977c Not enough free blocks.
+
+; 0x001097a0 「ワルキューレの冒険」のデータを
+0x001097a0 Valkyrie’s Adventure data
+
+; 0x001097c4 保存できません。
+0x001097c4 Cannot save.
+
+; 0x001097f4 ファイルを選択して下さい。
+0x001097f4 Select a file.
+
+; 0x00109824 このファイルにセーブしますか？
+0x00109824 Save to this file?
+
+; 0x00109854 セーブを中断しますか？
+0x00109854 Cancel saving?
+
+; 0x00109884 セーブ中です。
+0x00109884 Saving...
+
+; 0x001098a8 メモリーカードを
+0x001098a8 Don’t pull out
+
+; 0x001098cc 抜かないで下さい。
+0x001098cc the Memory card.
+
+; 0x001098fc セーブが完了しました。
+0x001098fc Save completed.
+
+; 0x0010992c 正しくセーブできませんでした。
+0x0010992c Save failed.
+
+; 0x0010995c 使用するメモリーカードの
+0x0010995c Select the memory card
+
+; 0x0010997c 差込口を選択して下さい。
+0x0010997c slot to use.
+
+; 0x001099a8 ここに上書き保存します。
+0x001099a8 File will be overwritten.
+
+; 0x001099cc よろしいですか？
+0x001099cc Are you sure?
+
+; 0x00109c58 このファイルをロードしますか？
+0x00109c58 Load this file?
+
+; 0x00109c88 ロード中です。
+0x00109c88 Loaded.
+
+; 0x00109cb8 ロードが完了しました。
+0x00109cb8 Loaded.
+
+; 0x00109ce8 保存されているデータが
+0x00109ce8 No
+
+; 0x00109d0c ありません。
+0x00109d0c Save.
+
+; 0x00109d3c 正しくロードできませんでした。
+0x00109d3c Load Error.
+
+; 0x00109d6c ロードを中断しますか？
+0x00109d6c Cancel loading?
+
+
+;; Locations
+
+; 0x00109f08 はじまりの国
+0x00109f08 Land of Origin
+
+; 0x00109f18 アファ大陸
+0x00109f18 Afa
+
+; 0x00109f28 えんえん砂漠
+0x00109f28 EndlessDesert
+
+; 0x00109f38 ピラミッド
+0x00109f38 Pyramid
+
+; 0x00109f48 カルデラ地方
+0x00109f48 Caldera
+
+; 0x00109f58 マッコウ大陸
+0x00109f58 Makkou
+
+; 0x00109f68 フルータジア
+0x00109f68 Fulltasia
+
+; 0x00109f78 ゾウナの島
+0x00109f78 Zouna's Island
+
+; 0x00109fa4 　データが壊れています
+0x00109fa4 The data is corrupted.
+
+
+;; Shop messages
+
+
+; 0x0010c220 いらっしゃいませ〜。
+0x0010c220 Welcome.
+
+; 0x0010c250 お客さん・・・。
+0x0010c250 Customer...
+
+; 0x0010c274 お金が足りないようですねぇ？
+0x0010c274 Not enough money?
+
+; 0x0010c2a4 残念、そのアイテムはもう、
+0x0010c2a4 That item is no
+
+; 0x0010c2c8 お持ちになれないようですねぇ。
+0x0010c2c8 longer available.
+
+; 0x0010c2f8 まいどありがとうございました〜。
+0x0010c2f8 Thank you very much...
+
+; 0x0010c328 なんだい、ただの冷やかしとは
+0x0010c328 So you're just teasing me?
+
+; 0x0010c34c おひとが悪い。
+0x0010c34c How mean.
+
+; 0x0010c37c また御利用下さいませ〜。
+0x0010c37c Please come again!
+
+; 0x0010c3c0 ハードな旅のお供に一本。
+0x0010c3c0 One for a hard trip.
+
+; 0x0010c3e2 ライフ回復薬。
+0x0010c3e2 Life Recovery Potion.
+
+; 0x0010c404 これ一本で気力満点！
+0x0010c404 Full energy boost!
+
+; 0x0010c426 マジック回復薬。
+0x0010c426 Magic Recovery Potion.
+
+; 0x0010c448 気力、体力、全回復！
+0x0010c448 Energy and stamina fully restored!
+
+; 0x0010c46a これぞ万能の薬！
+0x0010c46a This is an elixir!
+
+; 0x0010c48c 全てを貫く貫通弾！
+0x0010c48c Bullets that pierce all!
+
+; 0x0010c4ae 前方に敵なしの３０発だ！
+0x0010c4ae Thirty undefeated shots ahead!
+
+; 0x0010c4d0 ズールお勧めの３方向攻撃！
+0x0010c4d0 3-way attack!
+
+; 0x0010c4f2 ３０発で１セットだ！
+0x0010c4f2 One set 30 shots!
+
+; 0x0010c514 前後左右の４方向攻撃！
+0x0010c514 4-way attack!
+
+; 0x0010c536 ３０発セットでこの価格！
+0x0010c536 30 rounds included!
+
+; 0x0010c558 威力満点！ズール印の爆弾だ！
+0x0010c558 Super powerful! It’s a Zul-branded bomb
+
+; 0x0010c57a この３０発で恐い物なしさ！
+0x0010c57a These 30 shots are terrifying!
+
+; 0x0010c59c 敵を追っかける誘導弾！
+0x0010c59c Chase the enemy!
+
+; 0x0010c5be この３０発で敵を蹴散らせ！
+0x0010c5be 30 shots to wipe the enemy!
+
+; 0x0010c5e0 全方向攻撃で迫る敵をなぎ倒せ！
+0x0010c5e0 Attack in all directions!
+
+; 0x0010c602 今なら３０発でこの価格だ！
+0x0010c602 30 shots for this price now!
+
+; 0x0010c624 ピクシー族が精魂込めた逸品！
+0x0010c624 A masterpiece from the Pixie tribe!
+
+; 0x0010c646 セレクトボタンで華麗に変身。
+0x0010c646 Transform with select button.
+
+; 0x0010d164 ゲームに復帰します
+0x0010d164 Back to the game
+
+; 0x0010d17c ゲームを終了して
+0x0010d17c End the game
+
+; 0x0010d194 ホームページに戻ります
+0x0010d194 Back to the homepage
+
+; 0x0010d1ac このゲームのタイトルに
+0x0010d1ac Return to the title
+
+; 0x0010d1c4 戻ります
+0x0010d1c4 screen.
+
+; 0x0010e438 ステージ１
+0x0010e438 Stage 1
+
+; 0x0010e444 ステージ２
+0x0010e444 Stage 2
+
+; 0x0010e450 ステージ３
+0x0010e450 Stage 3
+
+; 0x0010e45c ステージ４
+0x0010e45c Stage 4
+
+; 0x0010e468 ステージ５
+0x0010e468 Stage 5
+
+; 0x0010e474 ステージ６
+0x0010e474 Stage 6
+
+; 0x0010e480 ステージ７
+0x0010e480 Stage 7
+
+; 0x0010e48c ステージ８
+0x0010e48c Stage 8
+

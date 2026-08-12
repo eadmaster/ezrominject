@@ -1,0 +1,693 @@
+; 0x000346e5 誰だ？
+0x000346e5 Who is there? 
+
+; 0x00034706 ・・・よかった。
+0x00034706 ...Oh, 
+
+; 0x00034727 どうやら人間みたいだな？
+0x00034727 it's a human...
+
+; 0x00034754 いや、すまなかったね。
+0x00034754 Oh, I'm sorry.
+
+; 0x00034775 最近この辺りもすっかり物騒に
+0x00034775 It's gotten dangerous here
+
+; 0x00034796 なってね・・・。
+0x00034796 lately...
+
+; 0x000347c4 魔物達はどんどん
+0x000347c4 Monsters keep
+
+; 0x000347e5 増え続けているし、
+0x000347e5 increasing, and
+
+; 0x00034806 港町からの便りもない。
+0x00034806 no news from the port town.
+
+; 0x00034834 さっきは、南の遺跡に
+0x00034834 Earlier, I saw a bright light
+
+; 0x00034855 すごい光が落ちたし・・・。
+0x00034855 in the ruins to the south....
+
+; 0x00034884 私見たわ！
+0x00034884 I'm sure!
+
+; 0x000348a5 あの光、まるで人間みたいな形を
+0x000348a5 That light had a shape just
+
+; 0x000348c6 していたの。
+0x000348c6 like a human.
+
+; 0x000348f4 あれはきっと天の御使い様よ！
+0x000348f4 It must be an angel!
+
+; 0x00034924 これ、お客様の前だぞ。
+0x00034924 Hey, we have a guest...
+
+; 0x00034945 すまんね、あの光を見てからずっと
+0x00034945 Sorry, ever since she saw that
+
+; 0x00034966 この調子で・・・。
+0x00034966 light...
+
+; 0x00034994 よければ少し
+0x00034994 Please,
+
+; 0x000349b5 ゆっくりしていってくれ。
+0x000349b5 rest a while.
+
+; 0x000349e4 ＜ライフが回復した！＞
+0x000349e4 <Life restored>
+
+; 0x00034ab0 おねえちゃん、またね。
+0x00034ab0 See you later, Sis!
+
+; 0x00034b0c へえ・・・このご時世に、
+0x00034b0c Huh... In these times,
+
+; 0x00034b2d 女の子の一人旅とは驚いたな。
+0x00034b2d a girl traveling alone?
+
+; 0x00034b5c 俺様の名前は、
+0x00034b5c My name is
+
+; 0x00034b7d ズーリー・ズルコビッチ・
+0x00034b7d Zuri Zurukobitchi
+
+; 0x00034b9e コズルイネン。
+0x00034b9e Kozuruinen.
+
+; 0x00034bcc マーベルランドいちの行商人、
+0x00034bcc Best merchant in Marvel Land,
+
+; 0x00034bed ズール様たあ俺のことさ！
+0x00034bed Master Zul, at your service!
+
+; 0x00034c1c ここで会ったのも、
+0x00034c1c Meeting here
+
+; 0x00034c3d 何かの縁ってやつだ。
+0x00034c3d must be fate.
+
+; 0x00034c6c どうだい？　俺の品物を
+0x00034c6c How about it?
+
+; 0x00034c8d 見ていかないかい？
+0x00034c8d Wanna take a look?
+
+; 0x00034cbc きっとあんたの旅のお役に
+0x00034cbc I’m sure it’ll help you
+
+; 0x00034cdd 立つものばかりだぜ！
+0x00034cdd on your journey!
+
+; 0x00034d0c じゃあな、
+0x00034d0c Well then,
+
+; 0x00034d2d せいぜい気をつけるこった。
+0x00034d2d take care of yourself.
+
+; 0x00034dc4 旅の人、よくこんな所まで
+0x00034dc4 Traveler, thanks for
+
+; 0x00034de5 きてくれたね。
+0x00034de5 coming here.
+
+; 0x00034e06 何もないがゆっくりしておいき。
+0x00034e06 Nothing much here, but relax.
+
+; 0x00034e54 南の列石遺跡には、
+0x00034e54 In the south ruins,
+
+; 0x00034e75 精霊様が眠っていると聞きます。
+0x00034e75 a spirit is said to sleep.
+
+; 0x00034ea4 心清き者が望めば、
+0x00034ea4 It will lend its
+
+; 0x00034ec5 そのお力を貸していただける
+0x00034ec5 power to the pure-
+
+; 0x00034ee6 そうですよ。
+0x00034ee6 hearted...
+
+; 0x00034f30 魔物達におびえて暮らすなんて、
+0x00034f30 I've had enough living in
+
+; 0x00034f51 もうたくさん！
+0x00034f51 fear of monsters!
+
+; 0x00034f72 港町にもどりたい！
+0x00034f72 I want to go home!
+
+; 0x00034fa0 ねえ・・・私達が強くなるには
+0x00034fa0 Hey... How can I
+
+; 0x00034fc1 どうすればいいのかしら？
+0x00034fc1 get stronger?
+
+; 0x0003501c 旅の人、
+0x0003501c Traveler,
+
+; 0x0003503d なんにもないところだけど、
+0x0003503d we have nothing to offer,
+
+; 0x0003505e せめてゆっくりしておゆき。
+0x0003505e but please rest a while.
+
+; 0x000350ac 私達エンリケ族は
+0x000350ac We Enriques are
+
+; 0x000350cd 本来平和を愛する種族です。
+0x000350cd a peace-loving people.
+
+; 0x000350fc が、決して戦いを恐れるものでは
+0x000350fc But we do not fear
+
+; 0x0003511d ありません。
+0x0003511d battle.
+
+; 0x0003514c 近いうちに必ず、タッタ族の手から
+0x0003514c We will soon reclaim
+
+; 0x0003516d 町を取り戻してみせます。
+0x0003516d our town from the Tattas.
+
+; 0x0003519c 旅の人、本当にありがとう。
+0x0003519c Thank you, traveler.
+
+; 0x000351bd あなたのおかげで
+0x000351bd Thanks to you
+
+; 0x000351de あの少年も、母親も、
+0x000351de the boy, his mother,
+
+; 0x0003520c そして母親の胎内におる子も
+0x0003520c and the child in her womb
+
+; 0x0003522d 事なきをえた。
+0x0003522d were all saved.
+
+; 0x0003524e 心から礼を言うよ。
+0x0003524e You have my deepest thanks.
+
+; 0x000352cc 失礼ですが、
+0x000352cc Pardon me, but
+
+; 0x000352ed あなたはもしや天界の・・・
+0x000352ed Are you from heaven・・・?
+
+; 0x0003530e ワルキューレ様では・・・？
+0x0003530e Are you Lady Valkyrie?
+
+; 0x0003533c おお、やはり・・・。
+0x0003533c Oh, I knew it...
+
+; 0x0003535d まさに、言い伝えに聞く通りの
+0x0003535d Just as the legends say,
+
+; 0x0003537e りりしきお姿・・・！
+0x0003537e a gallant figure...!
+
+; 0x000353ac いや、申し訳ありません、
+0x000353ac Please, forgive us.
+
+; 0x000353cd このたびのこと、
+0x000353cd This trouble is
+
+; 0x000353ee 全て私達地上の者の不始末。
+0x000353ee entirely our own fault.
+
+; 0x0003541c 天界の力を借りず、
+0x0003541c We must solve it
+
+; 0x0003543d 自分達だけで何とかしなければ
+0x0003543d ourselves without
+
+; 0x0003545e ならないものを・・・。
+0x0003545e heaven's aid...
+
+; 0x0003548c 面目次第もございません。
+0x0003548c We are so ashamed.
+
+; 0x000354bc 我々エンリケ族も、
+0x000354bc We Enriques cannot
+
+; 0x000354dd いつまでもこのまま耐え忍んで
+0x000354dd simply endure forever
+
+; 0x000354fe いるだけではいけませんな。
+0x000354fe without acting.
+
+; 0x000355dc ・・・風が吹いているね・・・。
+0x000355dc ...The wind is blowing...
+
+; 0x000355fd ・・・何千年ぶりの風だろう・・。
+0x000355fd ...A wind unseen for millennia...
+
+; 0x0003562c おや・・悲しいにおいがするね・・
+0x0003562c Oh... It smells of sorrow...
+
+; 0x0003564d 東からも、西からも、南からも、
+0x0003564d From east, west, and south...
+
+; 0x0003566e 北からも・・・。
+0x0003566e And from the north...
+
+; 0x0003569c 悲しいにおいの風が
+0x0003569c A sorrowful wind
+
+; 0x000356bd マーベルランドにあふれて
+0x000356bd overflows across
+
+; 0x000356de いるね・・・。
+0x000356de Marvel Land...
+
+; 0x0003570c ・・ねえ・・ボクをつれていって
+0x0003570c ...Hey... Take me
+
+; 0x0003572d くれないかい？
+0x0003572d with you?
+
+; 0x0003575c きっとあなたのやくにたてる・・。
+0x0003575c I'm sure I can help...
+
+; 0x0003577d やさしい風を
+0x0003577d To bring back
+
+; 0x0003579e とりもどすために・・・。
+0x0003579e the gentle wind...
+
+; 0x000357cc ＜竜巻の術を手に入れた！＞
+0x000357cc <Learned Tornado Magic!>
+
+; 0x0003584c 時の鍵が納められていた時計塔だ。
+0x0003584c The clock tower held the Key of Time.
+
+; 0x0003587c 私欲のために鍵を奪った
+0x0003587c A foolish man stole it
+
+; 0x0003589d 愚かな男は、時の狭間を永遠に
+0x0003589d for greed, and now wanders
+
+; 0x000358be さまよっているという。
+0x000358be eternity in time's rift.
+
+; 0x000358ec 男から鍵をとりあげたゾウナは
+0x000358ec Zouna took the key from him.
+
+; 0x0003590d マーベルランドのどこに
+0x0003590d Where in Marvel Land
+
+; 0x0003592e いるのだろう・・・。
+0x0003592e could he be...?
+
+; 0x00035984 野菜や、木の実の入った
+0x00035984 A basket of vegetables
+
+; 0x000359a5 カゴが落ちている。
+0x000359a5 and nuts lies here.
+
+; 0x000359d4 きゃあ〜っ！
+0x000359d4 Aaaah!
+
+; 0x00035a34 ＜とびらは、固く閉ざされている＞
+0x00035a34 <The door is tightly shut.>
+
+; 0x00035a80 ＜とびらは、固く閉ざされている。
+0x00035a80 <The door is tightly shut.
+
+; 0x00035aa1 一人の力ではびくともしない。＞
+0x00035aa1 One person cannot budge it.>
+
+; 0x00035ad0 お〜〜い！お姉ちゃ〜〜ん！！
+0x00035ad0 Hey! Big Sis!!
+
+; 0x00035b20 ふう〜っ、やっと追いついた！
+0x00035b20 Phew, finally caught up!
+
+; 0x00035b41 ぼく達も戦うよ！
+0x00035b41 We’ll fight too!
+
+; 0x00035b70 あれから族長様が、
+0x00035b70 After that, the chief
+
+; 0x00035b91 みんなを集めて言ったんだ！
+0x00035b91 gathered everyone and said:
+
+; 0x00035bc0 今こそ反攻の時だ、
+0x00035bc0 "Now is the time to strike!",
+
+; 0x00035be1 いざ立ち上がれ！
+0x00035be1 Rise up!"
+
+; 0x00035c02 ってね。
+0x00035c02 and...
+
+; 0x00035c30 そしたら、みんな・・・。
+0x00035c30 Then everyone...
+
+; 0x00035c60 どいた、どいた〜！
+0x00035c60 MOVE, MOVE!
+
+; 0x00035c90 そ〜れ！いけ〜！
+0x00035c90 GO! GO!
+
+; 0x00035cc0 わっせっ！
+0x00035cc0 YAY!
+
+; 0x00035ce1 　　　　　わっせっ！
+0x00035ce1 ....YAY!
+
+; 0x00035d02 　　　　　　　　　　わっせっ！
+0x00035d02 .........YAY!
+
+; 0x00035d94 よ〜し、いくぞ〜！！
+0x00035d94 Okay, let’s go!!
+
+; 0x00035dc4 お〜っ！！
+0x00035dc4 Oh~!!
+
+; 0x00035e14 いくぞ〜！！
+0x00035e14 Let’s go!!
+
+; 0x00035e35 おれ達の港町を取り戻すんだ！！
+0x00035e35 Take back our port town!
+
+; 0x00035e84 みんなお姉ちゃんのおかげだよ。
+0x00035e84 It's all thanks to you, Sis.
+
+; 0x00035ea5 お姉ちゃんが、ぼく達に勇気を
+0x00035ea5 You gave us the courage
+
+; 0x00035ec6 くれたんだ。　ありがとう！
+0x00035ec6 to fight. Thank you!
+
+; 0x00035f0c 人間か？
+0x00035f0c A human?
+
+; 0x00035f3c ここはオレ達エンリケ族の
+0x00035f3c This is an Enrique
+
+; 0x00035f5d 避難キャンプだ。
+0x00035f5d refugee camp.
+
+; 0x00035f8c オレ達エンリケ族は元々、
+0x00035f8c We Enriques originally
+
+; 0x00035fad 北の港町で暮らしていたんだが・・
+0x00035fad lived in the northern port...
+
+; 0x00035fdc 数ヶ月前、いきなりタッタ族が
+0x00035fdc Months ago, the Tattas
+
+; 0x00035ffd 攻め込んで来て、あっというまに
+0x00035ffd attacked and in no time
+
+; 0x0003601e 港町は占領されちまった。
+0x0003601e port town was occupied.
+
+; 0x0003604c なんとかここまで
+0x0003604c We barely managed
+
+; 0x0003606d 逃げのびてきたものの・・・。
+0x0003606d to escape here...
+
+; 0x0003609c いつまでこんな生活が
+0x0003609c How long must this
+
+; 0x000360bd 続くのだろう。
+0x000360bd continue?
+
+; 0x00036144 おかしいな・・・。
+0x00036144 That's strange...
+
+; 0x00036165 外に山菜取りに出かけた親子が
+0x00036165 The mother and child gathering
+
+; 0x00036186 まだ帰ってこない。
+0x00036186 herbs haven't returned.
+
+; 0x000361b4 何かあったんだろうか？
+0x000361b4 Did something happen?
+
+; 0x000361d5 母親は身重だったし・・・
+0x000361d5 She is pregnant too...
+
+; 0x000361f6 心配だな。
+0x000361f6 I’m worried.
+
+; 0x00036240 タッタ族は強い。
+0x00036240 Tattas are strong.
+
+; 0x00036261 まともに戦ったのでは分が悪い。
+0x00036261 A direct fight is hopeless.
+
+; 0x00036290 だがオレ達にも意地がある。
+0x00036290 But we have our pride.
+
+; 0x000362b1 このままではすまさないぞ。
+0x000362b1 It won’t end like this.
+
+; 0x000362e0 あんたと、あの少年の活躍は
+0x000362e0 I heard about you and
+
+; 0x00036301 聞いたよ・・・！
+0x00036301 that boy's deeds...!
+
+; 0x00036322 すごいな・・・。
+0x00036322 Amazing...
+
+; 0x00036350 みんなは戦いに行ったよ。
+0x00036350 Everyone went to fight.
+
+; 0x00036371 キャンプに残ったおんな子どもは、
+0x00036371 We'll protect the women
+
+; 0x00036392 おれ達が守る・・・。
+0x00036392 and children left here...
+
+; 0x000363c0 命にかえてもね！
+0x000363c0 With our lives!
+
+; 0x00036450 やめろー！かあさんにさわるな！
+0x00036450 Stop! Don't touch Mom!
+
+; 0x00036480 ああっ！
+0x00036480 Ah!
+
+; 0x000364b0 か、かあさん！
+0x000364b0 M-Mom!
+
+; 0x000364e0 くっ・・・かあさん！
+0x000364e0 Mom... 
+
+; 0x00036501 立てるかい？
+0x00036501 Can you stand?
+
+; 0x00036530 おまえ・・・お逃げなさい・・・。
+0x00036530 Mom... Run away...
+
+; 0x00036560 なっ、なに言ってんだよ！
+0x00036560 What are you saying?!
+
+; 0x00036590 かあさん、ぼくがなんとか、
+0x00036590 Mom, I'll manage somehow!
+
+; 0x000365b1 こいつらをくい止めておくから、
+0x000365b1 I'll hold them off,
+
+; 0x000365d2 はやく・・・はやく逃げて！
+0x000365d2 so hurry... Run!
+
+; 0x00036688 あ、危ないところを、
+0x00036688 Th-That was close...
+
+; 0x000366a9 ほんとうにありがとう
+0x000366a9 Thank you so much
+
+; 0x000366ca ございました。
+0x000366ca for saving us.
+
+; 0x000366f8 お姉ちゃん・・・すごいや！
+0x000366f8 Sis... You're amazing!
+
+; 0x00036728 ぜひ私達のキャンプに
+0x00036728 Please visit our camp.
+
+; 0x00036749 おこしくださいな。
+0x00036749 We'd be honored.
+
+; 0x0003676a 何かお礼を・・・うっ。
+0x0003676a We must repay... Ugh.
+
+; 0x00036798 かあさん・・・？
+0x00036798 Mom...?
+
+; 0x000367b9 かあさん！
+0x000367b9 Mom!
+
+; 0x000367da どうしたのかあさん！？
+0x000367da What's wrong, Mom?!
+
+; 0x00036838 かあさん！！！
+0x00036838 MOM!!!
+
+; 0x000368c8 お姉ちゃん・・・
+0x000368c8 Sis...
+
+; 0x000368e9 ほんとうにありがとう。
+0x000368e9 Thank you so much.
+
+; 0x00036918 あ、これ、かあさんから、
+0x00036918 This is from Mom,
+
+; 0x00036939 お姉ちゃんに、
+0x00036939 To you, Sis.
+
+; 0x0003695a 旅のお役にたててくださいって。
+0x0003695a "May it aid your journey."
+
+; 0x00036988 ＜ライフの器を手に入れた！＞
+0x00036988 <Got Life Vessel!>
+
+; 0x000369b8 ぼく、もっと強くなりたい・・・。
+0x000369b8 I want to get stronger...
+
+; 0x000369e8 かあさんと、もうすぐ生まれてくる
+0x000369e8 To protect Mom and
+
+; 0x00036a09 赤ちゃんだけでも守ってあげられる
+0x00036a09 the baby when it comes...
+
+; 0x00036a2a くらいに、強くなりたい！
+0x00036a2a I must be strong enough!
+
+; 0x00036ab0 タッタ族が連れてきた、
+0x00036ab0 Did you see the giant beast
+
+; 0x00036ad1 あの巨大な魔物を見たか？
+0x00036ad1 the Tattas brought?
+
+; 0x00036b00 納屋よりもでかい口から
+0x00036b00 From a mouth bigger than a barn,
+
+; 0x00036b21 火の玉を吐いて、
+0x00036b21 it spat fireballs
+
+; 0x00036b42 一撃で船を沈めちまった。
+0x00036b42 and sank ships in one hit.
+
+; 0x00036b70 畜生、あいつらを
+0x00036b70 Is there no way
+
+; 0x00036b91 何とかできないかな。
+0x00036b91 to stop them?
+
+; 0x00036bc0 もう我慢できない！
+0x00036bc0 I can’t take it anymore!
+
+; 0x00036be1 立ち上がるべきだ。
+0x00036be1 We must rise up.
+
+; 0x00036c54 タッタ族達は、
+0x00036c54 The Tattas are
+
+; 0x00036c75 もともとアファ大陸で
+0x00036c75 from the continent
+
+; 0x00036c96 生活していたそうです。
+0x00036c96 of Afa.
+
+; 0x00036cc4 野蛮な種族と
+0x00036cc4 I'd heard they were
+
+; 0x00036ce5 聞いてはいましたが、
+0x00036ce5 savages, but I never
+
+; 0x00036d14 他の種族を支配しようと
+0x00036d14 thought they'd try to
+
+; 0x00036d35 もくろむような連中では
+0x00036d35 dominate other races
+
+; 0x00036d56 なかったはずです・・・。
+0x00036d56 like this...
+
+; 0x00036dac あなたが来る前に一人、
+0x00036dac Before you arrived,
+
+; 0x00036dcd 袋をかついだ小男が
+0x00036dcd a man with a bag came
+
+; 0x00036dee やってきたっけ。
+0x00036dee by, didn't he?
+
+; 0x00036e1c 自分のことを
+0x00036e1c He claimed to be
+
+; 0x00036e3d 行商人だとかいってたけど、
+0x00036e3d a traveling merchant,
+
+; 0x00036e5e 怪しいもんだ。
+0x00036e5e but he seemed shady.
+
+; 0x00036e8c ゴブリン達から、あの親子を
+0x00036e8c You saved that family
+
+; 0x00036ead 助けてくれたんだってな？
+0x00036ead from the goblins?
+
+; 0x00036ece ありがとうよ。
+0x00036ece Thank you.
+
+; 0x00036efc 俺達がもっと目を配らなくちゃ
+0x00036efc We should have kept
+
+; 0x00036f1d いけなかった。
+0x00036f1d a closer watch.
+
+; 0x00036f3e 本当に感謝している。
+0x00036f3e I am truly grateful.
+
+; 0x00036fb0 あああああ・・・
+0x00036fb0 Aaah...
+
+; 0x00036fd1 船にのりたい・・・。
+0x00036fd1 I want to sail again...
+
+; 0x00036ff2 潮風がこいしい・・・。
+0x00036ff2 I miss the sea breeze...
+
+; 0x00037030 先祖代々海を生活の場としてきた
+0x00037030 The sea has been our home for
+
+; 0x00037051 私達エンリケ族が、
+0x00037051 generations.
+
+; 0x00037080 こんな山奥で暮らすことに
+0x00037080 To think we would live
+
+; 0x000370a1 なるとは・・・。
+0x000370a1 in these mountains...
+
+; 0x000370ec おねえちゃんこんにちは！
+0x000370ec Hello, Big Sis!
+
+; 0x0003712c 森の生き物達全部が、
+0x0003712c The forest creatures
+
+; 0x0003714d 何か変なの。みんなすごく
+0x0003714d are acting strange.
+
+; 0x0003716e 気が立っているみたいで・・・。
+0x0003716e They seem agitated...
+
+; 0x0003719c でも、なにかにおびえている
+0x0003719c They look frightened
+
+; 0x000371bd みたいにも見えたわ。
+0x000371bd of something.
+
