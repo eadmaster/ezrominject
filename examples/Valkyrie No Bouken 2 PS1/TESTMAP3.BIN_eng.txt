@@ -23,58 +23,58 @@
 0x000437f6 Alright...
 
 ; 0x00043824 お〜〜〜れ〜〜〜も〜〜〜。
-0x00043824 Ii~~~.
+0x00043824 I~~~.
 
 ; 0x00043845 い〜〜〜く〜〜〜ぞおおお〜〜〜！
-0x00043845 Ohhhhhhhhhhh.
+0x00043845 Here... we... GOOOOO!
 
 ; 0x00043874 ＜雷の術を手に入れた！＞
-0x00043874 Here... we... GOOOOO!
+0x00043874 <Found Lightning Magic!>
 
 ; 0x000438ec ＜どこかで扉の開く音がした＞
-0x000438ec <Found Lightning Magic!>
+0x000438ec <Heard a door open somewhere>
 
 ; 0x0004392c ＜とびらは、固く閉ざされている＞
-0x0004392c <Heard a door open somewhere>
+0x0004392c <The door is shut tight.>
 
 ; 0x0004396c ふむ・・・。　どうやらわがはいを
-0x0004396c <The door is shut tight.>
+0x0004396c Hmm... Seems you rescued me
 
 ; 0x0004398d あの巨人の中から助け出して
-0x0004398d Hmm... Seems you rescued me
+0x0004398d from that giant?
 
 ; 0x000439ae くれたのはきみのようだね？
-0x000439ae from that giant?
+0x000439ae Right?
 
 ; 0x000439dc ふむ・・・
-0x000439dc Right?
+0x000439dc Hmm...
 
 ; 0x000439fd たった一人でこの迷宮にいどみ、
-0x000439fd Hmm...
+0x000439fd Facing Zouna all alone
 
 ; 0x00043a1e あのゾウナに立ち向かう娘か・・
-0x00043a1e Facing that Zouna alone
+0x00043a1e in this labyrinth.
 
 ; 0x00043a4c 気に入った！
-0x00043a4c in this labyrinth.
+0x00043a4c I like you!
 
 ; 0x00043a6d わがはいは、火の精霊！　ぜひ
-0x00043a6d I like you!
+0x00043a6d I am the Fire Spirit! Please,
 
 ; 0x00043a8e 旅のお供に加えていただきたい！
-0x00043a8e I am the Fire Spirit! Please.
+0x00043a8e let me join your journey!
 
 ; 0x00043abc ＜炎の術を手に入れた！＞
-0x00043abc let me join your journey!
+0x00043abc <Flame Magic obtained!>
 
 ; 0x00043b2c ＜何だか動きがおかしい・・・。＞
-0x00043b2c <Flame Magic obtained!>
+0x00043b2c <Its movements seem erratic...>
 
 ; 0x00043b5c ＜・・・どうやらこちらを敵と認識
-0x00043b5c <Its movements seem erratic...>
+0x00043b5c <It does not perceive us 
 
 ; 0x00043b7d していないようだ。＞
-0x00043b7d Seems inactive.>
+0x00043b7d as enemies.>
 
 ; 0x00043bac ＜これなら、放っておいても
 0x00043bac <Should be safe to leave
@@ -92,16 +92,16 @@
 0x00043c4c <Looks like it had an idea.>
 
 ; 0x00043c7c ＜何か伝えたい事が
-0x00043c7c <Seems to want to tell you
+0x00043c7c <It seems to want to tell you
 
 ; 0x00043c9d あるようだ・・・。＞
 0x00043c9d something...>
 
 ; 0x00043ccc ＜わからない・・・。＞
-0x00043ccc <Can't understand...>
+0x00043ccc <I don't understand...>
 
 ; 0x00043cfc ＜・・やっぱりわからない・・。＞
-0x00043cfc <Still can't understand...>
+0x00043cfc <I still don't understand...>
 
 ; 0x00043d2c ＜・・・いってしまった・・・。＞
 0x00043d2c <...It’s gone...>
@@ -110,31 +110,31 @@
 0x00043d5c <What was that all about...?>
 
 ; 0x00043e30 きたか・・・。
-0x00043e30 He’s here.
+0x00043e30 So you've come...
 
 ; 0x00043e51 とうとう、ここまで・・・。
-0x00043e51 At last, this far...
+0x00043e51 You've made it this far...
 
 ; 0x00043e80 新月王ばかりか、あの黒きサンドラ
 0x00043e80 Not just the New Moon King, but
 
 ; 0x00043ea1 をも打ち破るとはな・・・。
-0x00043ea1 that Black Sandra too...
+0x00043ea1 you defeated Black Sandra too...
 
 ; 0x00043ed0 さすがは天界に遣わされし者。
-0x00043ed0 To think you'd defeat them both...
+0x00043ed0 As expected of one sent by heaven,
 
 ; 0x00043ef1 大したものだと誉めてやろう・・。
 0x00043ef1 I shall praise your feat...
 
 ; 0x00043f20 ・・・だが、ここまでだ。
-0x00043f20 ...But this is the end.
+0x00043f20 ...But here your journey ends.
 
 ; 0x00043f41 お前を永久の暗黒の世界へ
-0x00043f41 I'll drag you into eternal
+0x00043f41 I shall drag you down into
 
 ; 0x00043f62 誘ってやる。
-0x00043f62 darkness.
+0x00043f62 eternal darkness.
 
 ; 0x00043f90 くっくっく・・・無駄だ。
 0x00043f90 Hehehe... It's useless.
@@ -218,13 +218,13 @@
 0x00044371 What bad luck...
 
 ; 0x00044392 さあ、その杖を我に返すのだ・・
-0x00044392 Now, return that staff to me...
+0x00044392 Now return the staff to me...
 
 ; 0x000444b4 これが・・・
-0x000444b4 The...
+0x000444b4 Is this...
 
 ; 0x000444d5 秘められし天界の武具の力か。
-0x000444d5 power of heavenly arms.
+0x000444d5 the power of a divine weapon?
 
 ; 0x000444f6 我が影を倒すとは・・・。
 0x000444f6 To defeat my shadow...

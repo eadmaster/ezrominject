@@ -9,9 +9,9 @@
 ; 0x0015e92a 　アーザルの町
 0x0015e92a   Arzal Town
 ; 0x0015e939 　アーザルの町　レイジアの村
-0x0015e939   Arzal Town    Reigia Village
+0x0015e939   Arzal Town    Reigia Villg
 ; 0x0015e956 　アーザルの町　レイジアの村
-0x0015e956   Arzal Town    Reigia Village
+0x0015e956   Arzal Town    Reigia Villg
 ; 0x0015e973 　ヴァルアの町
 0x0015e973   Valuah Town
 ; 0x0015e982 　空中城のテラス
@@ -72,7 +72,7 @@
 ; 0x0015bfe1 値段は
 0x0015bfe1 Price
 ; 0x00159439 ゴールド
-0x00159439 Gold
+0x00159439  Gold
 ; 0x00159442 を手に入れた！
 0x00159442 found！
 ; 0x00159451 をもらった！
@@ -729,7 +729,7 @@
 0x0011b45e [Fray]
 
 ; 0x0011b46d いったい、何があったんですか？
-0x0011b46d What on earth happened?
+0x0011b46d What on earth       happened?
 
 ; 0x0011b492 ［おにいさん］
 0x0011b492 [Young Man]
@@ -1157,16 +1157,16 @@
 0x0011c17e [Voice]
 
 ; 0x0011c18b さっきはちょっと、やりすぎだったかな。
-0x0011c18b Maybe I went a bit too far earlier.
+0x0011c18b Maybe I went a bit too  far earlier.
 
 ; 0x0011c1b6 いくら持ってたか知らないけど、これでカンベンね。
-0x0011c1b6 I don't know how much you had, but that should be enough.
+0x0011c1b6 I don't know how much you had, but take this
 
 ; 0x0011c1ed ［声］
 0x0011c1ed [Voice]
 
 ; 0x0011c1fa ウソばっか、ゆって！
-0x0011c1fa You're full of lies!
+0x0011c1fa You're all lies!
 
 ; 0x0011c213 あなたみたいな大ウソつき、
 0x0011c213 I can't forgive a big 
@@ -1596,7 +1596,7 @@
 0x0011cf90 [Fray]
 
 ; 0x0011cfa1 はい。これがリーフの秘薬です。
-0x0011cfa1 Here. This is the Leef Potion.
+0x0011cfa1 Here it is the Leef Potion.
 
 ; 0x0011cfc6 ［アイザック］
 0x0011cfc6 [Isac]
@@ -1620,7 +1620,7 @@
 0x0011d046 Fray.
 
 ; 0x0011d057 では先生、さっそく薬を。
-0x0011d057 Let's give it right away.
+0x0011d057 Let's give it now.
 
 ; 0x0011d076 ［アイザック］
 0x0011d076 [Isac]
@@ -1650,7 +1650,7 @@
 0x0011d11c [Fray]
 
 ; 0x0011d12b じゃあ、私はこれで。
-0x0011d12b I’ll be going now.
+0x0011d12b Ok, I'm off now.
 
 ; 0x0011d146 ［村長］
 0x0011d146 [Mayor]
@@ -1992,7 +1992,7 @@
 0x0011db68 Young people are
 
 ; 0x0011db7b 行方不明になってるそうだね。
-0x0011db7b going missing all over the place.
+0x0011db7b going missing everywhere.
 
 ; 0x0011db9a ミリーちゃんも気をつけてね。
 0x0011db9a Be careful, Miry.
@@ -2070,7 +2070,7 @@
 0x0011de30 [Miry]
 
 ; 0x0011de3f あれ？　町長さんに何か用なの？
-0x0011de3f Huh? Need something from the mayor?
+0x0011de3f Need something from Mayor?
 
 ; 0x0011de64 ［フレイ］
 0x0011de64 [Fray]
@@ -2079,7 +2079,7 @@
 0x0011de75 Um...
 
 ; 0x0011de81 そう言えば、何もないわね。
-0x0011de81 Come to think of it, nothing.
+0x0011de81 Come to   think of it, no.
 
 ; 0x0011dea2 ［ミリー］
 0x0011dea2 [Miry]
@@ -2494,7 +2494,7 @@
 0x0011eb6b [Woman]
 
 ; 0x0011eb7c ここしばらく、町の
-0x0011eb7c Lately, some of the
+0x0011eb7c Lately some of the
 
 ; 0x0011eb8f 若い子がいなくなっててねぇ。
 0x0011eb8f young ones have gone missing.
@@ -2536,7 +2536,7 @@
 0x0011ecea [Old Man]
 
 ; 0x0011ecfd そうじゃろう。　そうじゃろう。
-0x0011ecfd Exactly. exactly.
+0x0011ecfd Exactly.       Exactly.
 
 ; 0x0011ed22 ［おじいさん］
 0x0011ed22 [Old Man]
@@ -2618,10 +2618,9 @@
 0x0011ef9f He was my teacher at  the Magic School.
 
 ; 0x0011efd2 “大魔導士アイザック”、その人ですよ。
-0x0011efd2 He is the "Great Sorcerer Isac".
+0x0011efd2 He is the Great Sorcerer      Isac.
 
 ; 0x0011effd ・・・ヘンですね、魔導講義中に
-;0x0011effd …Strange, I'm sure we talked about
 0x0011effd …Strange, we talked about
 
 ; 0x0011f01c お話ししたハズですが？
@@ -2770,7 +2769,7 @@
 0x0011f466 Young people are 
 
 ; 0x0011f479 行方不明になってるそうだね。
-0x0011f479 going missing all over. 
+0x0011f479 going missing everywhere. 
 
 ; 0x0011f498 おじょうちゃんも気をつけた方がいいよ。
 0x0011f498 You should be careful too, little girl.
@@ -2782,7 +2781,7 @@
 0x0011f4d6 Barnas Volcano to the north
 
 ; 0x0011f4e9 以前は活気があったんだがな。
-0x0011f4e9 used to be full of life, you know.
+0x0011f4e9 used to be full of life.
 
 ; 0x0011f508 モンスターがウロつくようになっ
 0x0011f508 But with monsters roaming around
@@ -2821,7 +2820,7 @@
 0x0011f635 [Mill]
 
 ; 0x0011f642 私たちは、これからの　
-0x0011f642 We have preparations 
+0x0011f642 We have preparations
 
 ; 0x0011f659 段取りがありますので。
 0x0011f659 to make first.
@@ -3447,10 +3446,10 @@
 0x0012682a [Uncle]
 
 ; 0x0012683b じょうちゃん、
-0x0012683b Miss, More
+0x0012683b Miss, more
 
 ; 0x0012684b 酒だ！　酒が足りんぞ！
-0x0012684b booze! Not enough!
+0x0012684b booze! More!
 
 ; 0x00126868 ［おじさん］
 0x00126868 [Uncle]
@@ -3469,7 +3468,7 @@
 0x001268e6 [Uncle]
 
 ; 0x001268f7 いろいろあったが、どうやら一件落着ってとこか？
-0x001268f7 Is all over now, right?
+0x001268f7 It's all over    now, right?
 
 ; 0x0012692c ［おにいさん］
 0x0012692c [Young Man]
@@ -3504,7 +3503,7 @@
 0x00126a25 [Young Man]
 
 ; 0x00126a38 いいぞー、もっと　やれーぃっ！
-0x00126a38 Yeah, go for it! Do more!
+0x00126a38 Yeah, go for it! More!
 
 ; 0x00126a5d ［おにいさん］
 0x00126a5d [Young Man]
@@ -3519,7 +3518,7 @@
 0x00126ac8 [Uncle]
 
 ; 0x00126ad9 ねーちゃんが出てこんぞー！
-0x00126ad9 Sis is out!
+0x00126ad9 She won't come out!
 
 ; 0x00126afa ［おねえさん］
 0x00126afa [Woman]
@@ -3531,7 +3530,7 @@
 0x00126b36 [Woman]
 
 ; 0x00126b49 星がきれいな夜だわ。
-0x00126b49 It's a beautiful night.
+0x00126b49 What a lovely night.
 
 ; 0x00126b64 ［おねえさん］
 0x00126b64 [Woman]
@@ -3552,7 +3551,8 @@
 0x00126bf1 [Woman]
 
 ; 0x00126c04 静かな所へ行って休もうかな。
-0x00126c04 I’ll go find a quiet place to rest.
+; 0x00126c04 Maybe I’ll go find a quiet place to rest.
+0x00126c04 I need to take a breather.
 
 ; 0x00126c27 ［おねえさん］
 0x00126c27 [Woman]
@@ -3613,7 +3613,7 @@
 0x00126e1b [Woman]
 
 ; 0x00126e2c だれが『おばさん』よ、失礼ね！
-0x00126e2c Old lady?! How rude!
+0x00126e2c Old lady?! How  rude!
 
 ; 0x00126e4d 私はまだ２８よ！
 0x00126e4d I'm only 28!
@@ -3703,10 +3703,10 @@
 0x0012713f [Rescued]
 
 ; 0x00127152 あなたにはいろいろと世話になったみたいね。
-0x00127152 Looks like I really owe you for everything 
+0x00127152 We really owe   you for everything.
 
 ; 0x0012717f ありがとう。
-0x0012717f you did.
+0x0012717f Thank you.
 
 ; 0x00127192 ［助かった人］
 0x00127192 [Rescued]
@@ -3727,7 +3727,7 @@
 0x0012721a While I was asleep, did I say
 
 ; 0x00127239 言ってませんでした？
-0x00127239 anything in my dreams?
+0x00127239 anything weird?
 
 ; 0x00127254 ［助かった人］
 0x00127254 [Rescued]
@@ -4549,7 +4549,7 @@
 
 ; 0x00128be0 私がアイツをなんとかするしか、他にないじゃない！
 ;0x00128be0 I have no choice but to handle this myself!
-0x00128be0 I'm the only one left to    stop him!
+0x00128be0 I'm the only one left to    stop Amadok!
 
 ; 0x00128c17 ［ミル］
 0x00128c17 [Mill]
@@ -4575,8 +4575,8 @@
 ; 0x0015dd81 貂ええ。魔法学校でつくられたばかりのアイテムなんですけどね。この巻物にむかって念じるだけで、いつでもあなたは、ここへ戻ってくることができます。
 0x0015dd81 Yes. It’s a brand-new item from the Magic School. Just focus your mind on this scroll, and you can return  here anytime.
 
-; 0x0015de10 ﾈｸへぇ、ベンリねぇ。
-0x0015de10 Huh, convenient!
+; 0x0015de12 へぇ、ベンリねぇ。
+0x0015de12 How convenient!
 
 ; 0x0015de27 貂さあ、フレイさん。この巻物にむかって念じてください。
 0x0015de29 Now, Fray. Focus on  the scroll.
@@ -4791,6 +4791,7 @@
 ; 0x0012921d ［フレイ］
 0x0012921d [Fray]
 
+; TODO: check extra space
 ; 0x0012922c ミル、なんとかならな
 0x0012922c  Mill, can you do
 
@@ -4874,7 +4875,7 @@
 0x0012945f Don’t worry, I’ll take care of it.
 
 ; 0x0012948e ［ねごと］
-0x0012948e [Sleeptalk]
+0x0012948e [Sleep]
 
 ; 0x0012949d ・・・うーん・・・
 0x0012949d Uh... Uh...
@@ -4883,7 +4884,7 @@
 0x001294b1 Zzzzz...
 
 ; 0x001294ce ［ねごと］
-0x001294ce [Sleeptalk]
+0x001294ce [Sleep]
 
 ; 0x001294dd ・・・う゛ーん・・・
 0x001294dd Ugh...
@@ -4892,7 +4893,7 @@
 0x001294f2 ...something smells...
 
 ; 0x00129513 ［ねごと］
-0x00129513 [Sleeptalk]
+0x00129513 [Sleep]
 
 ; 0x00129522 ・・・おとうさぁん、
 0x00129522 ...Dad,
@@ -4901,7 +4902,7 @@
 0x00129537 ...Mom...
 
 ; 0x00129556 ［ねごと］
-0x00129556 [Sleeptalk]
+0x00129556 [Sleep]
 
 ; 0x00129565 いや、はなして！
 0x00129565 No, let me go!
@@ -4982,10 +4983,10 @@
 0x001297e1 [Fray]
 
 ; 0x001297f0 どこかに、このカギで
-0x001297f0 Maybe there is a door 
+0x001297f0 Maybe there is a
 
 ; 0x00129805 開く扉があるのかしら？
-0x00129805 this key unlocks?
+0x00129805 door this key unlocks?
 
 ; 0x00129820 からっぽだった。
 0x00129820 It's empty.
@@ -5003,7 +5004,7 @@
 0x00129882 It's empty.
 
 ; 0x00129899 ［ねごと］
-0x00129899 [Sleeptalk]
+0x00129899 [Sleep]
 
 ; 0x001298a8 ＺＺＺＺＺ・・・
 0x001298a8 ZZZ...
@@ -5015,7 +5016,7 @@
 0x001298ce Looks like I can't wake him.
 
 ; 0x001298f3 ［ねごと］
-0x001298f3 [Sleeptalk]
+0x001298f3 [Sleep]
 
 ; 0x00129902 うひ、うひひひひひ。
 0x00129902 Uhi, uhihihihi.
@@ -5027,7 +5028,7 @@
 0x00129930 Uhii.
 
 ; 0x00129943 ［ねごと］
-0x00129943 [Sleeptalk]
+0x00129943 [Sleep]
 
 ; 0x00129954 （ギリギリギリギリ
 0x00129954 (Grind grind 
@@ -5042,7 +5043,7 @@
 0x0012999b Ugh... brutal teeth grinding...
 
 ; 0x001299c4 ［ねごと］
-0x001299c4 [Sleeptalk]
+0x001299c4 [Sleep]
 
 ; 0x001299d3 今かえったぞー！
 0x001299d3 I’m homeee!
@@ -5066,19 +5067,19 @@
 0x00129a64 [Fray]
 
 ; 0x00129aa2 ［ねごと］
-0x00129aa2 [Sleeptalk]
+0x00129aa2 [Sleep]
 
 ; 0x00129ab1 父さん、母さん・・。ＺＺＺＺＺ・・・。
 0x00129ab1 Dad, Mom... Zzz...
 
 ; 0x00129ade ［ねごと］
-0x00129ade [Sleeptalk]
+0x00129ade [Sleep]
 
 ; 0x00129aed んがががががごごお。すぴーーーすぴょぴょぴょ。
 0x00129aed Nnggggghhh... snoooore... sniiiiirk...
 
 ; 0x00129b22 ［ねごと］
-0x00129b22 [Sleeptalk]
+0x00129b22 [Sleep]
 
 ; 0x00129b31 ぐぅぐぅ・・・。
 0x00129b31 Zzz...
@@ -5090,7 +5091,7 @@
 0x00129b57 Hellooo!!
 
 ; 0x00129b6e ［ねごと］
-0x00129b6e [Sleeptalk]
+0x00129b6e [Sleep]
 
 ; 0x00129b7d すぴょすぴょ・・・。
 0x00129b7d Snooore...
@@ -5102,7 +5103,7 @@
 0x00129ba7 ...No.
 
 ; 0x00129bbc ［ねごと］
-0x00129bbc [Sleeptalk]
+0x00129bbc [Sleep]
 
 ; 0x00129bcd スライムが１ぴき、　
 0x00129bcd One slime,
@@ -5123,7 +5124,7 @@
 0x00129c47 ...mumble mumble.
 
 ; 0x00129c68 ［ねごと］
-0x00129c68 [Sleeptalk]
+0x00129c68 [Sleep]
 
 ; 0x00129c77 うぅ〜ん、そんなに食
 0x00129c77 Hmm, I can’t eat
@@ -5132,7 +5133,7 @@
 0x00129c8c that much… mumble.
 
 ; 0x00129cad ［ねごと］
-0x00129cad [Sleeptalk]
+0x00129cad [Sleep]
 
 ; 0x00129cbe きゃはははははははは
 0x00129cbe Hahahahahahahaha…
@@ -5144,7 +5145,7 @@
 0x00129cf4 ...mumble mumble.
 
 ; 0x00129d0f ［ねごと］
-0x00129d0f [Sleeptalk]
+0x00129d0f [Sleep]
 
 ; 0x00129d1e んーっとぉ、あたしってぇ・・・なヒトだしぃ、
 0x00129d1e Ummm, like, I’m   the kinda girl who...
@@ -5228,7 +5229,7 @@
 0x00129fc3 Not at all!
 
 ; 0x00129fdb ときどき、人の話し声みたいな　モンも聞こえてきますし。
-0x00129fdb I can hear people talking nearby.
+0x00129fdb I can hear people talking     nearby.
 
 ; 0x0012a014 『住めば都』てなモンですわ。
 0x0012a014 "Home is home", I say.
@@ -5522,7 +5523,6 @@
 0x0012a95e There’s something written inside.
 
 ; 0x0012a987 ころばぬ先のツエ。
-;0x0012a987 Better safe than sorry.
 0x0012a987 Just in case.
 
 ; 0x0012a99e 持ち物がいっぱいで持てません。
@@ -5542,7 +5542,7 @@
 0x0012aa10 Just a bit more...
 
 ; 0x0012aa2b 死をまねく。
-0x0012aa2b is fatal.
+0x0012aa2b can be fatal.
 
 ; 0x0012aa3c 持ち物がいっぱいで持てません。
 0x0012aa3c I can't carry any more.
@@ -5558,8 +5558,7 @@
 0x0012aa85 There's something written inside.
 
 ; 0x0012aaae ころんだ後にもツエはいる。
-; Even after you fall,<br>you still need support.
-0x0012aaae After you fall, get back up!
+0x0012aaae Learn from your fall.
 
 ; 0x0012aacd 持ち物がいっぱいで持てません。
 0x0012aacd I can't carry any more.
@@ -5613,11 +5612,10 @@
 0x0012ac30 Pretending to
 
 ; 0x0012ac42 に化けて悪いコト
-0x0012ac42 be my Latok while 
+0x0012ac42 be my Latok 
 
 ; 0x0012ac53 ばかりしてるのは！
-;0x0012ac53 doing bad things!
-0x0012ac53 doing evil!
+0x0012ac53 while doing evil!
 
 ; 0x0012ac6c ［ラトクのにせもの］
 0x0012ac6c [Fake Latok]
@@ -5841,10 +5839,10 @@
 0x0012b2c1 I must ask you as     well.
 
 ; 0x0012b2e0 私は牢屋にいる人たちを、
-0x0012b2e0 I must get these
+0x0012b2e0 I must get the prisoners
 
 ; 0x0012b2fb 地上へ送り届けなければなりませ
-0x0012b2fb prisoners back to the 
+0x0012b2fb back to the 
 
 ; 0x0012b31a んので。
 0x0012b31a surface.
@@ -5859,7 +5857,7 @@
 0x0012b34d your Teleport Magic.
 
 ; 0x0012b366 私の力では人を連れて、地上までは飛べませんので。
-0x0012b366 With my power, I can’t carry anyone back.
+0x0012b366 With my power I can’t carry anyone back.
 
 ; 0x0012b399 今すぐにとは言いませんが、
 0x0012b399 Take your time, but
@@ -5871,7 +5869,7 @@
 0x0012b3d8 [Latok]
 
 ; 0x0012b3e7 このオッサンが、何か
-0x0012b3e7 That old man is saying
+0x0012b3e7 The old man is saying
 
 ; 0x0012b3fc 言ってるぜ。
 0x0012b3fc something.
@@ -5900,7 +5898,7 @@
 0x0012b4db If you need to gear up,
 
 ; 0x0012b4f2 今のうちですよ。
-0x0012b4f2 now's the time.
+0x0012b4f2 now is the time.
 
 ; 0x0012b509 ［フレイ］
 0x0012b509 [Fray]
@@ -5909,7 +5907,7 @@
 0x0012b518 Ok. Here you go.
 
 ; 0x0012b52b なくさないでよ。
-0x0012b52b Don't lose it.
+0x0012b52b Do not lose it.
 
 ; 0x0012b542 ［ミル］
 0x0012b542 [Mill]
@@ -5987,7 +5985,7 @@
 0x0012b79e My name is
 
 ; 0x0012b7ab ルトク・ハート。ヨロシクな。
-0x0012b7ab Latok Hart. Nice to meet you!
+0x0012b7ab Latok Kart. Nice to meet you!
 
 ; 0x0012b7ca あちこち渡り歩いている戦士ってトコだな。
 0x0012b7ca I’m a wandering warrior.
@@ -6005,7 +6003,7 @@
 0x0012b844 Was he...
 
 ; 0x0012b85a オメェのコレかい？
-0x0012b85a Your boyfriend?
+0x0012b85a your boyfriend?
 
 ; 0x0012b873 　　（ぴきっ）
 0x0012b873 (SNAP)

@@ -1,73 +1,74 @@
 ;; items in submenu
+;; MEMO: max 14 chars or it will crash :-)
 
 ; 0x000016a0 天界の戦士の杖
-0x000016a0 CelestialStaff
+0x000016a0 A divine staff
 
 ; 0x000016b0 光の杖
 0x000016b0 Light Staff
 
 ; 0x000016c0 敵を貫く弾
-0x000016c0 PiercingBullets
+0x000016c0 Piercing shot
 
 ; 0x000016d0 くさびの魔石
-0x000016d0 StoneOfCune
+0x000016d0 Stone Of Cune
 
 ; 0x000016e0 ３方向ショット
-0x000016e0 3-Way Shot
+0x000016e0 3-way shots
 
 ; 0x000016f0 三光石
 0x000016f0 3LightsStone
 
 ; 0x00001700 ４方向ショット
-0x00001700 4-Way Shot
+0x00001700 4-way shot
 
 ; 0x00001710 四光石
 0x00001710 4LightsStone
 
 ; 0x00001720 威力満点の爆弾
-0x00001720 Power Bombs
+0x00001720 Powerful bombs
 
 ; 0x00001730 爆弾
 0x00001730 Bombs
 
 ; 0x00001740 敵を追う誘導弾
-0x00001740 Homing Shot
+0x00001740 Homing shots
 
 ; 0x00001750 狩人のたましい
 0x00001750 Hunter’s Soul
 
 ; 0x00001760 幅広いショット
-0x00001760 Wide Shot
+0x00001760 Wide shot
 
 ; 0x00001770 風切りの石
-0x00001770 Wind Slash Stone
+0x00001770 WindSlashStone
 
 ; 0x00001780 聖光を放つ杖
-0x00001780 Holy Glowing Staff
+0x00001780 Holy glowing
 
 ; 0x00001790 福音の杖
 0x00001790 Gospel Staff
 
 ; 0x000017a0 謎の力を持つ杖
-0x000017a0 Mysterious Staff
+0x000017a0 Mysterious one
 
 ; 0x000017b0 秘術の杖
 0x000017b0 Secret Staff
 
 ; 0x000017c0 ライフが回復
-0x000017c0 Life Recovery
+0x000017c0 Recover life
 
 ; 0x000017d0 ライフ回復薬
-0x000017d0 Life Recovery Potion
+0x000017d0 Life Potion
 
 ; 0x000017e0 マジックが回復
-0x000017e0 Magic Recovery
+0x000017e0 Recover magic
 
 ; 0x000017f0 マジック回復薬
-0x000017f0 Magic Recovery Potion
+0x000017f0 Magic Potion
 
 ; 0x00001800 すべて回復
-0x00001800 All recovered
+0x00001800 Recover all
 
 ; 0x00001810 万能薬
 0x00001810 Elixir
@@ -106,25 +107,25 @@
 0x000018d0 Mirror Magic
 
 ; 0x000018e0 敵を吹き飛ばす
-0x000018e0 Blow up the enemy
+0x000018e0 Blow foes away
 
 ; 0x000018f0 竜巻の術
 0x000018f0 Tornado Magic
 
 ; 0x00001900 雷を身にまとう
-0x00001900 Wear lightning
+0x00001900 Surround you
 
 ; 0x00001910 雷の術
-0x00001910 Lightning Magic
+0x00001910 LightningMagic
 
 ; 0x00001920 炎の竜を呼ぶ
-0x00001920 Fire Dragon Magic
+0x00001920 Call a dragon
 
 ; 0x00001930 炎の術
 0x00001930 Flame Magic
 
 ; 0x00001940 大地の力で回復
-0x00001940 Earth Recovery
+0x00001940 Heal yourself
 
 ; 0x00001950 花の術
 0x00001950 Flower Magic
@@ -322,67 +323,67 @@
 0x00109464 Don’t remove it.
 
 ; 0x00109494 差込口１にメモリーカードが
-0x00109494 There’s a memory card in slot 1.
+0x00109494 No memory card in slot 1.
 
 ; 0x001094b8 接続されていません。
-0x001094b8 Not inserted.
+0x001094b8 ...
 
 ; 0x001094dc 正しく接続して下さい。
-0x001094dc Please insert properly.
+0x001094dc Please insert it.
 
 ; 0x0010950c 差込口２にメモリーカードが
-0x0010950c There’s a memory card in slot 2.
+0x0010950c No memory card in slot 2.
 
 ; 0x0010953c このメモリーカードは
-0x0010953c This memory card
+0x0010953c This memory card is
 
 ; 0x00109560 初期化されていません。
-0x00109560 hasn’t been initialized.
+0x00109560 not formatted.
 
 ; 0x00109584 初期化しますか？
-0x00109584 Initialize?
+0x00109584 Format now?
 
 ; 0x001095b4 初期化中です。
-0x001095b4 Initializing.
+0x001095b4 Formatting.
 
 ; 0x001095d8 メモリーカードを
-0x001095d8 Memory card
+0x001095d8 Do not remove the
 
 ; 0x001095fc 抜かないで下さい。
-0x001095fc Don’t pull out.
+0x001095fc Memory card.
 
 ; 0x0010962c 初期化に失敗しました。　もう１度
-0x0010962c Initialization failed. Try again.
+0x0010962c Formatting failed. Try again.
 
 ; 0x00109650 初期化するか、別のメモリーカード
-0x00109650 Initialize or use another memory card
+0x00109650 Format or use another 
 
 ; 0x00109674 を使用して下さい。
-0x00109674 Use this.
+0x00109674 memory card.
 
 ; 0x001096a4 別のメモリーカードを
-0x001096a4 Another memory card
+0x001096a4 Use another
 
 ; 0x001096c8 使用して下さい。
-0x001096c8 Use this.
+0x001096c8 memory card.
 
 ; 0x001096f8 初期化しました。
-0x001096f8 Initialize.
+0x001096f8 Formatted.
 
 ; 0x00109728 このメモリーカードは
 0x00109728 This memory card
 
 ; 0x0010974c 壊れています。
-0x0010974c it’s damaged.
+0x0010974c is damaged.
 
 ; 0x0010977c 空きブロックが不足しています。
 0x0010977c Not enough free blocks.
 
 ; 0x001097a0 「ワルキューレの冒険」のデータを
-0x001097a0 Valkyrie’s Adventure data
+0x001097a0 Cannot save Valkyrie’s Adventure
 
 ; 0x001097c4 保存できません。
-0x001097c4 Cannot save.
+0x001097c4 data.
 
 ; 0x001097f4 ファイルを選択して下さい。
 0x001097f4 Select a file.
@@ -430,10 +431,10 @@
 0x00109cb8 Loaded.
 
 ; 0x00109ce8 保存されているデータが
-0x00109ce8 No
+0x00109ce8 There is no save
 
 ; 0x00109d0c ありません。
-0x00109d0c Save.
+0x00109d0c data.
 
 ; 0x00109d3c 正しくロードできませんでした。
 0x00109d3c Load Error.

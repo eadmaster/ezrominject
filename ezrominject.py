@@ -327,7 +327,7 @@ def run_injection(jap_path, eng_path, rom_path):
     # Format: 0xAddress Text
     f_jap = open(jap_path, 'r', encoding='utf-8')
     for line in f_jap:
-        parts = line.rstrip('\r\n').split(' ', 1)
+        parts = line.rstrip('\n').split(' ', 1)
         if len(parts) < 2: continue
         
         try:

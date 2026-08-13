@@ -1,0 +1,258 @@
+<iso_project image_name="Namco Anthology 2 (Japan) (patched).bin" cue_sheet="Namco Anthology 2 (Japan) (patched).cue">
+    <track type="data" xa_edc="true" new_type="false">
+        <identifiers system="PLAYSTATION" application="PLAYSTATION" volume="SLPS_01221" publisher="NAMCO LIMITED" data_preparer="NAMCO LIMITED" creation_date="1998080600000000+0"/>
+        <license file="cd_extracted/license_data.dat"/>
+        <default_attributes gmt_offs="36" xa_attrib="32" xa_perm="1365" xa_gid="0" xa_uid="0"/>
+        <directory_tree gmt_offs="0">
+            <file name="SYSTEM.CNF" source="cd_extracted/SYSTEM.CNF" type="data"/>
+            <file name="SLPS_012.21" source="cd_extracted/SLPS_012.21" type="data"/>
+            <file name="START.EXE" source="cd_extracted/START.EXE" type="data"/>
+            <file name="PACA.EXE" source="cd_extracted/PACA.EXE" type="data"/>
+            <file name="NAMCLA2.EXE" source="cd_extracted/NAMCLA2.EXE" type="data"/>
+            <file name="NAMCLA2.IMG" source="cd_extracted/NAMCLA2.IMG" type="data"/>
+            <file name="VALK.EXE" source="cd_extracted/VALK.EXE" type="data"/>
+            <file name="VALK.IMG" source="cd_extracted/VALK.IMG" type="data"/>
+            <file name="GOLF.EXE" source="cd_extracted/GOLF.EXE" type="data"/>
+            <file name="DEMO.EXE" source="cd_extracted/DEMO.EXE" type="data"/>
+            <file name="PACDEMO.EXE" source="cd_extracted/PACDEMO.EXE" type="data"/>
+            <file name="PACDEMO.CTM" source="cd_extracted/PACDEMO.CTM" type="data"/>
+            <dir name="HOMEDATA" source="cd_extracted/HOMEDATA">
+                <file name="DATA00.BIN" source="cd_extracted/HOMEDATA/DATA00.BIN" type="data"/>
+                <file name="DATA01.BIN" source="cd_extracted/HOMEDATA/DATA01.BIN" type="data"/>
+                <file name="DATA02.BIN" source="cd_extracted/HOMEDATA/DATA02.BIN" type="data"/>
+            </dir>
+            <dir name="SUBPRG" source="cd_extracted/SUBPRG">
+                <file name="BATTLE.EXE" source="cd_extracted/SUBPRG/BATTLE.EXE" type="data"/>
+                <file name="VALB.EXE" source="cd_extracted/SUBPRG/VALB.EXE" type="data"/>
+                <file name="KAPPA.EXE" source="cd_extracted/SUBPRG/KAPPA.EXE" type="data"/>
+                <file name="NAMCLAB.EXE" source="cd_extracted/SUBPRG/NAMCLAB.EXE" type="data"/>
+                <file name="NAMCLAC.EXE" source="cd_extracted/SUBPRG/NAMCLAC.EXE" type="data"/>
+            </dir>
+            <dir name="STR" source="cd_extracted/STR">
+                <file name="KIN.STR" source="cd_extracted/STR/KIN.STR" type="mixed"/>
+                <file name="WAL.STR" source="cd_extracted/STR/WAL.STR" type="mixed"/>
+                <file name="KINBGM1.STR" source="cd_extracted/STR/KINBGM1.STR" type="mixed"/>
+                <file name="KINBGM2.STR" source="cd_extracted/STR/KINBGM2.STR" type="mixed"/>
+                <file name="KINBGM3.STR" source="cd_extracted/STR/KINBGM3.STR" type="mixed"/>
+                <file name="WALBGM1.STR" source="cd_extracted/STR/WALBGM1.STR" type="mixed"/>
+                <file name="WALBGM2.STR" source="cd_extracted/STR/WALBGM2.STR" type="mixed"/>
+                <file name="WALBGM3.STR" source="cd_extracted/STR/WALBGM3.STR" type="mixed"/>
+            </dir>
+            <dir name="VAL" source="cd_extracted/VAL">
+                <file name="VAL.EXE" source="VAL.EXE" type="data"/>
+                <file name="VALTIT.BIN" source="cd_extracted/VAL/VALTIT.BIN" type="data"/>
+                <file name="SE00.BIN" source="cd_extracted/VAL/SE00.BIN" type="data"/>
+                <file name="SE01.BIN" source="cd_extracted/VAL/SE01.BIN" type="data"/>
+                <file name="TESTMAP0.BIN" source="TESTMAP0.BIN" type="data"/>
+                <file name="TESTMAP1.BIN" source="TESTMAP1.BIN" type="data"/>
+                <file name="TESTMAP2.BIN" source="TESTMAP2.BIN" type="data"/>
+                <file name="TESTMAP3.BIN" source="TESTMAP3.BIN" type="data"/>
+                <file name="TESTMAP4.BIN" source="TESTMAP4.BIN" type="data"/>
+                <file name="TESTMAP5.BIN" source="TESTMAP5.BIN" type="data"/>
+                <file name="TESTMAP6.BIN" source="TESTMAP6.BIN" type="data"/>
+                <file name="TESTMAP7.BIN" source="TESTMAP7.BIN" type="data"/>
+                <file name="MAKUMA.BIN" source="MAKUMA.BIN" type="data"/>
+                <file name="VALOBJ00.BIN" source="cd_extracted/VAL/VALOBJ00.BIN" type="data"/>
+                <file name="VALCHR3.BIN" source="cd_extracted/VAL/VALCHR3.BIN" type="data"/>
+                <file name="VALCHR1.BIN" source="cd_extracted/VAL/VALCHR1.BIN" type="data"/>
+                <file name="VALCHR2.BIN" source="cd_extracted/VAL/VALCHR2.BIN" type="data"/>
+                <file name="VALCHR0.BIN" source="cd_extracted/VAL/VALCHR0.BIN" type="data"/>
+                <file name="VALCHR4.BIN" source="cd_extracted/VAL/VALCHR4.BIN" type="data"/>
+                <file name="VALCHR5.BIN" source="cd_extracted/VAL/VALCHR5.BIN" type="data"/>
+                <file name="VALCHR6.BIN" source="cd_extracted/VAL/VALCHR6.BIN" type="data"/>
+                <file name="VALCHR7.BIN" source="cd_extracted/VAL/VALCHR7.BIN" type="data"/>
+                <file name="VALTIT2.BIN" source="cd_extracted/VAL/VALTIT2.BIN" type="data"/>
+                <file name="VALEND.BIN" source="cd_extracted/VAL/VALEND.BIN" type="data"/>
+                <file name="VALEND2.BIN" source="cd_extracted/VAL/VALEND2.BIN" type="data"/>
+            </dir>
+            <dir name="ORIGINAL" source="cd_extracted/ORIGINAL">
+                <file name="CLEAR.VAB" source="cd_extracted/ORIGINAL/CLEAR.VAB" type="data"/>
+                <file name="CONGRA.VAB" source="cd_extracted/ORIGINAL/CONGRA.VAB" type="data"/>
+                <file name="ENDING.VAB" source="cd_extracted/ORIGINAL/ENDING.VAB" type="data"/>
+                <file name="ORIGINAL.DIF" source="cd_extracted/ORIGINAL/ORIGINAL.DIF" type="data"/>
+                <file name="OVER.VAB" source="cd_extracted/ORIGINAL/OVER.VAB" type="data"/>
+                <file name="PACMAN2.VAB" source="cd_extracted/ORIGINAL/PACMAN2.VAB" type="data"/>
+                <file name="RECORD.VAB" source="cd_extracted/ORIGINAL/RECORD.VAB" type="data"/>
+                <file name="SELECT.VAB" source="cd_extracted/ORIGINAL/SELECT.VAB" type="data"/>
+                <file name="TIM256.BIN" source="cd_extracted/ORIGINAL/TIM256.BIN" type="data"/>
+                <file name="TITLE.VAB" source="cd_extracted/ORIGINAL/TITLE.VAB" type="data"/>
+                <file name="WIN.VAB" source="cd_extracted/ORIGINAL/WIN.VAB" type="data"/>
+                <file name="GAME.XA" source="cd_extracted/ORIGINAL/GAME.XA" type="mixed"/>
+            </dir>
+            <dir name="ARRANGE" source="cd_extracted/ARRANGE">
+                <file name="ARRANGE.DIF" source="cd_extracted/ARRANGE/ARRANGE.DIF" type="data"/>
+                <file name="BG00.BIN" source="cd_extracted/ARRANGE/BG00.BIN" type="data"/>
+                <file name="BG01.BIN" source="cd_extracted/ARRANGE/BG01.BIN" type="data"/>
+                <file name="BG02.BIN" source="cd_extracted/ARRANGE/BG02.BIN" type="data"/>
+                <file name="BG03.BIN" source="cd_extracted/ARRANGE/BG03.BIN" type="data"/>
+                <file name="BG04.BIN" source="cd_extracted/ARRANGE/BG04.BIN" type="data"/>
+                <file name="BG05.BIN" source="cd_extracted/ARRANGE/BG05.BIN" type="data"/>
+                <file name="BG06.BIN" source="cd_extracted/ARRANGE/BG06.BIN" type="data"/>
+                <file name="BG07.BIN" source="cd_extracted/ARRANGE/BG07.BIN" type="data"/>
+                <file name="BG08.BIN" source="cd_extracted/ARRANGE/BG08.BIN" type="data"/>
+                <file name="BG09.BIN" source="cd_extracted/ARRANGE/BG09.BIN" type="data"/>
+                <file name="BG10.BIN" source="cd_extracted/ARRANGE/BG10.BIN" type="data"/>
+                <file name="PACMAN5.VAB" source="cd_extracted/ARRANGE/PACMAN5.VAB" type="data"/>
+                <file name="PUZZLE.BIN" source="cd_extracted/ARRANGE/PUZZLE.BIN" type="data"/>
+                <file name="TIM512.BIN" source="cd_extracted/ARRANGE/TIM512.BIN" type="data"/>
+                <file name="TIM512E.BIN" source="cd_extracted/ARRANGE/TIM512E.BIN" type="data"/>
+                <file name="TIM512N.BIN" source="cd_extracted/ARRANGE/TIM512N.BIN" type="data"/>
+                <file name="STANDARD.XA" source="cd_extracted/ARRANGE/STANDARD.XA" type="mixed"/>
+                <file name="VETERAN.XA" source="cd_extracted/ARRANGE/VETERAN.XA" type="mixed"/>
+                <file name="GODHAND.XA" source="cd_extracted/ARRANGE/GODHAND.XA" type="mixed"/>
+                <file name="JINGLE.XA" source="cd_extracted/ARRANGE/JINGLE.XA" type="mixed"/>
+                <file name="NOVICE.XA" source="cd_extracted/ARRANGE/NOVICE.XA" type="mixed"/>
+                <file name="TITLE.XA" source="cd_extracted/ARRANGE/TITLE.XA" type="mixed"/>
+            </dir>
+            <dir name="GOLF_00" source="cd_extracted/GOLF_00">
+                <file name="BOAD.BIN" source="cd_extracted/GOLF_00/BOAD.BIN" type="data"/>
+                <file name="DEMO_ANM.AIN" source="cd_extracted/GOLF_00/DEMO_ANM.AIN" type="data"/>
+                <file name="CARD1.BIN" source="cd_extracted/GOLF_00/CARD1.BIN" type="data"/>
+                <file name="DEMO_000.BIN" source="cd_extracted/GOLF_00/DEMO_000.BIN" type="data"/>
+                <file name="DEMO_001.BIN" source="cd_extracted/GOLF_00/DEMO_001.BIN" type="data"/>
+                <file name="DEMO_002.BIN" source="cd_extracted/GOLF_00/DEMO_002.BIN" type="data"/>
+                <file name="DEMO_003.BIN" source="cd_extracted/GOLF_00/DEMO_003.BIN" type="data"/>
+                <file name="DEMO_004.BIN" source="cd_extracted/GOLF_00/DEMO_004.BIN" type="data"/>
+                <file name="DEMO_005.BIN" source="cd_extracted/GOLF_00/DEMO_005.BIN" type="data"/>
+                <file name="DEMO_006.BIN" source="cd_extracted/GOLF_00/DEMO_006.BIN" type="data"/>
+                <file name="DEMO_007.BIN" source="cd_extracted/GOLF_00/DEMO_007.BIN" type="data"/>
+                <file name="DEMO_008.BIN" source="cd_extracted/GOLF_00/DEMO_008.BIN" type="data"/>
+                <file name="DEMO_009.BIN" source="cd_extracted/GOLF_00/DEMO_009.BIN" type="data"/>
+                <file name="DEMO_010.BIN" source="cd_extracted/GOLF_00/DEMO_010.BIN" type="data"/>
+                <file name="HALF.BIN" source="cd_extracted/GOLF_00/HALF.BIN" type="data"/>
+                <file name="LEADERS.BIN" source="cd_extracted/GOLF_00/LEADERS.BIN" type="data"/>
+                <file name="OVER.BIN" source="cd_extracted/GOLF_00/OVER.BIN" type="data"/>
+                <file name="POINT.BIN" source="cd_extracted/GOLF_00/POINT.BIN" type="data"/>
+                <file name="RESULT.BIN" source="cd_extracted/GOLF_00/RESULT.BIN" type="data"/>
+                <file name="RESULT1.BIN" source="cd_extracted/GOLF_00/RESULT1.BIN" type="data"/>
+                <file name="SAVELOAD.BIN" source="cd_extracted/GOLF_00/SAVELOAD.BIN" type="data"/>
+                <file name="SEL_COU.BIN" source="cd_extracted/GOLF_00/SEL_COU.BIN" type="data"/>
+                <file name="SELECT.BIN" source="cd_extracted/GOLF_00/SELECT.BIN" type="data"/>
+                <file name="TITLE.BIN" source="cd_extracted/GOLF_00/TITLE.BIN" type="data"/>
+                <file name="TONAMENT.BIN" source="cd_extracted/GOLF_00/TONAMENT.BIN" type="data"/>
+                <file name="TONASAVE.BIN" source="cd_extracted/GOLF_00/TONASAVE.BIN" type="data"/>
+                <file name="TOURLOGO.BIN" source="cd_extracted/GOLF_00/TOURLOGO.BIN" type="data"/>
+            </dir>
+            <dir name="GOLF_01" source="cd_extracted/GOLF_01">
+                <file name="ANM.BIN" source="cd_extracted/GOLF_01/ANM.BIN" type="data"/>
+                <file name="AISATSU.TIM" source="cd_extracted/GOLF_01/AISATSU.TIM" type="data"/>
+                <file name="LOAD.TIM" source="cd_extracted/GOLF_01/LOAD.TIM" type="data"/>
+                <file name="DATALO.TIM" source="cd_extracted/GOLF_01/DATALO.TIM" type="data"/>
+                <file name="CUP_UP.TIM" source="cd_extracted/GOLF_01/CUP_UP.TIM" type="data"/>
+                <file name="CONFIG.TIM" source="cd_extracted/GOLF_01/CONFIG.TIM" type="data"/>
+                <file name="ARROW.TMD" source="cd_extracted/GOLF_01/ARROW.TMD" type="data"/>
+                <file name="WINDOW.BIN" source="cd_extracted/GOLF_01/WINDOW.BIN" type="data"/>
+                <file name="WGOL_V.BIN" source="cd_extracted/GOLF_01/WGOL_V.BIN" type="data"/>
+                <file name="WGOL_TB.BIN" source="cd_extracted/GOLF_01/WGOL_TB.BIN" type="data"/>
+                <file name="WGOL_TA.BIN" source="cd_extracted/GOLF_01/WGOL_TA.BIN" type="data"/>
+                <file name="WGOL_B.BIN" source="cd_extracted/GOLF_01/WGOL_B.BIN" type="data"/>
+                <file name="VRAM_ALL.BIN" source="cd_extracted/GOLF_01/VRAM_ALL.BIN" type="data"/>
+                <file name="MGOL_T.BIN" source="cd_extracted/GOLF_01/MGOL_T.BIN" type="data"/>
+                <file name="MGOL_P.BIN" source="cd_extracted/GOLF_01/MGOL_P.BIN" type="data"/>
+                <file name="MGOL_N.BIN" source="cd_extracted/GOLF_01/MGOL_N.BIN" type="data"/>
+                <file name="MGOL_K.BIN" source="cd_extracted/GOLF_01/MGOL_K.BIN" type="data"/>
+                <file name="MGOL_J.BIN" source="cd_extracted/GOLF_01/MGOL_J.BIN" type="data"/>
+                <file name="C_TIML.BIN" source="cd_extracted/GOLF_01/C_TIML.BIN" type="data"/>
+                <file name="BG.BIN" source="cd_extracted/GOLF_01/BG.BIN" type="data"/>
+            </dir>
+            <dir name="GOLF_02" source="cd_extracted/GOLF_02">
+                <file name="VH_SEQ.BIN" source="cd_extracted/GOLF_02/VH_SEQ.BIN" type="data"/>
+                <file name="BGM_01.VB" source="cd_extracted/GOLF_02/BGM_01.VB" type="data"/>
+                <file name="BGM_01.SEQ" source="cd_extracted/GOLF_02/BGM_01.SEQ" type="data"/>
+                <file name="BGM_02.VB" source="cd_extracted/GOLF_02/BGM_02.VB" type="data"/>
+                <file name="BGM_02.SEQ" source="cd_extracted/GOLF_02/BGM_02.SEQ" type="data"/>
+                <file name="BGM_03.VB" source="cd_extracted/GOLF_02/BGM_03.VB" type="data"/>
+                <file name="BGM_03.SEQ" source="cd_extracted/GOLF_02/BGM_03.SEQ" type="data"/>
+                <file name="BGM_04.VB" source="cd_extracted/GOLF_02/BGM_04.VB" type="data"/>
+                <file name="BGM_04.SEQ" source="cd_extracted/GOLF_02/BGM_04.SEQ" type="data"/>
+                <file name="BGM_05.VB" source="cd_extracted/GOLF_02/BGM_05.VB" type="data"/>
+                <file name="BGM_05.SEQ" source="cd_extracted/GOLF_02/BGM_05.SEQ" type="data"/>
+                <file name="BGM_06.VB" source="cd_extracted/GOLF_02/BGM_06.VB" type="data"/>
+                <file name="BGM_06.SEQ" source="cd_extracted/GOLF_02/BGM_06.SEQ" type="data"/>
+                <file name="GOLF_OP.VB" source="cd_extracted/GOLF_02/GOLF_OP.VB" type="data"/>
+                <file name="GOLF_OP.SEQ" source="cd_extracted/GOLF_02/GOLF_OP.SEQ" type="data"/>
+                <file name="SE_01.VB" source="cd_extracted/GOLF_02/SE_01.VB" type="data"/>
+                <file name="SE_0A.VB" source="cd_extracted/GOLF_02/SE_0A.VB" type="data"/>
+                <file name="SE_0B.VB" source="cd_extracted/GOLF_02/SE_0B.VB" type="data"/>
+            </dir>
+            <dir name="GOLF_03" source="cd_extracted/GOLF_03">
+                <file name="01.STR" source="cd_extracted/GOLF_03/01.STR" type="mixed"/>
+                <file name="02.STR" source="cd_extracted/GOLF_03/02.STR" type="mixed"/>
+                <file name="03.STR" source="cd_extracted/GOLF_03/03.STR" type="mixed"/>
+                <file name="04.STR" source="cd_extracted/GOLF_03/04.STR" type="mixed"/>
+                <file name="05.STR" source="cd_extracted/GOLF_03/05.STR" type="mixed"/>
+                <file name="06.STR" source="cd_extracted/GOLF_03/06.STR" type="mixed"/>
+                <file name="07.STR" source="cd_extracted/GOLF_03/07.STR" type="mixed"/>
+                <file name="08.STR" source="cd_extracted/GOLF_03/08.STR" type="mixed"/>
+                <file name="09.STR" source="cd_extracted/GOLF_03/09.STR" type="mixed"/>
+                <file name="10.STR" source="cd_extracted/GOLF_03/10.STR" type="mixed"/>
+                <file name="11.STR" source="cd_extracted/GOLF_03/11.STR" type="mixed"/>
+                <file name="12.STR" source="cd_extracted/GOLF_03/12.STR" type="mixed"/>
+                <file name="13.STR" source="cd_extracted/GOLF_03/13.STR" type="mixed"/>
+                <file name="14.STR" source="cd_extracted/GOLF_03/14.STR" type="mixed"/>
+                <file name="15.STR" source="cd_extracted/GOLF_03/15.STR" type="mixed"/>
+                <file name="16.STR" source="cd_extracted/GOLF_03/16.STR" type="mixed"/>
+                <file name="17.STR" source="cd_extracted/GOLF_03/17.STR" type="mixed"/>
+                <file name="18.STR" source="cd_extracted/GOLF_03/18.STR" type="mixed"/>
+                <file name="19.STR" source="cd_extracted/GOLF_03/19.STR" type="mixed"/>
+                <file name="20.STR" source="cd_extracted/GOLF_03/20.STR" type="mixed"/>
+                <file name="21.STR" source="cd_extracted/GOLF_03/21.STR" type="mixed"/>
+            </dir>
+            <dir name="GOLF_04" source="cd_extracted/GOLF_04">
+                <file name="BINERGB.BIN" source="cd_extracted/GOLF_04/BINERGB.BIN" type="data"/>
+                <file name="BINEHOLE.BIN" source="cd_extracted/GOLF_04/BINEHOLE.BIN" type="data"/>
+                <file name="CADDIE0.BIN" source="cd_extracted/GOLF_04/CADDIE0.BIN" type="data"/>
+                <file name="CADDIE1.BIN" source="cd_extracted/GOLF_04/CADDIE1.BIN" type="data"/>
+                <file name="HOLEIN.TIM" source="cd_extracted/GOLF_04/HOLEIN.TIM" type="data"/>
+                <file name="L.TIM" source="cd_extracted/GOLF_04/L.TIM" type="data"/>
+                <file name="INTER.TIM" source="cd_extracted/GOLF_04/INTER.TIM" type="data"/>
+                <file name="MALE.TIM" source="cd_extracted/GOLF_04/MALE.TIM" type="data"/>
+                <file name="SA_LO.TIM" source="cd_extracted/GOLF_04/SA_LO.TIM" type="data"/>
+                <file name="SEL_MOJI.TIM" source="cd_extracted/GOLF_04/SEL_MOJI.TIM" type="data"/>
+                <file name="BAR000.TIM" source="cd_extracted/GOLF_04/BAR000.TIM" type="data"/>
+            </dir>
+            <dir name="KINDAT" source="cd_extracted/KINDAT">
+                <file name="KING.EXE" source="cd_extracted/KINDAT/KING.EXE" type="data"/>
+                <file name="BANI.BBS" source="cd_extracted/KINDAT/BANI.BBS" type="data"/>
+                <file name="BBG.BBS" source="cd_extracted/KINDAT/BBG.BBS" type="data"/>
+                <file name="BFONT.BBS" source="cd_extracted/KINDAT/BFONT.BBS" type="data"/>
+                <file name="BSYA.BBS" source="cd_extracted/KINDAT/BSYA.BBS" type="data"/>
+                <file name="BUNIT.BBS" source="cd_extracted/KINDAT/BUNIT.BBS" type="data"/>
+                <file name="CLASS.BBS" source="cd_extracted/KINDAT/CLASS.BBS" type="data"/>
+                <file name="HYOU.BBS" source="cd_extracted/KINDAT/HYOU.BBS" type="data"/>
+                <file name="KCON.BBS" source="cd_extracted/KINDAT/KCON.BBS" type="data"/>
+                <file name="MAPDAT.BBS" source="cd_extracted/KINDAT/MAPDAT.BBS" type="data"/>
+                <file name="MAPSEL.BBS" source="cd_extracted/KINDAT/MAPSEL.BBS" type="data"/>
+                <file name="MAPTEX.BBS" source="cd_extracted/KINDAT/MAPTEX.BBS" type="data"/>
+                <file name="MIVENT.BBS" source="cd_extracted/KINDAT/MIVENT.BBS" type="data"/>
+                <file name="SAVE.BBS" source="cd_extracted/KINDAT/SAVE.BBS" type="data"/>
+                <file name="SENRYO.BBS" source="cd_extracted/KINDAT/SENRYO.BBS" type="data"/>
+                <file name="SEVB.BBS" source="cd_extracted/KINDAT/SEVB.BBS" type="data"/>
+                <file name="SEVH.BBS" source="cd_extracted/KINDAT/SEVH.BBS" type="data"/>
+                <file name="SSYOU.BBS" source="cd_extracted/KINDAT/SSYOU.BBS" type="data"/>
+                <file name="STORY.BBS" source="cd_extracted/KINDAT/STORY.BBS" type="data"/>
+                <file name="SYORI.BBS" source="cd_extracted/KINDAT/SYORI.BBS" type="data"/>
+                <file name="TITLE.BBS" source="cd_extracted/KINDAT/TITLE.BBS" type="data"/>
+                <file name="TURN.BBS" source="cd_extracted/KINDAT/TURN.BBS" type="data"/>
+                <file name="UNIT.DAT" source="cd_extracted/KINDAT/UNIT.DAT" type="data"/>
+            </dir>
+            <dir name="KOFK" source="cd_extracted/KOFK">
+                <file name="KOFK.EXE" source="cd_extracted/KOFK/KOFK.EXE" type="data"/>
+                <file name="00_10.VAG" source="cd_extracted/KOFK/00_10.VAG" type="data"/>
+                <file name="20_40.VAG" source="cd_extracted/KOFK/20_40.VAG" type="data"/>
+                <file name="40_50.VAG" source="cd_extracted/KOFK/40_50.VAG" type="data"/>
+                <file name="KOFKCHAR.COM" source="cd_extracted/KOFK/KOFKCHAR.COM" type="data"/>
+                <file name="KOFKPROG.COM" source="cd_extracted/KOFK/KOFKPROG.COM" type="data"/>
+                <file name="MENU.TIM" source="cd_extracted/KOFK/MENU.TIM" type="data"/>
+                <file name="S163.VAG" source="cd_extracted/KOFK/S163.VAG" type="data"/>
+                <file name="SQ1_1024.VAG" source="cd_extracted/KOFK/SQ1_1024.VAG" type="data"/>
+                <file name="SQ4_4096.VAG" source="cd_extracted/KOFK/SQ4_4096.VAG" type="data"/>
+                <file name="TR1_1024.VAG" source="cd_extracted/KOFK/TR1_1024.VAG" type="data"/>
+                <file name="TR4_4096.VAG" source="cd_extracted/KOFK/TR4_4096.VAG" type="data"/>
+            </dir>
+            <file name="DUMMY1.DAT" source="cd_extracted/DUMMY1.DAT" type="data"/>
+            <file name="DUMMY0.DAT" source="cd_extracted/DUMMY0.DAT" type="data"/>
+            <dummy sectors="150" type="0"/>
+        </directory_tree>
+    </track>
+</iso_project>

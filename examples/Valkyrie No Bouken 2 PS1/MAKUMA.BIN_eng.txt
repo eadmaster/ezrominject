@@ -65,10 +65,10 @@
 0x00039a7e and sank into a sea of sand.
 
 ; 0x00039aac それから数日後。
-0x00039aac Several days later.
+0x00039aac Several days later,
 
 ; 0x00039acd 北へと進むワルキューレの前に、
-0x00039acd As Valkyrie continued north,
+0x00039acd as Valkyrie continued north,
 
 ; 0x00039aee ようやく緑が広がり始めました。
 0x00039aee greenery finally began to appear.

@@ -5,10 +5,10 @@
 0x0004ad1a Traveler, thank you!
 
 ; 0x0004ad48 ごめんなさい、
-0x0004ad48 Sorry, right
+0x0004ad48 Sorry, right now
 
 ; 0x0004ad69 今ちょっと急がないといけないの、
-0x0004ad69 now I’m in a hurry, I’ll come
+0x0004ad69 I’m in a hurry, I’ll come
 
 ; 0x0004ad8a 後でまたお礼に伺うわ。
 0x0004ad8a by later to thank you.
@@ -26,16 +26,16 @@
 0x0004ae60 Miss Valkyrie!
 
 ; 0x0004ae81 危ないからはなれていましょ。
-0x0004ae81 It’s dangerous, let's go back!
+0x0004ae81 It’s dangerous, step back!
 
 ; 0x0004aeb0 すっごい爆発だったわね！
 0x0004aeb0 What an explosion!
 
 ; 0x0004aed1 耳が変になっちゃった・・・。
-0x0004aed1 My ears are ringing...
+0x0004aed1 My ears are still ringing...
 
 ; 0x0004af00 ・・・うわあ・・・。
-0x0004af00 Wow...
+0x0004af00 ...Wow...
 
 ; 0x0004af21 いかにも何か出て来そう。
 0x0004af21 Something is coming out.
@@ -47,10 +47,10 @@
 0x0004afc8 Oh no...!
 
 ; 0x0004afe9 海賊どもの仕業ね。
-0x0004afe9 The Pirates did
+0x0004afe9 The pirates did this.
 
 ; 0x0004b018 なんてことかしら。
-0x0004b018 this. Goodness...
+0x0004b018 Goodness...
 
 ; 0x0004b039 ここを塞がれるなんて・・・。
 0x0004b039 Blocked off here of all places...
@@ -632,19 +632,19 @@
 0x0004d185 giant beast...
 
 ; 0x0004d1b4 夜な夜な廃坑の地下から、
-0x0004d1b4 But every night, strange
+0x0004d1b4 But every night, strange cries
 
 ; 0x0004d1d5 妙な鳴き声が聞こえてくる。
-0x0004d1d5 cries echo from beneath
+0x0004d1d5 echo from beneath the mine.
 
 ; 0x0004d204 村じゃ、あの化石が生き返って
-0x0004d204 the mine. Rumor says the
+0x0004d204 Rumor says the fossil came
 
 ; 0x0004d225 動いてるって、
-0x0004d225 fossil came
+0x0004d225 back to life and
 
 ; 0x0004d246 もっぱらのうわさだ。
-0x0004d246 alive.
+0x0004d246 is moving.
 
 ; 0x0004d274 ・・・たしかに最近、
 0x0004d274 ...Indeed,
@@ -722,13 +722,13 @@
 0x0004d614 <Got Big Bomb!>
 
 ; 0x0004d644 大爆弾を廃坑の前で使うのじゃよ。
-0x0004d644 Use it bomb at the mine entrance.
+0x0004d644 Use it in front of the mine
 
 ; 0x0004d665 くれぐれも取り扱いには
-0x0004d665 Handle it with extreme
+0x0004d665 entrance. Handle it with
 
 ; 0x0004d686 気をつけてな。
-0x0004d686 care!
+0x0004d686 extreme care!
 
 ; 0x0004d6c0 おじょうさん、
 0x0004d6c0 Miss,
@@ -743,10 +743,10 @@
 0x0004d9f4 Traveler, welcome to Caldera!
 
 ; 0x0004da15 ・・・と言いたいんだけれど。
-0x0004da15 ...Or so I'd like to say,
+0x0004da15 ...Or so I'd like to say.
 
 ; 0x0004da44 いまカルデラの町は、
-0x0004da44 but
+0x0004da44 Here in Caldera
 
 ; 0x0004da65 なんていうか・・・。
 0x0004da65 things are a bit...
@@ -1649,10 +1649,10 @@
 0x00050ef9 village... feels like it's here.
 
 ; 0x00050f38 旅の人、ピクシー村にようこそ！
-0x00050f38 Traveler, welcome to Pixie Village!
+0x00050f38 Traveler, welcome to Pixie
 
 ; 0x00050f59 ゆっくりしていってくれ。
-0x00050f59 Rest easy.
+0x00050f59 Village! Rest easy.
 
 ; 0x00050f88 ぼくらの家は、あなたがた人間には
 0x00050f88 Our homes might be cramped
@@ -1694,7 +1694,7 @@
 0x000511bc Phew, I finally caught up.
 
 ; 0x000511ec 用事はすんだわ。
-0x000511ec Done my errands.
+0x000511ec I've done my errands.
 
 ; 0x0005120d 改めてお礼に来たの。
 0x0005120d I came to thank you
@@ -1712,10 +1712,10 @@
 0x0005129e Follow me.
 
 ; 0x00051308 おやあ？
-0x00051308 Oh? Boss,
+0x00051308 Oh? Boss, someone is
 
 ; 0x00051329 親分、谷を歩いている奴が
-0x00051329 someone walking through the
+0x00051329 walking through the
 
 ; 0x0005134a いますぜ。
 0x0005134a valley.

@@ -133,6 +133,9 @@
 ; 0x0003f841 待っておるよ・・・。
 0x0003f841 for you...
 
+
+;; sabine meeting
+
 ; 0x0003f970 クリノ！
 0x0003f970 Kurino!
 
@@ -140,7 +143,7 @@
 0x0003f991 It's Kurino!
 
 ; 0x0003f9b2 ああ・・・会いたかった！
-0x0003f9b2 Oh, I missed you!
+0x0003f9b2 Oh, I've missed you!
 
 ; 0x0003f9e0 ・・・サビーヌだよ！
 0x0003f9e0 ...It's Sabine!
@@ -155,19 +158,19 @@
 0x0003fa51 I was about to be
 
 ; 0x0003fa72 あんたに救われた・・・。
-0x0003fa72 sacrificed to monsters...
+0x0003fa72 sacrificed by the monsters...
 
 ; 0x0003faa0 聞いてくれクリノ・・・母さんが、
-0x0003faa0 Listen, Kurino... Mom...
+0x0003faa0 Listen, Kurino... Mom,
 
 ; 0x0003fac1 母さんが大変なんだ！
 0x0003fac1 Mom is in trouble!
 
 ; 0x0003faf0 風化病にかかっちまったんだよ！
-0x0003faf0 She caught the Weathering Disease!
+0x0003faf0 She has the Weathering Disease!
 
 ; 0x0003fb11 もう体が半分
-0x0003fb11 Half her body is already
+0x0003fb11 Half of her body is already
 
 ; 0x0003fb32 石みたいになってる・・・。
 0x0003fb32 turning to stone...
@@ -182,10 +185,10 @@
 0x0003fba2 You found it, right?
 
 ; 0x0003fbd0 噂は聞いたよ。
-0x0003fbd0 I heard the rumors.
+0x0003fbd0 I've heard the rumors.
 
 ; 0x0003fbf1 頼む、その薬を・・・。
-0x0003fbf1 Please, the medicine...
+0x0003fbf1 Please, that medicine...
 
 ; 0x0003fc12 母さんにも・・・。
 0x0003fc12 For Mom too...
@@ -200,10 +203,10 @@
 0x0003fc82 Kurino!
 
 ; 0x0003fcb0 これより先は、ゾウナ様の聖域。
-0x0003fcb0 Beyond here is Zouna's Sanctuary.
+0x0003fcb0 Beyond here is Zouna's 
 
 ; 0x0003fcd1 なんびとたりとも
-0x0003fcd1 None shall pass
+0x0003fcd1 Sanctuary. None shall pass,
 
 ; 0x0003fcf2 通すわけにはいかぬ。
 0x0003fcf2 no matter what.
@@ -284,19 +287,19 @@
 0x00040211 a strange feeling.
 
 ; 0x00040232 お目にかかるのは初めてですのに
-0x00040232 Though we've never met,
+0x00040232 Even though we've never met,
 
 ; 0x00040260 なぜかオイラ、今日という日が
-0x00040260 for some reason,
+0x00040260 for some reason it feels
 
 ; 0x00040281 来るのを前々から知っていたような
-0x00040281 I feel like I've known this
+0x00040281 like I've known this day
 
 ; 0x000402a2 気がしてならないんです。
-0x000402a2 day would come.
+0x000402a2 would come for a long time.
 
 ; 0x000402d0 どうしてでしょうね・・・？
-0x000402d0 I wonder why...
+0x000402d0 I wonder why...?
 
 ; 0x00040300 クリノ、話してるところ
 0x00040300 Kurino, sorry to interrupt,
@@ -311,13 +314,13 @@
 0x00040371 Sorry.
 
 ; 0x000403a0 まったく、これがオイラの手元に
-0x000403a0 Geez, lucky I still had this
+0x000403a0 Geez, lucky I still have this
 
 ; 0x000403c1 残っていたことだけは、
-0x000403c1 on hand.
+0x000403c1 in my possession.
 
 ; 0x000403e2 不幸中の幸いだった。
-0x000403e2 It was a blessing in disguise.
+0x000403e2 A blessing in disguise.
 
 ; 0x00040410 とにかく、一旦戻って・・・。
 0x00040410 Anyway, let’s head back...
@@ -329,7 +332,7 @@
 0x00040461 Give the medicine?
 
 ; 0x00040482 ですか・・・？
-0x00040482 Really...?
+0x00040482 You want me to...?
 
 ; 0x000404b0 ＜幻の薬を、頭上高く掲げた！＞
 0x000404b0 <Raised the Mirage Medicine!>
@@ -341,43 +344,43 @@
 0x00040501 Eh?
 
 ; 0x00040530 薬の力をマーベルランド全域に
-0x00040530 The medicine's power spread
+0x00040530 The medicine's power is 
 
 ; 0x00040551 行き渡らせた、
-0x00040551 across Marvel Land?
+0x00040551 spreading across Marvel Land?
 
 ; 0x00040572 もう風化病は大丈夫、ですって？
-0x00040572 Weathering Disease is cured?
+0x00040572 The disease is cured?
 
 ; 0x000405a0 ほ、本当ですか！
 0x000405a0 R-Really?
 
 ; 0x000405c1 じゃあ・・・。
-0x000405c1 So...
+0x000405c1 Then...
 
 ; 0x000405f0 治ったのか？
-0x000405f0 She's healed?
+0x000405f0 Is she cured?
 
 ; 0x00040611 母さんも？
 0x00040611 Mom too?
 
 ; 0x00040632 ああ、よかった・・・。
-0x00040632 Oh, thank god...
+0x00040632 Oh, thank goodness...
 
 ; 0x00040660 あんたの言うことなら
-0x00040660 If you say so.
+0x00040660 If it's coming from you,
 
 ; 0x00040681 信じられるよ、ありがとう！
-0x00040681 I believe you, thank you!
+0x00040681 I believe it, thanks!
 
 ; 0x000406b0 ワルキューレ様、何とお礼を
-0x000406b0 Lady Valkyrie, how can I
+0x000406b0 Lady Valkyrie, how could I
 
 ; 0x000406d1 申し上げればよろしいか・・・。
 0x000406d1 ever thank you...
 
 ; 0x0004083c う〜ん・・・。
-0x0004083c Hmmm.
+0x0004083c Hmmm...
 
 ; 0x0004085d ピラミッドに入るにゃ、
 0x0004085d To enter the pyramid,
@@ -515,16 +518,16 @@
 0x00041075 ...No, never mind.
 
 ; 0x000410b4 ・・・その分だとあんたも
-0x000410b4 So you're heading to
+0x000410b4 ...It looks like 
 
 ; 0x000410d5 ピラミッドを目指している
-0x000410d5 the pyramid too.
+0x000410d5  you're heading to the
 
 ; 0x000410f6 みたいだな。
-0x000410f6 Seems so.
+0x000410f6 pyramid too.
 
 ; 0x00041124 もし・・・よかったら・・・。
-0x00041124 If you’d like...
+0x00041124 If... you’d like...
 
 ; 0x00041154 ＜ワルキューレは黙って
 0x00041154 <Valkyrie nodded
@@ -533,46 +536,46 @@
 0x00041175 silently.>
 
 ; 0x000411a4 うん、ありがとう。
-0x000411a4 Yeah, thanks.
+0x000411a4 Yeah, thank you.
 
 ; 0x000411d4 ＜コアクマンが仲間になった！＞
 0x000411d4 <Quarkman joined!>
 
 ; 0x00041244 広大な土地を砂漠にして、
-0x00041244 Turning vast land to desert,
+0x00041244 Turning vast lands to desert,
 
 ; 0x00041265 その中にピラミッドを作って、
 0x00041265 building a pyramid,
 
 ; 0x00041286 オイラをその門番にして・・・
-0x00041286 making me guard it...
+0x00041286 and making me guard it...
 
 ; 0x000412b4 いったい、
-0x000412b4 What on
+0x000412b4 What on earth
 
 ; 0x000412d5 中には何があると
-0x000412d5 earth  is
+0x000412d5 could possibly be
 
 ; 0x000412f6 いうんでしょうね？
-0x000412f6 inside?
+0x000412f6 hidden inside?
 
 ; 0x00041324 ‘神様の武器’といっても、
-0x00041324 The Divine Weapon...
+0x00041324 They call it the Divine Weapon...
 
 ; 0x00041345 なんのことやら・・・。
-0x00041345 Beats me...
+0x00041345 No idea what is it...
 
 ; 0x00041374 くれぐれもお気をつけください。
-0x00041374 Please take care.
+0x00041374 Please be careful,
 
 ; 0x00041395 ワルキューレ様。
 0x00041395 Lady Valkyrie.
 
 ; 0x000413c4 この中は迷宮のように入り組み、
-0x000413c4 Inside is a labyrinth filled
+0x000413c4 Inside there is a labyrinth
 
 ; 0x000413e5 無数のワナや命を持たない
-0x000413e5 with countless traps and
+0x000413e5 filled with traps and
 
 ; 0x00041406 機械の兵で溢れかえっています。
 0x00041406 lifeless mechanical soldiers.
@@ -593,13 +596,13 @@
 0x000414c5 I can't let you fight
 
 ; 0x000414e6 できませんから・・・。
-0x000414e6 alone...
+0x000414e6 all by yourself...
 
 ; 0x00041514 またお会いできる時まで、
-0x00041514 Until we meet again
+0x00041514 Until we meet again,
 
 ; 0x00041535 どうかお元気で・・・。
-0x00041535 stay safe...
+0x00041535 please stay safe...
 
 ; 0x000415d8 よう・・・まってたぜ。
 0x000415d8 Yo... I’ve been waiting.
