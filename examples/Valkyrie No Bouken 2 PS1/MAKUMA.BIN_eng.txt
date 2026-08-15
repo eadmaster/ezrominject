@@ -116,16 +116,16 @@
 0x00039d65 the bridge descended onto a
 
 ; 0x00039d86 降りていきました。
-0x00039d86 white misty land.
+0x00039d86 white misty land,
 
 ; 0x00039db4 そこは凍土に覆われた大地。
-0x00039db4 It's covered in frozen ground.
+0x00039db4 covered in frozen ground.
 
 ; 0x00039dd5 南は富の国フルータジアに面する
-0x00039dd5 To the south lay the wealthy land
+0x00039dd5 To the south lay the wealthy 
 
 ; 0x00039df6 マッコウ大陸でした。
-0x00039df6 of Flutasia, on Makkou Continent.
+0x00039df6 land of Flutasia, in Makkou.
 
 ; 0x00039e4c 全速力でフルータジアを
 0x00039e4c Full speed ahead

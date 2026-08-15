@@ -147,9 +147,8 @@
 ; 0x000024a0 ワルキューレの冒険　　　　　　　　　　　　　ナムコアンソロジー２
 0x000024a0 Valkyrie’s Adventures
 
-; TODO: FIX
 ; 0x000024fc 差込口１差込口２
-0x000024fc Slot 1Slot 2
+0x000024fc  Slot1 Slot2
 
 
 ;; chests messages
@@ -209,10 +208,10 @@
 0x00107968 Returned to the chest.
 
 ; 0x001079c4 ＜ライフの器を手に入れた！＞
-0x001079c4 <Got the Life Vessel!>
+0x001079c4 <Got Life Crystal!>
 
 ; 0x001079fc ＜マジックの器を手に入れた！＞
-0x001079fc <Magic Vessel obtained!>
+0x001079fc <Got Magic Crystal!>
 
 ; 0x00107a34 ＜１００Ｇｏｌｄを手に入れた！＞
 0x00107a34 <Got 100 gold!>
@@ -224,13 +223,13 @@
 0x00107aa4 <Got 500 gold!>
 
 ; 0x00107adc ＜１０００Ｇｏｌｄを
-0x00107adc <Got 1000 gold!>
+0x00107adc <Got 1000 
 
 ; 0x00107b00 手に入れた！＞
-0x00107b00 Got it!>
+0x00107b00 gold!>
 
 ; 0x00107b38 ＜風切りの石を手に入れた！＞
-0x00107b38 <Got a Wind Slash Stone!>
+0x00107b38 <Got Wind Slash Stone!>
 
 ; 0x00107b5c 風切りの石を見つけた！しかし
 0x00107b5c I found a Wind Slash Stone!
@@ -446,13 +445,13 @@
 ;; Locations
 
 ; 0x00109f08 はじまりの国
-0x00109f08 Land of Origin
+0x00109f08 Land Origin
 
 ; 0x00109f18 アファ大陸
 0x00109f18 Afa
 
 ; 0x00109f28 えんえん砂漠
-0x00109f28 EndlessDesert
+0x00109f28 Desert
 
 ; 0x00109f38 ピラミッド
 0x00109f38 Pyramid
@@ -504,46 +503,46 @@
 0x0010c37c Please come again!
 
 ; 0x0010c3c0 ハードな旅のお供に一本。
-0x0010c3c0 One for a hard trip.
+0x0010c3c0 Great for a hard journey.
 
 ; 0x0010c3e2 ライフ回復薬。
 0x0010c3e2 Life Recovery Potion.
 
 ; 0x0010c404 これ一本で気力満点！
-0x0010c404 Full energy boost!
+0x0010c404 Restores magic.
 
 ; 0x0010c426 マジック回復薬。
 0x0010c426 Magic Recovery Potion.
 
 ; 0x0010c448 気力、体力、全回復！
-0x0010c448 Energy and stamina fully restored!
+0x0010c448 Restore both health and magic!
 
 ; 0x0010c46a これぞ万能の薬！
-0x0010c46a This is an elixir!
+0x0010c46a Elixir!
 
 ; 0x0010c48c 全てを貫く貫通弾！
-0x0010c48c Bullets that pierce all!
+0x0010c48c Pierces everything!
 
 ; 0x0010c4ae 前方に敵なしの３０発だ！
-0x0010c4ae Thirty undefeated shots ahead!
+0x0010c4ae 30 rounds of clear path!
 
 ; 0x0010c4d0 ズールお勧めの３方向攻撃！
 0x0010c4d0 3-way attack!
 
 ; 0x0010c4f2 ３０発で１セットだ！
-0x0010c4f2 One set 30 shots!
+0x0010c4f2 30 shots per set!
 
 ; 0x0010c514 前後左右の４方向攻撃！
 0x0010c514 4-way attack!
 
 ; 0x0010c536 ３０発セットでこの価格！
-0x0010c536 30 rounds included!
+0x0010c536 30 rounds for this price!
 
 ; 0x0010c558 威力満点！ズール印の爆弾だ！
-0x0010c558 Super powerful! It’s a Zul-branded bomb
+0x0010c558 Powerful Zul bomb!
 
 ; 0x0010c57a この３０発で恐い物なしさ！
-0x0010c57a These 30 shots are terrifying!
+0x0010c57a Fear nothing with 30 shots!
 
 ; 0x0010c59c 敵を追っかける誘導弾！
 0x0010c59c Chase the enemy!
@@ -555,13 +554,13 @@
 0x0010c5e0 Attack in all directions!
 
 ; 0x0010c602 今なら３０発でこの価格だ！
-0x0010c602 30 shots for this price now!
+0x0010c602 Special price for 30 shots!
 
 ; 0x0010c624 ピクシー族が精魂込めた逸品！
-0x0010c624 A masterpiece from the Pixie tribe!
+0x0010c624 A Pixie tribe masterpiece!
 
 ; 0x0010c646 セレクトボタンで華麗に変身。
-0x0010c646 Transform with select button.
+0x0010c646 Transform with Select button.
 
 ; 0x0010d164 ゲームに復帰します
 0x0010d164 Back to the game

@@ -551,7 +551,7 @@
 0x0003695a "May it aid your journey."
 
 ; 0x00036988 ＜ライフの器を手に入れた！＞
-0x00036988 <Got Life Vessel!>
+0x00036988 <Got Life Crystal!>
 
 ; 0x000369b8 ぼく、もっと強くなりたい・・・。
 0x000369b8 I want to get stronger...

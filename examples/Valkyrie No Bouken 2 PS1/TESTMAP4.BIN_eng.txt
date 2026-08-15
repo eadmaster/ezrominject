@@ -1,26 +1,29 @@
+
+;; Fairy meeting
+
 ; 0x0004acf9 ああ・・・助かったわ。
-0x0004acf9 Oh... Thanks.
+0x0004acf9 Oh... You saved me.
 
 ; 0x0004ad1a 旅の人ね、ありがとう！
-0x0004ad1a Traveler, thank you!
+0x0004ad1a Traveler, thank you so much!
 
 ; 0x0004ad48 ごめんなさい、
-0x0004ad48 Sorry, right now
+0x0004ad48 Sorry, but right now
 
 ; 0x0004ad69 今ちょっと急がないといけないの、
 0x0004ad69 I’m in a hurry, I’ll come
 
 ; 0x0004ad8a 後でまたお礼に伺うわ。
-0x0004ad8a by later to thank you.
+0x0004ad8a back later to thank you.
 
 ; 0x0004adb8 じゃあね。
-0x0004adb8 Bye!
+0x0004adb8 See you!
 
 ; 0x0004ae10 ここよワルキューレさん！
-0x0004ae10 Valkyrie! This abandoned
+0x0004ae10 Over here, Miss Valkyrie!
 
 ; 0x0004ae31 ここがローレライに続く廃坑よ！
-0x0004ae31 mine leads to Lorelei!
+0x0004ae31 This mine leads to Lorelei!
 
 ; 0x0004ae60 ワルキューレさん！
 0x0004ae60 Miss Valkyrie!
@@ -38,10 +41,10 @@
 0x0004af00 ...Wow...
 
 ; 0x0004af21 いかにも何か出て来そう。
-0x0004af21 Something is coming out.
+0x0004af21 Something is about to pop out.
 
 ; 0x0004af42 やっぱりちょっとこわいなぁ・・
-0x0004af42 Still a little scary though...
+0x0004af42 Still, it was a bit scary...
 
 ; 0x0004afc8 なんてこと・・・！
 0x0004afc8 Oh no...!
@@ -53,22 +56,22 @@
 0x0004b018 Goodness...
 
 ; 0x0004b039 ここを塞がれるなんて・・・。
-0x0004b039 Blocked off here of all places...
+0x0004b039 To block our way here...
 
 ; 0x0004b068 う〜ん・・・。
-0x0004b068 Hmmm.
+0x0004b068 Hmmm...
 
 ; 0x0004b089 そうだ！
 0x0004b089 I know!
 
 ; 0x0004b0aa ピクシー村の方舟じいさんなら、
-0x0004b0aa The old man in Pixie
+0x0004b0aa The old man in Pixie Village
 
 ; 0x0004b0d8 きっと何か、いい知恵を
-0x0004b0d8 Village might have
+0x0004b0d8 might have a
 
 ; 0x0004b0f9 かしてくれるかも！
-0x0004b0f9 a good idea!
+0x0004b0f9 good idea!
 
 ; 0x0004b128 方舟じいさんは、
 0x0004b128 He is Caldera's
@@ -85,23 +88,26 @@
 ; 0x0004b1c8 ＜フェアリーが仲間になった！＞
 0x0004b1c8 <Fairy joined!>
 
+
+;; Marco the whale meeting
+
 ; 0x0004b250 ・・・いたぁいよう・・・。
-0x0004b250 It hurts...
+0x0004b250 ...It hurts...
 
 ; 0x0004b280 だれか・・・たすけて・・・。
 0x0004b280 Somebody... Help...
 
 ; 0x0004b2b0 ク・・・クジラ？
-0x0004b2b0 A whale?
+0x0004b2b0 A... whale?
 
 ; 0x0004b2e0 わあ・・・ワルキューレさん、
-0x0004b2e0 Wow, Valkyrie,
+0x0004b2e0 Oh, Valkyrie,
 
 ; 0x0004b301 この子の尾ひれを見て・・・。
-0x0004b301 look at her tail fin!
+0x0004b301 look at his tail fin!
 
 ; 0x0004b330 ＜尾ひれがちぎれて、
-0x0004b330 <Tail fin is torn
+0x0004b330 <The tail fin is torn
 
 ; 0x0004b351 ほとんどなくなっている。＞
 0x0004b351 off and mostly gone.>
@@ -131,13 +137,13 @@
 0x0004b482 beyond the ocean...
 
 ; 0x0004b4b0 それ以来、ずっと、海の向こうの
-0x0004b4b0 And ever since, I've longed
+0x0004b4b0 Ever since then, I've longed
 
 ; 0x0004b4d1 世界にあこがれてたんだ。
 0x0004b4d1 for that world.
 
 ; 0x0004b4f2 それで・・・。
-0x0004b4f2 So..
+0x0004b4f2 So...
 
 ; 0x0004b520 それで、こんな所まできたのね？
 0x0004b520 So that’s why you came here?
@@ -149,25 +155,25 @@
 0x0004b571 lost in these shallows...
 
 ; 0x0004b5a0 だから、急いで
-0x0004b5a0 So I tried to
+0x0004b5a0 So I tried to hurry
 
 ; 0x0004b5c1 抜け出そうとしたんだ。
-0x0004b5c1 hurry out,
+0x0004b5c1 and escape,
 
 ; 0x0004b5f0 でも、海からの強い波に
-0x0004b5f0 but the strong
+0x0004b5f0 but the strong waves
 
 ; 0x0004b611 押し返されちゃって・・・。
-0x0004b611 waves pushed me back...
+0x0004b611 kept pushing me back...
 
 ; 0x0004b632 どんどん浅瀬の奥まで流されて。
-0x0004b632 I was swept deeper in, and
+0x0004b632 I was swept deeper inside, and
 
 ; 0x0004b660 尾ひれはそのとき、
-0x0004b660 my tail fin scraped
+0x0004b660 my tail fin scraped against
 
 ; 0x0004b681 何度も川底に当たって、
-0x0004b681 against the riverbed,
+0x0004b681 the riverbed over and over,
 
 ; 0x0004b6a2 す、すりきれちゃったんだよう・
 0x0004b6a2 until it wore away...
@@ -176,7 +182,7 @@
 0x0004b6d0 With the high water now,
 
 ; 0x0004b6f1 がんばれば海に帰れる
-0x0004b6f1 could make it back to sea if I tried...
+0x0004b6f1 I could make it back to sea...
 
 ; 0x0004b712 んだけど・・・。
 0x0004b712 But...
@@ -188,10 +194,10 @@
 0x0004b761 it's impossible...
 
 ; 0x0004b790 あいてがクジラさんじゃあ、
-0x0004b790 Since it's a whale
+0x0004b790 Since it's a whale,
 
 ; 0x0004b7b1 普通の傷薬とかじゃあ
-0x0004b7b1 a regular medicine
+0x0004b7b1 a regular medicine probably
 
 ; 0x0004b7d2 だめかもね・・・。
 0x0004b7d2 won't help...
@@ -200,67 +206,67 @@
 0x0004b800 Valkyrie, do you know a
 
 ; 0x0004b821 お薬にくわしい人とか
-0x0004b821 a doctor?
+0x0004b821 a doctor or someone who 
 
 ; 0x0004b842 知らない？
-0x0004b842 Do you know?
+0x0004b842 knows about medicine?
 
 ; 0x0004b870 ・・・いたぁい・・・。
 0x0004b870 ...Ouch...
 
 ; 0x0004b8a0 ・・・あれ・・・？
-0x0004b8a0 ...Huh?
+0x0004b8a0 ...Huh...?
 
 ; 0x0004b8c1 いたくない・・・。
-0x0004b8c1 It doesn't hurt...
+0x0004b8c1 The pain is gone...
 
 ; 0x0004b8f0 あっ！
 0x0004b8f0 Ah!
 
 ; 0x0004b911 ぼ、ぼくの尾ひれが！
-0x0004b911 My tail fin!
+0x0004b911 M-My tail fin!
 
 ; 0x0004b932 な、治ってる！
-0x0004b932 It's healed
+0x0004b932 It's healed!
 
 ; 0x0004b960 よかったね、クジラさん。
-0x0004b960 Glad for you, Mr. Whale.
+0x0004b960 I'm glad for you, Mr. Whale.
 
 ; 0x0004b990 あ、ありがとう・・・！
-0x0004b990 Th-Thank you!
+0x0004b990 Th-Thank you so much...!
 
 ; 0x0004b9b1 ほんとうに、ほんとうに・・・。
-0x0004b9b1 Really, truly...
+0x0004b9b1 Truly, truly... Oh!
 
 ; 0x0004b9d2 そうだ！なにかお礼を・・・。
-0x0004b9d2 Oh! Let me give you something...
+0x0004b9d2 Let me give you something...
 
 ; 0x0004ba00 ・・・ううん・・・。
-0x0004ba00 ...No...
+0x0004ba00 ...Hmm...
 
 ; 0x0004ba21 今は、これくらいしか
-0x0004ba21 This is all I can do
+0x0004ba21 This is all I can give
 
 ; 0x0004ba42 ないかなあ？
-0x0004ba42 for now.
+0x0004ba42 you right now.
 
 ; 0x0004ba70 ＜虹の粉を手に入れた！＞
 0x0004ba70 <Got Rainbow Powder!>
 
 ; 0x0004baa0 どこか海岸で使ってごらん。
-0x0004baa0 Try using it at a beach.
+0x0004baa0 Try using it near a shore.
 
 ; 0x0004bac1 すると僕が潮吹きで作るような
-0x0004bac1 My waterspout will create a
+0x0004bac1 It will create a Rainbow Bridge
 
 ; 0x0004bae2 ‘虹の橋’が出来るんだ！
-0x0004bae2 Rainbow Bridge for you!
+0x0004bae2 just like my waterspout!
 
 ; 0x0004bb10 その虹の橋を渡れば、
-0x0004bb10 Cross that bridge,
+0x0004bb10 Cross that rainbow bridge,
 
 ; 0x0004bb31 どこにでもいける・・・！
-0x0004bb31 and you can go anywhere!
+0x0004bb31 and you can go anywhere...!
 
 ; 0x0004bb60 と、言いたいとこだけど、
 0x0004bb60 ...Well, almost anywhere.
@@ -272,13 +278,13 @@
 0x0004bba2 the Makkou Continent.
 
 ; 0x0004bbd0 なにか強い力で
-0x0004bbd0 Some strong
+0x0004bbd0 It seems guarded by
 
 ; 0x0004bbf1 まもられているみたいで、
-0x0004bbf1 force protects it.
+0x0004bbf1 some strong force, and
 
 ; 0x0004bc12 まるで近づけない・・・。
-0x0004bc12 Just can't get close.
+0x0004bc12 we can't get close...
 
 ; 0x0004bc40 とにかく、ほんとうにありがとう！
 0x0004bc40 Anyway, thank you so much!
@@ -308,31 +314,34 @@
 0x0004bd70 he's fully healed.
 
 ; 0x0004bda0 どうかお元気で・・・。
-0x0004bda0 Please take care.
+0x0004bda0 Please take care...
 
 ; 0x0004bdc1 あなたの冒険が、
-0x0004bdc1 I'll be
+0x0004bdc1 I will be praying
 
 ; 0x0004bde2 成功しますようにって、
-0x0004bde2 praying for your
+0x0004bde2 for the success
 
 ; 0x0004be10 わたし、ずっとお祈りしてます。
-0x0004be10 adventure's success.
+0x0004be10 of your adventure.
 
 ; 0x0004c02c ＜虹の粉が、朝日に照らされて、
-0x0004c02c <Rainbow Powder glows faintly
+0x0004c02c <The Rainbow Powder glows 
 
 ; 0x0004c04d ほのかに光り出す。＞
-0x0004c04d in the morning sun.>
+0x0004c04d faintly in the morning sun.>
+
+
+;; Pirate meeting
 
 ; 0x0004c08c 親分！
-0x0004c08c Boss!
+0x0004c08c Boss! A human is walking
 
 ; 0x0004c0ad 虹の上を、に、人間が歩いてる！
-0x0004c0ad A human is walking on a rainbow!
+0x0004c0ad on the rainbow!
 
 ; 0x0004c0dc あいつ、こないだ山道を
-0x0004c0dc The same one on the
+0x0004c0dc It's the same one from the
 
 ; 0x0004c0fd いこうとしていた奴ですよ！
 0x0004c0fd mountain path the other day.
@@ -344,7 +353,7 @@
 0x0004c14d I don’t know how she got
 
 ; 0x0004c16e 知らんが・・・。
-0x0004c16e here, but...
+0x0004c16e up here, but...
 
 ; 0x0004c19c ふむ・・・。
 0x0004c19c Hmm...
@@ -356,16 +365,16 @@
 0x0004c1ec Hm?
 
 ; 0x0004c20d ・・・もしや・・・あいつは！
-0x0004c20d Wait... Could she be...!
+0x0004c20d Wait... Could it be her?!
 
 ; 0x0004c23c お、親分？
-0x0004c23c Boss?
+0x0004c23c B-Boss?
 
 ; 0x0004c26c ・・・！まちがいねえ！
-0x0004c26c ...! No mistake!
+0x0004c26c ...! No doubt about it!
 
 ; 0x0004c28d あいつが乙女の騎士、
-0x0004c28d She's the maiden knight
+0x0004c28d It's the maiden knight,
 
 ; 0x0004c2ae ワルキューレだ！
 0x0004c2ae Valkyrie!
@@ -374,10 +383,10 @@
 0x0004c2dc Ehhh!
 
 ; 0x0004c2fd あの小娘が？
-0x0004c2fd That girl?
+0x0004c2fd That little girl?
 
 ; 0x0004c32c 新月王や、ピラミッドの
-0x0004c32c Beat the New Moon King,
+0x0004c32c She beat the New Moon King
 
 ; 0x0004c34d 黒い魔物もやっつけたっていう・・
 0x0004c34d and the pyramid monster too?
@@ -389,16 +398,16 @@
 0x0004c3ac This airship...
 
 ; 0x0004c3cd あのサンドラ野郎に沈められた前の
-0x0004c3cd is different from the one that
+0x0004c3cd is different from the one 
 
 ; 0x0004c3ee 船とはワケがちがうのだ！
-0x0004c3ee Sandra bastard sank!
+0x0004c3ee that Sandra bastard sank!
 
 ; 0x0004c41c 勝てる！
 0x0004c41c We can win!
 
 ; 0x0004c43d 勝てるぞ！
-0x0004c43d We can win!
+0x0004c43d We're gonna win!
 
 ; 0x0004c45e 総員、戦闘配置！
 0x0004c45e All hands, battle stations!
@@ -407,70 +416,73 @@
 0x0004c48c Target: Port side, the
 
 ; 0x0004c4ad 虹の上の乙女の騎士！
-0x0004c4ad Maiden knight on the rainbow!
+0x0004c4ad maiden knight on the rainbow!
 
 ; 0x0004c4ce 攻撃開始！！
-0x0004c4ce Attack!!
+0x0004c4ce Open fire!!
+
+
+;; Caldera village dialogues
 
 ; 0x0004c59c 私は、姫様の涙を
-0x0004c59c I'm looking for her
+0x0004c59c I'm looking for the
 
 ; 0x0004c5bd 研究している者です。
-0x0004c5bd Highness's tears.
+0x0004c5bd Princess's tears.
 
 ; 0x0004c5ec どうやら姫様の涙は、
-0x0004c5ec Apparently, they
+0x0004c5ec Apparently, they are
 
 ; 0x0004c60d 生き物のけがや病気の回復に
-0x0004c60d heal injuries and illnesses
+0x0004c60d very effective for healing
 
 ; 0x0004c62e よく効くらしいのです。
-0x0004c62e effectively.
+0x0004c62e injuries and illnesses.
 
 ; 0x0004c65c この涙をつかえば、いままでより
-0x0004c65c With these tears, I should be
+0x0004c65c With these tears, I should
 
 ; 0x0004c67d はるかに良い薬が出来るはず・・。
-0x0004c67d able to make far better medicine...
+0x0004c67d make much better medicine...
 
 ; 0x0004c6ac その薬がカルデラにはやっている
-0x0004c6ac Hope it works on the Weathering
+0x0004c6ac I hope it works on the Weathering
 
 ; 0x0004c6cd ‘奇病’にも効けばいいんですが。
 0x0004c6cd disease spreading in Caldera.
 
 ; 0x0004c6ee とにかく研究あるのみです！
-0x0004c6ee Nothing left but research!
+0x0004c6ee Time to keep researching!
 
 ; 0x0004c71c えっ！けがをしたクジラが？
-0x0004c71c Huh? The injured whale?
+0x0004c71c What? An injured whale?
 
 ; 0x0004c73d う〜む・・・クジラくらい大きな
 0x0004c73d Hmm... For a creature that
 
 ; 0x0004c75e 生き物のけがとなると、
-0x0004c75e large, normal
+0x0004c75e large, a regular medicine
 
 ; 0x0004c78c ふつうの傷薬なんかは
-0x0004c78c healing potions
+0x0004c78c probably won't be
 
 ; 0x0004c7ad 効かないでしょうな・・・。
-0x0004c7ad likely won’t work...
+0x0004c7ad enough...
 
 ; 0x0004c7dc ・・・よし、わかりました！
-0x0004c7dc ...Alright, got it!
+0x0004c7dc ...All right, I've got it!
 
 ; 0x0004c7fd この、姫様の涙から作り出した
-0x0004c7fd Please test this
+0x0004c7fd Please try this
 
 ; 0x0004c81e ‘万能薬’の試作品を、
-0x0004c81e Elixir Prototype
+0x0004c81e Elixir Prototype on that whale,
 
 ; 0x0004c84c そのクジラに試してみて
-0x0004c84c made from the princess's tears
+0x0004c84c it was made from the 
 
 ; 0x0004c86d あげてださい！
-0x0004c86d on that whale!
+0x0004c86d Princess's tears!
 
 ; 0x0004c89c ＜万能薬・試作品を
 0x0004c89c <Got Elixir
@@ -482,7 +494,7 @@
 0x0004c8ec Of course, no payment
 
 ; 0x0004c90d いりませんよ！
-0x0004c90d needed!
+0x0004c90d is needed!
 
 ; 0x0004c93c こちらこそ、タダで薬を
 0x0004c93c Getting free test data
@@ -500,7 +512,7 @@
 0x0004c9cd Sorchikis eggshell,
 
 ; 0x0004c9fc 根かじり虫の脱皮した皮でも
-0x0004c9fc root-grubber molt...
+0x0004c9fc root-grubber skins...
 
 ; 0x0004ca1d 試してみるかな？
 0x0004ca1d Should I try those?
@@ -530,13 +542,13 @@
 0x0004cc35 we build anything.
 
 ; 0x0004cc56 のう、ガティ！
-0x0004cc56 Hey, Gatty!
+0x0004cc56 Right, Gatty?
 
 ; 0x0004cc84 ウーム・・・。
-0x0004cc84 Hmm...
+0x0004cc84 Hmph...
 
 ; 0x0004ccb4 ガティは愛想はわるいが、
-0x0004ccb4 Gatty isn’t friendly,
+0x0004ccb4 Gatty isn't very friendly,
 
 ; 0x0004ccd5 大工としての腕は確かじゃ。
 0x0004ccd5 but he's a skilled carpenter.
@@ -545,19 +557,19 @@
 0x0004cd04 Miss,
 
 ; 0x0004cd25 なにか入用のものがあれば、
-0x0004cd25 if you need anything,
+0x0004cd25 if you need anything at all,
 
 ; 0x0004cd46 なんでも言ってみてくだされよ。
-0x0004cd46 just say the word.
+0x0004cd46 just let us know.
 
 ; 0x0004cd74 ゴフォ、ゴフォ、ゴフォ。
-0x0004cd74 *gulp* *gulp*
+0x0004cd74 *Cough* *cough*
 
 ; 0x0004cda4 方舟のおじいさん！おひさしぶり！
 0x0004cda4 It’s been a while, old man!
 
 ; 0x0004cdd4 ン？おや、クリノさんと
-0x0004cdd4 Hm? Oh, isn't that
+0x0004cdd4 Hm? Oh, aren't you
 
 ; 0x0004cdf5 いっしょにいたフェアリーじゃ
 0x0004cdf5 the fairy who was with
@@ -569,10 +581,10 @@
 0x0004ce44 Long time no see.
 
 ; 0x0004ce65 クリノさんはお元気かね？
-0x0004ce65 How's Kurino doing?
+0x0004ce65 How is Kurino doing?
 
 ; 0x0004ce94 おじいさん、実はおじいさんの
-0x0004ce94 Grandpa, actually, we need
+0x0004ce94 Grandpa, actually we need
 
 ; 0x0004ceb5 お知恵をお借りしたいの・・・。
 0x0004ceb5 your help...
@@ -584,16 +596,16 @@
 0x0004cf14 Hmm... The mountain path
 
 ; 0x0004cf35 つづく山道はあそこ一つしか
-0x0004cf35 to Lorelei is the only way,
+0x0004cf35 to Lorelei is blocked off,
 
 ; 0x0004cf56 ないんじゃ・・・。
-0x0004cf56 but it's blocked.
+0x0004cf56 leaving only one way...
 
 ; 0x0004cf84 あとは開かずの廃坑を
-0x0004cf84 Only option is through
+0x0004cf84 Through the sealed mine,
 
 ; 0x0004cfa5 抜けていくしかないのう、ガティ。
-0x0004cfa5 the sealed mine, right Gatty?
+0x0004cfa5 right, Gatty?
 
 ; 0x0004cfd4 あそこを通れば、
 0x0004cfd4 Going through there
@@ -611,28 +623,28 @@
 0x0004d065 Better avoid that place.
 
 ; 0x0004d094 ・・・あの化石のことかね？
-0x0004d094 ...You mean the fossil
+0x0004d094 ...You mean due to that fossil?
 
 ; 0x0004d0c4 化石？
 0x0004d0c4 Fossil?
 
 ; 0x0004d0f4 ああ、あそこを掘っていたころに、
-0x0004d0f4 Yeah, found a huge fossil
+0x0004d0f4 Yeah, we found a giant fossil
 
 ; 0x0004d115 大きな生き物の化石を
-0x0004d115 creature when digging
+0x0004d115 creature while digging in
 
 ; 0x0004d136 見つけたんじゃよ。
 0x0004d136 there.
 
 ; 0x0004d164 どうやら古代の巨大な生き物の
-0x0004d164 Seems to be an ancient
+0x0004d164 It seems to be an ancient
 
 ; 0x0004d185 化石のようなんじゃが・・・。
 0x0004d185 giant beast...
 
 ; 0x0004d1b4 夜な夜な廃坑の地下から、
-0x0004d1b4 But every night, strange cries
+0x0004d1b4 And every night, strange cries
 
 ; 0x0004d1d5 妙な鳴き声が聞こえてくる。
 0x0004d1d5 echo from beneath the mine.
@@ -644,25 +656,25 @@
 0x0004d225 back to life and
 
 ; 0x0004d246 もっぱらのうわさだ。
-0x0004d246 is moving.
+0x0004d246 is moving around.
 
 ; 0x0004d274 ・・・たしかに最近、
-0x0004d274 ...Indeed,
+0x0004d274 ...Indeed lately, 
 
 ; 0x0004d295 マーベルランドの
-0x0004d295 lately old
+0x0004d295 monsters and ancient 
 
 ; 0x0004d2b6 いろいろな場所で、
-0x0004d2b6 creatures and
+0x0004d2b6 creatures of all kinds 
 
 ; 0x0004d2e4 古い時代の生き物や、
-0x0004d2e4 monsters appear
+0x0004d2e4 have been spotted
 
 ; 0x0004d305 魔物のたぐいが見かけられていると
-0x0004d305 across Marvel Land.
+0x0004d305 all over Marvel Land.
 
 ; 0x0004d326 聞いてはいるのじゃが・・・。
-0x0004d326 I’ve heard, but...
+0x0004d326 But...
 
 ; 0x0004d354 あれはどうみてもただの
 0x0004d354 that thing looked like
@@ -671,64 +683,64 @@
 0x0004d375 just a fossil...
 
 ; 0x0004d396 まさかとは思うが、う〜む・・。
-0x0004d396 I don’t think it’s possible, but...
+0x0004d396 I doubt it, but... hmm....
 
 ; 0x0004d3c4 カルデラではやっておる
-0x0004d3c4 Caldera's disease
+0x0004d3c4 Maybe it's related to the
 
 ; 0x0004d3e5 ‘狂時病’といい、
-0x0004d3e5 maybe related...
+0x0004d3e5 diseases spreading in Caldera...
 
 ; 0x0004d414 誰かがいたずらに時間をいじくって
-0x0004d414 Like someone tampered
+0x0004d414 Like someone is
 
 ; 0x0004d435 いるかのようじゃ・・・。
-0x0004d435 with time...
+0x0004d435 messing with time...
 
 ; 0x0004d464 だぁ〜いじょうぶよ！
 0x0004d464 It'll be fine!
 
 ; 0x0004d485 どんな魔物が現れても、
-0x0004d485 No matter what monsters
+0x0004d485 No matter what monsters appear,
 
 ; 0x0004d4b4 ワルキューレさんが
-0x0004d4b4 appear, Valkyrie
+0x0004d4b4 Valkyrie will beat them 
 
 ; 0x0004d4d5 やっつけちゃうんだから！
-0x0004d4d5 will beat all of them!
+0x0004d4d5 all!
 
 ; 0x0004d4f6 ね？ワルキューレさん？
 0x0004d4f6 Right, Valkyrie?
 
 ; 0x0004d524 どうしてもというなら協力は
-0x0004d524 If you insist, we'll help.
+0x0004d524 If you insist, we will help.
 
 ; 0x0004d545 惜しまないがの・・・ガティ、
 0x0004d545 Gatty, let's give her
 
 ; 0x0004d566 あれをお嬢さんに差し上げようか
-0x0004d566 that.
+0x0004d566 that thing.
 
 ; 0x0004d594 ・・・。
 0x0004d594 ...
 
 ; 0x0004d5c4 そうじゃ！多少荒っぽくなるがな。
-0x0004d5c4 Right! Might be a bit rough, though.
+0x0004d5c4 Right! It might be rough.
 
 ; 0x0004d5e5 え〜っと・・・これじゃ！
-0x0004d5e5 Let’s see... This!
+0x0004d5e5 Let’s see... Here!
 
 ; 0x0004d614 ＜大爆弾を手にいれた！＞
 0x0004d614 <Got Big Bomb!>
 
 ; 0x0004d644 大爆弾を廃坑の前で使うのじゃよ。
-0x0004d644 Use it in front of the mine
+0x0004d644 Use it at the mine entrance.
 
 ; 0x0004d665 くれぐれも取り扱いには
-0x0004d665 entrance. Handle it with
+0x0004d665 Handle it with extreme 
 
 ; 0x0004d686 気をつけてな。
-0x0004d686 extreme care!
+0x0004d686 care!
 
 ; 0x0004d6c0 おじょうさん、
 0x0004d6c0 Miss,
@@ -746,139 +758,139 @@
 0x0004da15 ...Or so I'd like to say.
 
 ; 0x0004da44 いまカルデラの町は、
-0x0004da44 Here in Caldera
+0x0004da44 Right now, things 
 
 ; 0x0004da65 なんていうか・・・。
-0x0004da65 things are a bit...
+0x0004da65 in Caldera are...
 
 ; 0x0004da86 ちょっと普通じゃないんだ。
-0x0004da86 unusual here right now.
+0x0004da86 a bit unusual.
 
 ; 0x0004dab4 出来ればあんまり長居しない
-0x0004dab4 Best not to stay too
+0x0004dab4 Better not to stay
 
 ; 0x0004dad5 ほうがいいかもね。
-0x0004dad5 long.
+0x0004dad5 here too long.
 
 ; 0x0004db2c このカルデラの町は、もとから
 0x0004db2c Caldera wasn't always
 
 ; 0x0004db4d 水浸しだったわけじゃないんだ。
-0x0004db4d flooded.
+0x0004db4d flooded like this.
 
 ; 0x0004db7c この水は全て、カルデラ城の
-0x0004db7c This water comes from the
+0x0004db7c All this water is from
 
 ; 0x0004db9d お姫様が、行方不明の恋人を
-0x0004db9d Princess's tears shed
+0x0004db9d the Princess crying for her
 
 ; 0x0004dbbe しのんで泣いた時の涙なんだよ。
-0x0004dbbe mourning her missing lover.
+0x0004dbbe missing lover.
 
 ; 0x0004dc08 カルデラがもとの平和な町に
-0x0004dc08 Many hardships remain
+0x0004dc08 Many trials remain before
 
 ; 0x0004dc29 戻るまでは、まだいろいろな困難が
-0x0004dc29 before peace returns,
+0x0004dc29 peace returns in Caldera,
 
 ; 0x0004dc4a あるけれど、とりあえず水だけは
-0x0004dc4a but at least water is
+0x0004dc4a but at least water
 
 ; 0x0004dc78 不自由しないね。
-0x0004dc78 plentiful.
+0x0004dc78 is plentiful!
 
 ; 0x0004dcc4 南に住むエンリケ族の友人から、
-0x0004dcc4 Got a letter from an Enrique
+0x0004dcc4 I got a letter from an 
 
 ; 0x0004dce5 久しぶりに便りがあった。
-0x0004dce5 friend in the south.
+0x0004dce5 Enrique friend in the south.
 
 ; 0x0004dd14 なんでも町を、タッタ族に
-0x0004dd14 He said Tattas took
+0x0004dd14 He said the Tattas took
 
 ; 0x0004dd35 乗っ取られていたらしい。
-0x0004dd35 over their town, but a
+0x0004dd35 over their town, 
 
 ; 0x0004dd64 けれど一人の勇かんな
-0x0004dd64 brave girl helped
+0x0004dd64 but a brave girl 
 
 ; 0x0004dd85 女の子の活躍で、
-0x0004dd85 and they were able
+0x0004dd85 helped them take it
 
 ; 0x0004dda6 町を取り戻せたとか・・・。
-0x0004dda6 to reclaim the town.
+0x0004dda6 back...
 
 ; 0x0004ddd4 もしかするとその子は
-0x0004ddd4 Maybe the she's the
+0x0004ddd4 Could she be the
 
 ; 0x0004ddf5 ‘天の御使い’かもしれんな？
-0x0004ddf5 ’Heaven’s messenger’?
+0x0004ddf5 Heaven’s Messenger?
 
 ; 0x0004de58 姫様が魔物に連れ去られようと
 0x0004de58 When monsters kidnapped
 
 ; 0x0004de79 したとき、姫の恋人ニコル様は、
-0x0004de79 the Princess, her lover Sir
+0x0004de79 the Princess, Sir Nicol
 
 ; 0x0004de9a 身をていして姫を守った・・・。
-0x0004de9a Nicol shielded her.
+0x0004de9a tried to protect her...
 
 ; 0x0004dec8 けれど、姫を助けるには
-0x0004dec8 But he couldn't save
+0x0004dec8 But he couldn't
 
 ; 0x0004dee9 いたらなかったんだ・・・。
-0x0004dee9 her...
+0x0004dee9 save her in time...
 
 ; 0x0004df18 それでもニコル様はあきらめず、
-0x0004df18 Still, he refused to give up.
+0x0004df18 Still, he refused to give up,
 
 ; 0x0004df39 姫を連れて飛び去ろうとした
-0x0004df39 Clung to the monster's leg
+0x0004df39 grabbing onto the monster's
 
 ; 0x0004df5a 魔物のその足にしがみついた！
-0x0004df5a as it flew off with her!
+0x0004df5a leg as it flew away!
 
 ; 0x0004df88 で、結局そのまま一緒に、
-0x0004df88 And so they vanished
+0x0004df88 And so they vanished together
 
 ; 0x0004dfa9 いずこかへと
-0x0004dfa9 together
+0x0004dfa9 to parts unknown.
 
 ; 0x0004dfca 飛んでいってしまったんだ。
-0x0004dfca to parts unknown.
+0x0004dfca ...
 
 ; 0x0004e02c ティアナ姫とニコル様。
-0x0004e02c Princess Tiana and Sir
+0x0004e02c It was at Princess Tiana 
 
 ; 0x0004e04d お二人の幸せな結婚式！
-0x0004e04d Nicol happy wedding day!
+0x0004e04d and Sir Nicol wedding!
 
 ; 0x0004e06e ・・・でもその日・・・
-0x0004e06e ...But that day...
+0x0004e06e ...That day...
 
 ; 0x0004e09c 真っ黒な空から、
-0x0004e09c Pitch-black
+0x0004e09c Dark monsters
 
 ; 0x0004e0bd もっと真っ黒な魔物が現れて、
-0x0004e0bd monsters descended from the
+0x0004e0bd appeared from the sky
 
 ; 0x0004e0de ２人をさらっていっちゃったの！
-0x0004e0de sky, and kidnapped them both!
+0x0004e0de and took them both!
 
 ; 0x0004e128 ローレライ海の向こうにある
 0x0004e128 Beyond the Lorelei Sea,
 
 ; 0x0004e149 マッコウ大陸の海には、
-0x0004e149 In the sea of Makkou,
+0x0004e149 in Makkou, lives a
 
 ; 0x0004e16a 人なつっこいクジラがいるんだ。
-0x0004e16a lives a friendly whale.
+0x0004e16a very friendly whale.
 
 ; 0x0004e198 ただのクジラじゃないよ。
 0x0004e198 Not just any whale.
 
 ; 0x0004e1c8 クジラ達の塩ふきでできる
-0x0004e1c8 Its spout creates a
+0x0004e1c8 Its waterspout creates a
 
 ; 0x0004e1e9 ‘虹の橋’は、どんな道にも
 0x0004e1e9 magical Rainbow Bridge
@@ -887,82 +899,82 @@
 0x0004e20a leading anywhere.
 
 ; 0x0004e260 北のローレライ海は、今、
-0x0004e260 Northern Lorelei Sea
+0x0004e260 Northern Lorelei Sea is
 
 ; 0x0004e281 毎日の嵐と、空にいるっていう
-0x0004e281 is impassable now due to
+0x0004e281 blocked by daily storms
 
 ; 0x0004e2a2 魔物のせいで、
-0x0004e2a2 daily storms
+0x0004e2a2 and flying monsters.
 
 ; 0x0004e2d0 越えられなくなっちゃってるの。
-0x0004e2d0 and flying monsters.
+0x0004e2d0 ...
 
 ; 0x0004e300 まるで誰かが、
 0x0004e300 Like someone
 
 ; 0x0004e321 この先には立ち入るな
-0x0004e321 is warning us not to
+0x0004e321 is warning us not
 
 ; 0x0004e342 って言ってるみたい。
-0x0004e342 enter.
+0x0004e342 to go any further.
 
 ; 0x0004e398 私、こう見えてもこの子の
-0x0004e398 Believe it or not, I'm
+0x0004e398 Believe it or not, 
 
 ; 0x0004e3b9 母親なんです。
-0x0004e3b9 her mother.
+0x0004e3b9 I'm her mother.
 
 ; 0x0004e3e8 それが、朝目が覚めると、
-0x0004e3e8 Woke up one morning
+0x0004e3e8 I woke up one morning
 
 ; 0x0004e409 こんな子どもの姿になっていて・・
-0x0004e409 as a child...
+0x0004e409 looking like a child...
 
 ; 0x0004e438 たしかティアナ姫様が魔物に
-0x0004e438 The morning after Princess
+0x0004e438 the morning after Princess
 
 ; 0x0004e459 連れ去られた次の日の朝です。
 0x0004e459 Tiana was taken.
 
 ; 0x0004e488 はぁ・・・。
-0x0004e488 *sigh*
+0x0004e488 *sigh*...
 
 ; 0x0004e4a9 若返ってうれしい、
-0x0004e4a9 Can't exactly celebrate
+0x0004e4a9 I can't even be happy
 
 ; 0x0004e4ca なんて言ってられないわ。
-0x0004e4ca being young again.
+0x0004e4ca about being young again.
 
 ; 0x0004e4f8 この姿じゃ、家事がたいへんよ〜。
-0x0004e4f8 Housework is tough like this!
+0x0004e4f8 Housework is hard like this!
 
 ; 0x0004e568 ふふ、私とおかあさん、
 0x0004e568 Hehe, Mom and I look
 
 ; 0x0004e589 そっくりでしょう？
-0x0004e589 alike, don't we?
+0x0004e589 so much alike, right?
 
 ; 0x0004e5c8 おじいさんなんて、
 0x0004e5c8 Don't call me
 
 ; 0x0004e5e9 呼ばないでくれ！
-0x0004e5e9 old man!
+0x0004e5e9 an old man!
 
 ; 0x0004e60a ぼくはまだ若いんだ！
 0x0004e60a I'm still young!
 
 ; 0x0004e638 若かった・・・はずなんだ。
-0x0004e638 Was young... supposed to be.
+0x0004e638 I was young... or so I thought.
 
 ; 0x0004e659 昨日までは・・・たしかハタチで、
 0x0004e659 Yesterday I was twenty,
 
 ; 0x0004e688 だのに、な、なんで、
-0x0004e688 But,
+0x0004e688 but, today I woke up
 
 ; 0x0004e6a9 朝起きるとじいさんなんだ！？
-0x0004e6a9 woke up as an old man!
+0x0004e6a9 as an old man!
 
 ; 0x0004e700 た〜び〜の〜ひ〜と〜
 0x0004e700 Tr-ra-ve-ler~
@@ -998,16 +1010,16 @@
 0x0004e8ac Too fast,
 
 ; 0x0004e8cd おそすぎるやつ
-0x0004e8cd Too slow,
+0x0004e8cd too slow,
 
 ; 0x0004e8fc きゅうにわかがえったやつ
 0x0004e8fc suddenly young,
 
 ; 0x0004e91d としよりになったやつ
-0x0004e91d turned old...
+0x0004e91d suddenly old...
 
 ; 0x0004e94c きみはまだふつうみたいだね
-0x0004e94c You seem normal still.
+0x0004e94c You still look normal.
 
 ; 0x0004e96d よかった、
 0x0004e96d Good,
@@ -1022,58 +1034,58 @@
 0x0004ea11 I don't want anyone seeing
 
 ; 0x0004ea32 誰にも見られたくないのぉ〜！
-0x0004ea32 me wrinkled like this!
+0x0004ea32 me all wrinkled!
 
 ; 0x0004ea60 誰でも若いころはあったし、
-0x0004ea60 Everyone was young once,
+0x0004ea60 Everyone is young once,
 
 ; 0x0004ea81 日々老いて行くんじゃ。
 0x0004ea81 and grow older day by day.
 
 ; 0x0004eab0 ちょっと見方を変えれば、
-0x0004eab0 Look at it differently,
+0x0004eab0 Looking at it another way,
 
 ; 0x0004ead1 これはいい経験じゃよ。
-0x0004ead1 It’s a good experience.
+0x0004ead1 this is a good experience.
 
 ; 0x0004eb00 もっとも、ちゃんと治れば
-0x0004eb00 If only it heals properly,
+0x0004eb00 Though if this illness would
 
 ; 0x0004eb21 いうことはないんじゃが・・・。
-0x0004eb21 that would be great...
+0x0004eb21 just go away, that'd be best...
 
 ; 0x0004eb84 ぼく、しばらくこの、
-0x0004eb84 I want to stay as big
+0x0004eb84 I want to stay as a
 
 ; 0x0004eba5 お兄さんの姿でいたいなあ。
-0x0004eba5 brother a while longer.
+0x0004eba5 grownup a while longer.
 
 ; 0x0004ebd4 この姿なら、おとうさんの
-0x0004ebd4 I can help Dad
+0x0004ebd4 Because like this, I can
 
 ; 0x0004ebf5 お仕事も手伝って
-0x0004ebf5 with work
+0x0004ebf5 actually help out with
 
 ; 0x0004ec16 あげられるんだもの！
-0x0004ec16 like this!
+0x0004ec16 my dad's work!
 
 ; 0x0004ec60 カルデラの東の森から、
-0x0004ec60 East forest of Caldera,
+0x0004ec60 From Caldera's east forest,
 
 ; 0x0004ec81 南へ下ってゆくと
-0x0004ec81 head south to
+0x0004ec81 head south to find the
 
 ; 0x0004eca2 ピクシー達の村があるんだ。
-0x0004eca2 find Pixie Village.
+0x0004eca2 Pixie Village.
 
 ; 0x0004ece0 ・・・ぼくの彼女‘年老い症’に
-0x0004ece0 ...My girlfriend caught the
+0x0004ece0 ...My girlfriend caught 
 
 ; 0x0004ed01 かかっちゃって・・・。
-0x0004ed01 Old Age Disease.
+0x0004ed01 the Old Age Disease...
 
 ; 0x0004ed30 家に閉じこもったきり、
-0x0004ed30 She shut herself in,
+0x0004ed30 She shut herself in and
 
 ; 0x0004ed51 顔も見せてくれないんだ・・・。
 0x0004ed51 won't even show her face...
@@ -1088,7 +1100,7 @@
 0x0004edd1 but...
 
 ; 0x0004ee00 いざ本人を目の前にしたら、
-0x0004ee00 facing her,
+0x0004ee00 facing her in person,
 
 ; 0x0004ee21 ためらっちゃうんだろうなぁ？
 0x0004ee21 I'd probably hesitate...
@@ -1100,46 +1112,46 @@
 0x0004eeb1 over yeeet?!
 
 ; 0x0004eed2 もう１週間も今日じゃない！
-0x0004eed2 Another week of today!
+0x0004eed2 It's been a whole week!
 
 ; 0x0004ef00 ねえねえいつおわるの？
-0x0004ef00 Hey, when does it end?
+0x0004ef00 When is it going to end?
 
 ; 0x0004ef21 いついついついついつから明日？
 0x0004ef21 When is tomorrow coming?!
 
 ; 0x0004ef6c いや〜あ、びっくりしたよ。
-0x0004ef6c When, tomorrow?
+0x0004ef6c Man, I got a scare.
 
 ; 0x0004ef8d なにがかって？
-0x0004ef8d What do you mean?
+0x0004ef8d What happened?
 
 ; 0x0004efae 魔物じゃよ！空飛ぶ魔物！
-0x0004efae Flying monsters fell on
+0x0004efae Flying monsters!
 
 ; 0x0004efdc ローレライ海への山道を歩いてたら
-0x0004efdc me while I was walking
+0x0004efdc I was walking on the mountain 
 
 ; 0x0004effd 空からいきなりでっかい鉄の玉が
-0x0004effd on the Lorelei
+0x0004effd path, and a huge iron ball 
 
 ; 0x0004f01e 落ちてきたんじゃ！
-0x0004f01e mountain path!
+0x0004f01e dropped from the sky!
 
 ; 0x0004f04c ここまで、命辛々逃げて
-0x0004f04c I’ve barely escaped
+0x0004f04c I barely escaped
 
 ; 0x0004f06d 来たんじゃが・・・。
-0x0004f06d alive... That huge
+0x0004f06d with my life...
 
 ; 0x0004f08e 空を飛ぶあのでかい影！
-0x0004f08e shadow in the sky!
+0x0004f08e That big flying shadow!
 
 ; 0x0004f0bc 思い出しただけでも
-0x0004f0bc Just remembering
+0x0004f0bc Just remembering it
 
 ; 0x0004f0dd 寒気がするわい。
-0x0004f0dd gives me chills.
+0x0004f0dd gives me the chills.
 
 ; 0x0004f140 フルータジアは、かつて‘富の国’
 0x0004f140 Fulltasia was once called
@@ -1148,7 +1160,7 @@
 0x0004f161 the "Land of Wealth".
 
 ; 0x0004f190 しかし、国の繁栄とは逆に、
-0x0004f190 But as the nation thrived,
+0x0004f190 But as it prospered,
 
 ; 0x0004f1b1 人の心はどんどん貧しくなって
 0x0004f1b1 people's hearts grew
@@ -1160,31 +1172,31 @@
 0x0004f200 Amidst infinite wealth,
 
 ; 0x0004f221 みな、欲望という名の魔物に、心を
-0x0004f221 minds were consumed by desire.
+0x0004f221 minds were consumed by 
 
 ; 0x0004f242 むしばまれていったのじゃよ。
-0x0004f242 Eventually Fulltasia was
+0x0004f242 desire. Eventually...
 
 ; 0x0004f270 やがて、フルータジアは滅んだ。
-0x0004f270 destroyed.
+0x0004f270 Fulltasia was destroyed.
 
 ; 0x0004f2a0 伝説によると、彼らの欲望が
 0x0004f2a0 Legend says monsters born
 
 ; 0x0004f2c1 産み出したという魔物に、一夜の
-0x0004f2c1 of their desires destroyed
+0x0004f2c1 of desires destroyed it
 
 ; 0x0004f2e2 うちに滅ぼされたと聞くが・・・
-0x0004f2e2 it in a single night.
+0x0004f2e2 in a single night.
 
 ; 0x0004f310 わしは、魔物の出現などなくとも、
-0x0004f310 Even without monsters,
+0x0004f310 I think it would have
 
 ; 0x0004f331 フルータジアはすぐに滅んだ
-0x0004f331 Fulltasia would have
+0x0004f331 fallen soon anyway,
 
 ; 0x0004f352 じゃろうと思うておるよ。
-0x0004f352 fallen soon.
+0x0004f352 monsters or not.
 
 ; 0x0004f380 マッコウ大陸は、自然に満ちた
 0x0004f380 Makkou Continent was once
@@ -1193,13 +1205,13 @@
 0x0004f3a1 a peaceful land.
 
 ; 0x0004f3c2 だが、最近大寒波にみまわれてな
-0x0004f3c2 But after being hit by a great
+0x0004f3c2 But a great cold wave hit,
 
 ; 0x0004f3f0 今では厚い氷におおわれた氷原が
-0x0004f3f0 cold wave, now only frozen
+0x0004f3f0 leaving only thick
 
 ; 0x0004f411 広がっているばかりじゃよ。
-0x0004f411 ice fields spread.
+0x0004f411 ice fields behind.
 
 ; 0x0004f4bc 少し前までローレライ海は、
 0x0004f4bc Until recently, Lorelei
@@ -1211,37 +1223,37 @@
 0x0004f4fe by vicious pirates.
 
 ; 0x0004f52c 奴等は、黒い海賊船を操って、
-0x0004f52c Pirate ships attacked
+0x0004f52c Their black ships
 
 ; 0x0004f54d 海を渡る商船を
-0x0004f54d merchant
+0x0004f54d attacked merchant
 
 ; 0x0004f56e 積み荷目当てに襲っていたわ。
-0x0004f56e vessels for the cargo.
+0x0004f56e vessels for cargo.
 
 ; 0x0004f59c でも、そんな奴等も、
-0x0004f59c But even they
+0x0004f59c But even they were
 
 ; 0x0004f5bd サンドラ族の勇者クリノ様には
-0x0004f5bd couldn't beat the Sandra
+0x0004f5bd defeated by the Sandra
 
 ; 0x0004f5de かなわなかったんだって。
 0x0004f5de hero Kurino.
 
 ; 0x0004f60c クリノ様にこらしめられた海賊達が
-0x0004f60c What happened to those pirates
+0x0004f60c What happened to them
 
 ; 0x0004f62d その後どうしたかって？
-0x0004f62d after being defeated?
+0x0004f62d after that?
 
 ; 0x0004f64e さあ・・・？
 0x0004f64e Who knows...
 
 ; 0x0004f67c 少なくとも、まじめに働いたりは
-0x0004f67c Doubt they're working
+0x0004f67c I doubt they're working
 
 ; 0x0004f69d してないんじゃない？
-0x0004f69d honestly.
+0x0004f69d honestly now.
 
 ; 0x0004f70c ニコル様はもともと、
 0x0004f70c Sir Nicol was originally
@@ -1250,28 +1262,28 @@
 0x0004f72d a wandering flutist.
 
 ; 0x0004f74e 粗末な身なりにヒゲだらけの顔の
-0x0004f74e He had shabby clothes and a
+0x0004f74e Shabby and bearded,
 
 ; 0x0004f77c でも、とても博識で、
-0x0004f77c beard, but was very
+0x0004f77c but very wise and
 
 ; 0x0004f79d 思慮深い方で・・・。
 0x0004f79d knowledgeable...
 
 ; 0x0004f7cc そしてどんな人に対しても、
-0x0004f7cc Never arrogant or servile
+0x0004f7cc Never arrogant or 
 
 ; 0x0004f7ed へりくだったり、
-0x0004f7ed to anyone,
+0x0004f7ed servile to anyone,
 
 ; 0x0004f80e 偉ぶったりしない、
-0x0004f80e a man of true
+0x0004f80e ...
 
 ; 0x0004f83c とても肝の座った人なんだ。
-0x0004f83c courage.
+0x0004f83c A man of true courage.
 
 ; 0x0004f86c 笛を吹くのがとても上手で、
-0x0004f86c He played flute beautifully,
+0x0004f86c He played the flute so well
 
 ; 0x0004f88d カルデラでも有名だったんだ。
 0x0004f88d he was famous even in Caldera.
@@ -1289,130 +1301,133 @@
 0x0004f92d "I choose where I play."
 
 ; 0x0004f94e って。
-0x0004f94e Wait.
+0x0004f94e He said.
 
 ; 0x0004f97c お城の人達は怒ったけれど、
-0x0004f97c The castle folk were angry,
+0x0004f97c The castle folk were mad,
 
 ; 0x0004f99d そこをティアナ姫がなだめた。
 0x0004f99d but Princess Tiana calmed them.
 
 ; 0x0004f9cc でも、ティアナ姫は、どうしても
-0x0004f9cc Yet she desperately wanted to
+0x0004f9cc Yet she wanted to hear him
 
 ; 0x0004f9ed ニコル様の笛が聞きたくて、
-0x0004f9ed hear his flute, so she
+0x0004f9ed play so badly, she went out
 
 ; 0x0004fa0e お忍びで町に出かけたんだって。
-0x0004fa0e visited the town incognito.
+0x0004fa0e into town incognito
 
 ; 0x0004fa3c そこでニコル様と出会って・・・。
-0x0004fa3c And met Sir Nicol there...
+0x0004fa3c to met Sir Nicol...
 
 ; 0x0004fa6c まあ、それがお二人のなれそめさ。
-0x0004fa6c  Well, that's how they met.
+0x0004fa6c And that's how they met.
 
 ; 0x0004fa9c ニコル様は、本当に自分の意志を
-0x0004fa9c Sir Nicol truly never compromised
+0x0004fa9c Sir Nicol never compromised
 
 ; 0x0004fabd 曲げない人でね・・・。
-0x0004fabd his beliefs...
+0x0004fabd his own beliefs...
 
 ; 0x0004faec ティアナ姫との結婚式の日も、
-0x0004faec Even at the wedding,
+0x0004faec Even on his wedding day,
 
 ; 0x0004fb0d この町に来たときのまんまの、
-0x0004fb0d attended dressed as a
+0x0004fb0d he dressed just like
 
 ; 0x0004fb3c 風来坊の格好で
-0x0004fb3c wanderer just as
+0x0004fb3c the wanderer he was
 
 ; 0x0004fb5d 出席されたんだよ。
 0x0004fb5d when he arrived.
 
 ; 0x0004fb8c 姫様も、ニコル様のそういう所が
-0x0004fb8c The princess must have have fallen
+0x0004fb8c The princess must have loved
 
 ; 0x0004fbad 好きになったんだろうね。
-0x0004fbad in love with that side of him.
+0x0004fbad that honest side of him.
 
 ; 0x0004fcac 私がカルデラの城下町の町長です。
-0x0004fcac I’m mayor of Caldera Castle town.
+0x0004fcac I'm the Caldera town mayor.
 
 ; 0x0004fcdc この姿が気になりますか？
-0x0004fcdc About my appearance?
+0x0004fcdc Curious about my looks?
 
 ; 0x0004fcfd ・・・どうやらわたしも、最近、
-0x0004fcfd ...Seems I've also caught
+0x0004fcfd ..It seems I caught one
 
 ; 0x0004fd1e 町にはやっている
-0x0004fd1e the Rejuvenation
+0x0004fd1e of the strange diseases
 
 ; 0x0004fd4c ‘奇病’のうちのひとつ、
-0x0004fd4c Disease spreading
+0x0004fd4c going around town lately:
 
 ; 0x0004fd6d ‘若返り症’に
-0x0004fd6d in town.
+0x0004fd6d the "Rejuvenation
 
 ; 0x0004fd8e かかってしまったようでして
-0x0004fd8e ...
+0x0004fd8e Disease".
 
 ; 0x0004fdbc 姫様と姫様の婚約者のニコル様が
-0x0004fdbc Ever since Princess and her
+0x0004fdbc Ever since the Princess and her
 
 ; 0x0004fddd 魔物に連れ去られてからというもの
-0x0004fddd fiancee Nicol were taken by
+0x0004fddd fiancee Nicol were taken,
 
 ; 0x0004fe0c この町のまわりでは、
-0x0004fe0c monsters, strange
+0x0004fe0c strange things have been
 
 ; 0x0004fe2d おかしなことばかり起きています。
-0x0004fe2d things happen around town.
+0x0004fe2d happening.
 
 ; 0x0004fe5c その一つが、この奇病・・・
-0x0004fe5c One of them is this
+0x0004fe5c One is this strange
 
 ; 0x0004fe7d 私達が‘狂時病’と
-0x0004fe7d strange disease...
+0x0004fe7d disease we call the
 
 ; 0x0004fe9e 呼んでいるものです。
-0x0004fe9e There seem to be
+0x0004fe9e "Crono-Disease".
 
 ; 0x0004fecc ‘狂時病’にはいくつかの
-0x0004fecc four types of this...
+0x0004fecc There seem to be 
 
 ; 0x0004feed 種類があるようでして・・・。
-0x0004feed "High Speed" and "Low
+0x0004feed four types of it:
 
 ; 0x0004ff1c 生活のリズムが
-0x0004ff1c Speed", where
+0x0004ff1c "High Speed" and "Low Speed",
 
 ; 0x0004ff3d まるで変わってしまう
-0x0004ff3d your life rhythm
+0x0004ff3d where your life rhythm
 
 ; 0x0004ff5e ‘高速症’と‘鈍足症’
-0x0004ff5e changes completely.
+0x0004ff5e changes.
 
 ; 0x0004ff8c 自分自身の年令が変わってしまう
-0x0004ff8c Aging and Rejuvenation
+0x0004ff8c "Aging" and "Rejuvenation"
 
 ; 0x0004ffad ‘年老い症’と‘若返り症’
-0x0004ffad where your own age
+0x0004ffad where your own age changes.
 
 ; 0x0004ffdc この４つがあるようです。
-0x0004ffdc changes. Four types.
+0x0004ffdc ...
 
 ; 0x0005000c ・・・いずれもなおす方法は
-0x0005000c ...No known cure for
+0x0005000c ...No cure exists
 
 ; 0x0005002d 全くわかっていません。
-0x0005002d any.
+0x0005002d for any of them.
 
 ; 0x0005005c はあ・・・涙の洪水さわぎがすんだ
-0x0005005c *sigh* Just when the tear
+0x0005005c *sigh*... Just when the tear
 
 ; 0x0005007d ばかりだというのに・・・。
-0x0005007d flood settled..
+0x0005007d flood settled...
+
+
+;; Mechant meeting
 
 ; 0x00050154 ワルキューレ様！お久しぶり！
 0x00050154 Lady Valkyrie! Long time no see!
@@ -1421,79 +1436,82 @@
 0x00050175 I've made quite a profit
 
 ; 0x00050196 稼がせていただきましたよ。
-0x00050196 earlier, though.
+0x00050196 around here lately.
 
 ; 0x000501c4 っと、それはさておき・・・。
 0x000501c4 Anyway...
 
 ; 0x000501f4 新しい品も用意してありやすよ！
-0x000501f4 Got new stock too!
+0x000501f4 I've got brand new stock!
 
 ; 0x00050215 もちろんあなたの旅のお役にたつ
-0x00050215 All useful for your journey.
+0x00050215 All useful items for your
 
 ; 0x00050236 モノばかり・・・。
-0x00050236 ...
+0x00050236 journey...
 
 ; 0x00050264 さあ、見てって損はないですぜ！
 0x00050264 No harm in looking!
 
 ; 0x000502d4 まあ、あっしが一人でここまで
-0x000502d4 Well, I made it this far
+0x000502d4 Well, I only made it this far
 
 ; 0x000502f5 これたってのも、あなたが旅した
-0x000502f5 alone because I followed
+0x000502f5 because I followed right
 
 ; 0x00050316 後を来たからなんですがね・・。
-0x00050316 your trail...
+0x00050316 behind your trail...
 
 ; 0x00050344 そうだ、こうしやしょう！
 0x00050344 Here's an idea!
 
 ; 0x00050374 あなたが世直しをする。
-0x00050374 You restore order to
+0x00050374 You save the world,
 
 ; 0x000503a4 あなたの開いた安全な道で、
-0x000503a4 the world, I'll sell to the
+0x000503a4 and I'll sell goods
 
 ; 0x000503c5 あっしが、虐げられていた人々に
-0x000503c5 honest people along your
+0x000503c5 to the honest people 
 
 ; 0x000503e6 まっとうな生活をお売りする！
-0x000503e6 path!
+0x000503e6 along your path!
 
 ; 0x00050414 これこそ世のため、
-0x00050414 For the world and
+0x00050414 It's for the good of
 
 ; 0x00050435 人のためってやつです！
-0x00050435 its people!
+0x00050435 the world and its people!
 
 ; 0x00050464 お返事は、いますぐでなくても
-0x00050464 No rush to answer.
+0x00050464 No rush to give me
 
 ; 0x00050485 いいですよ。
-0x00050485 Think it
+0x00050485 your answer.
 
 ; 0x000504a6 じっくり考えといてくださいな。
-0x000504a6 over carefully.
+0x000504a6 Just think it over carefully.
+
+
+;; Pixie village dialogues 
 
 ; 0x00050528 ここから北へ向かうと
-0x00050528 Head north to reach
+0x00050528 Head north from here
 
 ; 0x00050549 ローレライ海に出る。
-0x00050549 Lorelei Sea.
+0x00050549 to reach the Lorelei Sea.
 
 ; 0x00050578 その向こうには
-0x00050578 Beyond lies the
+0x00050578 Beyond it lies the
 
 ; 0x00050599 緑豊かなマッコウ大陸と、
 0x00050599 verdant Makkou continent,
 
 ; 0x000505ba 富の国と呼ばれたフルータジアが
-0x000505ba and Fulltasia, Land of
+0x000505ba and Fulltasia, once known
 
 ; 0x000505e8 あるんだが・・・。
-0x000505e8 Wealth...
+0x000505e8 as the Land of Wealth...
 
 ; 0x00050609 今のローレライ海をこえることは、
 0x00050609 But crossing Lorelei Sea now
@@ -1502,7 +1520,7 @@
 0x0005062a is likely impossible.
 
 ; 0x00050658 海は毎日大荒れで、おまけに空には
-0x00050658 Seas rage daily, plus huge
+0x00050658 The seas rage daily, and giant
 
 ; 0x00050679 巨大な魔物がうろついてやがる！
 0x00050679 monsters patrol the skies!
@@ -1511,28 +1529,28 @@
 0x000506dc Traveler...
 
 ; 0x000506fd すまないが、素性の知れない者を
-0x000506fd Sorry, can't let strangers
+0x000506fd Sorry, we can't let 
 
 ; 0x0005071e 城に入れるわけにはいかないんだ
-0x0005071e into the castle.
+0x0005071e strangers into the castle.
 
 ; 0x0005075c 行方不明になっていた姫様の恋人、
-0x0005075c Princess’s missing lover,
+0x0005075c The princess’s missing lover,
 
 ; 0x0005077d ニコル様が見つかって、
-0x0005077d Sir Nicol was finally
+0x0005077d Sir Nicol was found,
 
 ; 0x0005079e やっとお姫様が
-0x0005079e found, and the
+0x0005079e finally stopping her
 
 ; 0x000507cc 泣き止んだってのに・・・。
-0x000507cc princess stopped crying...
+0x000507cc from crying...
 
 ; 0x000507ed 今度はその２人が、魔物に
-0x000507ed Then got kidnapped
+0x000507ed Then both of them got
 
 ; 0x0005080e 連れ去られてしまった。
-0x0005080e again by a monster.
+0x0005080e kidnapped by monsters.
 
 ; 0x0005083c カルデラはこれから
 0x0005083c What will become
@@ -1553,58 +1571,58 @@
 0x00050935 of that color!
 
 ; 0x00050974 そろそろ新しい糸を、町に
-0x00050974 Time to sell new thread
+0x00050974 Time to sell some 
 
 ; 0x00050995 売りに行こうかしら？
-0x00050995 in town?
+0x00050995 new thread in town?
 
 ; 0x000509d4 糸吐き虫達は、食べた花の色に
-0x000509d4 The silkworms spin threads
+0x000509d4 Silkworms spin threads
 
 ; 0x000509f5 応じた色の糸を吐くんだ。
-0x000509f5 of a color corresponding
+0x000509f5 matching the flowers eaten.
 
 ; 0x00050a16 でも、どの虫にも個性があって、
-0x00050a16 to the flower they eat.
+0x00050a16 But every bug is unique,
 
 ; 0x00050a44 同じ花を食べても
-0x00050a44 Same flower yields
+0x00050a44 so even the same flower
 
 ; 0x00050a65 虫によって出す糸の色が、
-0x00050a65 slightly different
+0x00050a65 yields slightly different
 
 ; 0x00050a86 微妙に違うんだ。
 0x00050a86 thread colors.
 
 ; 0x00050ab4 同じ虫でも、年令や体調なんかで、
-0x00050ab4 Same bug's thread luster changes
+0x00050ab4 Age and health also shift
 
 ; 0x00050ad5 出す糸の色つやが
-0x00050ad5 with age
+0x00050ad5 the thread's color
 
 ; 0x00050af6 変わってくる。
-0x00050af6 and health.
+0x00050af6 and luster.
 
 ; 0x00050b24 今年は・・・
 0x00050b24 This year...
 
 ; 0x00050b45 少しくすんだ色が多いかな？
-0x00050b45 lots of dull colors?
+0x00050b45 are there duller colors?
 
 ; 0x00050b74 このところカルデラ一帯は
-0x00050b74 Disasters are plaguing
+0x00050b74 Disasters have plagued
 
 ; 0x00050b95 災難続きだからなぁ。
 0x00050b95 Caldera lately.
 
 ; 0x00050bc4 虫達も、なにかに
-0x00050bc4 Bugs seem
+0x00050bc4 Even the bugs seem
 
 ; 0x00050be5 おびえているみたいだし・・・。
-0x00050be5 frightened too...
+0x00050be5 frightened by something...
 
 ; 0x00050c14 やっぱり心の不安も、
-0x00050c14 Anxiety shows in
+0x00050c14 Their anxiety shows in
 
 ; 0x00050c35 色に出ちゃうのかなぁ。
 0x00050c35 the colors.
@@ -1628,10 +1646,10 @@
 0x00050dbd do your best!
 
 ; 0x00050dfc 村の奥にある、ちょっと変わった
-0x00050dfc See the unique wooden hut
+0x00050dfc See that unique wooden hut
 
 ; 0x00050e1d 木の小屋は見たかい？
-0x00050e1d deep in village?
+0x00050e1d deep in the village?
 
 ; 0x00050e4c あれはもともと涙の洪水の時に、
 0x00050e4c An old carpenter built it
@@ -1640,13 +1658,13 @@
 0x00050e6d as an ark during the
 
 ; 0x00050e8e 方舟なんだよ。
-0x00050e8e tear flood.
+0x00050e8e great tear flood.
 
 ; 0x00050ed8 大きな物が、村の下を動きまわって
-0x00050ed8 Something big moving under the
+0x00050ed8 Feels like something big
 
 ; 0x00050ef9 いるような気配がする・・・。
-0x00050ef9 village... feels like it's here.
+0x00050ef9 is moving under the village...
 
 ; 0x00050f38 旅の人、ピクシー村にようこそ！
 0x00050f38 Traveler, welcome to Pixie
@@ -1655,22 +1673,22 @@
 0x00050f59 Village! Rest easy.
 
 ; 0x00050f88 ぼくらの家は、あなたがた人間には
-0x00050f88 Our homes might be cramped
+0x00050f88 Our homes might feel
 
 ; 0x00050fa9 きゅうくつかもしれないけどね。
-0x00050fa9 for humans.
+0x00050fa9 cramped for humans.
 
 ; 0x00050fd8 ＜ライフが回復した！＞
 0x00050fd8 <Life restored!>
 
 ; 0x00051034 糸吐き虫は、ぼくらの
-0x00051034 The silkworms are
+0x00051034 Silkworms are our
 
 ; 0x00051055 大事な家畜だよ。
 0x00051055 precious livestock.
 
 ; 0x00051084 彼らは、たくさんの花を食べて、
-0x00051084 They ate so many flowers,
+0x00051084 They eat many flowers
 
 ; 0x000510a5 その花の色に応じた色の
 0x000510a5 and spin a matching
@@ -1682,7 +1700,7 @@
 0x000510f4 The thread is strong and
 
 ; 0x00051115 この地方の衣服や家具に多く
-0x00051115 supple, It’s used to make
+0x00051115 supple, it’s used to make
 
 ; 0x00051136 使われているんだよ。
 0x00051136 clothes and furniture.
@@ -1703,7 +1721,7 @@
 0x0005122e again for earlier.
 
 ; 0x0005125c 山を下りるの？
-0x0005125c The mountain?
+0x0005125c Heading down the mountain?
 
 ; 0x0005127d 近道を知ってるわ。
 0x0005127d I know a shortcut.
@@ -1718,19 +1736,19 @@
 0x00051329 walking through the
 
 ; 0x0005134a いますぜ。
-0x0005134a valley.
+0x0005134a valley down there.
 
 ; 0x00051378 生意気な。
-0x00051378 How insolent.
+0x00051378 How bold!
 
 ; 0x00051399 ここは通行禁止との我々の通告を
-0x00051399 Ignoring our "no trespassing"
+0x00051399 Ignoring our notice that
 
 ; 0x000513ba 無視するとは。
-0x000513ba notice...
+0x000513ba the road is closed...
 
 ; 0x000513e8 目にものみせてやれい！
-0x000513e8 Show them no mercy!
+0x000513e8 Give them a lesson!
 
 ; 0x00051418 合点承知！
 0x00051418 Understood!

@@ -1,35 +1,38 @@
+
+;; Kamuz dialogues
+
 ; 0x0003d1c1 チッ・・・ダメか。
 0x0003d1c1 Tch... No good.
 
 ; 0x0003d1f0 これだけぶったたいても
-0x0003d1f0 Even if I hit it this
+0x0003d1f0 I’ve hit this thing so hard,
 
 ; 0x0003d211 ビクともしねえ・・・。
-0x0003d211 hard won’t budge it...
+0x0003d211 yet it won't budge...
 
 ; 0x0003d232 まったくいまいましい扉だ！
-0x0003d232 Damn door!
+0x0003d232 Damn this door!
 
 ; 0x0003d260 ・・・ン？
 0x0003d260 ...Hm?
 
 ; 0x0003d290 なんだ？おまえもティアラ目当てで
-0x0003d290 What? You’re after the Tiara
+0x0003d290 What? Are you after
 
 ; 0x0003d2b1 ここまで来たクチか？
-0x0003d2b1 too?
+0x0003d2b1 the Tiara too?
 
 ; 0x0003d2e0 残念だったな。
-0x0003d2e0 Too bad.
+0x0003d2e0 Too bad for you.
 
 ; 0x0003d301 ティアラがあるって部屋の扉は、
-0x0003d301 The door is heavily sealed,
+0x0003d301 The door to that room is
 
 ; 0x0003d322 ほれ、このとおり・・・。
-0x0003d322 as you can see...
+0x0003d322 heavily sealed
 
 ; 0x0003d350 やたらに厳重な封印が
-0x0003d350 ...
+0x0003d350 as you can see...
 
 ; 0x0003d371 されてやがる。
 0x0003d371 ...
@@ -53,10 +56,10 @@
 0x0003d460 I'm warning you:
 
 ; 0x0003d481 オレのジャマはするな。
-0x0003d481 Don't interfere.
+0x0003d481 Don't get in my way.
 
 ; 0x0003d4b0 わかったら・・・とっとと失せろ。
-0x0003d4b0 Understand? Get lost!
+0x0003d4b0 Understand? Now get lost!
 
 ; 0x0003d4e0 いいな！
 0x0003d4e0 Got it!
@@ -65,16 +68,16 @@
 0x0003d510 Damn it all!
 
 ; 0x0003d531 わざわざマッコウ大陸くんだりまで
-0x0003d531 Came all the way to Makkou
+0x0003d531 I came all the way to
 
 ; 0x0003d552 来たってのに！
-0x0003d552 Continent!
+0x0003d552 Makkou for this!s
 
 ; 0x0003d580 強大な‘勇者’の力か・・・。
 0x0003d580 The power of the Hero...
 
 ; 0x0003d5a1 ぜったいに手に入れてやる！
-0x0003d5a1 I must obtain it!
+0x0003d5a1 I will obtain it!
 
 ; 0x0003d5d0 だが、さてどうするか？
 0x0003d5d0 But how?
@@ -89,7 +92,7 @@
 0x0003d641 What’s going on?!
 
 ; 0x0003d662 カケラは全部集めたじゃねえか！
-0x0003d662 I collected all the fragments!
+0x0003d662 I collected every fragment!
 
 ; 0x0003d690 なんでだあああああ！？
 0x0003d690 Whyyyy?!
@@ -104,10 +107,10 @@
 0x0003d710 ...I see...
 
 ; 0x0003d731 おまえがこのカケラに、
-0x0003d731 You tampered the
+0x0003d731 You must have tampered
 
 ; 0x0003d752 なにか細工しやがったな！？
-0x0003d752 fragments!
+0x0003d752 with the fragments!
 
 ; 0x0003d780 白状しろ！
 0x0003d780 Confess!
@@ -122,7 +125,7 @@
 0x0003d800 I see... Heheheh...
 
 ; 0x0003d821 おまえ、オレにニセモノをつかませ
-0x0003d821 Tricked me with fakes!
+0x0003d821 You tricked me with fakes!
 
 ; 0x0003d842 やがったな！？
 0x0003d842 In that case,
@@ -193,23 +196,26 @@
 ; 0x0003dbb0 ＜月の結晶が完成した！＞
 0x0003dbb0 <Moon Crystal complete!>
 
+
+;; Sphinmoth meeting
+
 ; 0x0003ddd4 ・・・よくきたね、天の御使いよ。
-0x0003ddd4 ...Well come, heavenly messenger.
+0x0003ddd4 ...Wellcome, heavenly messenger.
 
 ; 0x0003de04 私はスフィンモス。
 0x0003de04 I am Sphinmoth.
 
 ; 0x0003de25 富の国フルータジアの門番を
-0x0003de25 The gatekeeper of Fulltasia.
+0x0003de25 The gatekeeper of 
 
 ; 0x0003de46 務める者。
-0x0003de46 Well...
+0x0003de46 Fulltasia.
 
 ; 0x0003de74 ・・・いや、正確には
-0x0003de74 ... I was the
+0x0003de74 ...Well, to be exact,
 
 ; 0x0003de95 門番だった者だ。
-0x0003de95 gatekeeper.
+0x0003de95 I used to be.
 
 ; 0x0003dec4 ・・・私の国は、
 0x0003dec4 ...My country
@@ -233,37 +239,37 @@
 0x0003dfa5 Beyond here is Fulltasia.
 
 ; 0x0003dfd4 富におぼれ、
-0x0003dfd4 My homeland,
+0x0003dfd4 Drowned in wealth,
 
 ; 0x0003dff5 魔につけ込まれ、
-0x0003dff5 was
+0x0003dff5 tricked by demons,
 
 ; 0x0003e016 滅びしわが祖国。
-0x0003e016 ruined by greed.
+0x0003e016 and ruined.
 
 ; 0x0003e044 魔王を招き、
 0x0003e044 A cursed land
 
 ; 0x0003e065 無を生み出す、
-0x0003e065 that summons
+0x0003e065 that summoned
 
 ; 0x0003e086 呪われた大地。
 0x0003e086 the Demon King.
 
 ; 0x0003e0b4 それゆえ私は、
-0x0003e0b4 That’s why I
+0x0003e0b4 That is why I cannot
 
 ; 0x0003e0d5 俗世の者にこの門を開くわけには
-0x0003e0d5 Thus I cannot open this gate
+0x0003e0d5 open this gate
 
 ; 0x0003e0f6 いかない。
 0x0003e0f6 to mortals.
 
 ; 0x0003e124 呪われた大地から邪気を、
-0x0003e124 Also to contain evil
+0x0003e124 I must keep evil
 
 ; 0x0003e145 食い止めるためにもね。
-0x0003e145 from cursed lands.
+0x0003e145 sealed away.
 
 ; 0x0003e174 ああ・・・わかっているよ、
 0x0003e174 Ah... I know, heavenly
@@ -272,55 +278,55 @@
 0x0003e195 messenger.
 
 ; 0x0003e1b6 あなたは進まなければいけない。
-0x0003e1b6 You must proceed.
+0x0003e1b6 You must move forward.
 
 ; 0x0003e1e4 ・・・だが、この門からの一歩は
-0x0003e1e4 ...But stepping beyond this
+0x0003e1e4 ...But stepping past this gate,
 
 ; 0x0003e205 たいへん危険で、大変重要な
-0x0003e205 gate is perilous
+0x0003e205 it's a very
 
 ; 0x0003e226 意味を持っているのだよ。
-0x0003e226 and significant.
+0x0003e226 dangerous choice.
 
 ; 0x0003e254 フルータジアを越え、
-0x0003e254 Those passing
+0x0003e254 Anyone crossing
 
 ; 0x0003e275 魔王の島に赴く者は、
-0x0003e275 to the Demon Lord's
+0x0003e275 the Demon Lord's Isle
 
 ; 0x0003e2a4 マーベルランドの
-0x0003e2a4 Isle must be worthy
+0x0003e2a4 must be worthy of
 
 ; 0x0003e2c5 命運をにぎるに足りる
-0x0003e2c5 of the title of
+0x0003e2c5 the title of
 
 ; 0x0003e2e6 勇者でなくてはならない。
 0x0003e2e6 Marvel Land's Hero.
 
 ; 0x0003e314 つまりは魔王を倒しうる
-0x0003e314 In other words, it must
+0x0003e314 In other words,
 
 ; 0x0003e335 力を持つ者でなければ
-0x0003e335 possess the power to
+0x0003e335 you must possess the power to
 
 ; 0x0003e356 ならんのだよ。
-0x0003e356 defeat Demon Lord.
+0x0003e356 defeat the Demon Lord.
 
 ; 0x0003e384 門を開ければ封印された
-0x0003e384 Opening gate reveals the
+0x0003e384 Opening the gate reveals 
 
 ; 0x0003e3a5 魔王の島への道は開かれる、
-0x0003e3a5 path to Demon Lord's
+0x0003e3a5 the path to the isle,
 
 ; 0x0003e3c6 と、同時に、魔王はその力を、
-0x0003e3c6 Isle, but also unleashes
+0x0003e3c6 but also unleashes
 
 ; 0x0003e3f4 マーベルランド全域に
 0x0003e3f4 the Demon Lord's
 
 ; 0x0003e415 ふるうことが出来るように
-0x0003e415 power across
+0x0003e415 power across all of
 
 ; 0x0003e436 なってしまうのだから。
 0x0003e436 Marvel Land.
@@ -329,64 +335,64 @@
 0x0003e464 Therefore...
 
 ; 0x0003e485 あなたを試そうと思う。
-0x0003e485 I shall test you.
+0x0003e485 I must test you.
 
 ; 0x0003e4b4 マーベルランドの命運をにぎり
-0x0003e4b4 Do you hold the power
+0x0003e4b4 Do you truly hold
 
 ; 0x0003e4d5 魔王を倒しうる力を持つ
-0x0003e4d5 to defeat the Demon
+0x0003e4d5 the power to defeat
 
 ; 0x0003e4f6 勇者であるか否か？
-0x0003e4f6 Lord?
+0x0003e4f6 the Demon Lord?
 
 ; 0x0003e524 ・・・なに。
-0x0003e524 ...What?
+0x0003e524 ...Well.
 
 ; 0x0003e545 ・・・あなたにとっては
-0x0003e545 ...For you, it was
+0x0003e545 ...This should be
 
 ; 0x0003e566 たやすい試練だよ。
-0x0003e566 an easy trial.
+0x0003e566 an easy trial for you.
 
 ; 0x0003e594 ・・・ここより北に、
 0x0003e594 North of here lies
 
 ; 0x0003e5b5 岩の巨塔がある。
-0x0003e5b5 a giant rock tower,
+0x0003e5b5 a giant rock tower.
 
 ; 0x0003e5e4 古くは‘勇者の塔’と
-0x0003e5e4 once called the
+0x0003e5e4 It was once called
 
 ; 0x0003e605 よばれた塔だ。
-0x0003e605 Hero Tower.
+0x0003e605 the "Hero Tower".
 
 ; 0x0003e634 その塔に安置された
-0x0003e634 Retrieve the treasure
+0x0003e634 Retrieve the
 
 ; 0x0003e655 ‘勇気のティアラ’という宝物を
-0x0003e655 "Tiara of Courage" from
+0x0003e655 "Tiara of Courage" 
 
 ; 0x0003e676 取ってきて欲しいのだよ。
-0x0003e676 that tower.
+0x0003e676 from that tower.
 
 ; 0x0003e6a4 あなたが‘勇気のティアラ’を
-0x0003e6a4 Bring the Tiara
+0x0003e6a4 Once you bring
 
 ; 0x0003e6c5 ここに持ってくることが
-0x0003e6c5 here,
+0x0003e6c5 the tiara 
 
 ; 0x0003e6e6 出来た時こそ、
-0x0003e6e6 and I'll
+0x0003e6e6 here,
 
 ; 0x0003e714 私はあなたを勇者と認め、
-0x0003e714 acknowledge you as
+0x0003e714 I will acknowledge you as
 
 ; 0x0003e735 フルータジアへの門を開くだろう。
-0x0003e735 Hero and open the Flutasia gate.
+0x0003e735 Hero and open the gate.
 
 ; 0x0003e764 ああ・・・必ずね。
-0x0003e764 Ah... Certainly.
+0x0003e764 Yes... I promise.
 
 ; 0x0003e794 ここより北に、
 0x0003e794 To the north,
@@ -395,28 +401,28 @@
 0x0003e7b5 there is the Hero Tower.
 
 ; 0x0003e7e4 この塔に安置された
-0x0003e7e4 Retrieve the
+0x0003e7e4 Go and retrieve
 
 ; 0x0003e805 ‘勇気のティアラ’という
-0x0003e805 Tiara of Courage
+0x0003e805 the Tiara of Courage
 
 ; 0x0003e826 宝物を取ってきて欲しい。
 0x0003e826 from that tower.
 
 ; 0x0003e854 ティアラの部屋への扉が開かない？
-0x0003e854 Tiara room door won't open?
+0x0003e854 The Tiara room door won't open?
 
 ; 0x0003e875 そうか・・・‘月の精霊族’による
-0x0003e875 I see...  Moon Spirit Clan
+0x0003e875 I see... The Moon Spirit seal
 
 ; 0x0003e896 扉の封印は、いまだ健在か。
-0x0003e896 seal still holds.
+0x0003e896 is still holding strong.
 
 ; 0x0003e8c4 ・・・昔、勇者の塔は
-0x0003e8c4 ...Long ago, Moon
+0x0003e8c4 ...Long ago, the Moon Spirits
 
 ; 0x0003e8e5 ‘月の精霊族’により管理されて
-0x0003e8e5 Spirits managed the Hero
+0x0003e8e5 used to manage the Hero
 
 ; 0x0003e906 いたのだよ。
 0x0003e906 Tower.
@@ -431,10 +437,10 @@
 0x0003e984 but the sky of Makkou
 
 ; 0x0003e9a5 月の通り道ではない。
-0x0003e9a5 lacks the moon’s path.
+0x0003e9a5 has no moon path.
 
 ; 0x0003e9d4 そのため月の精霊族による管理は
-0x0003e9d4 Thus Moon Spirit management
+0x0003e9d4 Thus, their management
 
 ; 0x0003e9f5 完ぺきだった。
 0x0003e9f5 was perfect.
@@ -443,19 +449,19 @@
 0x0003ea16 ...However...
 
 ; 0x0003ea44 月の精霊族は、あくまで影の存在。
-0x0003ea44 Moon Spirits only exist in shadows.
+0x0003ea44 Moon Spirits are shadow creatures.
 
 ; 0x0003ea65 陽の光の影にこそ、その存在を
 0x0003ea65 Their existence is allowed 
 
 ; 0x0003ea86 許されていた、いわば、夜の精霊
-0x0003ea86 only in sunlight's shadow.
+0x0003ea86 only in the shadows of the sun.
 
 ; 0x0003eab4 民だけではなく、月の精霊達自身も
-0x0003eab4 Not just people, but Moon Spirits
+0x0003eab4 Not just people, but the spirits
 
 ; 0x0003ead5 自分達の存在を、
-0x0003ead5 themselves shunned 
+0x0003ead5 themselves despised
 
 ; 0x0003eaf6 暗き者であると疎んじていた。
 0x0003eaf6 their own dark existence.
@@ -467,34 +473,34 @@
 0x0003eb45 darkness.
 
 ; 0x0003eb74 彼らは、フルータジアの滅亡の時、
-0x0003eb74 During the fall of Fulltasia,
+0x0003eb74 When Fulltasia fell,
 
 ; 0x0003eb95 勇者の塔の管理を投げだし、
 0x0003eb95 they abandoned the Hero Tower
 
 ; 0x0003ebb6 魔王の軍門に下っていった・・。
-0x0003ebb6 and joined Demon Lord's army.
+0x0003ebb6 and joined the Demon Lord...
 
 ; 0x0003ebe4 そして御使いよ。
-0x0003ebe4 And messenger,
+0x0003ebe4 Messenger,
 
 ; 0x0003ec14 あなたが倒した‘新月王’こそ、
-0x0003ec14 the New Moon King you 
+0x0003ec14 the New Moon King you defeated
 
 ; 0x0003ec35 月の精霊の最後の生き残り
-0x0003ec35 defeated was the last
+0x0003ec35 was the last survivor of the
 
 ; 0x0003ec56 だったのだよ。
-0x0003ec56 Moon Spirit.
+0x0003ec56 Moon Spirits.
 
 ; 0x0003ec84 そう・・・今、ティアラの封印を
-0x0003ec84 Yes... None in this world
+0x0003ec84 Yes... Nobody in this world
 
 ; 0x0003eca5 解くことの出来る者は、
-0x0003eca5 can break the 
+0x0003eca5 can break the tiara's
 
 ; 0x0003ecc6 この世にはいないのだ・・・。
-0x0003ecc6 Tiara's seal now.
+0x0003ecc6 seal now...
 
 ; 0x0003ecf4 だが、御使いよ。
 0x0003ecf4 But,
@@ -509,58 +515,58 @@
 0x0003ed65 remain in this world.
 
 ; 0x0003ed94 しかし、新たな月の精霊を
-0x0003ed94 But there’s a way to give
+0x0003ed94 But there is a way to create
 
 ; 0x0003edb5 産み出す方法はある。
-0x0003edb5 birth to a new one.
+0x0003edb5 a brand new Moon Spirit.
 
 ; 0x0003ede4 それには、砕け散った月の精霊の
-0x0003ede4 That requires the shattered body
+0x0003ede4 You will need the shattered
 
 ; 0x0003ee05 体のカケラが必要なのだ。
-0x0003ee05 fragments of a Moon Spirit.
+0x0003ee05 body fragments of the spirit.
 
 ; 0x0003ee26 ひとつ残らず、ね。
-0x0003ee26 Every single one.
+0x0003ee26 Every single piece of them.
 
 ; 0x0003ee54 そのすべてを集め、組み合わせ、
-0x0003ee54 Gather all of them, combine,
+0x0003ee54 Gather all the fragments,
 
 ; 0x0003ee75 再生を念じる・・・。
-0x0003ee75 and pray for the rebirth...
+0x0003ee75 combine them, and pray...
 
 ; 0x0003ee96 そうすれば・・・
 0x0003ee96 Then...
 
 ; 0x0003eec4 カケラは、新たな月の精霊へと
-0x0003eec4 Then the fragments 
+0x0003eec4 They will be reborn into
 
 ; 0x0003eee5 生まれ変わるだろう。
-0x0003eee5 become a pure new 
+0x0003eee5 a pure new Moon Spirit,
 
 ; 0x0003ef14 魔に染まっていない、
-0x0003ef14 Moon Spirit,
+0x0003ef14 untainted by any evil.
 
 ; 0x0003ef35 純粋な月の精霊にね。
-0x0003ef35 untainted by demons.
+0x0003ef35 ...
 
 ; 0x0003ef64 ・・・これは私からのお願いでも
-0x0003ef64 ...This is also my 
+0x0003ef64 ...This is also a personal
 
 ; 0x0003ef85 あるのだよ。
-0x0003ef85 request.
+0x0003ef85 request from me.
 
 ; 0x0003efb4 ワルキューレ・・・。
 0x0003efb4 Valkyrie...
 
 ; 0x0003efd5 月の精霊族を絶やしてはいけない。
-0x0003efd5 We must preserve the Moon Spirit tribe.
+0x0003efd5 Do not let the spirits fade.
 
 ; 0x0003f004 マーベルランドに住む精霊の
 0x0003f004 No spirit race in Marvel Land
 
 ; 0x0003f025 どの種族も、絶やしてはならない。
-0x0003f025 should perish.
+0x0003f025 should ever go extinct.
 
 ; 0x0003f054 今ならまだ間に合う。
 0x0003f054 There is still time.
@@ -578,16 +584,16 @@
 0x0003f104 Jump into this circle of light
 
 ; 0x0003f125 一瞬でアファ大陸に辿り着ける。
-0x0003f125 to reach Afa in an instant.
+0x0003f125 to reach Afa instantly.
 
 ; 0x0003f154 新月王の体のカケラは、
-0x0003f154 The New Moon King's 
+0x0003f154 The New Moon King's body
 
 ; 0x0003f175 きっと彼の祭壇があるその地域に
 0x0003f175 fragments are likely scattered
 
 ; 0x0003f196 広く飛び散っているはずだ。
-0x0003f196 widely near his altar.
+0x0003f196 widely around his altar.
 
 ; 0x0003f1c4 用意はいいかね？
 0x0003f1c4 Are you ready?
@@ -608,85 +614,85 @@
 0x0003f580 If it were that man,
 
 ; 0x0003f5a1 そこから飛び出すやいなや、
-0x0003f5a1 immediately upon emerging,
+0x0003f5a1 the moment he emerged,
 
 ; 0x0003f5c2 北の方にすっ飛んでいったよ。
-0x0003f5c2 he would have flies off north.
+0x0003f5c2 he flew straight north.
 
 ; 0x0003f5f0 おそらく、勇者の塔の方だね。
-0x0003f5f0 Probably toward Hero Tower.
+0x0003f5f0 Probably to the Hero Tower.
 
 ; 0x0003f620 月の精霊は蘇り、
-0x0003f620 Moon Spirit revived,
+0x0003f620 The Moon Spirit was revived,
 
 ; 0x0003f641 ティアラがあなたを認めた。
-0x0003f641 Tiara acknowledged you.
+0x0003f641 and Tiara acknowledged you.
 
 ; 0x0003f662 ・・・よろしい。
-0x0003f662 ...Good.
+0x0003f662 ...Very well.
 
 ; 0x0003f690 私もあなたを認めよう。
 0x0003f690 I acknowledge you too.
 
 ; 0x0003f6c0 門は開かれた。
-0x0003f6c0 Gate opened.
+0x0003f6c0 The gate is open.
 
 ; 0x0003f6e1 これで、私が魔王の邪気を押さえて
-0x0003f6e1 It can no longer contain the
+0x0003f6e1 It can no longer contain 
 
 ; 0x0003f702 おくことは、出来なくなった。
-0x0003f702 Demon Lord's evil.
+0x0003f702 the Demon Lord's evil.
 
 ; 0x0003f730 魔王の邪気は、数日のうちに世界に
-0x0003f730 The evil aura will engulf the 
+0x0003f730 His evil aura will cover
 
 ; 0x0003f751 およぶだろう・・・。
-0x0003f751 world within days...
+0x0003f751 the world in days...
 
 ; 0x0003f780 だが、勇者よ。
-0x0003f780 Divine Hero, your only 
+0x0003f780 But brave hero,
 
 ; 0x0003f7a1 魔王の島に攻め入る機会は、
-0x0003f7a1 chance to invade Demon 
+0x0003f7a1 now is your only chance
 
 ; 0x0003f7c2 今をおいてほかにはないのだ。
-0x0003f7c2 Lord's Isle is now.
+0x0003f7c2 to reach the Demon Isle.
 
 ; 0x0003f7f0 もし、この先の道のりで、あなたが
-0x0003f7f0 If you fall on the 
+0x0003f7f0 If you should fall on
 
 ; 0x0003f811 倒れるようなことがあれば、
-0x0003f811 road ahead, 
+0x0003f811 the road ahead, 
 
 ; 0x0003f840 それは、マーベルランドの滅亡を
 0x0003f840 that would be the end of 
 
 ; 0x0003f861 意味している。
-0x0003f861 Marvel Land....
+0x0003f861 all Marvel Land....
 
 ; 0x0003f890 ・・・あなたがフルータジアへ
 0x0003f890 ...After you cross
 
 ; 0x0003f8b1 渡った後、私は・・・
-0x0003f8b1 Flutasia, I...
+0x0003f8b1 into Flutasia, I...
 
 ; 0x0003f8d2 門を閉じなければならない。
-0x0003f8d2 must close gate.
+0x0003f8d2 must close this gate.
 
 ; 0x0003f900 以前とは比べものにならない程、
-0x0003f900 Even with our meager strength,
+0x0003f900 With what little power
 
 ; 0x0003f921 小さな力でだが、少しでも魔王の
-0x0003f921 we must prevent the Demon King's
+0x0003f921 I have left, I must block
 
 ; 0x0003f942 邪気が外界に流れ出す事を
-0x0003f942 evil energy from flowing out
+0x0003f942 the evil energy from
 
 ; 0x0003f970 防がなければならない。
-0x0003f970 into the outside world.
+0x0003f970 leaking outside.
 
 ; 0x0003f9a0 ・・・あなたに全てを押し付ける
-0x0003f9a0 ...Sorry for burdening you 
+0x0003f9a0 ...I'm sorry to burden you
 
 ; 0x0003f9c1 ような事になってしまった。
 0x0003f9c1 with everything.
@@ -698,13 +704,16 @@
 0x0003fa10 Valkyrie...
 
 ; 0x0003fa31 あなたの幸運を祈っているよ。
-0x0003fa31 I wish you luck.
+0x0003fa31 I wish you good luck.
 
 ; 0x0003fb38 ＜勇気のティアラの
 0x0003fb38 <Received blessing of the
 
 ; 0x0003fb59 祝福を受けた。＞
 0x0003fb59 Tiara of Courage.>
+
+
+;; Snow spirit meeting
 
 ; 0x0003fb98 ああ・・・よく、ここまで
 0x0003fb98 Oh... Thank you 
@@ -713,13 +722,13 @@
 0x0003fbb9 for coming this far.
 
 ; 0x0003fbe8 わたしは雪の精霊。
-0x0003fbe8 I am Snow Spirit.
+0x0003fbe8 I am the Snow Spirit.
 
 ; 0x0003fc09 この地に捕らわれ、
 0x0003fc09 I was imprisoned in this land,
 
 ; 0x0003fc2a 力を利用されておりました。
-0x0003fc2a and my power was being exploited.
+0x0003fc2a and my power exploited.
 
 ; 0x0003fc58 図らずもこの大陸を凍土に
 0x0003fc58 It was my power that, 
@@ -728,7 +737,7 @@
 0x0003fc79 unintentionally, covered this 
 
 ; 0x0003fc9a わたしの力なのです・・・。
-0x0003fc9a continent in frozen ground...
+0x0003fc9a continent in ice...
 
 ; 0x0003fcc8 ワルキューレ様・・・。
 0x0003fcc8 Lady Valkyrie...

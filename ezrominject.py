@@ -362,7 +362,7 @@ def run_injection(jap_path, eng_path, rom_path):
         if len(text)==0:
             continue
                 
-        if len(text)>=8 and has_no_kanas(text):
+        if len(text)>=16 and has_no_kanas(text):
             # prolly not text
             print("skipped control line: " + text)
             continue
