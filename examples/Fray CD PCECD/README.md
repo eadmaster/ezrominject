@@ -5,7 +5,7 @@
  - All dialogue text translated, 2nd revision pass complete.
    - Some lines were shortened to fit in the available space. Check [the original translation here](https://github.com/eadmaster/RetroSubs/wiki/Examples#fray-cd-xak-gaiden-pcecd).
  - Most menus are translated, only a few gfx still left.
- - Most cutscenes are dubbed, but there are no subtitles.
+ - All cutscenes are dubbed, but there are no subtitles.
  - First testing playthrough complete.
 
 
@@ -23,7 +23,7 @@
 3. Obtain a disc dump matching [these hashes](http://redump.org/disc/37536/).
    Select `In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 02).bin` as ROM file.
 4. Download the [latest xdelta patch in this folder](https://raw.githubusercontent.com/eadmaster/ezrominject/refs/heads/main/examples/Fray%20CD%20PCECD/In%20Magical%20Adventure%20-%20Fray%20CD%20-%20Xak%20Gaiden%20(Japan)%20(Track%2002).bin.xdelta), and use it as the Patch file.
-5. Click "Apply patch" and save in the same folder without changing the filename: `"In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 02) (patched).bin"`
+5. Click "Apply patch" and save in the same folder without changing the filename: `In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 02) (patched).bin`
 6. Download and use the corresponding cue sheet in this folder to play the game (Right-click->Save link as...):
    - [Japanese-dubbed version](https://raw.githubusercontent.com/eadmaster/ezrominject/refs/heads/main/examples/Fray%20CD%20PCECD/In%20Magical%20Adventure%20-%20Fray%20CD%20-%20Xak%20Gaiden%20(English).cue)
    - [English-dubbed version](https://raw.githubusercontent.com/eadmaster/ezrominject/refs/heads/main/examples/Fray%20CD%20PCECD/In%20Magical%20Adventure%20-%20Fray%20CD%20-%20Xak%20Gaiden%20(English)(dub).cue)
