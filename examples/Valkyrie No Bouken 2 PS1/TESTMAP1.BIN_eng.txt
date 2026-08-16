@@ -1067,7 +1067,7 @@
 0x00051b51 everything.>
 
 ; 0x00051b80 ・・・月のカケラか・・・
-0x00051b80 ...Moon Fragments, huh...
+0x00051b80 ...Moon Fragments, huh?
 
 ; 0x00051ba1 ひょっとすると・・・。
 0x00051ba1 Maybe...

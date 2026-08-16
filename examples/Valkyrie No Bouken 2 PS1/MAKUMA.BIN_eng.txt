@@ -125,14 +125,14 @@
 0x00039dd5 To the south lay Makkou,
 
 ; 0x00039df6 マッコウ大陸でした。
-0x00039df6 home to wealthy Flutasia.
+0x00039df6 home to wealthy Fulltasia.
 
 
 ; 0x00039e4c 全速力でフルータジアを
 0x00039e4c The whale sped away from
 
 ; 0x00039e6d 離れるマッコウ。
-0x00039e6d Flutasia at full speed.
+0x00039e6d Fulltasia at full speed.
 
 ; 0x00039e8e ぐんぐんと小さくなっていく海岸。
 0x00039e8e The coast is getting smaller.
@@ -153,7 +153,7 @@
 0x00039f4d Sphinmoth broke the seal
 
 ; 0x00039f6e 解かれて数日。
-0x00039f6e on Flutasia.
+0x00039f6e on Fulltasia.
 
 ; 0x00039f9c いよいよゾウナの力は
 0x00039f9c At last, Zouna's dark power

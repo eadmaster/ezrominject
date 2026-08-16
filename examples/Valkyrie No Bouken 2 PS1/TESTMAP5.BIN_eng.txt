@@ -674,7 +674,7 @@
 0x0003f890 ...After you cross
 
 ; 0x0003f8b1 渡った後、私は・・・
-0x0003f8b1 into Flutasia, I...
+0x0003f8b1 into Fulltasia, I...
 
 ; 0x0003f8d2 門を閉じなければならない。
 0x0003f8d2 must close the gate.
@@ -821,7 +821,7 @@
 0x00040128 The strong barrier over
 
 ; 0x00040149 強力な結界が消えたのです！
-0x00040149 Flutasia's sea vanished!
+0x00040149 Fulltasia's sea vanished!
 
 ; 0x00040178 千載一遇のチャンス、と私達は
 0x00040178 With this once-in-a-lifetime
@@ -839,7 +839,7 @@
 0x00040209 we finally drove Zouna's 
 
 ; 0x0004022a 追い払うことが出来たんです！
-0x0004022a forces out of Flutasia!
+0x0004022a forces out of Fulltasia!
 
 ; 0x00040258 みんな勇敢に戦いました！
 0x00040258 Everyone fought so bravely!
@@ -983,7 +983,7 @@
 0x00040ab8 Coming all the way to
 
 ; 0x00040ad9 来るのも
-0x00040ad9 Flutasia was...
+0x00040ad9 Fulltasia was...
 
 ; 0x00040afa そりゃあたいへんで・・・。
 0x00040afa well, tough...

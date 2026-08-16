@@ -293,7 +293,7 @@
 0x00044862 Hop on!
 
 ; 0x00044890 フルータジアの結界が
-0x00044890 Ever since Flutasia's
+0x00044890 Ever since Fulltasia's
 
 ; 0x000448b1 消えた時から、
 0x000448b1 barrier fell,
