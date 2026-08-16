@@ -2,37 +2,37 @@
 0x00033975 Lady Valkyrie,
 
 ; 0x00033996 御久しぶりです！
-0x00033996 Long time no see!
+0x00033996 it's been a long time!
 
 ; 0x000339b7 クリノです！
-0x000339b7 I’m Kurino!
+0x000339b7 It's me, Kurino!
 
 ; 0x000339e4 ああ、やっと追いつけました！
-0x000339e4 Oh, I finally caught up!
+0x000339e4 I finally caught to you!
 
 ; 0x00033a14 サンドランドの復興が
-0x00033a14 The restoration of Sand Land
+0x00033a14 Ever since Sand Land
 
 ; 0x00033a35 一段落した頃から、
-0x00033a35 Since things had settled down,
+0x00033a35 was rebuilt,
 
 ; 0x00033a56 ずっとあなたを探していました。
 0x00033a56 I’ve been looking for you.
 
 ; 0x00033a84 カルデラ地方、ローレライ海・・。
-0x00033a84 The Caldera region, the lorelei sea.
+0x00033a84 In Caldera, the Lorelei Sea...
 
 ; 0x00033aa5 そして、マッコウ大陸で
-0x00033aa5 And on the continent of Makkou
+0x00033aa5 Then Sphinmoth told me on
 
 ; 0x00033ac6 スフィンモスから聞いたのです。
-0x00033ac6 Sphinmoth told me.
+0x00033ac6 the Makkou Continent:
 
 ; 0x00033af4 あなたが一人でフルータジアを
-0x00033af4 You cross Fulltasia all by
+0x00033af4 You went across Fulltasia
 
 ; 0x00033b15 越えていった事を・・・。
-0x00033b15 yourself...
+0x00033b15 all by yourself...
 
 ; 0x00033b44 む・・・。
 0x00033b44 Mm...
@@ -41,71 +41,71 @@
 0x00033b74 Lady Valkyrie,
 
 ; 0x00033b95 ここはオイラにまかせてください！
-0x00033b95 Leave it to me!
+0x00033b95 leave this part to me!
 
 ; 0x00033bc4 スフィンモスに聞いた通りならば、
-0x00033bc4 If it’s as Sphinmoth told me,
+0x00033bc4 If what Sphinmoth said is true,
 
 ; 0x00033be5 広がり始めたゾウナの力が、
-0x00033be5 Zouna’s power began to spread
+0x00033be5 Zouna's spreading power will
 
 ; 0x00033c06 世界を覆い尽すまで、
-0x00033c06 Until it covers the entire world,
+0x00033c06 cover the world in less than
 
 ; 0x00033c34 後半日もありません！
-0x00033c34 Not in the second half!
+0x00033c34 half a day!
 
 ; 0x00033c64 マーベルランドの住人は、
-0x00033c64 The denizens of Marvel Land
+0x00033c64 We of Marvel Land stand no 
 
 ; 0x00033c85 ゾウナが時の鍵を握っている限り、
-0x00033c85 As long as Zouna holds the Key of Time,
+0x00033c85 chance against Zouna as long as
 
 ; 0x00033ca6 ヤツには太刀打ちできない・・。
-0x00033ca6 I can’t beat him.
+0x00033ca6 he holds the Key of Time...
 
 ; 0x00033cd4 ヤツは、オイラ達の時間を
-0x00033cd4 He took our time
+0x00033cd4 With just a single glance, he
 
 ; 0x00033cf5 ひとにらみで、ゼロにも
-0x00033cf5 She glared at Zero.
+0x00033cf5 can turn our time into nothing,
 
 ; 0x00033d16 無限にもしてしまうんです！
-0x00033d16 It’s infinite!
+0x00033d16 or stretch it out forever!
 
 ; 0x00033d44 ヤツとまともに戦えるのは、
-0x00033d44 I can only fight him properly...
+0x00033d44 The only one who can fight him
 
 ; 0x00033d65 天界の時間の中にいる、あなた・・
-0x00033d65 You’re in heaven’s time.
+0x00033d65 is you, existing outside of time
 
 ; 0x00033d94 ワルキューレ様を措いて他には
-0x00033d94 Aside from Lady Valkyrie, there’s nothing else
+0x00033d94 in the heavens... There is no one
 
 ; 0x00033db5 いないのです・・・。
-0x00033db5 He’s not here.
+0x00033db5 else but you, Lady Valkyrie...
 
 ; 0x00033de4 さあ！あなたの背中はオイラが
-0x00033de4 Come on! I’ll take your back!
+0x00033de4 Now go! 
 
 ; 0x00033e05 守ります！
-0x00033e05 I’ll protect it!
+0x00033e05 I'll watch your back!
 
 ; 0x00033ef8 ＜クリノが背中を守って
-0x00033ef8 Kurino protected my back.
+0x00033ef8 <Kurino is watching my back.
 
 ; 0x00033f19 くれている。　振り向かず、
-0x00033f19 He’s giving it to me. I don’t turn around,
+0x00033f19 I must keep moving forward
 
 ; 0x00033f3a 行かなければ・・・。＞
-0x00033f3a I have to go.>
+0x00033f3a without looking back...>
 
 ; 0x00033f78 ＜どこかで大きな扉が
-0x00033f78 <There’s a big door somewhere
+0x00033f78 <The sound of a large door
 
 ; 0x00033f99 開く様な音がした。＞
-0x00033f99 I hear a sound like it’s opening.>
+0x00033f99 opening echoed nearby.>
 
 ; 0x00033fdc ＜扉は強力な力で閉じられている＞
-0x00033fdc The door is closed with powerful force.
+0x00033fdc <The door is sealed tight.>
 

@@ -713,37 +713,37 @@
 0x00050668 Lady Valkyrie.
 
 ; 0x00050689 これより北は、ゾウナの配下達が
-0x00050689 North of here lies Afa, overrun
+0x00050689 North of here, Zouna's minions
 
 ; 0x000506aa はびこるアファ大陸・・・。
-0x000506aa by Zouna's minions.
+0x000506aa infest the Afa Continent...
 
 ; 0x000506d8 あなたのゆくてをはばむ怪物達は、
-0x000506d8 The monsters blocking your path
+0x000506d8 The monsters in your path
 
 ; 0x000506f9 一段と手強くなるでしょう。
-0x000506f9 will be even tougher.
+0x000506f9 will be far tougher.
 
 ; 0x00050728 ですが、ゾウナに立ち向かわんと
-0x00050728 But surely comrades who oppose
+0x00050728 But surely there are others
 
 ; 0x00050749 する同志も、きっといるはず。
-0x00050749 Zouna exist.
+0x00050749 who oppose Zouna.
 
 ; 0x00050778 マーベルランド中の同志が
-0x00050778 If all allies in Marvel
+0x00050778 If all Marvel Land's heroes
 
 ; 0x00050799 一丸となって戦うことが出来れば、
-0x00050799 Land unite, we might defeat
+0x00050799 unite, we might defeat
 
 ; 0x000507ba ゾウナを倒せるかもしれない・・
 0x000507ba Zouna... 
 
 ; 0x000507e8 ワルキューレ様。
-0x000507e8 Lady Valkyrie, find allies
+0x000507e8 Lady Valkyrie, seek allies
 
 ; 0x00050809 ともに戦う同志をお探しなされ・・
-0x00050809 to fight beside you...
+0x00050809 to fight by your side...
 
 ; 0x00050884 ワルキューレ様！
 0x00050884 Lady Valkyrie!
@@ -752,10 +752,10 @@
 0x000508a5 Everyone sewed this thread by
 
 ; 0x000508c6 旅の安全を願って、
-0x000508c6 thread, praying
+0x000508c6 thread, praying for your safe
 
 ; 0x000508f4 一人一人、糸を縫ったんだ。
-0x000508f4 for your safe journey.
+0x000508f4 journey.
 
 ; 0x00050915 つけて・・・くれる？
 0x00050915 Will you wear it?
@@ -776,7 +776,7 @@
 0x000509fd if you seek Kurino Sandra,
 
 ; 0x00050a2c 東にあるサンドラ族のキャンプに
-0x00050a2c go to the Sandra camp in the
+0x00050a2c go to the Sandra camp to the
 
 ; 0x00050a4d ゆくがいい。
 0x00050a4d east.
@@ -1031,13 +1031,16 @@
 0x00051958 <Flower Magic obtained!>
 
 ; 0x000519c0 ＜マッコウ大陸に戻るのは、
-0x000519c0 <Return to the Makkou continent
+0x000519c0 <Return to the Makkou Continent
 
 ; 0x000519e1 すべての月のカケラを
-0x000519e1 only after gathering all
+0x000519e1 only after gathering all the
 
 ; 0x00051a02 集めてからだ。＞
 0x00051a02 Moon Fragments.>
+
+
+;; Sabine 2nd meeting
 
 ; 0x00051a40 ワルキューレじゃないか！
 0x00051a40 Isn't that Valkyrie?
@@ -1070,16 +1073,16 @@
 0x00051ba1 Maybe...
 
 ; 0x00051bd0 この近くの木陰で拾ったんだ。
-0x00051bd0 I picked this up in the shade
+0x00051bd0 I found this in the shade
 
 ; 0x00051bf1 ずいぶん強い力を秘めた石だと
 0x00051bf1 of a tree nearby.
 
 ; 0x00051c12 思っていたけど、
-0x00051c12 It seems this
+0x00051c12 It seems this is
 
 ; 0x00051c40 どうやらこれは、その一つに間違い
-0x00051c40 is definitely one of them,
+0x00051c40 definitely one of them,
 
 ; 0x00051c61 ないみたいだね？
 0x00051c61 right?
@@ -1088,46 +1091,46 @@
 0x00051c82 Here, take it!
 
 ; 0x00051cb0 ＜月のカケラを手に入れた！＞
-0x00051cb0 <Got Moon Fragment!>
+0x00051cb0 <Got a Moon Fragment!>
 
 ; 0x00051ce0 月のカケラは、この辺一帯に
 0x00051ce0 The fragments are scattered
 
 ; 0x00051d01 飛び散っているんだろう？
-0x00051d01 around here, right?
+0x00051d01 all around here, right?
 
 ; 0x00051d22 だったら・・・。
 0x00051d22 Then...
 
 ; 0x00051d50 この辺りに詳しい奴が
-0x00051d50 You should have someone
+0x00051d50 You need someone who
 
 ; 0x00051d71 ついていた方がいいね。
-0x00051d71 who knows the area with you.
+0x00051d71 knows this area.
 
 ; 0x00051da0 ＜サビーヌが仲間になった！＞
 0x00051da0 <Sabine joined!>
 
 ; 0x00051e68 ここから地上にジャンプするかい？
-0x00051e68 Jump down to the ground from here?
+0x00051e68 Jump down to the ground?
 
 ; 0x00051ebc ワ、ワルキューレ様！
 0x00051ebc L-Lady Valkyrie!
 
 ; 0x00051edd 私の、私の息子が、
-0x00051edd My, my son
+0x00051edd My son, my son...
 
 ; 0x00051efe ああ・・・な、なんてことだ！
 0x00051efe Oh, h-how awful!
 
 ; 0x00051f2c ・・・お願いします！あなたの
-0x00051f2c I beg of you! Please!
+0x00051f2c ...Please! I beg of you!
 
 ; 0x00051f4d 持っている‘月のカケラ’とやらを
 0x00051f4d Give me your
 
 ; 0x00051f6e ぜひ私におゆずりください！
-0x00051f6e Moon Fragment!
+0x00051f6e Moon Fragments!
 
 ; 0x00051f9c お代はいくらでもお出しします！
 0x00051f9c I'll pay any price!
@@ -1145,16 +1148,16 @@
 0x00052034 Oh... Sorry for panicking.
 
 ; 0x00052055 実は、さっき私の家にこんな物が
-0x00052055 Actually, this was thrown into
+0x00052055 Actually, this was thrown 
 
 ; 0x00052076 投げ込まれたんです！
-0x00052076 my house just now!
+0x00052076 into my house just now!
 
 ; 0x000520a4 ＜サンドラが差し出した物は
-0x000520a4 <Sandra handed over a
+0x000520a4 <Sandra handed over
 
 ; 0x000520c5 手紙だった。　手紙には、
-0x000520c5 letter, written
+0x000520c5 a letter, written
 
 ; 0x000520e6 汚い字でこうあった。＞
 0x000520e6 in messy scrawl>
@@ -1166,7 +1169,7 @@
 0x00052135 Valkyrie,
 
 ; 0x00052156 サンドラのがきは預かっている。
-0x00052156 I've got the Sandra kid.
+0x00052156 I've got Sandra's kid.
 
 ; 0x00052184 無事に返してほしかったら、
 0x00052184 Want him back safe?
@@ -1184,13 +1187,13 @@
 0x00052224 What a creep...
 
 ; 0x00052245 しかし、いったい何者なんだ？
-0x00052245 But who is he?
+0x00052245 But who is this guy?
 
 ; 0x00052274 どうか・・・どうか息子を、
-0x00052274 Please... Please save my son.
+0x00052274 Please... Please save 
 
 ; 0x00052295 助けてやってください。
-0x00052295 Please help him.
+0x00052295 my son.
 
 ; 0x000522c4 ワルキューレ！北の祭壇に行こう！
 0x000522c4 Valkyrie! To the North Altar!
@@ -1241,10 +1244,10 @@
 0x000525d4 But I... decided
 
 ; 0x000525f5 息子といっしょに、しばらくここに
-0x000525f5 to stay here with my son for
+0x000525f5 to stay here with my son
 
 ; 0x00052616 残る事にしたんです。
-0x00052616 a while.
+0x00052616 for a while.
 
 ; 0x00052644 ・・・朽ち果てた木霊の森を見て
 0x00052644 ...Seeing the ruined forest,
@@ -1259,7 +1262,7 @@
 0x000526b5 it to a home for
 
 ; 0x000526d6 戻さなければならない、と・・。
-0x000526d6 spirits...
+0x000526d6 the spirits...
 
 ; 0x00052704 息子は私の提案に、快く
 0x00052704 My son happily
@@ -1268,10 +1271,10 @@
 0x00052725 agreed.
 
 ; 0x00052754 しばらくは２人でがんばろうと
-0x00052754 We'll do our best together
+0x00052754 We'll do our best 
 
 ; 0x00052775 思っています。
-0x00052775 for now.
+0x00052775 together for now.
 
 ; 0x000527a4 ＜ライフが回復した！＞
 0x000527a4 <Life restored!>

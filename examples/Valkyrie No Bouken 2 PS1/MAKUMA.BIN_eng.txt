@@ -113,55 +113,56 @@
 0x00039d44 Below the raging Lorelei Sea,
 
 ; 0x00039d65 やがて橋は、白く霞んだ大地へと
-0x00039d65 the bridge descended onto a
+0x00039d65 the bridge soon descended
 
 ; 0x00039d86 降りていきました。
-0x00039d86 white misty land,
+0x00039d86 onto a misty white land.
 
 ; 0x00039db4 そこは凍土に覆われた大地。
-0x00039db4 covered in frozen ground.
+0x00039db4 It was a land covered in ice.
 
 ; 0x00039dd5 南は富の国フルータジアに面する
-0x00039dd5 To the south lay the wealthy 
+0x00039dd5 To the south lay Makkou,
 
 ; 0x00039df6 マッコウ大陸でした。
-0x00039df6 land of Flutasia, in Makkou.
+0x00039df6 home to wealthy Flutasia.
+
 
 ; 0x00039e4c 全速力でフルータジアを
-0x00039e4c Full speed ahead
+0x00039e4c The whale sped away from
 
 ; 0x00039e6d 離れるマッコウ。
-0x00039e6d to Fulltasia.
+0x00039e6d Flutasia at full speed.
 
 ; 0x00039e8e ぐんぐんと小さくなっていく海岸。
 0x00039e8e The coast is getting smaller.
 
 ; 0x00039ebc その時すでにワルキューレは、
-0x00039ebc By then, Valkyrie had already
+0x00039ebc By then, Valkyrie could
 
 ; 0x00039edd 肌身でゾウナの気配を
-0x00039edd sensed Zouna's presence
+0x00039edd already feel Zouna's presence
 
 ; 0x00039efe 感じていました。
-0x00039efe with her own skin.
+0x00039efe deep within her bones.
 
 ; 0x00039f2c スフィンモスによる、
 0x00039f2c Several days had passed since
 
 ; 0x00039f4d フルータジアの封印が
-0x00039f4d Sphinmoth broke Flutasia's seal,
+0x00039f4d Sphinmoth broke the seal
 
 ; 0x00039f6e 解かれて数日。
-0x00039f6e and the seal was undone.
+0x00039f6e on Flutasia.
 
 ; 0x00039f9c いよいよゾウナの力は
-0x00039f9c At last, Zouna's power
+0x00039f9c At last, Zouna's dark power
 
 ; 0x00039fbd マーベルランド中に
 0x00039fbd had begun to spread
 
 ; 0x00039fde 広がり始めていたのです。
-0x00039fde throughout Marvel Land.
+0x00039fde across all of Marvel Land.
 
 ; 0x0003a00c しかし、
 0x0003a00c But,
@@ -170,31 +171,33 @@
 0x0003a02d there was no turning back.
 
 ; 0x0003a05c すでにワルキューレの前に、
-0x0003a05c Already before Valkyrie,
+0x0003a05c Right before Valkyrie,
 
 ; 0x0003a07d ゾウナの島が黒々とした姿を
 0x0003a07d Zouna's Island loomed darkly
 
 ; 0x0003a09e 現していました。
-0x0003a09e before her.
+0x0003a09e into view.
+
+; ending
 
 ; 0x0003a13d ゾウナとの戦いから無事生還した
 0x0003a13d Having survived the battle with
 
 ; 0x0003a15e ワルキューレを待っていたのは、
-0x0003a15e Zouna, waiting for Valkyrie were
+0x0003a15e Zouna, Valkyrie was greeted by
 
 ; 0x0003a18c マッコウやクリノ、ティアナ姫、
 0x0003a18c Makkou, Kurino, Princess Tiana,
 
 ; 0x0003a1ad そして、クリノをゾウナの島へ
-0x0003a1ad and the Enriques who had escorted
+0x0003a1ad and the Enriques who brought
 
 ; 0x0003a1ce 送り届けたエンリケ族達でした。
 0x0003a1ce Kurino to Zouna's Island.
 
 ; 0x0003a1fc ワルキューレ達はエンリケ族の船に
-0x0003a1fc Valkyrie boarded the Enriques'
+0x0003a1fc They boarded the Enriques'
 
 ; 0x0003a21d 乗り込み、フルータジアから
 0x0003a21d ship and left Fulltasia,
@@ -206,23 +209,24 @@
 0x0003a26c the Makkou Continent's coast.
 
 ; 0x0003a29c 人々はこれからそれぞれ、
-0x0003a29c From here, everyone would
+0x0003a29c From here, everyone would 
 
 ; 0x0003a2bd 自分たちの元いた場所、故郷へと
-0x0003a2bd return to their former homes,
+0x0003a2bd soon return home, from
 
 ; 0x0003a2de 帰っていきます。
-0x0003a2de to the places they came from.
+0x0003a2de where they belonged.
 
 ; 0x0003a30c 誰の顔も、未来への希望と、
-0x0003a30c Every face shone with hope for
+0x0003a30c Every face was filled with
 
 ; 0x0003a32d マーベルランドを復興させる
-0x0003a32d the future and the resolve to
+0x0003a32d hope for the future and a
 
 ; 0x0003a34e 使命感とに満ち溢れ、
-0x0003a34e restore Marvel Land to
+0x0003a34e strong drive to rebuild 
 
 ; 0x0003a37c 輝いていました。
-0x0003a37c its former glory.
+0x0003a37c Marvel Land
+;to its former glory.
 

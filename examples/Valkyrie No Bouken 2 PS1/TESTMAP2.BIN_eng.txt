@@ -604,6 +604,8 @@
 ; 0x00041535 どうかお元気で・・・。
 0x00041535 please stay safe...
 
+;; Kamuz meeting at the North Altar
+
 ; 0x000415d8 よう・・・まってたぜ。
 0x000415d8 Yo... I’ve been waiting.
 
@@ -611,7 +613,7 @@
 0x000415f9 The kid is safe as you can see.
 
 ; 0x00041628 カケラはちゃんと持ってきたな？
-0x00041628 Did you bring the Fragments?
+0x00041628 Did you bring the fragments?
 
 ; 0x00041649 ようし・・・
 0x00041649 Good...
@@ -638,25 +640,25 @@
 0x00041768 Easy now... There!
 
 ; 0x00041798 ＜サビーヌは月のカケラを全て
-0x00041798 <Sabine tossed all Moon Fragments
+0x00041798 <Sabine tossed all Moon 
 
 ; 0x000417b9 大男に投げ渡した。＞
-0x000417b9 to the big man.>
+0x000417b9 Fragments to the big man.>
 
 ; 0x000417e8 くくく・・・これで全ての
-0x000417e8 Heh heh heh... Now all
+0x000417e8 Heh heh heh... All the 
 
 ; 0x00041809 カケラがオレの物になった！
-0x00041809 The fragments are mine!
+0x00041809 fragments are mine now!
 
 ; 0x0004182a ははははは！
 0x0004182a Hahahaha!
 
 ; 0x00041858 ワルキューレこれを・・・。
-0x00041858 Valkyrie, here.
+0x00041858 Valkyrie, here...
 
 ; 0x00041888 ＜月のカケラを手に入れた！＞
-0x00041888 <Got Moon Fragment!>
+0x00041888 <Got the Moon Fragments!>
 
 ; 0x000418b8 ふふ・・・あいつに渡した
 0x000418b8 Heheh... The ones I gave
@@ -668,31 +670,31 @@
 0x000418fa magic on rocks.
 
 ; 0x00041928 あいつめ！
-0x00041928 Damn it!
+0x00041928 He took them
 
 ; 0x00041949 ぜんぜん気付かずに持って
-0x00041949 I took it without noticing
+0x00041949 without noticing
 
 ; 0x0004196a 行っちゃった！
 0x0004196a at all!
 
 ; 0x00041998 でもあいつが持ってるうちの、
-0x00041998 But the one he has...
+0x00041998 But the one he had,
 
 ; 0x000419b9 一つだけは、本物であることに
-0x000419b9 are actually real...
+0x000419b9 is actually a
 
 ; 0x000419da かわりはないけどね・・・。
-0x000419da ...
+0x000419da real one...
 
 ; 0x00041a08 ワルキューレ、あいつを
-0x00041a08 Lady Valkyrie,
+0x00041a08 Valkyrie, go
 
 ; 0x00041a29 追いかけて！きっとあなたが
-0x00041a29 chase him!
+0x00041a29 after him! He'll
 
 ; 0x00041a4a 来た道を戻るはずだ。
-0x00041a4a He's bound to backtrack.
+0x00041a4a head back the way you came.
 
 ; 0x00041a78 もしニセモノに気づいたら、
 0x00041a78 If he notices the fakes,
@@ -701,16 +703,16 @@
 0x00041a99 he might do something
 
 ; 0x00041aba やるかもしれない！
-0x00041aba worse!
+0x00041aba even worse!
 
 ; 0x00041ae8 ああ、サンドラの子なら
-0x00041ae8 Oh, Sandra’s kid
+0x00041ae8 Oh, and don't worry
 
 ; 0x00041b09 心配ないよ。
-0x00041b09 is fine.
+0x00041b09 about the kid.
 
 ; 0x00041b2a ちゃんと親元に返しておくから。
-0x00041b2a I'll return him to his parents.
+0x00041b2a I'll take him home safely.
 
 ; 0x00041b58 ・・・またどこかで会おう。
 0x00041b58 ...See you around.

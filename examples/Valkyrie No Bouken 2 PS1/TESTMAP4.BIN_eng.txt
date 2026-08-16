@@ -167,10 +167,10 @@
 0x0004b611 kept pushing me back...
 
 ; 0x0004b632 どんどん浅瀬の奥まで流されて。
-0x0004b632 I was swept deeper inside, and
+0x0004b632 I was swept deeper inside,
 
 ; 0x0004b660 尾ひれはそのとき、
-0x0004b660 my tail fin scraped against
+0x0004b660 and my tail fin scraped against
 
 ; 0x0004b681 何度も川底に当たって、
 0x0004b681 the riverbed over and over,
@@ -206,9 +206,10 @@
 0x0004b800 Valkyrie, do you know a
 
 ; 0x0004b821 お薬にくわしい人とか
-0x0004b821 a doctor or someone who 
+0x0004b821 doctor or someone who 
 
 ; 0x0004b842 知らない？
+;0x0004b842 well-versed in medicine?
 0x0004b842 knows about medicine?
 
 ; 0x0004b870 ・・・いたぁい・・・。
@@ -230,7 +231,7 @@
 0x0004b932 It's healed!
 
 ; 0x0004b960 よかったね、クジラさん。
-0x0004b960 I'm glad for you, Mr. Whale.
+0x0004b960 I'm so glad, Mr. Whale.
 
 ; 0x0004b990 あ、ありがとう・・・！
 0x0004b990 Th-Thank you so much...!
@@ -341,10 +342,10 @@
 0x0004c0ad on the rainbow!
 
 ; 0x0004c0dc あいつ、こないだ山道を
-0x0004c0dc It's the same one from the
+0x0004c0dc The same one who tried to take
 
 ; 0x0004c0fd いこうとしていた奴ですよ！
-0x0004c0fd mountain path the other day.
+0x0004c0fd the mountain path earlier!
 
 ; 0x0004c12c なにぃ？
 0x0004c12c What?
@@ -374,7 +375,7 @@
 0x0004c26c ...! No doubt about it!
 
 ; 0x0004c28d あいつが乙女の騎士、
-0x0004c28d It's the maiden knight,
+0x0004c28d She is the maiden knight,
 
 ; 0x0004c2ae ワルキューレだ！
 0x0004c2ae Valkyrie!
@@ -473,10 +474,10 @@
 0x0004c7dc ...All right, I've got it!
 
 ; 0x0004c7fd この、姫様の涙から作り出した
-0x0004c7fd Please try this
+0x0004c7fd Please try this Panacea
 
 ; 0x0004c81e ‘万能薬’の試作品を、
-0x0004c81e Elixir Prototype on that whale,
+0x0004c81e Prototype on that whale,
 
 ; 0x0004c84c そのクジラに試してみて
 0x0004c84c it was made from the 
@@ -485,7 +486,7 @@
 0x0004c86d Princess's tears!
 
 ; 0x0004c89c ＜万能薬・試作品を
-0x0004c89c <Got Elixir
+0x0004c89c <Got Panacea
 
 ; 0x0004c8bd 手に入れた！＞
 0x0004c8bd Prototype!>
@@ -731,7 +732,7 @@
 0x0004d5e5 Let’s see... Here!
 
 ; 0x0004d614 ＜大爆弾を手にいれた！＞
-0x0004d614 <Got Big Bomb!>
+0x0004d614 <Got a Big Bomb!>
 
 ; 0x0004d644 大爆弾を廃坑の前で使うのじゃよ。
 0x0004d644 Use it at the mine entrance.
@@ -794,10 +795,10 @@
 0x0004dc29 peace returns in Caldera,
 
 ; 0x0004dc4a あるけれど、とりあえず水だけは
-0x0004dc4a but at least water
+0x0004dc4a but at least 
 
 ; 0x0004dc78 不自由しないね。
-0x0004dc78 is plentiful!
+0x0004dc78 water is plentiful!
 
 ; 0x0004dcc4 南に住むエンリケ族の友人から、
 0x0004dcc4 I got a letter from an 
@@ -1082,7 +1083,7 @@
 0x0004ece0 ...My girlfriend caught 
 
 ; 0x0004ed01 かかっちゃって・・・。
-0x0004ed01 the Old Age Disease...
+0x0004ed01 the Aging Disease...
 
 ; 0x0004ed30 家に閉じこもったきり、
 0x0004ed30 She shut herself in and
@@ -1280,7 +1281,8 @@
 0x0004f80e ...
 
 ; 0x0004f83c とても肝の座った人なんだ。
-0x0004f83c A man of true courage.
+;0x0004f83c A man of true courage.
+0x0004f83c A man of true honesty.
 
 ; 0x0004f86c 笛を吹くのがとても上手で、
 0x0004f86c He played the flute so well
@@ -1430,7 +1432,7 @@
 ;; Mechant meeting
 
 ; 0x00050154 ワルキューレ様！お久しぶり！
-0x00050154 Lady Valkyrie! Long time no see!
+0x00050154 Lady Valkyrie! Long time!
 
 ; 0x00050175 ちょいとお先にここでずいぶんと
 0x00050175 I've made quite a profit

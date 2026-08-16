@@ -244,6 +244,9 @@
 ; 0x000445b6 朽ち果てるがよい！
 0x000445b6 underground and die!
 
+
+;; Fulltasia dialogues
+
 ; 0x0004460c へへ、ビックリした？
 0x0004460c Hehe, surprised?
 
@@ -263,10 +266,10 @@
 0x000446cd Well...
 
 ; 0x000446fc とにかくボクについてきて、
-0x000446fc Just follow me, and
+0x000446fc Just follow me, and you'll
 
 ; 0x0004471d そしたらもっとビックリするから！
-0x0004471d you'll be even more surprised!
+0x0004471d be even more surprised!
 
 ; 0x00044780 お〜〜〜〜〜い。
 0x00044780 Heeeey!
@@ -281,100 +284,100 @@
 0x000447f2 Miss Valkyrie!
 
 ; 0x00044820 さあ、はやくぼくの背中に
-0x00044820 Nnn!
+0x00044820 Hurry, get on
 
 ; 0x00044841 乗るんだ！
-0x00044841 Hurry, get on my back!
+0x00044841 on my back!
 
 ; 0x00044862 さあ！
 0x00044862 Hop on!
 
 ; 0x00044890 フルータジアの結界が
-0x00044890 Come on!
+0x00044890 Ever since Flutasia's
 
 ; 0x000448b1 消えた時から、
-0x000448b1 Ever since Flutasia's
+0x000448b1 barrier fell,
 
 ; 0x000448d2 ずっと君を探していたんだ！
-0x000448d2 barrier fell,
+0x000448d2 I’ve been looking for you!
 
 ; 0x00044900 妖精さんには
-0x00044900 I’ve been looking for you!
+0x00044900 The fairies tried
 
 ; 0x00044921 止められたけれどね・・・。
-0x00044921 The fairies
+0x00044921 to stop me, but...
 
 ; 0x00044950 ・・・魔王の島にいくんでしょ？
-0x00044950 tried to stop me, but...
+0x00044950 ...Going to the Demon Lord's
 
 ; 0x00044971 だったら、ぼくにまかせて。
-0x00044971 Heading to the Demon Lord's Isle?
+0x00044971 Isle? Then leave it to me!
 
 ; 0x000449a0 約束したでしょ？
-0x000449a0 Then leave it to me.
+0x000449a0 Didn’t I promise?
 
 ; 0x000449c1 改めてお礼をするって。
-0x000449c1 Didn’t we promise?
+0x000449c1 That I'd repay you properly.
 
 ; 0x000449f0 さあ・・・全速力でいくよ！
-0x000449f0 That I'd repay you properly.
+0x000449f0 Alright... Full speed ahead!
 
 ; 0x00044a20 よお〜し。
-0x00044a20 Alright... Full speed ahead!
+0x00044a20 Okay.
 
 ; 0x00044a41 見えてきた、見えてきた。
-0x00044a41 Okay.
+0x00044a41 The Demon Lord's Isle!!
 
 ; 0x00044a62 魔王の島！！
 0x00044a62 There it is, I can see it!
 
 ; 0x00044a90 この１００年くらいの間に
-0x00044a90 Demon Lord's Isle!!
+0x00044a90 No one has crossed this
 
 ; 0x00044ab1 この海を越えた人って、
-0x00044ab1 They say no one has crossed
+0x00044ab1 sea in the last 100 years
 
 ; 0x00044ad2 一人もいないって話だよ？
-0x00044ad2 this sea in the last
+0x00044ad2 or so, they say.
 
 ; 0x00044b00 ふふふ・・・。
-0x00044b00 100 years or so.
+0x00044b00 Hehehe...
 
 ; 0x00044b21 こりゃあ、すごい冒険になるぞお！
-0x00044b21 Hehehe...
+0x00044b21 This is quite the adventure!
 
 ; 0x00044b50 ワルキューレさん！
-0x00044b50 This is going to be quite the adventure!
+0x00044b50 Miss Valkyrie!
 
 ; 0x00044b71 上陸までもう少しだよ！
-0x00044b71 Miss Valkyrie!
+0x00044b71 We’re almost there!
 
 ; 0x00044b92 こっからは気を引き締めてぇ・・
-0x00044b92 We’re almost there!
+0x00044b92 Stay sharp from here on...
 
 ; 0x00044bc0 ・・・ん？
-0x00044bc0 Better stay sharp from here on out...
+0x00044bc0 Hm?
 
 ; 0x00044bf0 うわ、き、来たなぁ〜〜？
-0x00044bf0 Hm?
+0x00044bf0 Whoa, h-here they come?!
 
 ; 0x00044c20 へへ、でもこの程度なら！
-0x00044c20 Whoa, h-here they come?!
+0x00044c20 Hehe, this is nothing!
 
 ; 0x00044c50 わあ・・・。
-0x00044c50 Hehe, but this is nothing!
+0x00044c50 Wow...
 
 ; 0x00044c71 さすが魔王の庭先って感じ・・・。
-0x00044c71 Wow...
+0x00044c71 Truly the Demon Lord doorstep...
 
 ; 0x00044ca0 でもまだこんなもんじゃ、
-0x00044ca0 Truly the Demon Lord's doorstep...
+0x00044ca0 But we can't let this
 
 ; 0x00044cc1 ボクの行く手を阻めな・・・。
-0x00044cc1 But we can't let this
+0x00044cc1 stop us...
 
 ; 0x00044cf0 ・・・・・・。
-0x00044cf0 stop us...
+0x00044cf0 ......
 
 ; 0x00044d20 ワ、ワルキューレさん？
 0x00044d20 M-Miss Valkyrie?
@@ -383,7 +386,7 @@
 0x00044d41 Sorry..
 
 ; 0x00044d70 先に行ってて！！
-0x00044d70 Go ahead!!
+0x00044d70 Go on ahead!!
 
 ; 0x00044edc この先は、
 0x00044edc Up ahead,
@@ -413,10 +416,10 @@
 0x00045044 Heheh,
 
 ; 0x00045065 どうやらご無事のようですね？
-0x00045065 glad to see you safe!
+0x00045065 glad to see you are safe!
 
 ; 0x00045094 それでこそあっし達の女神さまだ！
-0x00045094 That's our goddess for you!
+0x00045094 That's our goddess!
 
 ; 0x000450b5 ・・・おっと。
 0x000450b5 Oops...
@@ -434,22 +437,22 @@
 0x00045154 Hm?
 
 ; 0x00045175 ・・・ああっ！
-0x00045175 Ahhh!
+0x00045175 ...Ahhh!
 
 ; 0x00045196 こんな所に見慣れないキズが！
-0x00045196 An unfamiliar scratch here!
+0x00045196 There's a new scratch on it!
 
 ; 0x000451c4 あ〜あ、何かむちゃな使い方を
-0x000451c4 Aw, did you use it in a
+0x000451c4 Did you use it in a
 
 ; 0x000451e5 したんじゃないですかぁ？
 0x000451e5 reckless way?
 
 ; 0x00045214 ・・・ま、女神様の祝福を
-0x00045214 ...Well, let's say it
+0x00045214 ...Well, let's call it
 
 ; 0x00045235 頂いたって事にでもしときますか？
-0x00045235 received a goddess's blessing.
+0x00045235 a goddess's blessing.
 
 ; 0x00045264 ・・・さて、さすがのあっしも、
 0x00045264 ...Now, even I can only
@@ -461,13 +464,13 @@
 0x000452b4 ...That’s why!
 
 ; 0x000452d5 ワルキューレ様、今回の品揃えは
-0x000452d5 Lady Valkyrie, this time the
+0x000452d5 Lady Valkyrie, my items
 
 ; 0x000452f6 半端じゃなく豪華ですよお〜。
-0x000452f6 selection of items is
+0x000452f6 are top-notch today!
 
 ; 0x00045324 さあ、じっくり見てって下さい！
-0x00045324 luxurious! Take a good look!
+0x00045324 Take a good look!
 
 ; 0x000453c4 へへ・・・こんな事言うのは、
 0x000453c4 Heh heh... Not really my

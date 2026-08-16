@@ -8,7 +8,7 @@
 0x000016b0 Light Staff
 
 ; 0x000016c0 敵を貫く弾
-0x000016c0 Piercing shot
+0x000016c0 Piercing shots
 
 ; 0x000016d0 くさびの魔石
 0x000016d0 Stone Of Cune
@@ -20,13 +20,13 @@
 0x000016f0 3LightsStone
 
 ; 0x00001700 ４方向ショット
-0x00001700 4-way shot
+0x00001700 4-way shots
 
 ; 0x00001710 四光石
 0x00001710 4LightsStone
 
 ; 0x00001720 威力満点の爆弾
-0x00001720 Powerful bombs
+0x00001720 Max power
 
 ; 0x00001730 爆弾
 0x00001730 Bombs
@@ -38,7 +38,7 @@
 0x00001750 Hunter’s Soul
 
 ; 0x00001760 幅広いショット
-0x00001760 Wide shot
+0x00001760 Wide shots
 
 ; 0x00001770 風切りの石
 0x00001770 WindSlashStone
@@ -71,7 +71,7 @@
 0x00001800 Recover all
 
 ; 0x00001810 万能薬
-0x00001810 Elixir
+0x00001810 Panacea
 
 ; 0x00001830 精霊の盾
 0x00001830 Spirit Shield
@@ -101,7 +101,7 @@
 0x000018b0 Robot Head
 
 ; 0x000018c0 分身を作り出す
-0x000018c0 Clone Magic
+0x000018c0 Create clones
 
 ; 0x000018d0 鏡の術
 0x000018d0 Mirror Magic
@@ -131,13 +131,13 @@
 0x00001950 Flower Magic
 
 ; 0x00001960 流星で攻撃
-0x00001960 Meteor Magic
+0x00001960 Drop meteors
 
 ; 0x00001970 星の術
 0x00001970 Star Magic
 
 ; 0x00001980 敵を凍えさせる
-0x00001980 Freeze Magic
+0x00001980 Freeze foes
 
 ; 0x00001990 雪の術
 0x00001990 Snow Magic
@@ -154,7 +154,7 @@
 ;; chests messages
 
 ; 0x000f3eb0 ＜月のカケラを手に入れた！＞
-0x000f3eb0 <Got Moon Fragment!>
+0x000f3eb0 <Found a Moon Fragment!>
 
 ; 0x00101148 ここに捕らわれていた精霊は、
 0x00101148 The spirit trapped here...
@@ -187,7 +187,7 @@
 0x00107834 <Found a Magic Recovery Potion!>
 
 ; 0x00107858 宝箱にはマジック回復薬が
-0x00107858 Found a a Magic Recovery Potion
+0x00107858 Found a Magic Recovery Potion
 
 ; 0x0010787c 入っていた。　しかし、荷物が
 0x0010787c but there is no space
@@ -208,28 +208,28 @@
 0x00107968 Returned to the chest.
 
 ; 0x001079c4 ＜ライフの器を手に入れた！＞
-0x001079c4 <Got Life Crystal!>
+0x001079c4 <Found a Life Crystal!>
 
 ; 0x001079fc ＜マジックの器を手に入れた！＞
-0x001079fc <Got Magic Crystal!>
+0x001079fc <Found a Magic Crystal!>
 
 ; 0x00107a34 ＜１００Ｇｏｌｄを手に入れた！＞
-0x00107a34 <Got 100 gold!>
+0x00107a34 <Found 100 gold!>
 
 ; 0x00107a6c ＜２００Ｇｏｌｄを手に入れた！＞
-0x00107a6c <Got 200 gold!>
+0x00107a6c <Found 200 gold!>
 
 ; 0x00107aa4 ＜５００Ｇｏｌｄを手に入れた！＞
-0x00107aa4 <Got 500 gold!>
+0x00107aa4 <Found 500 gold!>
 
 ; 0x00107adc ＜１０００Ｇｏｌｄを
-0x00107adc <Got 1000 
+0x00107adc <Found 1000 
 
 ; 0x00107b00 手に入れた！＞
 0x00107b00 gold!>
 
 ; 0x00107b38 ＜風切りの石を手に入れた！＞
-0x00107b38 <Got Wind Slash Stone!>
+0x00107b38 <Found a Wind Slash Stone!>
 
 ; 0x00107b5c 風切りの石を見つけた！しかし
 0x00107b5c I found a Wind Slash Stone!
@@ -253,7 +253,7 @@
 0x00107c6c Returned to the chest.
 
 ; 0x00107cc8 ＜三光石を手に入れた！＞
-0x00107cc8 <Got 3 Lights Stone!>
+0x00107cc8 <Found a 3 Lights Stone!>
 
 ; 0x00107cec 三光石を見つけた！しかし
 0x00107cec Found 3 Lights Stone!
@@ -265,7 +265,7 @@
 0x00107d34 Returned to the chest.
 
 ; 0x00107d90 ＜四光石を手に入れた！＞
-0x00107d90 <Got the 4 Lights Stone!>
+0x00107d90 <Found a 4 Lights Stone!>
 
 ; 0x00107db4 四光石を見つけた！しかし
 0x00107db4 I found a 4 Lights Stone!
@@ -277,10 +277,10 @@
 0x00107dfc Returned to the chest.
 
 ; 0x00107e58 ＜くさびの魔石を手に入れた！＞
-0x00107e58 <Got a Rust Magic Stone!>
+0x00107e58 <Found a Stone Of Cune!>
 
 ; 0x00107e7c くさびの魔石を見つけた！しかし
-0x00107e7c I found a Rust Magic Stone!
+0x00107e7c I found a Stone Of Cune!
 
 ; 0x00107ea0 くさびの魔石はこれ以上持てない。
 0x00107ea0 But I cannot carry more.
@@ -289,7 +289,7 @@
 0x00107ec4 Returned to the chest.
 
 ; 0x00107f20 ＜爆弾を手に入れた！＞
-0x00107f20 <Got a bomb!>
+0x00107f20 <Found a Bomb!>
 
 ; 0x00107f40 爆弾を見つけた！しかし
 0x00107f40 Found a bomb!
@@ -299,6 +299,9 @@
 
 ; 0x00107f80 爆弾を宝箱へ返しました。
 0x00107f80 Returned to the chest.
+
+
+;; Time Stone dialogues
 
 ; 0x00109350 私は、時を記すもの。
 0x00109350 I am the Time Stone.
@@ -466,7 +469,7 @@
 0x00109f68 Fulltasia
 
 ; 0x00109f78 ゾウナの島
-0x00109f78 Zouna's Island
+0x00109f78 Zouna Island
 
 ; 0x00109fa4 　データが壊れています
 0x00109fa4 The data is corrupted.
@@ -518,7 +521,7 @@
 0x0010c448 Restore both health and magic!
 
 ; 0x0010c46a これぞ万能の薬！
-0x0010c46a Elixir!
+0x0010c46a Panacea!
 
 ; 0x0010c48c 全てを貫く貫通弾！
 0x0010c48c Pierces everything!
@@ -539,7 +542,7 @@
 0x0010c536 30 rounds for this price!
 
 ; 0x0010c558 威力満点！ズール印の爆弾だ！
-0x0010c558 Powerful Zul bomb!
+0x0010c558 Powerful Zul bombs!
 
 ; 0x0010c57a この３０発で恐い物なしさ！
 0x0010c57a Fear nothing with 30 shots!
