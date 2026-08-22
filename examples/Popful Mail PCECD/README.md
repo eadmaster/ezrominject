@@ -25,7 +25,6 @@
 5. Download and select the corresponding xdelta patch:
    - [`PopfulMail (Japan) (Track 02).bin.xdelta`](https://raw.githubusercontent.com/eadmaster/ezrominject/refs/heads/main/examples/Popful%20Mail%20PCECD/PopfulMail%20(Japan)%20(Track%2002).bin.xdelta) (Jap dub)
    - [`02 Magical Fantasy Adventure - Popful Mail (J).iso.xdelta`](https://raw.githubusercontent.com/eadmaster/ezrominject/refs/heads/main/examples/Popful%20Mail%20PCECD/02%20Magical%20Fantasy%20Adventure%20-%20Popful%20Mail%20(J).iso.xdelta) (Eng dub)
-      - Note: This is a rolling release: check frequently for the latest updates/improvements.
 6. Click "Apply patch" and save in the same folder without changing the filename (same as the input file with `" (patched)"` appended).
 7. Download and use the corresponding cue sheet in this folder to play the game (Right-click->Save link as...):
    - [`PopfulMail (English).cue`](https://raw.githubusercontent.com/eadmaster/ezrominject/refs/heads/main/examples/Popful%20Mail%20PCECD/PopfulMail%20(English).cue) (Jap dub)

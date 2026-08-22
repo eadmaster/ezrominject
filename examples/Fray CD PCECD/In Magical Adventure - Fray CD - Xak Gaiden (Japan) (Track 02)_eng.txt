@@ -91,14 +91,14 @@
 0x0015de74 Rod
 ; 0x0015de7b を買う
 ; 0x0015de7b Buy
-0x0015de7b ...
+0x0015de7b ㅤ
 ; 0x0015de82 を売る
 ; 0x0015de82 Sell
-0x0015de82 ...
+0x0015de82 ㅤ
 ; 0x0015deb3 盾
 0x0015deb3 Shield
-; 0x0015deb9 盾
-0x0015deb9 Shield
+; 0x0015deb9 盾 -> overwritten to make space
+;0x0015deb9 Shield
 ; 0x0015debf 店をでる
 0x0015debf Quit
 ; 0x0015ded1 買う
@@ -161,9 +161,11 @@
 ; 0x0011424f ろう屋の鍵
 0x0011424f Prison Key
 ; 0x0011425a パン
+;0x0011425a Bred
 0x0011425a Bread
 ; 0x0011425f ほし肉
-0x0011425f Meat
+;0x0011425f Meat
+0x00114261 Meat
 ; 0x00114266 ゲミルポーション
 0x00114266 Gemil Potion
 ; 0x00114277 ノーマルロッド
@@ -313,7 +315,7 @@
 0x0011a763 Now then, you minions, finish
 
 ; 0x0011a782 づけておしまいっ！
-0x0011a782 it up quicly!
+0x0011a782 it up quickly!
 
 ; 0x0011a799 ［フレイ］
 0x0011a799 [Fray]
@@ -391,7 +393,7 @@
 0x0011a99d [Fray]
 
 ; 0x0011a9aa やったね！　さ、先を急ごうっと！
-0x0011a9aa We did it! Now, let's hurry!
+0x0011a9aa I did it! Now, let's hurry!
 
 
 ;;; Town of Arzal
@@ -1003,7 +1005,7 @@
 0x0011bc84 [Isac]
 
 ; 0x0011bc97 うむ。では始めるとするかの。
-0x0011bc97 Very well. Let's begin.
+0x0011bc97 Very well. Let us begin.
 
 ; 0x0011bcba ［フレイ］
 0x0011bcba [Fray]
@@ -1066,7 +1068,7 @@
 0x0011bea7 [Isac]
 
 ; 0x0011beba さあ、娘よ！
-0x0011beba Now, listen!
+0x0011beba Now listen!
 
 ; 0x0011bec9 この道をとおり、ヴァルアの町へ
 0x0011bec9 Follow this path to Valuah,
@@ -1112,7 +1114,7 @@
 
 
 ; 0x0011c00c ［声］
-0x0011c00c [Voice]
+0x0011c00c Voice
 
 ; 0x0011c019 娘さん、娘さん。
 0x0011c019 Miss, miss.
@@ -1127,7 +1129,7 @@
 0x0011c076 [Fray]
 
 ; 0x0011c09c ［声］
-0x0011c09c [Voice]
+0x0011c09c Voice
 
 ; 0x0011c0a9 もう、じれったいわね！
 0x0011c0a9 Oh, how frustrating!
@@ -1136,13 +1138,13 @@
 0x0011c0c6 Did you drop the Golden Rod?
 
 ; 0x0011c0f1 ［声］
-0x0011c0f1 [Voice]
+0x0011c0f1 Voice
 
 ; 0x0011c0fe じゃあ、銀のロッド？
 0x0011c0fe Or the Silver Rod?
 
 ; 0x0011c118 ［声］
-0x0011c118 [Voice]
+0x0011c118 Voice
 
 ; 0x0011c125 あら、スナオね！
 0x0011c125 Oh, how honest!
@@ -1154,7 +1156,7 @@
 0x0011c15b like you.
 
 ; 0x0011c17e ［声］
-0x0011c17e [Voice]
+0x0011c17e Voice
 
 ; 0x0011c18b さっきはちょっと、やりすぎだったかな。
 0x0011c18b Maybe I went a bit too  far earlier.
@@ -1163,7 +1165,7 @@
 0x0011c1b6 I don't know how much you had, but take this
 
 ; 0x0011c1ed ［声］
-0x0011c1ed [Voice]
+0x0011c1ed Voice
 
 ; 0x0011c1fa ウソばっか、ゆって！
 0x0011c1fa You're all lies!
@@ -1214,7 +1216,7 @@
 0x0011c376 Oh my, isn't that
 
 ; 0x0011c38b 先生じゃありませんこと？
-0x0011c38b Sorcerer Isac?
+0x0011c38b Professor Isac?
 
 ; 0x0011c3a6 いったい、なにを見てらしたんですかぁ？
 0x0011c3a6 What exactly did you saw?
@@ -1318,7 +1320,7 @@
 0x0011c6d2 [Fray]
 
 ; 0x0011c6e1 実は、かくかくしかじか・・・
-0x0011c6e1 Well, you see... (story)
+0x0011c6e1 Well... (story)
 
 ; 0x0011c700 というワケで、なんとか湖をわた
 0x0011c700 So I need to somehow cross
@@ -1333,7 +1335,7 @@
 0x0011c749 I see.
 
 ; 0x0011c756 ですが、橋はごらんになったとお
-0x0011c756 But you've seen the bridge
+0x0011c756 But the bridge is out
 
 ; 0x0011c775 りですし・・・
 0x0011c775 and…
@@ -1450,7 +1452,7 @@
 0x0011caed Let me introduce you,
 
 ; 0x0011cb04 方は、アイザック先生。
-0x0011cb04 this is Sorcerer Isac.
+0x0011cb04 this is Professor Isac.
 
 ; 0x0011cb1d ムリをいって息子の病気をみてい
 0x0011cb1d He’s treating my son’s 
@@ -1468,10 +1470,10 @@
 0x0011cb8f [Mayor]
 
 ; 0x0011cb9c 先生、実はかくかくしか
-0x0011cb9c The truth is… a bit
+0x0011cb9c The thing is… 
 
 ; 0x0011cbb3 じかなのですが・・・。
-0x0011cbb3 complicated…(story)
+0x0011cbb3 (story)
 
 ; 0x0011cbd0 ［フレイ］
 0x0011cbd0 [Fray]
@@ -1567,7 +1569,7 @@
 0x0011ce84 Aww, what a    noisy girl. Do you want to
 
 ; 0x0011ceb1 湖がわたれんでもいいのか？
-;0x0011ceb1 Still want to cross?s
+;0x0011ceb1 Still want to cross?
 0x0011ceb1 cross the lake or not?
 
 ; 0x0011ced2 ［フレイ］
@@ -1791,19 +1793,19 @@
 0x0011d532 You're a mage!
 
 ; 0x0011d54d あのね、あたしミリーって言うん
-0x0011d54d Hi, I'm Miry. You know
+0x0011d54d Hi, I'm Miry. You know...
 
 ; 0x0011d56c だけど。
-0x0011d56c ...
+0x0011d56c ㅤ
 
 ; 0x0011d577 実はあたしも魔法使いになりたい
 0x0011d577 I want to be a mage too!
 
 ; 0x0011d596 の。
-0x0011d596 ...
+0x0011d596 ㅤ
 
 ; 0x0011d59d おねえちゃんの力でなんとかならない？
-0x0011d59d Big sis, can’t you help me out?
+0x0011d59d Big sis, can you help me out?
 
 ; 0x0011d5c8 ［フレイ］
 0x0011d5c8 [Fray]
@@ -3325,7 +3327,7 @@
 0x00126499 [Fray]
 
 ; 0x001264aa ひょ・・ひょっとして先生が・・・？
-0x001264aa Could it really be you, teach?
+0x001264aa Could it really be you, Prof?
 
 ; 0x001264d3 ［アイザック］
 0x001264d3 [Isac]
@@ -6538,7 +6540,7 @@
 ;; Miry dialogue
 
 ; 0x0015d431 ｭｸそんなこと言ってごまかそうったってダメ。
-0x0015d431 Don’t try to brush me off like that.
+0x0015d431 Don’t try to brush me off like that!
 
 ; 0x0015d45d あたしはもう子供じゃないわ。
 0x0015d45d I'm not a child anymore.
@@ -6546,42 +6548,43 @@
 ; 0x0015d47c “ちゃん”づけもやめてよね。
 0x0015d47c Quit calling me "Little"!
 
-; 0x0015d49b ﾈｸえ〜っと、じゃあ・・
-0x0015d49b Um, okay…
+; 0x0015d49d え〜っと、じゃあ・・
+0x0015d49d Um, okay…
 
 ; TODO: move "Leef Potion" fixed position
 
-0x0015d4b2 ｦｸ。　ちょっと聞くけど、
-0x0015d4b2 Do you know where the
+; 0x0015d4b4 。　ちょっと聞くけど、
+0x0015d4b4 , do you know where the
 
 ; 0x0015d4cf 』ってどこにあるか知ってる？
 0x0015d4cf 』is sold?
 
 ; 0x0015d4ec 　それ教えてくれたら、話きいてあげてもいいよ。
-0x0015d4ec If you tell me, I’ll listen to you.
+0x0015d4ec If you tell me, I will listen to you.
 
 ; 0x0015d51d ｭｸあ、それなら、ウチにあるかも。
-0x0015d51d Oh, it might be at my place.
+0x0015d51d Oh, it might be at  my place.
 
 ; 0x0015d540 ﾈｸええっ、本当！？
 0x0015d540 Really!?
 
 ; 0x0015d555 ｭｸうん。だってウチ道具屋さんだもん。
-0x0015d555 Yes. We run an item shop.
+0x0015d555 Yes. We run an item shop nearby.
 
 ; 0x0015d57a すぐ近くだから寄ってみたら？
 ;0x0015d57a It’s nearby, why don't you stop by?
-0x0015d57a It’s close、want to stop by?
+0x0015d57a Why don't you stop by?
 
 ; 0x0015d599 ﾈｸありがとう、
 0x0015d599 Thanks,
 
 ; 0x0015d5a8 ｦｸ。助かるわ。
 ;0x0015d5a8 you’re a big help.
-0x0015d5a8 big help.
+0x0015d5a8   , big help.
 
 ; 0x0015d5b9 ｭｸあたしもついてくね。
-0x0015d5b9 I’ll come along too.
+;0x0015d5b9 I’ll come along too.
+0x0015d5b9 I'm coming too!
 
 
 
@@ -6798,13 +6801,13 @@
 0x00292a2f [Fray]
 
 ; 0x00292a3e ［謎の声］
-0x00292a3e [Voice]
+0x00292a3e Voice
 
 ; 0x00292a4d ［水竜王］
 0x00292a4d [Dragon]
 
 ; 0x00292a5a だ、だれ！？
-;0x00292a5a Who’s there?
+;TODO: 00292a5a Who’s there?
 0x00292a5a Who is it?
 
 ; 0x00292a69 ここを水の神、
@@ -6820,7 +6823,7 @@
 
 ; 0x00292abb ぶぅ。いーじゃない、ちょっとぐらいさわっても。
 ;0x00292abb What's the harm in touching it a little?
-0x00292abb Boo. What's the harm in touching it?
+0x00292abb Boo. What's the   harm in touching it?
 
 ; 0x00292aeb べつにへるモンじゃなし・・・
 0x00292aeb It won't wear out...
@@ -6935,7 +6938,7 @@
 0x002c1a97 [Squid]
 
 ; 0x002c1aa4 いったい、なにが目的なの！？　船をこんなにして。
-0x002c1aa4 Why did you wreck the ship like this?
+0x002c1aa4 Why did you wreck   the ship?
 
 ; 0x002c1ad7 フッ、
 0x002c1ad7 Hmph,
@@ -6962,10 +6965,10 @@
 0x002c1b73 Don’t you feel anything seeing this!?
 
 ; 0x002c1ba0 なんとかって・・・
-0x002c1ba0 Somehow..
+0x002c1ba0 Somehow...
 
 ; 0x002c1bb3 と、とにかく！
-0x002c1bb3 Anyway!
+0x002c1bb3   Anyway!
 
 ; 0x002c1bc3 私は先を急いでるし、あなたの
 0x002c1bc3 I'm in a hurry, and
@@ -6983,10 +6986,10 @@
 0x002c1c55 Who's the selfish one!?
 
 ; 0x002c1c76 なまいきな。
-0x002c1c76 How impudent!
+0x002c1c76 Insolent!
 
 ; 0x002c1c83 ワシの力、思い知れ！
-0x002c1c83 Feel my power!
+0x002c1c83 Now feel my power!
 
 ; 0x002c1c9a また来おったか、小娘！
 0x002c1c9a Back again, little girl!
@@ -7001,7 +7004,7 @@
 0x002c1cff You're a stubborn girl. Fine, I'll make it quick.
 
 ; 0x002c1d32 なぁに？　この期におよんで負け惜しみ言うワケ？
-0x002c1d32 What? Are you making excuses now?
+0x002c1d32 What? Are you      making excuses now?
 
 ; 0x002c1d62 湖の主がきいてあきれるわね。
 0x002c1d62 Some Lake Lord you are!
@@ -7016,10 +7019,10 @@
 0x002c1dc1 I wish this was seawater at least…
 
 ; 0x002c1dee だったら最初っから
-0x002c1dee From the start…
+0x002c1dee Then…
 
 ; 0x002c1e02 こんなトコに、住みつかなきゃ
-0x002c1e02 You shouldn’t have settled
+0x002c1e02 you shouldn’t have settled
 
 ; 0x002c1e1f いーでしょーがっ！
 0x002c1e1f here!

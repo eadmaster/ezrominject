@@ -4,9 +4,9 @@
 
  - All dialogue text translated, 2nd revision pass complete.
    - Some lines were shortened to fit in the available space. Check [the original translation here](https://github.com/eadmaster/RetroSubs/wiki/Examples#fray-cd-xak-gaiden-pcecd).
- - Most menus are translated, only a few gfx still left.
+ - All menus are translated, only a few gfx still left.
  - All cutscenes are dubbed, but there are no subtitles.
- - First testing playthrough complete.
+ - Initial test playthrough is complete.
 
 
 ## Preview  👀

@@ -172,7 +172,7 @@
 0x00107748 <Found a Life Recovery Potion!>
 
 ; 0x0010776c 宝箱にはライフ回復薬が入っていた
-0x0010776c Found a Life Recovery Potion
+0x0010776c Found a Life Recovery Potion.
 
 ; 0x00107790 しかし、もう荷物がいっぱいで、
 0x00107790 but there is no space
@@ -181,19 +181,19 @@
 0x001077b4 left.
 
 ; 0x001077d8 ライフ回復薬を宝箱へ返した。
-0x001077d8 Returned Life Recovery Potion.
+0x001077d8 Returned to the chest.
 
 ; 0x00107834 ＜マジック回復薬を手に入れた！＞
 0x00107834 <Found a Magic Recovery Potion!>
 
 ; 0x00107858 宝箱にはマジック回復薬が
-0x00107858 Found a Magic Recovery Potion
+0x00107858 Found a Magic Recovery Potion.
 
 ; 0x0010787c 入っていた。　しかし、荷物が
-0x0010787c but there is no space
+0x0010787c But you cannot carry 
 
 ; 0x001078a0 いっぱいで持てない。
-0x001078a0 left.
+0x001078a0 more.
 
 ; 0x001078c4 マジック回復薬を宝箱へ返した。
 0x001078c4 Returned to the chest.
@@ -202,7 +202,7 @@
 0x00107920 <Found a Panacea!>
 
 ; 0x00107944 宝箱には万能薬が入っていた。
-0x00107944 The chest contained a Panacea
+0x00107944 The chest contained a Panacea.
 
 ; 0x00107968 万能薬を宝箱へ返した。
 0x00107968 Returned to the chest.
@@ -232,22 +232,22 @@
 0x00107b38 <Found a Wind Slash Stone!>
 
 ; 0x00107b5c 風切りの石を見つけた！しかし
-0x00107b5c I found a Wind Slash Stone!
+0x00107b5c Found a Wind Slash Stone!
 
 ; 0x00107b80 風切りの石はこれ以上持てない。
-0x00107b80 I cannot carry more.
+0x00107b80 But you cannot carry more.
 
 ; 0x00107ba4 風切りの石を宝箱へ返しました。
 0x00107ba4 Returned to the chest.
 
 ; 0x00107c00 ＜狩人のたましいを手に入れた！＞
-0x00107c00 <Obtained Hunter’s Soul!>
+0x00107c00 <Found a Hunter’s Soul!>
 
 ; 0x00107c24 狩人のたましいを見つけた！しかし
-0x00107c24 I found Hunter’s Soul!
+0x00107c24 Found a Hunter’s Soul!
 
 ; 0x00107c48 狩人のたましいはこれ以上持てない
-0x00107c48 I cannot carry more.
+0x00107c48 But you cannot carry more.
 
 ; 0x00107c6c 狩人のたましいを宝箱へ返しました
 0x00107c6c Returned to the chest.
@@ -256,10 +256,10 @@
 0x00107cc8 <Found a 3 Lights Stone!>
 
 ; 0x00107cec 三光石を見つけた！しかし
-0x00107cec Found 3 Lights Stone!
+0x00107cec Found a 3 Lights Stone!
 
 ; 0x00107d10 三光石はこれ以上持てない。
-0x00107d10 but I cannot carry more.
+0x00107d10 But you cannot carry more.
 
 ; 0x00107d34 三光石を宝箱へ返しました。
 0x00107d34 Returned to the chest.
@@ -268,10 +268,10 @@
 0x00107d90 <Found a 4 Lights Stone!>
 
 ; 0x00107db4 四光石を見つけた！しかし
-0x00107db4 I found a 4 Lights Stone!
+0x00107db4 Found a 4 Lights Stone!
 
 ; 0x00107dd8 四光石はこれ以上持てない。
-0x00107dd8 But I cannot carry more.
+0x00107dd8 But you cannot carry more.
 
 ; 0x00107dfc 四光石を宝箱へ返しました。
 0x00107dfc Returned to the chest.
@@ -280,10 +280,10 @@
 0x00107e58 <Found a Stone Of Cune!>
 
 ; 0x00107e7c くさびの魔石を見つけた！しかし
-0x00107e7c I found a Stone Of Cune!
+0x00107e7c Found a Stone Of Cune!
 
 ; 0x00107ea0 くさびの魔石はこれ以上持てない。
-0x00107ea0 But I cannot carry more.
+0x00107ea0 But you cannot carry more.
 
 ; 0x00107ec4 くさびの魔石を宝箱へ返しました。
 0x00107ec4 Returned to the chest.
@@ -292,10 +292,10 @@
 0x00107f20 <Found a Bomb!>
 
 ; 0x00107f40 爆弾を見つけた！しかし
-0x00107f40 Found a bomb!
+0x00107f40 Found a Bomb!
 
 ; 0x00107f60 爆弾はこれ以上持てない。
-0x00107f60 But I cannot carry more.
+0x00107f60 But you cannot carry more.
 
 ; 0x00107f80 爆弾を宝箱へ返しました。
 0x00107f80 Returned to the chest.
@@ -506,13 +506,13 @@
 0x0010c37c Please come again!
 
 ; 0x0010c3c0 ハードな旅のお供に一本。
-0x0010c3c0 Great for a hard journey.
+0x0010c3c0 One for a tough journey.
 
 ; 0x0010c3e2 ライフ回復薬。
 0x0010c3e2 Life Recovery Potion.
 
 ; 0x0010c404 これ一本で気力満点！
-0x0010c404 Restores magic.
+0x0010c404 Fully restores magic.
 
 ; 0x0010c426 マジック回復薬。
 0x0010c426 Magic Recovery Potion.

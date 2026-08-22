@@ -212,10 +212,10 @@
 0x0003a29c From here, everyone would 
 
 ; 0x0003a2bd 自分たちの元いた場所、故郷へと
-0x0003a2bd soon return home, from
+0x0003a2bd return to their homes,
 
 ; 0x0003a2de 帰っていきます。
-0x0003a2de where they belonged.
+0x0003a2de where they belong.
 
 ; 0x0003a30c 誰の顔も、未来への希望と、
 0x0003a30c Every face was filled with

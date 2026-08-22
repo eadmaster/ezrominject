@@ -119,7 +119,7 @@
 0x0002d0dc Thank goodness,
 
 ; 0x0002d0fd ２人とも無事のようだね！
-0x0002d0fd you both look safe!
+0x0002d0fd you're both safe!
 
 ; 0x0002d12c しかし・・・。
 0x0002d12c But...
@@ -134,7 +134,7 @@
 0x0002d19d all the way through...
 
 ; 0x0002d1cc 大丈夫、
-0x0002d1cc It'll be fine,
+0x0002d1cc She'll be fine,
 
 ; 0x0002d1ed あの方ならきっと・・・。
 0x0002d1ed I'm sure she'll...
