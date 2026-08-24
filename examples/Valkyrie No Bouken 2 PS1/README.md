@@ -3,7 +3,7 @@
 ## Current status  🏗️
 
  - All dialogue text translated, 1st revision pass complete.
- - Gfx text/buttons are NOT translated.
+ - Only some gfx text/buttons are translated.
  - First testing playthrough complete.
 
 
