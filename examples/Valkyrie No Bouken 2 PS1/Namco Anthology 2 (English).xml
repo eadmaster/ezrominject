@@ -52,7 +52,7 @@
                 <file name="TESTMAP6.BIN" source="TESTMAP6.BIN" type="data"/>
                 <file name="TESTMAP7.BIN" source="TESTMAP7.BIN" type="data"/>
                 <file name="MAKUMA.BIN" source="MAKUMA.BIN" type="data"/>
-                <file name="VALOBJ00.BIN" source="cd_extracted/VAL/VALOBJ00.BIN" type="data"/>
+                <file name="VALOBJ00.BIN" source="VALOBJ00.BIN" type="data"/>
                 <file name="VALCHR3.BIN" source="cd_extracted/VAL/VALCHR3.BIN" type="data"/>
                 <file name="VALCHR1.BIN" source="cd_extracted/VAL/VALCHR1.BIN" type="data"/>
                 <file name="VALCHR2.BIN" source="cd_extracted/VAL/VALCHR2.BIN" type="data"/>

@@ -9,7 +9,7 @@
 
 ## Preview  👀
 
-![shot](demo1.png)  ![shot](demo2.png)  ![shot](demo3.png)
+![shot](demo2.png)  ![shot](demo3.png)  ![shot](demo4.png)  
 
 
 ## Patch instructions  🩹
@@ -25,3 +25,4 @@
 # Credits/Contributors/Special thanks
 
  - [eadmaster](https://github.com/eadmaster): translation, hacking, playtesting.
+ - [Raccoon Sam](https://www.romhacking.net/forum/index.php?action=profile;u=1969): gfx compression reverse engineering.

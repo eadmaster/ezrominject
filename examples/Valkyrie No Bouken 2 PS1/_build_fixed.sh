@@ -15,6 +15,11 @@ done
 # boot straight into the game, skip main menu
 sfk replace "$EXTRACT_PATH/SYSTEM.CNF" -text '/SLPS_012.21/VAL\VAL.EXE/'  -yes
 
+# patch gfx
+cp "$EXTRACT_PATH/VAL/VALOBJ00.BIN" .
+sfk partcopy gfx/VALOBJ00_menu_eng.BIN.recomp.padded 0 13947 VALOBJ00.BIN 0x3288 -yes
+sfk partcopy gfx/VALOBJ00_menu2_eng.BIN.recomp.padded 0 7012 VALOBJ00.BIN 0x1724 -yes
+
 # rebuild with https://github.com/Lameguy64/mkpsxiso
 mkpsxiso -y --cuefile /dev/null "Namco Anthology 2 (English).xml"
 
