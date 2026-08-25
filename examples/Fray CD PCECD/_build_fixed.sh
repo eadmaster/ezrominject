@@ -44,15 +44,20 @@ replace_gfx menu_teleport
 # 1HitKil cheat  https://gamehacking.org/game/84576
 #sfk setbytes "$OUTPUT_ROM" 0x11389B 0xA900 -yes
 
-# rewrite "Shield" ptrs for the weapon shops
+# rewrite "Shield" ptr for the weapon shops
 sfk setbytes "$OUTPUT_ROM" 0x0015DF3E 0xB3 -yes  # Redirect 2-item equipment menu "Sell Shield" pointer to 0xC6B3
 sfk setbytes "$OUTPUT_ROM" 0x0015DFB1 0xB3 -yes  # Redirect 4-item "Sell Shield" pointer to 0xC6B3
 sfk setbytes "$OUTPUT_ROM" 0x0015DEBD 0x00 -yes  # string termination (TODO: in ezrominject.py)
 
-# move "Meat" pts to give 2 extra bytes for "Bread"
+# move "Meat" ptr to give 2 extra bytes for "Bread"
 sfk setbytes "$OUTPUT_ROM" 0x00114131 0x6186 -yes
 sfk setbytes "$OUTPUT_ROM" 0x00114260 0x00 -yes  # string termination (TODO: in ezrominject.py)
 sfk setbytes "$OUTPUT_ROM" 0x00114265 0x00 -yes  # string termination (TODO: in ezrominject.py)
+
+# move "Magic" ptr to give 2 extra bytes
+sfk setbytes "$OUTPUT_ROM" 0x0015DE98 0x6D -yes
+sfk setbytes "$OUTPUT_ROM" 0x0015DE9F 0x6DC6 -yes
+sfk setbytes "$OUTPUT_ROM" 0x0015DE6A 0x00 -yes  # "Item" string termination (TODO: in ezrominject.py)
 
 # TODO: convert back to MODE1/2352 for better compatibility with flashcarts
 

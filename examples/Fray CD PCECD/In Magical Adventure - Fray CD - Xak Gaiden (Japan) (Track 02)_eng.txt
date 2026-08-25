@@ -72,7 +72,7 @@
 ; 0x0015bfe1 値段は
 0x0015bfe1 Price
 ; 0x00159439 ゴールド
-0x00159439  Gold
+0x00159439   Gold
 ; 0x00159442 を手に入れた！
 0x00159442 found！
 ; 0x00159451 をもらった！
@@ -85,8 +85,8 @@
 0x0015de5f Leave
 ; 0x0015de66 アイテム
 0x0015de66 Item
-; 0x0015de6f 魔法
-0x0015de6f Magic
+; 0x0015de6f 魔法 -> moved to make space
+0x0015de6d Magic
 ; 0x0015de74 ロッド
 0x0015de74 Rod
 ; 0x0015de7b を買う
@@ -224,7 +224,7 @@
 0x0011a469 [Minion 1]
 
 ; 0x0011a47a ははっ！　われらがアルセイデス様親衛隊隊員、
-0x0011a47a Haha! We are Lady Arsides Royal Guard.
+0x0011a47a Haha! We are   Lady Arsides Royal Guard.
 
 ; 0x0011a4a9 ナンバー００９、
 0x0011a4a9 I'm No. 009,
@@ -251,7 +251,7 @@
 0x0011a552 [Minion 3]
 
 ; 0x0011a563 ならば、アルセイデス様親衛隊隊員、
-0x0011a563 Lady Arsides Royal Guard
+0x0011a563 Lady Arsides    Royal Guard
 
 ; 0x0011a588 ナンバー１０８、“緑玉のレマ　
 0x0011a588 Number 108 Emerald Orb 
@@ -302,20 +302,21 @@
 0x0011a6f9 Ho ho ho.
 
 ; 0x0011a708 ほ！　こりずにまた来たわね。
-0x0011a708 You just never learn, do you? 
 ;0x0011a708 Back again, are you?
+0x0011a708 You just never learn.
 
 ; 0x0011a727 青くさい小娘がアタシに勝とうな
-0x0011a727 A fresh girl like you beating
+;0x0011a727 A fresh girl like you beating me? 
+0x0011a727 A green girl beating me?
 
 ; 0x0011a746 んて、１０万年はやいのよ！
-0x0011a746 me? Not in a million years!
+0x0011a746 Not in a million years!
 
 ; 0x0011a763 さぁ、おまえたち、キリキリかた
 0x0011a763 Now then, you minions, finish
 
 ; 0x0011a782 づけておしまいっ！
-0x0011a782 it up quickly!
+0x0011a782 her off quickly!
 
 ; 0x0011a799 ［フレイ］
 0x0011a799 [Fray]
@@ -363,7 +364,7 @@
 0x0011a8b9 Now go, use that “youthful
 
 ; 0x0011a8d8 の若さ”を武器にして！
-0x0011a8d8 spirit” as your weapon!
+0x0011a8d8 spirit”as your weapon!
 
 ; 0x0011a8f3 ［フレイ］
 0x0011a8f3 [Fray]
@@ -435,7 +436,7 @@
 
 ; 0x0011aaf2 アイツが近ごろウワサの人さらいだったりして。
 ; 0x0011aaf2 Maybe he’s the kidnapper everyone’s been talking about lately.
-0x0011aaf2 Maybe he’s that rumored kidnapper.
+0x0011aaf2 Maybe he’s that rumored      kidnapper.
 
 ; 0x0011ab21 キャッ、あたし、こわぁい。
 0x0011ab21 Eek, that’s scary!
@@ -505,7 +506,7 @@
 0x0011ad2a [Guard]
 
 ; 0x0011ad37 あ〜ダメダメ。その門は開きませんよ。
-0x0011ad37 No, no. That gate won’t open.
+0x0011ad37 No, no. That gate     won’t open.
 
 ; 0x0011ad62 ［フレイ］
 0x0011ad62 [Fray]
@@ -1470,6 +1471,7 @@
 0x0011cb8f [Mayor]
 
 ; 0x0011cb9c 先生、実はかくかくしか
+; Prof.,
 0x0011cb9c The thing is… 
 
 ; 0x0011cbb3 じかなのですが・・・。
@@ -6113,7 +6115,7 @@
 0x0015c56a Magic
 
 ; 0x0015c579 ３つのカミナリをあなたの近くの敵に落とします。なかなか強力ですよ。
-0x0015c579 Calls down 3 bolts of lightning. Quite powerful.
+0x0015c579 Calls down 3 bolts of       lightning. Quite powerful.
 
 ; 0x0015c5ca だな。
 0x0015c5ca .
@@ -6191,7 +6193,7 @@
 0x0015c8fe Yes, THREE!
 
 ; 0x0015c90f どお？
-0x0015c90f .
+0x0015c90f ㅤ
 
 ; 0x0015c918 ね。
 0x0015c918 .
@@ -6212,7 +6214,7 @@
 0x0015c9b9 .
 
 ; 0x0015c9be 敵のフトコロへ飛び込んでいくような、野性的な戦いが好きな人向けね。ああ、シビレルわぁ〜。
-0x0015c9be For those who like wild battles, diving right into the enemy’s chest.
+0x0015c9be For those who like wild       battles, diving right into   the enemy’s chest.
 
 ; 0x0015ca19 の魔法ね。
 0x0015ca19 .
@@ -6572,7 +6574,6 @@
 0x0015d555 Yes. We run an item shop nearby.
 
 ; 0x0015d57a すぐ近くだから寄ってみたら？
-;0x0015d57a It’s nearby, why don't you stop by?
 0x0015d57a Why don't you stop by?
 
 ; 0x0015d599 ﾈｸありがとう、
@@ -6583,7 +6584,6 @@
 0x0015d5a8   , big help.
 
 ; 0x0015d5b9 ｭｸあたしもついてくね。
-;0x0015d5b9 I’ll come along too.
 0x0015d5b9 I'm coming too!
 
 
@@ -6627,7 +6627,7 @@
 0x0015d732 But now 
 
 ; 0x0015d743 がウロつき始めまして。
-0x0015d743 are roaming again.
+0x0015d743 are   roaming again.
 
 ;0x0015d75c ﾈｸどうです？
 0x0015d75c ...
@@ -6836,7 +6836,7 @@
 
 ; 0x00292b43 だから、あれほどさわるなと言ったではないか！
 ; 0x00292b43 I told you not to touch it!
-0x00292b43 I told you many times not to touch it!
+0x00292b43 I told you many     times not to touch it!
 
 ; 0x00292b71 神へのボウトクは、この水竜王が許しておくワケにはいかん。
 ; 0x00292b71 Blasphemy against the gods will not be forgiven.
@@ -6853,10 +6853,10 @@
 0x00292bef Leave now, and I shall spare you.
 
 ; 0x00292c24 たすかるわ。ついでと言っちゃなんだけど・・・
-0x00292c24 Thanks. While you’re at it...
+0x00292c24 Thanks. While you're at it...
 
 ; 0x00292c52 私をむこう岸まで運んでってくれないかしら？
-0x00292c52 Could you carry me to the other side?
+0x00292c52 Could you carry me to the     other side?
 
 ; 0x00292c81 ・・・よ、
 0x00292c81 ...W-
@@ -6881,13 +6881,13 @@
 0x00292d26 You again!
 
 ; 0x00292d38 これ以上、私のスミカをあらされてたまるか！
-0x00292d38 I won’t let you defile my home!
+0x00292d38 I won’t let you defile my   home!
 
 ; 0x00292d65 ひっどーい！
 0x00292d65 How mean!
 
 ; 0x00292d73 それじゃ、まるで私が破壊の帝王みたいじゃない！
-0x00292d73 You make me sound like a destroyer!
+0x00292d73 You make me sound like a      destroyer!
 
 ; 0x00292da4 あまりかわらんと思うが・・・。とにかく、いくぞ！
 0x00292da4 Not much difference... now, come!
@@ -6902,7 +6902,7 @@
 0x00292df0  partly my fault too.
 
 ; 0x00292e08 像は後でひろって、なおしといてあげるから。
-0x00292e08 I'll pick up the statue later.
+0x00292e08 I'll pick up the statue     later.
 
 ; 0x00292e35 その言葉にウソいつわりはないな。
 0x00292e35 You swear those words are true?
@@ -6920,7 +6920,7 @@
 0x00292eb4 Hmph! It was broken anyway!
 
 ; 0x00292ee6 私みたいなカヨワイ乙女が触っただけで壊れるワケないでしょ！
-0x00292ee6 A frail girl like me couldn't break it!
+0x00292ee6 No way a frail girl like me   could break it!
 
 ; 0x00292f23 さ〜ってと、ちょっと回り道しなきゃなんないわね。
 0x00292f23 Now, I've got to take a    detour.
@@ -7025,7 +7025,7 @@
 0x002c1e02 you shouldn’t have settled
 
 ; 0x002c1e1f いーでしょーがっ！
-0x002c1e1f here!
+0x002c1e1f in this lake!
 
 ; 0x002c1e34 む、無念じゃ・・・
 0x002c1e34 How frustrating…
