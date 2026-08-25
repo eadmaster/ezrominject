@@ -19,6 +19,11 @@ sfk replace "$EXTRACT_PATH/SYSTEM.CNF" -text '/SLPS_012.21/VAL\VAL.EXE/'  -yes
 cp "$EXTRACT_PATH/VAL/VALOBJ00.BIN" .
 sfk partcopy gfx/VALOBJ00_menu_eng.BIN.recomp.padded 0 13947 VALOBJ00.BIN 0x3288 -yes
 sfk partcopy gfx/VALOBJ00_menu2_eng.BIN.recomp.padded 0 7012 VALOBJ00.BIN 0x1724 -yes
+sfk partcopy gfx/VALOBJ00_menu3_eng.BIN.recomp.padded 0 559 VALOBJ00.BIN 0x15982 -yes
+cp "$EXTRACT_PATH/VAL/VALTIT2.BIN" .
+sfk partcopy gfx/VALOBJ00_menu2_eng.BIN.recomp.padded 0 7012 VALTIT2.BIN 0x5C516 -yes
+#TODO: cutscenes
+
 
 # rebuild with https://github.com/Lameguy64/mkpsxiso
 mkpsxiso -y --cuefile /dev/null "Namco Anthology 2 (English).xml"

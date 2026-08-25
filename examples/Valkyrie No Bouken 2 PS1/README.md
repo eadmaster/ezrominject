@@ -3,7 +3,8 @@
 ## Current status  🏗️
 
  - All dialogue text translated, 1st revision pass complete.
- - Only some gfx text/buttons are translated.
+ - All menu gfx buttons are translated.
+ - Cutscene subs are NOT translated.
  - First testing playthrough complete.
 
 
