@@ -61,7 +61,7 @@
                 <file name="VALCHR5.BIN" source="cd_extracted/VAL/VALCHR5.BIN" type="data"/>
                 <file name="VALCHR6.BIN" source="cd_extracted/VAL/VALCHR6.BIN" type="data"/>
                 <file name="VALCHR7.BIN" source="cd_extracted/VAL/VALCHR7.BIN" type="data"/>
-                <file name="VALTIT2.BIN" source="cd_extracted/VAL/VALTIT2.BIN" type="data"/>
+                <file name="VALTIT2.BIN" source="VALTIT2.BIN" type="data"/>
                 <file name="VALEND.BIN" source="cd_extracted/VAL/VALEND.BIN" type="data"/>
                 <file name="VALEND2.BIN" source="cd_extracted/VAL/VALEND2.BIN" type="data"/>
             </dir>

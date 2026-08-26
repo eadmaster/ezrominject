@@ -15,7 +15,7 @@
 
 ## Patch instructions  🩹
 
-1. Setup the [hacked BIOS](https://github.com/eadmaster/ezrominject/wiki/BIOS-font-hacks) in your emulator/flashcart
+1. Setup the [hacked BIOS](https://github.com/eadmaster/ezrominject/wiki/BIOS-font-hacks#ps1-scph5500-bios-hack) in your emulator/flashcart
 2. Visit [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/), or use an offline xdelta patcher.
 3. Obtain a disc dump matching [these hashes](http://redump.org/disc/9757/). Select `Namco Anthology 2 (Japan).bin` as the ROM file.
 4. Download the [latest xdelta patch in this folder](https://raw.githubusercontent.com/eadmaster/ezrominject/refs/heads/main/examples/Valkyrie%20No%20Bouken%202%20PS1/Namco%20Anthology%202%20(Japan)%20(patched).bin.xdelta), and use it as the Patch file
@@ -26,4 +26,4 @@
 # Credits/Contributors/Special thanks
 
  - [eadmaster](https://github.com/eadmaster): translation, hacking, playtesting.
- - [Raccoon Sam](https://www.romhacking.net/forum/index.php?action=profile;u=1969): gfx compression reverse engineering.
+ - [Raccoon Sam](https://www.romhacking.net/forum/index.php?action=profile;u=1969): gfx compression reverse engineering, title screen gfx.

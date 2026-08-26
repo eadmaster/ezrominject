@@ -22,7 +22,10 @@ sfk partcopy gfx/VALOBJ00_menu2_eng.BIN.recomp.padded 0 7012 VALOBJ00.BIN 0x1724
 sfk partcopy gfx/VALOBJ00_menu3_eng.BIN.recomp.padded 0 559 VALOBJ00.BIN 0x15982 -yes
 cp "$EXTRACT_PATH/VAL/VALTIT2.BIN" .
 sfk partcopy gfx/VALOBJ00_menu2_eng.BIN.recomp.padded 0 7012 VALTIT2.BIN 0x5C516 -yes
-#TODO: cutscenes
+# titlescreen abd cutscenes
+sfk partcopy gfx/OUTTIT2_022.bin.recomp.padded 0 0x32CA VALTIT2.BIN 0x054A36 -yes
+sfk partcopy gfx/OUTTIT2_023.bin.recomp.padded 0 0x488 VALTIT2.BIN 0x057D00 -yes
+sfk partcopy gfx/VALTIT2_opening_part1_eng.BIN.recomp.padded 0 10552 VALTIT2.BIN 0x4E044 -yes
 
 
 # rebuild with https://github.com/Lameguy64/mkpsxiso
