@@ -1,7 +1,7 @@
 #!/bin/bash
 
 INPUT_ROM="In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 02).bin"
-OUTPUT_ROM="In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 02) (patched).bin"
+OUTPUT_ROM="In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 02) (patched).iso"
 
 # strip ecc data
 ../../bchunk-bin2iso/bchunk-bin2iso -t 00:02:74 "$INPUT_ROM" "$OUTPUT_ROM"
@@ -59,6 +59,7 @@ sfk setbytes "$OUTPUT_ROM" 0x0015DE98 0x6D -yes
 sfk setbytes "$OUTPUT_ROM" 0x0015DE9F 0x6DC6 -yes
 sfk setbytes "$OUTPUT_ROM" 0x0015DE6A 0x00 -yes  # "Item" string termination (TODO: in ezrominject.py)
 
-# TODO: convert back to MODE1/2352 for better compatibility with flashcarts
+# convert back to MODE1/2352 for better compatibility with flashcarts
+iso2raw "$OUTPUT_ROM"
 
-xdelta3 -S none -f -e -s "$INPUT_ROM" "$OUTPUT_ROM"  "$INPUT_ROM.xdelta"
+xdelta3 -S none -f -e -s "$INPUT_ROM" "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 02) (patched).bin"  "$INPUT_ROM.xdelta"

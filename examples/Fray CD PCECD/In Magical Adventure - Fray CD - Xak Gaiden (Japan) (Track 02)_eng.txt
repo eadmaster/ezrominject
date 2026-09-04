@@ -593,10 +593,10 @@
 0x0011afdf [Woman]
 
 ; 0x0011aff0 いいわねえ〜、魔法使いは。
-0x0011aff0 Must be nice, being a mage.
+0x0011aff0 Must be nice being a mage.
 
 ; 0x0011b00d あたしもテレポートの魔法が使えたらねぇ。
-0x0011b00d I wish I could use teleport too.
+0x0011b00d I wish I could use teleport   too.
 
 ; 0x0011b03c ［おじさん］
 0x0011b03c [Man]
@@ -608,13 +608,14 @@
 0x0011b060 Arsides’ curse or not,
 
 ; 0x0011b07f 町の者はいい迷惑してるよ。
-0x0011b07f it’s a real nuisance.
+;0x0011b07f the town is suffering.
+0x0011b07f we are really suffering.
 
 ; 0x0011b0a0 ［おじいさん］
 0x0011b0a0 [Old Man]
 
 ; 0x0011b0b3 近ごろはアーザス
-0x0011b0b3 These days, Arzas
+0x0011b0b3 These days Arzas
 
 ; 0x0011b0c4 平原もブッソウになったのう。
 0x0011b0c4 Plain’s gotten dangerous.
@@ -961,7 +962,7 @@
 0x0011bb18 The bridge is
 
 ; 0x0011bb29 村の外はモンスターだらけ。
-0x0011bb29 gone and there are monsters everywhere.
+0x0011bb29 out and there are monsters everywhere.
 
 ; 0x0011bb46 わしらはこれから、どうやって生
 0x0011bb46 How will we survive from
@@ -973,16 +974,17 @@
 0x0011bb82 [Woman]
 
 ; 0x0011bb93 困ったことがあったら、村長さんに
-0x0011bb93 If you’re in trouble, ask the
+0x0011bb93 If you’re in     trouble, ask 
 
 ; 0x0011bbb4 聞くといいよ。
-0x0011bbb4 mayor.
+0x0011bbb4 the mayor.
 
 ; 0x0011bbc9 ［おじさん］
 0x0011bbc9 [Man]
 
 ; 0x0011bbda 最近は、船が出せなくてヒマだなぁ。
-0x0011bbda Lately, I can't take the boat out.
+;0x0011bbda Lately, I can't take the boat out.
+0x0011bbda No sailing lately... I'm so bored.
 
 ; 0x0011bc03 ［アイザック］
 0x0011bc03 [Isac]
@@ -1114,6 +1116,8 @@
 0x0011bff7 Aaaah!
 
 
+;; Voice from the sea in Reigia Village (play on the classic "The Honest Woodman" Aesop's Fable)
+
 ; 0x0011c00c ［声］
 0x0011c00c Voice
 
@@ -1133,7 +1137,7 @@
 0x0011c09c Voice
 
 ; 0x0011c0a9 もう、じれったいわね！
-0x0011c0a9 Oh, how frustrating!
+0x0011c0a9 Come on, answer me!
 
 ; 0x0011c0c6 あなたが落としたのは、この金のロッド？
 0x0011c0c6 Did you drop the Golden Rod?
@@ -1183,11 +1187,15 @@
 ; 0x0011c260 きゃあああっ！！
 0x0011c260 Aaah!!
 
+
+;; Teleportation scene in Reigia Village
+
 ; 0x0011c275 ［フレイ］
 0x0011c275 [Fray]
 
 ; 0x0011c284 あ〜〜〜〜〜、死ぬかと思った。
-0x0011c284 Ah, I thought I was gonna die!
+;0x0011c284 Ah, I thought I was gonna die!
+0x0011c284 Ah, I thought I was a goner!
 
 ; 0x0011c2a5 ミルの病気がうつっちゃったのかしら？
 0x0011c2a5 Did I catch Mill's bad habits?
@@ -1199,10 +1207,10 @@
 0x0011c2fe [Fray]
 
 ; 0x0011c30f ・・・あ、あ〜、
-0x0011c30f Ah, ah, nice
+0x0011c30f Ahah, nice weath
 
 ; 0x0011c322 今日もいい天気ねぇ〜。
-0x0011c322 weather today, huh?
+0x0011c322 er   today, huh?
 
 ; 0x0011c33f ［アイザック］
 0x0011c33f [Isac]
@@ -1336,7 +1344,8 @@
 0x0011c749 I see.
 
 ; 0x0011c756 ですが、橋はごらんになったとお
-0x0011c756 But the bridge is out
+;0x0011c756 But the bridge is out
+0x0011c756 But you've seen the bridge
 
 ; 0x0011c775 りですし・・・
 0x0011c775 and…
@@ -1648,7 +1657,7 @@
 0x0011d0ec He must rest for a while.
 
 ; 0x0011d10b らんがの。
-0x0011d10b ...
+0x0011d10b ㅤ
 
 ; 0x0011d11c ［フレイ］
 0x0011d11c [Fray]
@@ -1834,7 +1843,7 @@
 0x0011d66d [Fray]
 
 ; 0x0011d67c ちょ、ちょ〜っとゴメンね、ミリーちゃん。
-0x0011d67c S-Sorry, Little  Miry.
+0x0011d67c S-Sorry, little  Miry.
 
 ; 0x0011d6a7 急いでるから、また後でね。
 0x0011d6a7 I'm in a hurry now.
@@ -1983,7 +1992,7 @@
 0x0011dafa [Woman]
 
 ; 0x0011db0b こんにちは、ミリーちゃん。
-0x0011db0b Hi, Miry.
+0x0011db0b Hi, little Miry.
 
 ; 0x0011db28 よかったら、後でまた子守りをおねがいね。
 ;0x0011db28 If you want, you can babysit her later too.
@@ -1999,7 +2008,7 @@
 0x0011db7b going missing everywhere.
 
 ; 0x0011db9a ミリーちゃんも気をつけてね。
-0x0011db9a Be careful, Miry.
+0x0011db9a Be careful, little Miry.
 
 ; 0x0011dbbd ［ミリー］
 0x0011dbbd [Miry]
@@ -4320,6 +4329,8 @@
 ; 0x0012856d ワニ皮やおまへんで。
 0x0012856d I'm not a crocodile,
 
+; TODO: expand line
+
 ; 0x00128583 ワニナだす。
 ;0x00128583 I'm from Crocburg!
 0x00128583 Crocburg's!
@@ -4331,11 +4342,11 @@
 0x001285a5 Ugh. Anyway...
 
 ; 0x001285ba あなたならこの状況をなんとか
-;0x001285ba Are you saying you can somehow help me?
-0x001285ba Can you help me in this
+;0x001285ba Can you do something about this?
+0x001285ba Can you help me
 
 ; 0x001285d8 できるって言うの？
-0x001285d8 situation?
+0x001285d8 somehow?
 
 ; 0x001285f1 ［商人］
 0x001285f1 [Merc]
@@ -6400,7 +6411,7 @@
 0x0015cfa6 Please rest a while.
 
 ; 0x0015cfc3 ね。
-0x0015cfc3 .
+0x0015cfc3  ㅤ
 
 ; 0x0015cfcc ［エルマ］
 0x0015cfcc [Elma]
@@ -6548,15 +6559,17 @@
 0x0015d45d I'm not a child anymore.
 
 ; 0x0015d47c “ちゃん”づけもやめてよね。
-0x0015d47c Quit calling me "Little"!
+0x0015d47c Quit calling me "little"!
 
 ; 0x0015d49d え〜っと、じゃあ・・
 0x0015d49d Um, okay…
 
-; TODO: move "Leef Potion" fixed position
+; TODO: move "Miry" fixed position
 
 ; 0x0015d4b4 。　ちょっと聞くけど、
 0x0015d4b4 , do you know where the
+
+; TODO: move "Leef Potion" fixed position
 
 ; 0x0015d4cf 』ってどこにあるか知ってる？
 0x0015d4cf 』is sold?

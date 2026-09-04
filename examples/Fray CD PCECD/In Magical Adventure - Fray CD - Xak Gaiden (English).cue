@@ -3,7 +3,7 @@ FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 01).bin" BINARY
   TRACK 01 AUDIO
     INDEX 01 00:00:00
 FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 02) (patched).bin" BINARY
-  TRACK 02 MODE1/2048
+  TRACK 02 MODE1/2352
     INDEX 01 00:00:00
 FILE "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 03).bin" BINARY
   TRACK 03 AUDIO
