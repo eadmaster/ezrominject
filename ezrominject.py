@@ -132,16 +132,26 @@ def encode_to_custom_sjis(text):
     
     
 
+_TBL_CACHE = {}
+
 def read_table(filename):
+    if filename in _TBL_CACHE:
+        return _TBL_CACHE[filename]
+        
     table = {}
     import codecs
-    with codecs.open(filename, 'r', 'utf-8') as f:
+    # utf-8-sig safely ignores the BOM if your text editor saves with one
+    with codecs.open(filename, 'r', 'utf-8-sig') as f:
         for line in f:
             if '=' in line:
                 line = line.replace('\r', '').replace('\n', '')
-                hex_code, glyph = line.split('=')
-                #print("glyph: " + glyph)
-                table[glyph] = bytes.fromhex(hex_code)
+                try:
+                    hex_code, glyph = line.split('=', 1)
+                    table[glyph] = bytes.fromhex(hex_code)
+                except ValueError:
+                    continue
+                    
+    _TBL_CACHE[filename] = table
     return table
 
 
@@ -369,7 +379,7 @@ def run_injection(jap_path, eng_path, rom_path):
         
         jap_map[addr_int] = len(text) - math.ceil(count_one_byte_chars(text)/2)
         
-        if INJECT_ASCII or ASCII_BIOS_HACK:
+        if INJECT_ASCII or ASCII_BIOS_HACK or TBL_FILE:   # TODO: detect from the table
             jap_map[addr_int] = 2* len(text) - math.ceil(count_one_byte_chars(text)/2)
         if KANA_1_BYTE:
             jap_map[addr_int] = get_length_with_kana_as_1_byte(text)
@@ -417,28 +427,29 @@ def run_injection(jap_path, eng_path, rom_path):
             eng_text = eng_text.replace(": ", ":")
             eng_text = eng_text.replace("; ", ";")
             
-        # replace some chars to save space
-        eng_text = eng_text.replace("...", "…")
-        eng_text = eng_text.replace("..", "…")
-        eng_text = eng_text.replace(":", "：")
-        eng_text = eng_text.replace(";", "；")
-        eng_text = eng_text.replace(",", "、")
-        eng_text = eng_text.replace("-", "ー")
-        eng_text = eng_text.replace("—", "ー")
-        eng_text = eng_text.replace("?", "？")
-        eng_text = eng_text.replace("!", "！")
-        eng_text = eng_text.replace("~", "〜")
-        eng_text = eng_text.replace(".", "。")
-        eng_text = eng_text.replace("\'", "’")
-        #eng_text = eng_text.replace("\'", "´")
-        eng_text = eng_text.replace("\"", "”")
-        #eng_text = eng_text.replace(" ", "　")  # double-width space
-        #eng_text = eng_text.replace(", ", ",")
+        if not TBL_FILE:
+            # replace some chars to save space
+            eng_text = eng_text.replace("...", "…")
+            eng_text = eng_text.replace("..", "…")
+            eng_text = eng_text.replace(":", "：")
+            eng_text = eng_text.replace(";", "；")
+            eng_text = eng_text.replace(",", "、")
+            eng_text = eng_text.replace("-", "ー")
+            eng_text = eng_text.replace("—", "ー")
+            eng_text = eng_text.replace("?", "？")
+            eng_text = eng_text.replace("!", "！")
+            eng_text = eng_text.replace("~", "〜")
+            eng_text = eng_text.replace(".", "。")
+            eng_text = eng_text.replace("\'", "’")
+            #eng_text = eng_text.replace("\'", "´")
+            eng_text = eng_text.replace("\"", "”")
+            #eng_text = eng_text.replace(" ", "　")  # double-width space
+            #eng_text = eng_text.replace(", ", ",")
         
         target_char_len = jap_map[addr_int]
         
         # Adjust character length (Truncate)
-        if len(eng_text) >= (target_char_len) and ABBREVIATE:
+        if len(eng_text) > (target_char_len) and ABBREVIATE:
             eng_text = abbreviate(eng_text, target_char_len)
             print("abbreviated: " + eng_text)
         
@@ -466,7 +477,7 @@ def run_injection(jap_path, eng_path, rom_path):
                         target_char_len += ((available_extra - 1) // 2)
                     print("try overflowing bytes: " + str(available_extra))
                 
-        if len(eng_text) >= (target_char_len):        
+        if len(eng_text) > (target_char_len):        
             eng_text = eng_text[:target_char_len]
             print("truncated: " + str(eng_text))
             
@@ -513,17 +524,17 @@ def run_injection(jap_path, eng_path, rom_path):
             if len(out_bytes) < max_bytes:
                 out_bytes = out_bytes.ljust(max_bytes, b'\x00')
                 #out_bytes = out_bytes.ljust(max_bytes, bytes([INJECT_ASCII_NEWLINE_VALUE]))
-        else:
+        elif not TBL_FILE:
             # convert to SJIS Fullwidth
             fw_text = to_fullwidth(eng_text)
         
-        # Pad with Spaces
-        if INJECT_ASCII or KANA_1_BYTE:
-            #fw_text = fw_text.ljust(target_char_len, chr(0x3000))
-            fw_text = fw_text.ljust(target_char_len, chr(0x20))
-        else:
-            fw_text = fw_text.ljust(target_char_len, chr(0x8140))
-            #fw_text = fw_text.ljust(target_char_len, chr(0x3000))
+            # Pad with Spaces
+            if INJECT_ASCII or KANA_1_BYTE:
+                #fw_text = fw_text.ljust(target_char_len, chr(0x3000))
+                fw_text = fw_text.ljust(target_char_len, chr(0x20))
+            else:
+                fw_text = fw_text.ljust(target_char_len, chr(0x8140))
+                #fw_text = fw_text.ljust(target_char_len, chr(0x3000))
 
         if ASCII_BIOS_HACK:
             out_bytes = encode_to_custom_sjis(eng_text)
@@ -544,9 +555,24 @@ def run_injection(jap_path, eng_path, rom_path):
                 print(f"Error: Could not encode text at {addr_str} to S-JIS")
                 out_bytes = fw_text.encode('cp932', errors='ignore')
         else:
-            out_bytes = encode_with_tbl(eng_text, TBL_FILE)
-            # TODO: fill with spaces
-            
+            # TBL_FILE
+            out_bytes = bytearray(encode_with_tbl(eng_text, TBL_FILE))
+            if len(out_bytes) > (target_char_len):     
+                out_bytes = out_bytes[:target_char_len]
+                print(f"truncated: {eng_text}")
+            else:
+                # Get the table's specific space byte(s) to pad the rest
+                space_bytes = encode_with_tbl(" ", TBL_FILE)
+                if not space_bytes:
+                    space_bytes = b'\x00'  # Fallback if table has no space char
+                # Pad remaining space up to the exact max_bytes limit
+                while len(out_bytes) < target_char_len:
+                    if (len(out_bytes) + len(space_bytes)) <= target_char_len:
+                        out_bytes.extend(space_bytes)
+                    else:
+                        # If a 2-byte space doesn't fit the final 1-byte gap, pad with 0x00
+                        out_bytes.append(0x00)
+
         # Write to ROM
         f_rom.seek(addr_int)
         f_rom.write(out_bytes)
