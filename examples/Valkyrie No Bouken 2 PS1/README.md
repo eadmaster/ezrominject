@@ -4,7 +4,7 @@
 
  - All dialogue text translated, 1st revision pass complete.
  - All menu gfx buttons are translated.
- - Cutscene subs are NOT translated.
+ - Opening cutscene subs translated, still missing the ending.
  - First testing playthrough complete.
 
 
@@ -26,4 +26,4 @@
 # Credits/Contributors/Special thanks
 
  - [eadmaster](https://github.com/eadmaster): translation, hacking, playtesting.
- - [Raccoon Sam](https://www.romhacking.net/forum/index.php?action=profile;u=1969): gfx compression reverse engineering, title screen gfx.
+ - [Raccoon Sam](https://github.com/vervalkon): [gfx compression reverse engineering](https://www.romhacking.net/forum/index.php?topic=41651.0), title screen gfx.

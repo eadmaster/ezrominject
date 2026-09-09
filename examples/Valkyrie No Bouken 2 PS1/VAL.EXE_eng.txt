@@ -319,13 +319,13 @@
 0x0010941c Checking
 
 ; 0x00109440 チェックしています。
-0x00109440 Memory Card.
+0x00109440 Memory Card...
 
 ; 0x00109464 メモリーカードを抜かないで下さい
-0x00109464 Don’t remove it.
+0x00109464 Do not remove it.
 
 ; 0x00109494 差込口１にメモリーカードが
-0x00109494 No memory card in slot 1.
+0x00109494 No Memory Card in slot 1.
 
 ; 0x001094b8 接続されていません。
 0x001094b8 ...
@@ -334,10 +334,10 @@
 0x001094dc Please insert it.
 
 ; 0x0010950c 差込口２にメモリーカードが
-0x0010950c No memory card in slot 2.
+0x0010950c No Memory Card in slot 2.
 
 ; 0x0010953c このメモリーカードは
-0x0010953c This memory card is
+0x0010953c This Memory Card is
 
 ; 0x00109560 初期化されていません。
 0x00109560 not formatted.
@@ -352,7 +352,7 @@
 0x001095d8 Do not remove the
 
 ; 0x001095fc 抜かないで下さい。
-0x001095fc Memory card.
+0x001095fc Memory Card.
 
 ; 0x0010962c 初期化に失敗しました。　もう１度
 0x0010962c Formatting failed. Try again.
@@ -373,7 +373,7 @@
 0x001096f8 Formatted.
 
 ; 0x00109728 このメモリーカードは
-0x00109728 This memory card
+0x00109728 This Memory Card
 
 ; 0x0010974c 壊れています。
 0x0010974c is damaged.
@@ -382,7 +382,7 @@
 0x0010977c Not enough free blocks.
 
 ; 0x001097a0 「ワルキューレの冒険」のデータを
-0x001097a0 Cannot save Valkyrie’s Adventure
+0x001097a0 Cannot save game
 
 ; 0x001097c4 保存できません。
 0x001097c4 data.
@@ -400,10 +400,10 @@
 0x00109884 Saving...
 
 ; 0x001098a8 メモリーカードを
-0x001098a8 Don’t pull out
+0x001098a8 Do not remove
 
 ; 0x001098cc 抜かないで下さい。
-0x001098cc the Memory card.
+0x001098cc Memory Card.
 
 ; 0x001098fc セーブが完了しました。
 0x001098fc Save completed.
@@ -412,7 +412,7 @@
 0x0010992c Save failed.
 
 ; 0x0010995c 使用するメモリーカードの
-0x0010995c Select the memory card
+0x0010995c Select the Memory Card
 
 ; 0x0010997c 差込口を選択して下さい。
 0x0010997c slot to use.
@@ -427,10 +427,10 @@
 0x00109c58 Load this file?
 
 ; 0x00109c88 ロード中です。
-0x00109c88 Loaded.
+0x00109c88 Loading...
 
 ; 0x00109cb8 ロードが完了しました。
-0x00109cb8 Loaded.
+0x00109cb8 Loading complete.
 
 ; 0x00109ce8 保存されているデータが
 0x00109ce8 There is no save

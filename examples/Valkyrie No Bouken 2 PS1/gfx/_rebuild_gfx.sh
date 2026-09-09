@@ -1,9 +1,20 @@
-# crystaltile VALTIT2_opening_part1.BIN.decomp
+
+
+# opening
+# crystaltile VALTIT2_opening_part*.BIN.decomp
 #   -> set: width=256, height=8, Tile form=GBA 4bpp
 
 python _recomp.py VALTIT2_opening_part1_eng.BIN.decomp VALTIT2_opening_part1_eng.BIN.recomp
 cp VALTIT2_opening_part1_eng.BIN.recomp VALTIT2_opening_part1_eng.BIN.recomp.padded
 truncate -s 10552 VALTIT2_opening_part1_eng.BIN.recomp.padded
+
+python _recomp.py VALTIT2_opening_part2_eng.BIN.decomp VALTIT2_opening_part2_eng.BIN.recomp
+cp VALTIT2_opening_part2_eng.BIN.recomp VALTIT2_opening_part2_eng.BIN.recomp.padded
+truncate -s 10330 VALTIT2_opening_part2_eng.BIN.recomp.padded
+
+python _recomp.py VALTIT2_opening_part3_eng.BIN.decomp VALTIT2_opening_part3_eng.BIN.recomp
+cp VALTIT2_opening_part3_eng.BIN.recomp VALTIT2_opening_part3_eng.BIN.recomp.padded
+truncate -s 5609 VALTIT2_opening_part3_eng.BIN.recomp.padded
 
 
 # titlescreen
