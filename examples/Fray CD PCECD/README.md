@@ -30,7 +30,13 @@
      + Download and extract the [wave files in this archive](https://archive.org/compress/in-magical-adventure-fray-cd-xak-gaiden-english-dub/formats=WAVE).
 
 
-# Credits/Contributors/Special thanks
+# Credits/Contributors/Special thanks 🤝
 
  - [eadmaster](https://github.com/eadmaster): translation, hacking, playtesting.
  - [Daniel-McLarty](https://github.com/Daniel-McLarty/): [original dubbing pipeline](https://github.com/eadmaster/Python-Autodub-indextts).
+
+
+# Extras 🎁
+
+ - [Jap manual scans](https://www.reddit.com/r/TurboGrafx/comments/1w9ycs6/fray_xak_cd_gaiden_manual_scan_all_pages/)
+ - [Cheats](https://gamehacking.org/game/84576)

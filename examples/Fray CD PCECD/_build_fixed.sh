@@ -1,7 +1,7 @@
 #!/bin/bash
 
 INPUT_ROM="In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 02).bin"
-OUTPUT_ROM="In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 02) (patched).iso"
+OUTPUT_ROM="In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 02) (patched)(nopad).iso"
 
 # strip ecc data
 ../../bchunk-bin2iso/bchunk-bin2iso -t 00:02:74 "$INPUT_ROM" "$OUTPUT_ROM"
@@ -61,5 +61,9 @@ sfk setbytes "$OUTPUT_ROM" 0x0015DE6A 0x00 -yes  # "Item" string termination (TO
 
 # convert back to MODE1/2352 for better compatibility with  https://github.com/sftwninja/iso2raw
 iso2raw "$OUTPUT_ROM"
+
+# adds back the pregap on track2
+dd if=/dev/zero of=/tmp/pregap.bin bs=2352 count=224
+cat /tmp/pregap.bin "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 02) (patched)(nopad).bin" > "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 02) (patched).bin"
 
 xdelta3 -S none -f -e -s "$INPUT_ROM" "In Magical Adventure - Fray CD - Xak Gaiden (Japan) (Track 02) (patched).bin"  "$INPUT_ROM.xdelta"
