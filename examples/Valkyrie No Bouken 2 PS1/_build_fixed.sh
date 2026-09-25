@@ -28,6 +28,13 @@ sfk partcopy gfx/OUTTIT2_023.bin.recomp.padded 0 0x488 VALTIT2.BIN 0x057D00 -yes
 sfk partcopy gfx/VALTIT2_opening_part1_eng.BIN.recomp.padded 0 10552 VALTIT2.BIN 0x4E044 -yes
 sfk partcopy gfx/VALTIT2_opening_part2_eng.BIN.recomp.padded 0 10330 VALTIT2.BIN 0x5097C -yes
 sfk partcopy gfx/VALTIT2_opening_part3_eng.BIN.recomp.padded 0 5609 VALTIT2.BIN 0x531D6 -yes
+cp "$EXTRACT_PATH/VAL/VALEND.BIN" .
+sfk partcopy gfx/VALEND_ending_part1_eng.BIN.recomp.padded 0 12559 VALEND.BIN 0x4CB04 -yes
+sfk partcopy gfx/VALEND_ending_part2_eng.BIN.recomp.padded 0 12573 VALEND.BIN 0x4FC18 -yes
+sfk partcopy gfx/VALEND_ending_part3_eng.BIN.recomp.padded 0 12788 VALEND.BIN 0x52D3A -yes
+sfk partcopy gfx/VALEND_ending_part4_eng.BIN.recomp.padded 0 12341 VALEND.BIN 0x55F2E -yes
+sfk partcopy gfx/VALEND_ending_part5_eng.BIN.recomp.padded 0 11032 VALEND.BIN 0x58F68 -yes
+sfk partcopy gfx/VALEND_ending_part6_eng.BIN.recomp.padded 0 3713 VALEND.BIN 0x5BA80 -yes
 
 # rebuild with https://github.com/Lameguy64/mkpsxiso
 mkpsxiso -y --cuefile /dev/null "Namco Anthology 2 (English).xml"

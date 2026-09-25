@@ -4,7 +4,7 @@
 
  - All dialogue text translated, 1st revision pass complete.
  - All menu gfx buttons are translated.
- - Opening cutscene subs translated, still missing the ending.
+ - All cutscene subs are translated.
  - First testing playthrough complete.
 
 
@@ -23,7 +23,14 @@
 6. Download and use the [cue sheet in this folder](https://raw.githubusercontent.com/eadmaster/ezrominject/refs/heads/main/examples/Valkyrie%20No%20Bouken%202%20PS1/Namco%20Anthology%202%20(English).cue) to play the game (Right-click->Save link as...).
 
 
-# Credits/Contributors/Special thanks
+# Credits/Contributors/Special thanks  🤝
 
  - [eadmaster](https://github.com/eadmaster): translation, hacking, playtesting.
  - [Raccoon Sam](https://github.com/vervalkon): [gfx compression reverse engineering](https://www.romhacking.net/forum/index.php?topic=41651.0), title screen gfx.
+
+
+# Extras  🎁
+
+ - [Jap manual scans](https://psinstructionmanual.com/namcoanthology2/)
+ - [Cheats](https://gamehacking.org/game/107528)
+ 
