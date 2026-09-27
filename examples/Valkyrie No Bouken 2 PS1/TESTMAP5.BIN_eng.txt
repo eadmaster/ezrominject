@@ -20,7 +20,7 @@
 0x0003d290 What? Are you after
 
 ; 0x0003d2b1 ここまで来たクチか？
-0x0003d2b1 the Tiara too?
+0x0003d2b1 the tiara too?
 
 ; 0x0003d2e0 残念だったな。
 0x0003d2e0 Too bad for you.

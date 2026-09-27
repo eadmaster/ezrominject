@@ -266,7 +266,7 @@
 0x000356de Marvel Land...
 
 ; 0x0003570c ・・ねえ・・ボクをつれていって
-0x0003570c ...Hey... Take me
+0x0003570c ...Hey... Would you take me
 
 ; 0x0003572d くれないかい？
 0x0003572d with you?
@@ -284,16 +284,17 @@
 0x000357cc <Learned Tornado Magic!>
 
 ; 0x0003584c 時の鍵が納められていた時計塔だ。
-0x0003584c The clock tower held the Key of Time.
+;0x0003584c The clock tower held the Key of Time.
+0x0003584c The Key of Time was in clock tower.
 
 ; 0x0003587c 私欲のために鍵を奪った
-0x0003587c A foolish man stole it
+0x0003587c A greedy man stole it
 
 ; 0x0003589d 愚かな男は、時の狭間を永遠に
-0x0003589d for greed, and now wanders
+0x0003589d and now wanders forever
 
 ; 0x000358be さまよっているという。
-0x000358be eternity in time's rift.
+0x000358be in the time's rift.
 
 ; 0x000358ec 男から鍵をとりあげたゾウナは
 0x000358ec Zouna took the key from him.

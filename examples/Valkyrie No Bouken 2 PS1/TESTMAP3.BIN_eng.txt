@@ -122,7 +122,9 @@
 0x00043ea1 you defeated Black Sandra too...
 
 ; 0x00043ed0 さすがは天界に遣わされし者。
-0x00043ed0 As expected of one sent by heaven,
+;0x00043ed0 As expected of one sent by heaven,
+;0x00043ed0 You truly are Heaven's chosen one
+0x00043ed0 You truly are from Heaven.
 
 ; 0x00043ef1 大したものだと誉めてやろう・・。
 0x00043ef1 I shall praise your feat...

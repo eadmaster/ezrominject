@@ -467,7 +467,7 @@
 0x0004f751 He once defeated a wicked
 
 ; 0x0004f772 やっつけた事もあるんだから！
-0x0004f772 Seazas in a single blow!
+0x0004f772 Sizath in a single blow!
 
 ; 0x0004f7b0 マーベルランド中にいた
 0x0004f7b0 Spirits from all over
@@ -1006,8 +1006,11 @@
 ; 0x000517fc ＜後は消えていて読めない。＞
 0x000517fc <The rest is unreadable.>
 
+
+;; Flower spirit meeting
+
 ; 0x00051848 ・・・お日様のにおい・・・。
-0x00051848 ...The smell like sunshine...
+0x00051848 ...It smells like sunshine...
 
 ; 0x00051869 あなたが助けてくれたの？
 0x00051869 Did you save me?

@@ -34,10 +34,15 @@ SRC_COLOR1="${SRC_COLOR1:-white}" # Source color to replace
 FG_COLOR2="${FG_COLOR2:-}"        # Replacement color 2 (e.g., "#00FF00" or "green")
 SRC_COLOR2="${SRC_COLOR2:-black}" # Source color to replace
 
-# valkyrie no bouken cutscenses
+# valkyrie no bouken ending cutscense
+#BG_COLOR="#210009"
+#SRC_COLOR1="#ffffff" ; FG_COLOR1="#f95cf0"  # white to pink
+#SRC_COLOR2="#000000" ; FG_COLOR2="#0300ff"  # black to blue
+# valkyrie no bouken opening cutscense
 BG_COLOR="#210009"
-SRC_COLOR1="#ffffff" ; FG_COLOR1="#f95cf0"  # white to pink
+SRC_COLOR1="#ffffff" ; FG_COLOR1="#ffffff"  # white to pink
 SRC_COLOR2="#000000" ; FG_COLOR2="#0300ff"  # black to blue
+
 
 TMP_FILES=()
 LINE_NO=1

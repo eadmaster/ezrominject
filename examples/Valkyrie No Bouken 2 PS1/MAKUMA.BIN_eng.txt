@@ -5,6 +5,7 @@
 0x0003971a traveled to the Afa Continent.
 
 ; 0x00039748 かんむり岬を出航してまもなく、
+;0x00039748 Shortly after leaving the Rank Peninsula,
 0x00039748 Shortly after leaving Crown Cape,
 
 ; 0x00039769 船はアファの南岸に近づきました。

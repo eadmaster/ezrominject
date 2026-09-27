@@ -134,7 +134,7 @@
 0x0003f841 for you...
 
 
-;; sabine meeting
+;; Kurino meeting
 
 ; 0x0003f970 クリノ！
 0x0003f970 Kurino!
@@ -206,7 +206,7 @@
 0x0003fcb0 Beyond here is Zouna's 
 
 ; 0x0003fcd1 なんびとたりとも
-0x0003fcd1 Sanctuary. None shall pass,
+0x0003fcd1 domain. None shall pass,
 
 ; 0x0003fcf2 通すわけにはいかぬ。
 0x0003fcf2 no matter what.
