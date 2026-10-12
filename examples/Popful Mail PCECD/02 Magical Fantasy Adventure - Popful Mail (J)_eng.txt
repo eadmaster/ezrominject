@@ -159,7 +159,7 @@
 ;shop menu2
 ; 0x0024d019 いらっしゃいませご用件は？　　　
 ; 0x0024d019 Welcome. How   can I help you today?
-0x0024d019 Welcome. How can I help?
+0x0024d019 Welcome. Can I help you?
 ; 0x0024d03a 　買う
 0x0024d03a Buy
 ; 0x0024d041 　　売る　
@@ -225,7 +225,7 @@
 ; 0x000dd13b 内蔵ラムに書き込むことが出来ません。
 0x000dd13b Cannot write to internal RAM.
 ; 0x000dd163 このファイルは実行出来ません。
-0x000dd163 Cannot execute this file.
+0x000dd163 Cannot load this file.
 ; 0x000dd185 ぽっぷるメイルのファイルでないとコピー出来ません。
 0x000dd185 Cannot copy a different save.
 ; 0x000dd1bb タイトルに戻ります。
@@ -595,7 +595,7 @@
 
 
 ; 0x0029d019 いらっしゃいませご用件は？　　　
-0x0029d019 Welcome. How can I help?
+0x0029d019 Welcome. Can I help you?
 
 ; 0x0029d03a 　買う
 0x0029d03a Buy
@@ -674,8 +674,8 @@
 ; 0x002b160c 赤マントの男
 0x002b160c Boy in red cloak
 
-; 0x002b1627 ﾞ･頼むよ。
-0x002b1627 Please.
+; 0x002b1629 頼むよ。
+0x002b1629 Please.
 
 ; 0x002b1632 僕を、町まで連れてってくれよ。もし、連れてってくれたら
 0x002b1632 Take me to town. If you do.
@@ -1610,7 +1610,7 @@
 
 
 ; 0x002ed019 いらっしゃいませご用件は？　　　
-0x002ed019 Welcome. How can I help?
+0x002ed019 Welcome. Can I help you?
 
 ; 0x002ed03a 　買う
 0x002ed03a Buy
@@ -2299,7 +2299,7 @@
 
 
 ; 0x0033d019 いらっしゃいませご用件は？　　　
-0x0033d019 Welcome. How can I help?
+0x0033d019 Welcome. Can I help you?
 
 ; 0x0033d03a 　買う
 0x0033d03a Buy
@@ -5980,7 +5980,7 @@
 
 
 ; 0x0063d019 いらっしゃいませご用件は？　　　
-0x0063d019 Welcome. How can I help?
+0x0063d019 Welcome. Can I help you?
 
 ; 0x0063d03a 　買う
 0x0063d03a Buy
@@ -6373,7 +6373,7 @@
 0x0065253b I heard that he really wants  some dwarven artifacts.
 
 ; 0x00652589 がんばって細工物を探してよ。
-0x00652589 Do your best to find something.
+0x00652589 Try to find the artifact.
 
 ; 0x006525a6 さてと女房の所へ帰るとするか。
 0x006525a6 Now I'll go back to my wife.
@@ -6424,10 +6424,10 @@
 0x0065272f I'm looking for work.
 
 ; 0x00652744 ドワーフの細工物は高く売れる
-0x00652744 Dwarven artifacts sell for a good price.
+0x00652744 Dwarven artifacts sell for a good 
 
 ; 0x00652761 からな。
-0x00652761 So.
+0x00652761 price.
 
 ; 0x0065276e そうですか。
 0x0065276e I see.
@@ -6648,7 +6648,7 @@
 0x00652ea9 What do you want?
 
 ; 0x00652ebd ヨソのヤツにやるガウ。
-0x00652ebd I'll give it to Yoso.
+0x00652ebd I'll give it to .
 
 ; 0x00652ed4 どうしても必要なんだガウ。
 0x00652ed4 I need it, gaw.
@@ -6690,7 +6690,7 @@
 0x00652fd5 Sorry, gaw.
 
 ; 0x00652fea 　　細工物をもらいました。
-0x00652fea Received handcrafted item.
+0x00652fea Received the artifact.
 
 ; 0x0065300a 気をつけてね。
 0x0065300a Take care.
@@ -6762,7 +6762,7 @@
 0x006531cc Gaw?
 
 ; 0x006531d4 昆ここは通れないんだよ。
-0x006531d4 I can't pass through here.
+0x006531d4 Cannot pass through here.
 
 ; 0x006531ed ホラ、あっち行け！！
 0x006531ed Come on, go away!
@@ -6771,7 +6771,7 @@
 0x0065320c Ugh, just get lost.
 
 ; 0x00653227 わからんのか！！
-0x00653227 Don't you get it?!
+0x00653227 Get it?!
 
 ; 0x00653238 頼むからあっち行ってくれよ！
 0x00653238 Please go away!
@@ -7857,7 +7857,7 @@
 
 
 ; 0x0068d019 いらっしゃいませご用件は？　　　
-0x0068d019 Welcome. How can I help?
+0x0068d019 Welcome. Can I help you?
 
 ; 0x0068d03a 　買う
 0x0068d03a Buy
@@ -9513,7 +9513,7 @@
 
 
 ; 0x006dd019 いらっしゃいませご用件は？　　　
-0x006dd019 Welcome. How can I help?
+0x006dd019 Welcome. Can I help you?
 
 ; 0x006dd03a 　買う
 0x006dd03a Buy
@@ -9591,7 +9591,7 @@
 0x006dd212 Take care...
 
 ; 0x00739019 いらっしゃいませご用件は？　　　
-0x00739019 Welcome. How can I help?
+0x00739019 Welcome. Can I help you?
 
 ; 0x0073903a 　買う
 0x0073903a Buy
@@ -10418,7 +10418,7 @@
 0x00861e5b But I wonder if I'll be able to defeat it.
 
 ; 0x00861e7a 幻影の腕輪を手にいれた。
-0x00861e7a I got an illusion bracelet.
+0x00861e7a I got an Illusion bracelet.
 
 ; 0x00883db9 メイル
 0x00883db9 Mail
@@ -11740,7 +11740,7 @@
 
 
 ; 0x009ad019 回復の貝殻は　　いりませんか？　
-0x009ad019 Do you need a recovery shell?
+0x009ad019 Do you need a Recovery Shell?
 
 ; 0x009ad03a 　はい
 0x009ad03a Yes
@@ -12353,7 +12353,7 @@
 
 
 ; 0x009fd019 回復の貝殻は　　いりませんか？　
-0x009fd019 Do you need a recovery shell?
+0x009fd019 Do you need a Recovery Shell?
 
 ; 0x009fd03a 　はい
 0x009fd03a Yes
@@ -12754,7 +12754,7 @@
 
 
 ; 0x00a4d019 回復の貝殻は　　いりませんか？　
-0x00a4d019 Do you need a recovery shell?
+0x00a4d019 Do you need a Recovery Shell?
 
 ; 0x00a4d03a 　はい
 0x00a4d03a Yes
@@ -18497,7 +18497,7 @@
 
 
 ; 0x00e6d019 いらっしゃいませご用件は？　　　
-0x00e6d019 Welcome. How can I help?
+0x00e6d019 Welcome. Can I help you?
 
 ; 0x00e6d03a 　買う
 0x00e6d03a Buy
@@ -18756,7 +18756,7 @@
 
 
 ; 0x00ebd019 いらっしゃいませご用件は？　　　
-0x00ebd019 Welcome. How can I help?
+0x00ebd019 Welcome. Can I help you?
 
 ; 0x00ebd03a 　買う
 0x00ebd03a Buy
@@ -19009,7 +19009,7 @@
 
 
 ; 0x00f0d019 いらっしゃいませご用件は？　　　
-0x00f0d019 Welcome. How can I help?
+0x00f0d019 Welcome. Can I help you?
 
 ; 0x00f0d03a 　買う
 0x00f0d03a Buy
@@ -19502,7 +19502,7 @@
 
 
 ; 0x00f5d019 いらっしゃいませご用件は？　　　
-0x00f5d019 Welcome. How can I help?
+0x00f5d019 Welcome. Can I help you?
 
 ; 0x00f5d03a 　買う
 0x00f5d03a Buy
@@ -19992,7 +19992,7 @@
 
 
 ; 0x00fad019 いらっしゃいませご用件は？　　　
-0x00fad019 Welcome. How can I help?
+0x00fad019 Welcome. Can I help you?
 
 ; 0x00fad03a 　買う
 0x00fad03a Buy
@@ -20323,7 +20323,7 @@
 
 
 ; 0x0101d019 いらっしゃいませご用件は？　　　
-0x0101d019 Welcome. How can I help?
+0x0101d019 Welcome. Can I help you?
 
 ; 0x0101d03a 　買う
 0x0101d03a Buy
@@ -20479,7 +20479,7 @@
 0x01031352 But I'm more concerned about myself than others. I have to go for the treasure!
 
 ; 0x01069019 いらっしゃいませご用件は？　　　
-0x01069019 Welcome. How can I help?
+0x01069019 Welcome. Can I help you?
 
 ; 0x0106903a 　買う
 0x0106903a Buy
