@@ -6,6 +6,10 @@
  - Most menus are translated, only a few gfx still left.
  - **Only partially tested, there may be crashes!**
 
+> [!NOTE]
+> Many lines were shortened to fit the available space.
+> A new hack providing more space is in the works.
+
 
 ## Preview  👀
 

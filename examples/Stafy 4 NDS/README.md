@@ -6,6 +6,11 @@
  - Only some gfx text/buttons are translated.
  - **Only partially tested, there may be crashes!**
 
+> [!NOTE]
+> Many lines were shortened to fit the available space.
+> A new hack providing more space is in the works.
+
+
 ## Preview  👀
 
 ![shot](demo1.png)  ![shot](demo2.png)  ![shot](demo3.png)   ![shot](demo4.png)
